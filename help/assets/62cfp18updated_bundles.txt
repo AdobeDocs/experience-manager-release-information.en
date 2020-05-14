@@ -1,0 +1,12 @@
+SYMBOLIC NAME                          BUNDLE NAME                                        VERSION
+com.day.cq.cq-personalization          AEM Personalization                                5.9.320
+com.day.cq.wcm.cq-wcm-foundation       Adobe CQ WCM Foundation Components                 5.9.130
+com.adobe.granite.crx-packagemgr       Adobe Granite CRX Package Manager                  1.0.86.CQ620-B0015
+com.day.cq.cq-replication              Adobe Granite Replication                          6.0.14.CQ620-B0024
+org.apache.felix.webconsole            Apache Felix Web Management Console                4.3.8
+com.adobe.cq.cq-product-info-provider  CQ ProductInfo Provider                            6.2.36
+com.day.cq.dam.cq-dam-api              Day Communique 5 DAM API                           5.9.56
+com.day.cq.dam.cq-dam-handler          Day Communique 5 DAM Asset Handler Implementation  5.9.44
+com.day.cq.dam.cq-dam-core             Day Communique 5 DAM Core Implementation           5.9.234
+com.day.cq.cq-replication-audit        Day Communique 5 Replication - Auditing            5.9.12
+com.day.cq.wcm.cq-wcm-taglib           Day Communique 5 WCM Tag Lib                       5.9.18

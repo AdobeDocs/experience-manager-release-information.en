@@ -1,0 +1,20 @@
+SYMBOLIC NAME                            BUNDLE NAME                                      VERSION
+com.day.cq.wcm.cq-wcm-translation        Adobe CQ Translation Workflow                    1.1.124
+com.adobe.granite.asset.core             Adobe Granite Asset API Implementation           2.2.22.CQ610-B15
+com.adobe.granite.crx-packagemgr         Adobe Granite CRX Package Manager                1.0.62.CQ610-B0015
+com.adobe.granite.contexthub.commons     Adobe Granite ContextHub Commons                 0.1.13.CQ610-B006
+com.adobe.granite.monitoring.core        Adobe Granite Monitoring Support                 0.4.6
+pdfcore                                  Adobe PDF Core                                   3.0.585412
+pdfencryption                            Adobe PDF Encryption                             3.0.585412
+PDFServices.extraction                   Adobe PDF Extraction services                    3.0.585412
+PDFServices.manipulations                Adobe PDF Manipulation services                  3.0.585412
+com.adobe.cq.cq-product-info-provider    CQ ProductInfo Provider                          6.1.16
+com.adobe.cq.com.adobe.cq.projects.core  CQ Projects - Core Bundle                        0.1.86
+com.day.cq.cq-analytics                  Day Communique 5 Analytics                       5.8.236
+com.day.cq.cq-content-sync               Day Communique 5 Content Sync                    5.8.28
+com.day.cq.dam.cq-dam-commons            Day Communique 5 DAM Commons                     5.8.144
+com.day.cq.dam.cq-dam-core               Day Communique 5 DAM Core Implementation         5.8.288
+com.day.cq.cq-reporting                  Day Communique 5 Reporting                       5.8.22
+com.day.cq.wcm.cq-wcm-core               Day Communique 5 WCM Core Implementation         5.8.296
+com.day.cq.wcm.cq-wcm-mobile-core        Day Communique 5 WCM Mobile Core                 5.8.6
+com.day.cq.wcm.cq-msm-core               Day Communique 5 WCM Multi Site Management Core  5.8.82

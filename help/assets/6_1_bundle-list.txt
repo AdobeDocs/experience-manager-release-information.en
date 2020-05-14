@@ -1,0 +1,10 @@
+SYMBOLIC NAME                          BUNDLE NAME                                      VERSION
+com.day.cq.cq-replication              Adobe Granite Replication                        5.17.18.CQ610-B024
+org.apache.httpcomponents.httpclient   Apache Apache HttpClient OSGi bundle             4.5.4
+org.apache.httpcomponents.httpcore     Apache Apache HttpCore OSGi bundle               4.4.8
+org.apache.sling.auth.core             Apache Sling Authentication Service              1.3.26.B004
+org.apache.sling.scripting.jsp         Apache Sling Scripting JSP Support               2.1.6.B001
+org.apache.sling.scripting.sightly     Apache Sling Scripting Sightly Engine            1.0.18.B003
+com.adobe.cq.cq-product-info-provider  CQ ProductInfo Provider                          6.1.22
+com.day.cq.mcm.cq-mcm-salesforce       Day Communique 5 MCM Salesforce.com Integration  1.2.10
+com.day.cq.cq-tagging                  Day Communique 5 Tagging                         5.8.26

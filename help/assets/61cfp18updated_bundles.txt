@@ -1,0 +1,4 @@
+SYMBOLIC NAME                          BUNDLE NAME                          VERSION
+org.apache.felix.webconsole            Apache Felix Web Management Console  4.3.8
+com.adobe.cq.cq-product-info-provider  CQ ProductInfo Provider              6.1.28
+com.day.cq.wcm.cq-wcm-taglib           Day Communique 5 WCM Tag Lib         5.8.4

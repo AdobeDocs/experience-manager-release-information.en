@@ -1,0 +1,8 @@
+SYMBOLIC NAME                    BUNDLE NAME                                           VERSION
+com.adobe.cq.cq-content-insight  Adobe CQ Content Insight and Recommendations          1.1.16
+com.adobe.granite.ui.clientlibs  Adobe Granite UI Clientlibs                           1.0.14.CQ610-B0008
+day-commons-gfx                  Day Commons Library - Graphics Support Library (gfx)  2.1.36.CQ610-B0003
+com.day.cq.cq-commons            Day Communique 5 Commons Library                      5.8.50
+com.day.cq.dam.cq-dam-scene7     Day Communique 5 DAM Scene7 Integration               5.8.80
+com.day.cq.wcm.cq-msm-core       Day Communique 5 WCM Multi Site Management Core       5.8.86
+com.day.cq.dam.cq-dam-s7dam      Day Communique 5.6 DAM s7 Dam Integration             5.8.102

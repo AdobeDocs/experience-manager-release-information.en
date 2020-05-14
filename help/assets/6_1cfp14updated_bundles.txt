@@ -1,0 +1,14 @@
+SYMBOLIC NAME                                       BUNDLE NAME                                                  VERSION
+com.day.commons.osgi.wrapper.commons-email          commons-email bundle                                         
+org.apache.commons.email                            Apache Commons Email                                         1.5.0
+org.apache.sling.scripting.sightly.models.provider  Apache Sling Scripting Sightly Models Use Provider           1.0.0
+com.adobe.granite.auth.saml                         Adobe Granite - SAML 2.0 Authentication Handler              0.3.32.CQ610-B0014
+com.adobe.granite.crx-packagemgr                    Adobe Granite CRX Package Manager                            1.0.62.CQ610-B0018
+com.day.cq.cq-xssprotection                         Adobe Granite XSS Protection                                 5.5.72.CQ610-B0002
+org.apache.sling.scripting.core                     Apache Sling Scripting Core implementation                   2.0.34
+org.apache.sling.scripting.api                      Apache Sling Scripting Implementation API                    2.1.8
+org.apache.sling.scripting.javascript               Apache Sling Scripting JavaScript Support                    2.0.28
+org.apache.sling.scripting.sightly                  Apache Sling Scripting Sightly Engine (Adobe Vendor Branch)  1.0.18.B001
+org.apache.sling.scripting.sightly.js.provider      Apache Sling Scripting Sightly JavaScript Use Provider       1.0.10.B001
+com.adobe.cq.cq-product-info-provider               CQ ProductInfo Provider                                      6.1.18
+com.day.cq.wcm.cq-wcm-core                          Day Communique 5 WCM Core Implementation                     5.8.298
