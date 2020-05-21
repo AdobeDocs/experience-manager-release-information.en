@@ -1,14 +1,9 @@
 ---
 title: "AEM Documentation: Recent Documentation Updates"
-seo-title: Learn more about the most recent Adobe Experience Manager (AEM) documentation updates.
 description: AEM Documentation, what’s new | Adobe Experience Manager
-seo-description: AEM Documentation, what’s new | Adobe Experience Manager
 uuid: 464b4c71-0774-478e-9dc3-a45a24066629
 contentOwner: trushton
 discoiquuid: 066f2ef1-d1f4-4bd7-9ea9-328d5ecfd55a
-index: y
-internal: n
-snippet: y
 ---
 
 # AEM Documentation: Recent Documentation Updates{#aem-documentation-recent-documentation-updates}
@@ -19,7 +14,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 ## AEM as a Cloud Service {#aem-as-a-cloud-service}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -75,7 +70,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 ## AEM 6.5 {#aem}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -321,7 +316,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 ## AEM 6.4 {#aem-1}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -331,7 +326,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Apr 13, 2020</td> 
    <td>Asset processing</td> 
-   <td>A new overview is added about how workflows are used for processing assets. Also, a new topic describes how to <a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/using/assets-workflow.html" target="_blank">auto-trigger workflow to process assets</a>.<br /> </td> 
+   <td>A new overview is added about how workflows are used for processing assets. Also, a new topic describes how to <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/using/assets-workflow.html" target="_blank">auto-trigger workflow to process assets</a>.<br /> </td> 
   </tr>
   <tr>
    <td>Mar 30 2020</td> 
@@ -440,7 +435,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 ## AEM 6.3 {#aem-2}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -521,7 +516,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 ## AEM Assets Brand Portal {#aem-assets-brand-portal}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 

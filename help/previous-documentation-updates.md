@@ -1,14 +1,9 @@
 ---
 title: Previous Documentation Updates
-seo-title: Previous Documentation Updates
 description: null
-seo-description: null
 uuid: 17e17868-76c5-4b17-b6f6-763e2dded160
 contentOwner: alvawb
 discoiquuid: 390f00ac-f8f6-4c06-b8c0-8258dd27b657
-index: y
-internal: n
-snippet: y
 ---
 
 # Previous Documentation Updates{#previous-documentation-updates}
@@ -17,7 +12,7 @@ This page lists older important documentation changes and updates for Adobe Expe
 
 ## AEM 6.4 {#aem}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -287,7 +282,7 @@ The following versions were moved:
 
 ## General Updates {#general-updates}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -304,7 +299,7 @@ The following versions were moved:
 
 ## AEM 6.3 {#aem-1}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -607,7 +602,7 @@ The following versions were moved:
 
 ## AEM 6.2 {#aem-2}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td width="15%">Date</td> 
@@ -933,7 +928,7 @@ The following versions were moved:
 
 ## AEM 6.1 {#aem-3}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td width="15%">Date</td> 
@@ -1025,7 +1020,7 @@ The following versions were moved:
 
 ## AEM Assets {#aem-assets}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td width="15%">Date</td> 
@@ -1159,7 +1154,7 @@ The following versions were moved:
 
 ## Livefyre {#livefyre}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td width="15%">Date</td> 
@@ -1261,7 +1256,7 @@ The following versions were moved:
 
 ## AEM Assets Brand Portal {#aem-assets-brand-portal}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -1331,7 +1326,7 @@ The following versions were moved:
 
 ## AEM Desktop App {#aem-desktop-app}
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody>
   <tr>
    <td>Date</td> 
@@ -1359,4 +1354,3 @@ The following versions were moved:
   </tr>
  </tbody>
 </table>
-

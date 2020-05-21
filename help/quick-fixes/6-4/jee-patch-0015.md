@@ -1,14 +1,9 @@
 ---
 title: AEM Forms JEE Patch Installer 0015
-seo-title: AEM Forms JEE Patch Installer 0015
 description: null
-seo-description: null
 uuid: e709871b-c04c-43bb-a7d0-45e89fbd3d44
 content-type: reference
 discoiquuid: 83bace08-1d4f-4192-a634-c7c4879963d8
-index: y
-internal: n
-snippet: y
 ---
 
 # AEM Forms JEE Patch Installer 0015{#aem-forms-jee-patch-installer}

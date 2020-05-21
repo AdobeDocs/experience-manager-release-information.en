@@ -1,13 +1,8 @@
 ---
 title: "Release Notes: AEM 6.3 Cumulative Fix Pack"
-seo-title: "Release Notes: AEM 6.3 Cumulative Fix Pack"
 description: null
-seo-description: null
 uuid: 5a67febf-23cd-4348-92b9-553b4046d44b
 discoiquuid: 42f5aab7-ffd4-43f8-8adf-5a958466eae4
-index: y
-internal: n
-snippet: y
 ---
 
 # Release Notes: AEM 6.3 Cumulative Fix Pack{#release-notes-aem-cumulative-fix-pack}
@@ -1974,7 +1969,7 @@ To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](
 
 This section lists features and capabilities that have been removed or deprecated from AEM 6.3.
 
-<table border="1" cellpadding="1" cellspacing="0"> 
+<table> 
  <tbody> 
   <tr> 
    <th scope="col">Area</th> 

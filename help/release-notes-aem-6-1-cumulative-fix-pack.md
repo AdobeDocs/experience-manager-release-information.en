@@ -1,14 +1,9 @@
 ---
 title: "Release Notes: AEM 6.1 Cumulative Fix Pack "
-seo-title: "Release Notes: AEM 6.1 Cumulative Fix Pack "
 description: null
-seo-description: null
 uuid: bf3719fa-b95a-454c-8d11-e2e63f124bbf
 contentOwner: cmajumda
 discoiquuid: 19548880-efa6-46ff-846e-ee2558f0e243
-index: y
-internal: n
-snippet: y
 ---
 
 # Release Notes: AEM 6.1 Cumulative Fix Pack {#release-notes-aem-cumulative-fix-pack}
