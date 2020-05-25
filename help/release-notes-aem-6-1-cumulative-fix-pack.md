@@ -3,9 +3,9 @@ title: "Release Notes: AEM 6.1 Cumulative Fix Pack "
 seo-title: "Release Notes: AEM 6.1 Cumulative Fix Pack "
 description: null
 seo-description: null
-uuid: bf3719fa-b95a-454c-8d11-e2e63f124bbf
+uuid: 7bee5414-01fc-486f-a6e2-0d3dd9c4a4d1
 contentOwner: cmajumda
-discoiquuid: 19548880-efa6-46ff-846e-ee2558f0e243
+discoiquuid: 8d5a5d18-094b-486b-a921-474617f1a7b6
 index: y
 internal: n
 snippet: y
@@ -79,221 +79,236 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 ## Hotfixes and Feature Packs included in previous Cumulative Fix Packs {#previous}
 
-<details> <summary>Cumulative Fix Pack 17</summary> 
- <p>AEM Cumulative Fix Pack 6.1 SP2-CFP17 is an important update that includes key customer fixes released since the general availability of <a href="https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html" target="_blank">AEM 6.1 SP2</a> in August 2016. </p> 
- <p>Here are the key highlights of AEM 6.1 SP2-CFP17:</p> 
- <ul> 
-  <li>Removed S7 polling importer from S7 cloud service configuration.</li> 
-  <li>Fixed adding of inline-styles to the hyperlink</li> 
-  <li>Fixed the scaling down when initial height is a multiple of the new height and vice-versa for scaling up.</li> 
- </ul> 
- <h4>Assets</h4> 
- <ul> 
-  <li>[Firefox/Chrome] Unable to download assets in Asset Share page. NPR-25636: Hotfix for CQ-4244391</li> 
-  <li>Remove S7 polling importer from S7 cloud service configuration. NPR-25239: Hotfix for CQ-95236</li> 
-  <li>Publishing video generates DynamicMediaPreprocessor error. NPR-24981: Hotfix for CQ-4247072</li> 
- </ul> 
- <h4>Sites</h4> 
- <ul> 
-  <li>"Live copy suspended" option of live-copy site is unchecked when field is modified in source site. NPR-25696: Hotfix for CQ-4250680</li> 
-  <li>WCM Foundation component 'Table' is vulnerable to Stored Cross Site Scripting. NPR-25185: Hotfix for CQ-4240760</li> 
-  <li>[Touch UI] NPE in datasource provider when trying to edit the embedded component dialog. NPR-25914: Hotfix for CQ-4250845</li> 
-  <li>Adaptive Image rescaling produces artifacts at the bottom of the image. NPR-26269: Hotfix for CQ-44156</li> 
-  <li>Rich Text Editor adds inline css "background-color" to links when using backspace/delete. NPR-26251: Hotfix for CQ-4251200</li> 
- </ul> 
- <h4>UI - Foundation</h4> 
- <ul> 
-  <li>Upgrade to momentjs 2.18.1 to fix vulnerabilities in client library. NPR-25110: Hotfix for Granite - 21885</li> 
- </ul> 
- <h3>Forms</h3> 
- <h4>Forms add-on package</h4> 
- <h4>Adaptive forms</h4> 
- <ul> 
-  <li>Unable to render XFA-based forms. NPR-25010: Hotfix for CQ-4248345</li> 
- </ul> 
- <h4>Forms - XMLFM</h4> 
- <ul> 
-  <li>Using AEM forms 6.2 Output Service to merge a specific form with a data XML takes 20 times more time as compared to the time taken by LiveCycle ES4 SP1 server for the same operation. It is fixed on Windows and Linux environments. NPR-24137: Hotfix for CQ-108190</li> 
- </ul> 
- <h4>Document Services</h4> 
- <ul> 
-  <li>AssemblerService to PDFA produces pdf/a violating pdfs when multithreading. NPR-26329: Hotfix for CQ-4248656</li> 
-  <li>The PDF/A returned by Acrobat DC is non-compliant. NPR-26270: Hotfix for CQ-4248823</li> 
- </ul> 
- <h4>Forms - JEE Installer</h4> 
- <h4>Forms - Foundation JEE</h4> 
- <ul> 
-  <li>The .sh files in LCM have been submitted with windows line endings causing the LCM not to run on unix platforms. NPR-22957</li> 
-  <li>[SOAP interface] Unable to open workspace after applying axis.jar 1.4 file. NPR-24529: Hotfix for CQ-4241833</li> 
- </ul> 
- <ul> 
-  <li>Changing the Form Locale to French (Canada) in the Dictionary Spell Check does not work in AEM Forms Designer. NPR-20765</li> 
- </ul> 
- <h3>OSGI bundles and content packages included</h3> 
- <div> 
-  <p>List of OSGi bundles included in AEM 6.1 SP2-CFP17</p> 
-  <p><a alt="61CFP17updated_Bundles.txt" href="assets/61cfp17updated_bundles.txt" status="changing">Get File</a></p> 
-  <p>List of Content Packages included in AEM 6.1SP2-CFP17</p> 
-  <p><a alt="content_packages61sp2-cfp17.txt" href="assets/content_packages61sp2-cfp17.txt" status="changing">Get File</a></p> 
- </div> 
-</details>
+### Cumulative Fix Pack 17 {#cumulative-fix-pack-1}
 
-<details> <summary>Cumulative Fix Pack 16</summary> 
- <p>AEM Cumulative Fix Pack 6.1 SP2-CFP16 is an important update that includes key customer fixes released since the general availability of <a href="https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html" target="_blank">AEM 6.1 SP2</a> in August 2016. It includes version 1.2.18 of the built-in repository (Apache Jackrabbit Oak).</p> 
- <p>Here are the key highlights of AEM 6.1 SP2-CFP16:</p> 
- <ul> 
-  <li>Fixed replication permission check for deleted nodes</li> 
-  <li>Fixes in the Apache Sling Scripting HTL Sling Models Use Provider bundle.</li> 
-  <li>Update to com.adobe.granite.sling/org.apache.sling.scripting.jsp/2.1.6-B001.</li> 
-  <li>Updated version of cq-platform-content.</li> 
- </ul> 
- <h4>Sites</h4> 
- <ul> 
-  <li>Java Use object with underscores and trailing whitespace in the package declaration freezes the SightlyJavaCompilerService. NPR-22557: Hotfix for Granite-20836</li> 
-  <li>Display context option cannot be overridden in data-sly-text HTL block elements. NPR-22625</li> 
- </ul> 
- <h4>Platform</h4> 
- <ul> 
-  <li>[Classic UI] Slow performance in tag console due to numerous queries. NPR-23349: Hotfix for CQ-4201748</li> 
-  <li>Patch jQuery 1.12.4 from clientlib to include security fix. NPR-24130: Hotfix for Granite-20058</li> 
-  <li>Apache Sling Scripting Sightly Models use Provider bundle org.apache.sling.scripting.sightly.models.provider/1.0.18. NPR-22614: Hotfix for Sling-5944, Sling-6866</li> 
-  <li>Replication of delete event doesn't check for rights. NPR-23382: Hotfix for CQ-4241234</li> 
-  <li>Publisher having error when flushing cache due to malformed URI. NPR-23551: Hotfix for CQ-4242790</li> 
-  <li>StackOverflowError when configuring the ootb dispatcher flush agent to update aliases. NPR-23635: Hotfix for CQ-4242928</li> 
-  <li>High CPU utilization is observed multiple times due to infinite loops. NPR-24414: Hotfix for NPR-21177</li> 
- </ul> 
- <h4>Granite</h4> 
- <ul> 
-  <li>AEM instance crashes due to high heap utilization of Apache Http Client. NPR-22866: Hotfix for Granite-21056</li> 
- </ul> 
- <h4>Integration</h4> 
- <ul> 
-  <li>Target engine (mbox.js, at.js) does not use mangled URLs and uses URLs containing colons which might fail with certain deployments. NPR-22366: Hotfix for CQ-4237854 </li> 
-  <li>Create activity Path variable not properly encoded leading to reflected cross-site scripting (XSS). NPR-22851</li> 
- </ul> 
- <h4>Vulnerability</h4> 
- <ul> 
-  <li>Salesforce integration is vulnerable to Server Side Request Forgery (SSRF). NPR-24289: Hotfix for CQ-4245277</li> 
-  <li>Cross-site scripting (XSS) in Admin UI Project links. NPR-23272: Hotfix for CQ-4241795</li> 
- </ul> 
- <h4>Campaign</h4> 
- <ul> 
-  <li>When trying to preview or publish a page, a string is displayed on teaser targeted component. NPR-23469: Hotfix for CQ-4242635</li> 
- </ul> 
- <h4>User Interface</h4> 
- <ul> 
-  <li>[Classic UI] Performance issues with selectionchanged listener in case of multiple dropdowns. NPR-22724: Hotfix for CQ-4237215</li> 
- </ul> 
- <h4>WCM - Foundation Components</h4> 
- <ul> 
-  <li>CAPTCHA Component has been deprecated for better security, if you are using CAPTCHA component, then message "Captcha component is deprecated and should no longer be used." will be displayed after installing 6.1SP2-CFP16 or later releases. AEM component can be customized to include reCAPTCHA for better security NPR-22151: Hotfix for CQ-4220052</li> 
- </ul> 
- <h2>Forms</h2> 
- <h3>Forms add-on package</h3> 
- <h4>Forms-XTG</h4> 
- <ul> 
-  <li>Output performance issues compared to ES4 SP1. NPR-24137, NPR-23987: Hotfix for CQ-108190</li> 
- </ul> 
- <h4>Output Service</h4> 
- <ul> 
-  <li>OutOfMemory due to “com/adobe/internal/pdftoolkit/services/xmp/XMPMetaFactoryMonitor”. NPR-24564: Hotfix for CQ-4244379</li> 
- </ul> 
- <h4>Assembler Service</h4> 
- <ul> 
-  <li>Discrepancy between Acrobat DC and AEM reports about PDF/A-1b compliance check error. NPR-24283: Hotfix for CQ-4227539</li> 
-  <li>Flattening a PDF with XFA version 3.0 does not retain the PDF form state. NPR-23131: Hotfix for CQ-4239155</li> 
- </ul> 
- <h3>OSGI bundles and content packages included</h3> 
- <div> 
-  <p>List of OSGi bundles included in AEM 6.1 SP2-CFP16</p> 
-  <p><a alt="6.1_bundle-list.txt" href="assets/6_1_bundle-list.txt" status="changing">Get File</a></p> 
-  <p>List of Content Packages included in AEM 6.1SP2-CFP16</p> 
-  <p><a alt="6.1_content-package-list.txt" href="assets/6_1_content-package-list.txt" status="changing">Get File</a></p> 
- </div> 
-</details>
+AEM Cumulative Fix Pack 6.1 SP2-CFP17 is an important update that includes key customer fixes released since the general availability of [AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html) in August 2016.
 
-<details> <summary>Cumulative Fix Pack 15</summary> 
- <p>AEM Cumulative Fix Pack 6.1 SP2-CFP15 is an important update that includes key customer fixes released since the general availability of <a href="https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html">AEM 6.1 SP2</a> in August 2016. It includes version 1.2.18 of the built-in repository (Apache Jackrabbit Oak).</p> 
- <p>Here are the key highlights of AEM 6.1 SP2-CFP15:</p> 
- <ul> 
-  <li>Improved video encoding abilities for Dynamic Media files.</li> 
-  <li>Added delete collection modal on search result page.</li> 
-  <li>Fixed errors in the product page template missing product component.</li> 
-  <li>Updated cq-msm-core for efficient Livecopyindex synchronisation.</li> 
-  <li>OSGI configuration updates in serviceUser.target service.</li> 
- </ul> 
- <h3>Assets</h3> 
- <ul> 
-  <li>Dynamic Viewer fails to create certain size video renditions. NPR-22460: Hotfix for CQ-4237143</li> 
-  <li>Unable to delete the collections from the search results page. NPR-21055: Hotfix for CQ-4220922</li> 
-  <li>AOD-AEM asset synchronization stops working. NPR-22149: Hotfix for CQ-4207118</li> 
-  <li>Creation/Deletion of the asset doesn’t delete the create audit of the previous asset. NPR-21557: Hotfix for CQ-4231831</li> 
-  <li>Text extraction gets stuck for a corrupt PDF making AEM instance sluggish. NPR-21527: Hotfix for CTG-4150375</li> 
-  <li>[Classic UI] Damadmin stops loading when rep:policy (access control privileges) are applied under wcm/core/content/damadmin/tabs/searchpanel. NPR-21525: Hotfix for CQ-4229590</li> 
-  <li>AEM instance crashes while extracting image from doc file. NPR-21521: Hotfix for CQ-4231143</li> 
-  <li>[DAM] Multiple cross-site scripting (XSS) in DAM metadata editor. NPR-21434: Hotfix for CQ-83472</li> 
-  <li>[DM] [Classic UI] Multiple cross-site scripting (XSS) vulnerabilities in some SWF files in AEM CQ Author/Publish quickstart. NPR-21379, NPR-21073: Hotfix for NPR-20612</li> 
-  <li>Hash code collision causes wrong size of displayed image. NPR-21674: Hotfix for CQ-4223363</li> 
- </ul> 
- <h3>Sites</h3> 
- <ul> 
-  <li>Version Manager retrieves different results with and without recursive flag on/off. Version Purge can attempt to load version history on a non-versionable node causing exception. NPR-21662: Hotfix for CQ-4229696 &amp; CQ-4211271</li> 
- </ul> 
- <h3>Commerce</h3> 
- <ul> 
-  <li>Rollout of catalog fails if no product component is associated to the product page. NPR-22017: Hotfix for CQ-4232276</li> 
- </ul> 
- <h3>MSM</h3> 
- <ul> 
-  <li>LiveCopyIndex synchronization leads to congestion of threads during long index updates. NPR-21734: Hotfix for CQ-90667</li> 
- </ul> 
- <h3>Foundation</h3> 
- <ul> 
-  <li>HTL: Uri manipulator breaks query parameter encoding. NPR-22372: Hotfix for SLING-6761</li> 
-  <li>Unable to sync groups between two publish instances. NPR-21943: Hotfix for Granite-19564</li> 
- </ul> 
- <h3>Dynamic Video</h3> 
- <ul> 
-  <li>High CPU utilization is observed frequently due to Scene7 content search requests. NPR-22140: Hotfix for CQ-4235872</li> 
- </ul> 
- <h3>Vulnerability</h3> 
- <ul> 
-  <li>Cross-site scripting (XSS) in DAM metadata editor. NPR-21434: Hotfix for CQ-83472</li> 
-  <li>Multiple SWF files vulnerable to Cross-site scripting (XSS). NPR-20612: Hotfix for CQ-4213297</li> 
- </ul> 
- <h2>Forms</h2> 
- <h3>Forms add-on package</h3> 
- <h4>HTML5 Forms</h4> 
- <ul> 
-  <li>Cannot use 'in' operator to search for '0' in 0,00" error using Belgium Locale on decimal field. NPR-22225: Hotfix for NPR-21510</li> 
- </ul> 
- <h4>Reader Extensions Service</h4> 
- <ul> 
-  <li>Update jsafe jars to cryptoj 6.1.3.1 in Reader Extensions. NPR-21349</li> 
- </ul> 
- <h3>Forms JEE installer</h3> 
- <h4>Core</h4> 
- <ul> 
-  <li>Update jsafe jars to cryptoj 6.1.3.1 in Core, Signature, Encryption &amp; Document Security. NPR-21353, NPR-21350, NPR-21348, NPR-21352</li> 
-  <li>Upgrading to the latest Java 8 Update 131 throws an exception: "JsafeJCE provider is disabled, a FIPS 140 required self-integrity check failed". NPR-21347: Hotfix for CQ-4208922</li> 
- </ul> 
- <h4>Install LCM</h4> 
- <ul> 
-  <li>Update Jsafe Jars to Cryptoj 6.1.3.1 in installer &amp; LCM. NPR-21354</li> 
- </ul> 
- <h4>PDFG Service</h4> 
- <ul> 
-  <li>Update jsafe jars to Cryptoj 6.1.3.1 in PDF Generator. NPR-21351</li> 
- </ul> 
- <h3>OSGI bundles and content packages included</h3> 
- <div> 
-  <p>List of OSGi bundles included in AEM 6.1 SP2-CFP15</p> 
-  <p><a alt="6_1cfp15updated_bundles.txt" href="assets/6_1cfp15updated_bundles.txt" status="changing">Get File</a></p> 
-  <p>List of Content Packages included in AEM 6.1SP2-CFP15</p> 
-  <p><a alt="6.1cfp15content_package_list1.txt" href="assets/6_1cfp15content_packagelist1.txt" status="changing">Get File</a></p> 
- </div> 
-</details>
+Here are the key highlights of AEM 6.1 SP2-CFP17:
 
+* Removed S7 polling importer from S7 cloud service configuration.
+* Fixed adding of inline-styles to the hyperlink
+* Fixed the scaling down when initial height is a multiple of the new height and vice-versa for scaling up.
+
+#### Assets {#assets}
+
+* [Firefox/Chrome] Unable to download assets in Asset Share page. NPR-25636: Hotfix for CQ-4244391
+* Remove S7 polling importer from S7 cloud service configuration. NPR-25239: Hotfix for CQ-95236
+* Publishing video generates DynamicMediaPreprocessor error. NPR-24981: Hotfix for CQ-4247072
+
+#### Sites {#sites-1}
+
+* "Live copy suspended" option of live-copy site is unchecked when field is modified in source site. NPR-25696: Hotfix for CQ-4250680
+* WCM Foundation component 'Table' is vulnerable to Stored Cross Site Scripting. NPR-25185: Hotfix for CQ-4240760
+* [Touch UI] NPE in datasource provider when trying to edit the embedded component dialog. NPR-25914: Hotfix for CQ-4250845
+* Adaptive Image rescaling produces artifacts at the bottom of the image. NPR-26269: Hotfix for CQ-44156
+* Rich Text Editor adds inline css "background-color" to links when using backspace/delete. NPR-26251: Hotfix for CQ-4251200
+
+#### UI - Foundation {#ui-foundation}
+
+* Upgrade to momentjs 2.18.1 to fix vulnerabilities in client library. NPR-25110: Hotfix for Granite - 21885
+
+### Forms {#forms-1}
+
+#### Forms add-on package {#forms-add-on-package-1}
+
+#### Adaptive forms {#adaptive-forms}
+
+* Unable to render XFA-based forms. NPR-25010: Hotfix for CQ-4248345
+
+#### Forms - XMLFM {#forms-xmlfm}
+
+* Using AEM forms 6.2 Output Service to merge a specific form with a data XML takes 20 times more time as compared to the time taken by LiveCycle ES4 SP1 server for the same operation. It is fixed on Windows and Linux environments. NPR-24137: Hotfix for CQ-108190
+
+#### Document Services {#document-services}
+
+* AssemblerService to PDFA produces pdf/a violating pdfs when multithreading. NPR-26329: Hotfix for CQ-4248656
+* The PDF/A returned by Acrobat DC is non-compliant. NPR-26270: Hotfix for CQ-4248823
+
+#### Forms - JEE Installer {#forms-jee-installer-1}
+
+#### Forms - Foundation JEE {#forms-foundation-jee}
+
+* The .sh files in LCM have been submitted with windows line endings causing the LCM not to run on unix platforms. NPR-22957
+* [SOAP interface] Unable to open workspace after applying axis.jar 1.4 file. NPR-24529: Hotfix for CQ-4241833
+
+* Changing the Form Locale to French (Canada) in the Dictionary Spell Check does not work in AEM Forms Designer. NPR-20765
+
+### OSGI bundles and content packages included {#osgi-bundles-and-content-packages-included}
+
+List of OSGi bundles included in AEM 6.1 SP2-CFP17
+
+[Get File](assets/61cfp17updated_bundles.txt)
+
+List of Content Packages included in AEM 6.1SP2-CFP17
+
+[Get File](assets/content_packages61sp2-cfp17.txt)
+
+### Cumulative Fix Pack 16 {#cumulative-fix-pack-2}
+
+AEM Cumulative Fix Pack 6.1 SP2-CFP16 is an important update that includes key customer fixes released since the general availability of [AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html) in August 2016. It includes version 1.2.18 of the built-in repository (Apache Jackrabbit Oak).
+
+Here are the key highlights of AEM 6.1 SP2-CFP16:
+
+* Fixed replication permission check for deleted nodes
+* Fixes in the Apache Sling Scripting HTL Sling Models Use Provider bundle.
+* Update to com.adobe.granite.sling/org.apache.sling.scripting.jsp/2.1.6-B001.
+* Updated version of cq-platform-content.
+
+#### Sites {#sites-2}
+
+* Java Use object with underscores and trailing whitespace in the package declaration freezes the SightlyJavaCompilerService. NPR-22557: Hotfix for Granite-20836
+* Display context option cannot be overridden in data-sly-text HTL block elements. NPR-22625
+
+#### Platform {#platform}
+
+* [Classic UI] Slow performance in tag console due to numerous queries. NPR-23349: Hotfix for CQ-4201748
+* Patch jQuery 1.12.4 from clientlib to include security fix. NPR-24130: Hotfix for Granite-20058
+* Apache Sling Scripting Sightly Models use Provider bundle org.apache.sling.scripting.sightly.models.provider/1.0.18. NPR-22614: Hotfix for Sling-5944, Sling-6866
+* Replication of delete event doesn't check for rights. NPR-23382: Hotfix for CQ-4241234
+* Publisher having error when flushing cache due to malformed URI. NPR-23551: Hotfix for CQ-4242790
+* StackOverflowError when configuring the ootb dispatcher flush agent to update aliases. NPR-23635: Hotfix for CQ-4242928
+* High CPU utilization is observed multiple times due to infinite loops. NPR-24414: Hotfix for NPR-21177
+
+#### Granite {#granite}
+
+* AEM instance crashes due to high heap utilization of Apache Http Client. NPR-22866: Hotfix for Granite-21056
+
+#### Integration {#integration}
+
+* Target engine (mbox.js, at.js) does not use mangled URLs and uses URLs containing colons which might fail with certain deployments. NPR-22366: Hotfix for CQ-4237854 
+* Create activity Path variable not properly encoded leading to reflected cross-site scripting (XSS). NPR-22851
+
+#### Vulnerability {#vulnerability}
+
+* Salesforce integration is vulnerable to Server Side Request Forgery (SSRF). NPR-24289: Hotfix for CQ-4245277
+* Cross-site scripting (XSS) in Admin UI Project links. NPR-23272: Hotfix for CQ-4241795
+
+#### Campaign {#campaign}
+
+* When trying to preview or publish a page, a string is displayed on teaser targeted component. NPR-23469: Hotfix for CQ-4242635
+
+#### User Interface {#user-interface}
+
+* [Classic UI] Performance issues with selectionchanged listener in case of multiple dropdowns. NPR-22724: Hotfix for CQ-4237215
+
+#### WCM - Foundation Components {#wcm-foundation-components}
+
+* CAPTCHA Component has been deprecated for better security, if you are using CAPTCHA component, then message "Captcha component is deprecated and should no longer be used." will be displayed after installing 6.1SP2-CFP16 or later releases. AEM component can be customized to include reCAPTCHA for better security NPR-22151: Hotfix for CQ-4220052
+
+## Forms {#forms-2}
+
+### Forms add-on package {#forms-add-on-package-2}
+
+#### Forms-XTG {#forms-xtg}
+
+* Output performance issues compared to ES4 SP1. NPR-24137, NPR-23987: Hotfix for CQ-108190
+
+#### Output Service {#output-service}
+
+* OutOfMemory due to “com/adobe/internal/pdftoolkit/services/xmp/XMPMetaFactoryMonitor”. NPR-24564: Hotfix for CQ-4244379
+
+#### Assembler Service {#assembler-service}
+
+* Discrepancy between Acrobat DC and AEM reports about PDF/A-1b compliance check error. NPR-24283: Hotfix for CQ-4227539
+* Flattening a PDF with XFA version 3.0 does not retain the PDF form state. NPR-23131: Hotfix for CQ-4239155
+
+### OSGI bundles and content packages included {#osgi-bundles-and-content-packages-included-1}
+
+List of OSGi bundles included in AEM 6.1 SP2-CFP16
+
+[Get File](assets/6_1_bundle-list.txt)
+
+List of Content Packages included in AEM 6.1SP2-CFP16
+
+[Get File](assets/6_1_content-package-list.txt)
+
+### Cumulative Fix Pack 15 {#cumulative-fix-pack-3}
+
+AEM Cumulative Fix Pack 6.1 SP2-CFP15 is an important update that includes key customer fixes released since the general availability of [AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html) in August 2016. It includes version 1.2.18 of the built-in repository (Apache Jackrabbit Oak).
+
+Here are the key highlights of AEM 6.1 SP2-CFP15:
+
+* Improved video encoding abilities for Dynamic Media files.
+* Added delete collection modal on search result page.
+* Fixed errors in the product page template missing product component.
+* Updated cq-msm-core for efficient Livecopyindex synchronisation.
+* OSGI configuration updates in serviceUser.target service.
+
+### Assets {#assets-1}
+
+* Dynamic Viewer fails to create certain size video renditions. NPR-22460: Hotfix for CQ-4237143
+* Unable to delete the collections from the search results page. NPR-21055: Hotfix for CQ-4220922
+* AOD-AEM asset synchronization stops working. NPR-22149: Hotfix for CQ-4207118
+* Creation/Deletion of the asset doesn’t delete the create audit of the previous asset. NPR-21557: Hotfix for CQ-4231831
+* Text extraction gets stuck for a corrupt PDF making AEM instance sluggish. NPR-21527: Hotfix for CTG-4150375
+* [Classic UI] Damadmin stops loading when rep:policy (access control privileges) are applied under wcm/core/content/damadmin/tabs/searchpanel. NPR-21525: Hotfix for CQ-4229590
+* AEM instance crashes while extracting image from doc file. NPR-21521: Hotfix for CQ-4231143
+* [DAM] Multiple cross-site scripting (XSS) in DAM metadata editor. NPR-21434: Hotfix for CQ-83472
+* [DM] [Classic UI] Multiple cross-site scripting (XSS) vulnerabilities in some SWF files in AEM CQ Author/Publish quickstart. NPR-21379, NPR-21073: Hotfix for NPR-20612
+* Hash code collision causes wrong size of displayed image. NPR-21674: Hotfix for CQ-4223363
+
+### Sites {#sites-3}
+
+* Version Manager retrieves different results with and without recursive flag on/off. Version Purge can attempt to load version history on a non-versionable node causing exception. NPR-21662: Hotfix for CQ-4229696 & CQ-4211271
+
+### Commerce {#commerce}
+
+* Rollout of catalog fails if no product component is associated to the product page. NPR-22017: Hotfix for CQ-4232276
+
+### MSM {#msm}
+
+* LiveCopyIndex synchronization leads to congestion of threads during long index updates. NPR-21734: Hotfix for CQ-90667
+
+### Foundation {#foundation}
+
+* HTL: Uri manipulator breaks query parameter encoding. NPR-22372: Hotfix for SLING-6761
+* Unable to sync groups between two publish instances. NPR-21943: Hotfix for Granite-19564
+
+### Dynamic Video {#dynamic-video}
+
+* High CPU utilization is observed frequently due to Scene7 content search requests. NPR-22140: Hotfix for CQ-4235872
+
+### Vulnerability {#vulnerability-1}
+
+* Cross-site scripting (XSS) in DAM metadata editor. NPR-21434: Hotfix for CQ-83472
+* Multiple SWF files vulnerable to Cross-site scripting (XSS). NPR-20612: Hotfix for CQ-4213297
+
+## Forms {#forms-3}
+
+### Forms add-on package {#forms-add-on-package-3}
+
+#### HTML5 Forms {#html-forms}
+
+* Cannot use 'in' operator to search for '0' in 0,00" error using Belgium Locale on decimal field. NPR-22225: Hotfix for NPR-21510
+
+#### Reader Extensions Service {#reader-extensions-service}
+
+* Update jsafe jars to cryptoj 6.1.3.1 in Reader Extensions. NPR-21349
+
+### Forms JEE installer {#forms-jee-installer-2}
+
+#### Core {#core}
+
+* Update jsafe jars to cryptoj 6.1.3.1 in Core, Signature, Encryption & Document Security. NPR-21353, NPR-21350, NPR-21348, NPR-21352
+* Upgrading to the latest Java 8 Update 131 throws an exception: "JsafeJCE provider is disabled, a FIPS 140 required self-integrity check failed". NPR-21347: Hotfix for CQ-4208922
+
+#### Install LCM {#install-lcm}
+
+* Update Jsafe Jars to Cryptoj 6.1.3.1 in installer & LCM. NPR-21354
+
+#### PDFG Service {#pdfg-service}
+
+* Update jsafe jars to Cryptoj 6.1.3.1 in PDF Generator. NPR-21351
+
+### OSGI bundles and content packages included {#osgi-bundles-and-content-packages-included-2}
+
+List of OSGi bundles included in AEM 6.1 SP2-CFP15
+
+[Get File](assets/6_1cfp15updated_bundles.txt)
+
+List of Content Packages included in AEM 6.1SP2-CFP15
+
+[Get File](assets/6_1cfp15content_packagelist1.txt)
 AEM Cumulative Fix Pack 6.1 SP2-CFP14 is an important update that includes key customer fixes released since the general availability of [AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html) in August 2016. It includes version 1.2.18 of the built-in repository (Apache Jackrabbit Oak).
 
 Here are the key highlights of AEM 6.1 SP2-CFP14:
@@ -303,14 +318,14 @@ Here are the key highlights of AEM 6.1 SP2-CFP14:
 * Proactive security fix to remove flash dependency.
 * Improved folder handling for Campaigns and Communities sites.
 
-### Assets {#assets}
+### Assets {#assets-2}
 
 * TIFF images get auto-downloaded on clicking Original under Rendition. NPR-20466: Hotfix for CQ-4224679
 * [Classic UI] Dam Admin fails to load tags when the referencing tag is deleted. NPR-20629: Hotfix for CQ-4224004
 * [Chrome] Unable to open "detailed asset view" or "User preferences" while viewing a video asset on any tablet service. NPR-20863: Hotfix for CQ-4226516
 * [DAM] [ClassicUI] Multiple cross-site scripting (XSS) vulnerabilities in some SWF files in AEM CQ Author/Publish quickstart. NPR-21071, NPR-21074: Hotfix for NPR-20612
 
-### Sites {#sites-1}
+### Sites {#sites-4}
 
 * Copied components breaks/removes the parsys and removes sling:resourceType property. NPR-20146; Hotfix for CQ-4212306
 * Text fields losing properties when using the property edit dialogue. NPR-20595, NPR-20997: Hotfix for CQ-4221537
@@ -319,20 +334,20 @@ Here are the key highlights of AEM 6.1 SP2-CFP14:
 * When using the move page wizard, the destination step makes the system unresponsive. NPR-21011: Hotfix for CQ-4228909
 * [Classic UI] Move tags cannot be removed. NPR-21149: Hotfix for CQ-4229164
 
-### Platform {#platform}
+### Platform {#platform-1}
 
 * Package Manager "session time out" due to large number of dependencies. NPR-20574: Hotfix for Granite-19569
 * Performance issues with TWC on publish instances. Threads are blocked by org.mozilla.javascript.ImporterTopLevel.getPackageProperty(..) NPR-21190: Hotfix for Granite-19524
 
-### Integration {#integration}
+### Integration {#integration-1}
 
 * [Classic UI] Inconsistent behavior with Parsys components while targeting in Classic UI. NPR-20645: Hotfix for CQ-4219983
 
-### Commerce {#commerce}
+### Commerce {#commerce-1}
 
 * Internal server error on selecting a time filer and cancel on the catalog product page. NPR-21056: Hotfix for CQ-4227580
 
-### WCM - Foundation Components {#wcm-foundation-components}
+### WCM - Foundation Components {#wcm-foundation-components-1}
 
 * OutOfMemory:Metaspace errors due to lot of duplicate sightly classes in heapdump. NPR-21120: Hotfix for SLING-4787 and SLING-4783
 
@@ -341,7 +356,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP14:
 * Security patch applied to Apache Sling XSS Protection API to eliminate the possibility of XSS bypassing. NPR-21290: Hotfix for GRANITE-19924
 * XSS bypass in XSSAPI#getValidHref function. NPR-21172: Hotfix for Granite-19924
 
-## Forms {#forms-1}
+## Forms {#forms-4}
 
 >[!NOTE]
 >
@@ -364,7 +379,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP13:
 * Enhanced Adaptive Forms to attach PDF as attachments in Safari.
 * Fixes in show/hide functionality of drop-down component.
 
-### Assets {#assets-1}
+### Assets {#assets-3}
 
 * Static renditions not displayed in the Rendition rail when original/rendition is selected. NPR-19390: HF for CQ-4217839
 * Assets expiration activities stop if an asset does not have an assigned owner. NPR-18986; Hotfix for CQ-4197946  
@@ -377,7 +392,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP13:
 * Create asset request with JSON format returns a combined JSON and HTML. NPR-19603: Hotfix for CQ-4219606
 * Editing metadata for assets in bulk (append mode) while using a Boolean value for TypeHint in a drop down field in the underlying metadata scheme produces an error. NPR-19109: Hotfix for CQ-106876
 
-### Sites {#sites-2}
+### Sites {#sites-5}
 
 * Folder name containing hyphen(-) converts to underscore(_) in URL. NPR-19326: Hotfix for CQ-4215273
 * ContextHub files do not minimize on the author instance and get downloaded by some browsers on every request. NPR-19142  
@@ -388,16 +403,16 @@ Here are the key highlights of AEM 6.1 SP2-CFP13:
 * Version Purge task does not remove old versions of assets. NPR-18990: Hotfix for CQ-4214996  
 * When using the move page wizard, the destination step makes the system unresponsive. NPR-18985: Hotfix for CQ-4216827
 
-### Platform {#platform-1}
+### Platform {#platform-2}
 
 * Fixed issues with curl Head requests for OOTB assets in AEM. NPR-20048: Hotfix for CQ-4221520 and CQ-103024
 * Search in package manager result in traversal slowing the AEM production instance. NPR-19719
 
-### Integration {#integration-1}
+### Integration {#integration-2}
 
 * Target activity gets deactivated after adding an extra experience. NPR-18227; Hotfix for CQ-4201895
 
-### MSM {#msm}
+### MSM {#msm-1}
 
 * Using pushOnModify roll-out method to restore a version of blueprint page sometimes deletes the livecopy. NPR-19554: Hotfix for CQ-76741
 * The text disappears when users try to cancel the inheritance on page propoerties when cq-msm-locable property is absolute path. NPR-20321: NPR-18909: Hotfix for CQ-4214354
@@ -411,19 +426,19 @@ Here are the key highlights of AEM 6.1 SP2-CFP13:
 
 * Unable to create translation project from asset UI. NPR-19321: Hotfix for CQ-4216968
 
-### WCM - Foundation Components {#wcm-foundation-components-1}
+### WCM - Foundation Components {#wcm-foundation-components-2}
 
 * Show/hide functionality of the form drop-down component is not working as expected. NPR-20219: Hotfix for CQ-4222853
 
-## Forms {#forms-2}
+## Forms {#forms-5}
 
-### Forms add-on package {#forms-add-on-package-1}
+### Forms add-on package {#forms-add-on-package-4}
 
-#### Adaptive Forms {#adaptive-forms}
+#### Adaptive Forms {#adaptive-forms-1}
 
 * Enhanced Adaptive Forms to attach PDF as attachments in Safari. NPR-19624
 
-#### Assembler Service {#assembler-service}
+#### Assembler Service {#assembler-service-1}
 
 * XMP Metadata pdfaid:amd should be kept empty and not filled with a value. NPR-19646: Hotfix for CQ-4216597
 
@@ -447,7 +462,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP12:
 * Upgraded version of org.apache.sling.servlets.post servelet (2.3.22) in Apache Sling API pages. 
 * Enabled support for EMC Documentum 7.3 and preSubmit event for HTML5 forms.
 
-### Integration {#integration-2}
+### Integration {#integration-3}
 
 * Connections to Target from AEM through HTTPClient do not have user-configurable timeout periods. NPR-18494
 * Connections to Search & Promote from AEM through HTTPClient do not have user-configurable timeout periods. NPR-18493  
@@ -455,21 +470,21 @@ Here are the key highlights of AEM 6.1 SP2-CFP12:
 * Connections to DTM from AEM through HTTPClient do not have user-configurable timeout periods. NPR-18495  
 * Viewing Campaign offers published from library folders result in NPE. NPR-18732; Hotfix for CQ-4214593
 
-### Assets {#assets-2}
+### Assets {#assets-4}
 
 * For specific AI files, the web enabled JPEG rendition generated is blank. NPR-18518
 * Metadata Asset Manager throws an error while saving metadata: XML namespace required for all elements and attributes. NPR-18652; HF for CQ-109960  
 * Users unable to download assets from AEM protected by licence agreement using Safari browser. NPR-19288; Hotfix for CQ-4214358
 * Video aggregation by Dynamic Video returns only top 100 items in result set. NPR-18340; Hotfix for CQ-4213561
 
-### Sites {#sites-3}
+### Sites {#sites-6}
 
 * When editing a page in Classic UI, the Pages tab of Content Finder does not show the actual page that is modified. NPR-18332  
 * Pressing the Backspace key after editing the hyperlink text in RTE changes its background color to grey. NPR-18212  
 * Using the paramformat option to change text format in a page while inline editing on TouchUI automatically submits the page without saving the changes. NPR-18762  
 * Unable to drag images from the content finder to replace images in the Thumbnail tab under Page properties on TouchUI. NPR-19123
 
-### Platform {#platform-2}
+### Platform {#platform-3}
 
 * User unable to configure the OakResourceListener queue to optimize asset offloading. NPR-18185  
 * Vulnerable CSRF token getting attached to the URL to download the CSV report for a page. NPR-15229
@@ -478,17 +493,17 @@ Here are the key highlights of AEM 6.1 SP2-CFP12:
 
 * When a project task is created, Upload Asset does not work. NPR-19121
 
-### User Interface {#user-interface}
+### User Interface {#user-interface-1}
 
 * Queries get stuck in the Query optimization phase during XPath to SQL2 query conversion. NPR-18616; Hotfix for Granite-18026  
 * Request to use an updated version of the moment.js plugin (2.10.6) for CoralUI. NPR-18611, Hotfix for Granite-11881
 
-### Granite {#granite}
+### Granite {#granite-1}
 
 * Sling resource resolver mapping "exposes" the internal URL for AEM if the URL in incoming publish requests includes special characters/query parameters. NPR-18527; GRANITE-18012  
 * Issues with re-ordering local ACL policies in CRXDE. NPR-18797; Granite - 16300
 
-### Commerce {#commerce-1}
+### Commerce {#commerce-2}
 
 * Catalog creation fails when Product master page provided in catalog is a live copy of another page. NPR-18649; Hotfix for CQ-420978
 
@@ -496,15 +511,15 @@ Here are the key highlights of AEM 6.1 SP2-CFP12:
 
 * Request to use an upgraded version of org.apache.sling.servlets.post servelet (2.3.22) in Apache Sling API to pre-empt an XSS vulnerability. NPR-18963
 
-### WCM - Foundation Components {#wcm-foundation-components-2}
+### WCM - Foundation Components {#wcm-foundation-components-3}
 
 * Unexpected behavior of the Cancel Inheritence functionality in Multi Site Manager (MSM). NPR-18560; CQ-4214025
 
-## Forms {#forms-3}
+## Forms {#forms-6}
 
-### Forms add-on package {#forms-add-on-package-2}
+### Forms add-on package {#forms-add-on-package-5}
 
-#### HTML5 Forms {#html-forms}
+#### HTML5 Forms {#html-forms-1}
 
 * While previewing letter in HTML mode, an error is displayed: this._xfa is not a function. NPR-17797
 
@@ -543,16 +558,16 @@ The key highlights of this Cumulative Fix Pack are:
 * Introducing Quickactions on Hybrid Devices.
 * Resolving component level synchronization issues with live copies.
 
-### Integration {#integration-3}
+### Integration {#integration-4}
 
 * Resolved AEM Search component errors that can occur when AEM Day HTTP Client 3.1 OSGI is configured with a Proxy that requires Digest Authentication. NPR-18128: Hotfix for NPR-18029
 * On refreshing a page, Targeting Experiences are not correctly updated. NPR-18656; CFP for CQ-4209422
 
-### Assets {#assets-3}
+### Assets {#assets-5}
 
 * An error occurs when an ASCII/UTF-8 encoded text file is uploaded to AEM Assets and thumbnail generation fails. NPR-18006: CFP for CQ-4209345
 
-### Sites {#sites-4}
+### Sites {#sites-7}
 
 * The text component toolbar I TouchUI is partially obscured when a large amount of text is entered. NPR-17933: Hotfix for CQ-4194816
 * The option to unhide hidden components is not displayed for tablet/phone devices in Layout mode. NPR-17860: CFP for CQ-4207011
@@ -560,15 +575,15 @@ The key highlights of this Cumulative Fix Pack are:
 * Normal users can activate page locked by admin. NPR-17508: Hotfix for CFP CQ-4206140
 * Blocked queues for replication agent because rep:policy nodes are replicated when folders are moved via the site admin pane. NPR-17806: Hotfix for CFP CQ-4206140
 
-### User Interface {#user-interface-1}
+### User Interface {#user-interface-2}
 
 * Request to display quick actions on Hybrid devices. NPR-17754: Hotfix for GRANITE-17566
 
-### MSM {#msm-1}
+### MSM {#msm-2}
 
 * Modified localized components not restored to their original form when inheritance is reapplied in a LiveCopy. NPR-18119: Hotfix for CQ-4211379
 
-### WCM-Foundation Components {#wcm-foundation-components-3}
+### WCM-Foundation Components {#wcm-foundation-components-4}
 
 * Search component being used in OOTB geometrixx becomes slow when it hits a large number of pages/content in the repository. NPR-17671
 
@@ -576,11 +591,11 @@ The key highlights of this Cumulative Fix Pack are:
 
 * Issues with uploading avatar images for LDAP users. NPR-16561: Hotfix for GRANITE-17013
 
-## Forms {#forms-4}
+## Forms {#forms-7}
 
 AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
 
-### Forms add-on package {#forms-add-on-package-3}
+### Forms add-on package {#forms-add-on-package-6}
 
 #### Mobile Forms {#mobile-forms}
 
@@ -608,17 +623,17 @@ List of content packages updated in AEM 6.1SP2-CFP11
 
 [Get File](assets/list_of_content_packagesupdatedinaem61sp2-cfp11.txt)
 
-### Platform {#platform-3}
+### Platform {#platform-4}
 
 * Localized title for a tag cannot be deleted from the UI. NPR-17154; Hotfix for CQ-4208157
 
-### Sites {#sites-5}
+### Sites {#sites-8}
 
 * A page locked by a user in the first session can be modified by another user in another session. NPR-17557; Hotfix for CQ-4199017
 
 * The Show/Hide option in the Rules Editor does not display fields in the select dropdown, due to which rules cannot be created. The Show/Hide functionality should work irrespective of the parent component. NPR-17379; hotfix for CQ-4209418
 
-### Assets {#assets-4}
+### Assets {#assets-6}
 
 * Uploading images in the Touch UI admin console does not show all renditions, though all of them are successfully uploaded in the crx repository. NPR-17417; hotfix for CQ-4209348
 * In **[!UICONTROL Asset Reports]**, the ' **[!UICONTROL Customize Columns]**' dialog allows **[!UICONTROL Submit]** action with nothing checked under a certain condition, causing screen collapse and heavy load in case a report is generated. NPR-17401; CQ-4208482
@@ -629,9 +644,9 @@ This section lists all hotfixes included in the current CFP. In addition, this C
 
 * Dispatcher IP exposed via SurferInfoMgr. NPR-16005
 
-### Forms {#forms-5}
+### Forms {#forms-8}
 
-#### Forms add-on package {#forms-add-on-package-4}
+#### Forms add-on package {#forms-add-on-package-7}
 
 **Adaptive Forms**
 
@@ -647,7 +662,7 @@ This section lists all hotfixes included in the current CFP. In addition, this C
 * Trying to set the default display value for a dropdown does not work and the raw value is displayed instead of the display text. NPR-17285  
 * The FormBridge `setFocus API` does not allow set focus to the parent exclusion group from an OnClick event. NPR-17289
 
-#### Forms JEE installer {#forms-jee-installer-1}
+#### Forms JEE installer {#forms-jee-installer-3}
 
 * The Configuration Manager can fail during the upgrade process due to timeout issues. NPR-16773
 * AEM forms 6.1 ears fail to get deployed with Java 1.7u131. NPR-17011
@@ -676,7 +691,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP9:
     * Form Analytics and Forms Portal
     * Forms Designer, Output Service, and Workbench
 
-### Platform {#platform-4}
+### Platform {#platform-5}
 
 * Unusual build up of sling distribution packages observed after upgrading from AEM 6.1 SP1 to 6.1 SP2 and installing CFP3 and Communities FP6.* *NPR-15154; Hotfix for GRANITE-16183
 * Request to consider removing the `ReplicationQueue#forceRetry` called during agent startup, as it causes a significant slowdown in instance startup when there are lots of agents. NPR-14130; Hotfix for GRANITE-13095
@@ -689,13 +704,13 @@ Here are the key highlights of AEM 6.1 SP2-CFP9:
 * With Authentication Requirement for a page enabled, siblings of nodes with ‘AuthRequired’ string starting with the same name result in a 302 error. NPR-17009; Hotfix for CQ-4199691 
 * LDAP users cannot impersonate another user using the Classic UI. NPR-17041; Hotfix for CQ-4207155 (See [Configuration settings required for NPR-17041](release-notes-aem-6-1-cumulative-fix-pack.md#main-pars-header-1635597902))
 
-### Assets {#assets-5}
+### Assets {#assets-7}
 
 * The 'Replace' and 'Create Versions' functionality in asset management do not work as expected. NPR-16928; Hotfix for CQ-4205651
 * While uploading assets, the asset metadata property is imported as type 'Date', when it should be of type 'String'. NPR-16742; Hotfix for CQ-4206262
 * The Assets UI does not work properly for Touchscreen Laptops connected to an external monitor and a mouse. Users are not able to publish and un-publish assets or use some of the other asset-related functions. NPR-16514; HF for CQ-4204624
 
-### Sites {#sites-6}
+### Sites {#sites-9}
 
 * The Sites UI shows a performance issue in the CUG widget when the user belongs to a large number of groups. NPR-16609; HF request for CQ-4206064
 * After installing AEM 6.1 SP2 CFP7, a newly created user who does not have the 'Preferences' node cannot update user properties such as 'Language' in the Classic UI. NPR-17066; HF for CQ-4206604
@@ -710,9 +725,9 @@ Here are the key highlights of AEM 6.1 SP2-CFP9:
 * Request to prevent AEM version disclosure in AEM Web Syndication Feeds page. NPR-16219
 * XSS vulnerability in the output generated by HTMLRendererServlet. NPR-17136
 
-### Forms {#forms-6}
+### Forms {#forms-9}
 
-#### Forms add-on package {#forms-add-on-package-5}
+#### Forms add-on package {#forms-add-on-package-8}
 
 **Adaptive Forms**
 
@@ -739,7 +754,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP9:
 * Comments added while uploading file attachments are not displayed in a submitted instance though they are present in the XML file stored in the content repository. NPR-16843
 * The link to download a submitted form opens an HTML page instead of a PDF. NPR-16906
 
-#### Forms JEE installer {#forms-jee-installer-2}
+#### Forms JEE installer {#forms-jee-installer-4}
 
 **Core**
 
@@ -779,7 +794,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP8:
     * Previewing and submitting adaptive forms with file attachment widgets
     * Accessing the AEM Forms app
 
-### Platform {#platform-5}
+### Platform {#platform-6}
 
 * The `PageManagerImpl.createRevision` leaves a node in checked-in state when an Oak Exception occurs. NPR-16220: Hotfix for CQ-99567
 * After upgrading to AEM 6.1 SP2-CFP3, the dropdown values for multifield components that support drag and drop or custom xtypes do not get re-populated. NPR-15869: Hotfix for CQ-4194771 
@@ -787,28 +802,28 @@ Here are the key highlights of AEM 6.1 SP2-CFP8:
 * When using Google Chrome browser to edit text components on site pages, copying and pasting text starting with a new line does not work correctly. NPR-15698: Hotfix for CRTE-108
 * While submitting the PageProperties dialog from the editor, the `msm:writeLiveCopyConfig parameter` is set, but not all required values are sent. Instead, the MultiSiteManager (MSM) post processor writes parameters from the request. NPR-15831: Hotfix for CQ-100479
 
-### Sites {#sites-7}
+### Sites {#sites-10}
 
 * HTL: uri manipulator breaks query parameter encoding. NPR-16222: Hotfix for SLING-6761
 * Request to add a validation option in package manager to detect any conflicts between overlaid file (JSP or JavaScript file) under /apps and the one contained in a Hotfix under /libs. Affected overlay can then be rebased to include changes from the file under /libs. NPR-16217: Hotfix for CQ-81729
 * Running a query when using the JSON Querybuilder results in a Querybuilder stackoverflow exception. NPR-16099
 * CodeUpgradeTasks are not executed when Services are registered too late. NPR-12123: Hotfix for CQ-96964
 
-### Assets {#assets-6}
+### Assets {#assets-8}
 
 * Updating asset metadata does not update the value of the `dam:sha1` metadata attribute causing problems with duplicate asset detection. NPR-15949: Hotfix for CQ-101949, CQ-103432.
 * On updating asset metadata, the last modified date is not updated. The properties xmpNodeType and xmpArraySizeLast Modified Date are missing for the XMP:History node. NPR-16448  
 * Debug code enabled by default in the `WatermarkUtil` causes watermark to fail. NPR-15923: Hotfix for CQ-4203158
 
-### Integration {#integration-4}
+### Integration {#integration-5}
 
 * During A/B Test Activity in AEM Target, the audience does not sync up to the Target and shows 'no audiences'. NPR-16229: Hotfix for CQ-4204210
 * When configuring AEM Day HTTP Client 3.1 OSGI configuration with a Proxy that requires Digest authentication, the AEM Search component throws a `ConcurrentModificationException`. NPR-15309: Hotfix for CQ-4199191
 * Saving an inline offer to an offer library fails due to an extra slash added before the offer library path. NPR-16598: Hotfix for CQ-4203286
 
-### Forms {#forms-7}
+### Forms {#forms-10}
 
-#### Forms add-on package {#forms-add-on-package-6}
+#### Forms add-on package {#forms-add-on-package-9}
 
 **Adaptive Forms**
 
@@ -821,7 +836,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP8:
 * In case of a file attachment widget where multiple attachments are allowed, if a new form instance with an attachment is submitted on a widget where a previous attachment was already attached, an error code appears on opening the added attachment instead of the actual content. NPR-16339
 * Securing forms prefill service from unauthorized access through protocols such as `file://`, `http://`, and `ftp://`. For details, refer [Configuring Prefill Service using Configuration Manager](https://helpx.adobe.com/aem-forms/6-1/prepopulate-adaptive-form-fields.html#main-pars_header_601884624). ** **NPR-15435.
 
-#### Forms JEE installer {#forms-jee-installer-3}
+#### Forms JEE installer {#forms-jee-installer-5}
 
 **Process Management - HTML Workspace**
 
@@ -852,7 +867,7 @@ Column Control
 * Updated Microsoft connector for translation to be able to use new APIs for the Azure portal
 * Enhanced HTML5 forms capability for handling Calculate Events, aligning with PDF forms
 
-### Sites {#sites-8}
+### Sites {#sites-11}
 
 * Using the Version Purge feature when one of the candidate versions is older than the Max Version Age makes the `VersionManagerImpl` purge the incorrect version and log an error. NPR-15833: HotFix for CQ-104193  
 
@@ -862,7 +877,7 @@ Column Control
 
 * The out of the box List component option, 'Descendent Pages', does not work. NPR-15410: HotFix for CQ-60791
 
-### Assets {#assets-7}
+### Assets {#assets-9}
 
 * On deleting an EPS file in AEM, the Scene7 synchronization purges not only the EPS file but also all its related assets, instead of deleting only the EPS file. NPR-15700: HotFix for CQ-4200226
 * After uploading a PDF to AEM Assets, the PDF thumbnail shows corrupt images if large images are contained in the PDF.  
@@ -870,12 +885,12 @@ Column Control
 * After enabling dynamic media, video reports are not visible to users with read access to them. NPR-15979:   
   HotFix for CQ-4202019
 
-### Integration {#integration-5}
+### Integration {#integration-6}
 
 * The `SlingPostProcessor` is triggered if the page directly referencing the framework is edited. NPR-15754: HotFix for CQ-104153
 * In Campaign, the targeting framework does not get updated with Client Context changes after reconfiguring the Client Context Store properties. NPR-15076: HotFix for CQ-4194842
 
-### User Interface {#user-interface-2}
+### User Interface {#user-interface-3}
 
 * When using the Touch UI with Google Chrome browser version 56.0.2924.87, the Date fields that do not have the `type="datetime"` fail to show the saved date value. NPR-15384: HotFix for GRANITE-16481
 * While accessing the Manuscript Console through Apache webserver, the **[!UICONTROL Save]**, **[!UICONTROL Help]**, and other icons are not visible on top of the console. NPR-11129: HotFix Request for CQ-87728
@@ -883,7 +898,7 @@ Column Control
 * The Asset Bulk Editor for tags does not work if only one item is selected for bulk editing. NPR-15327: HotFix for CQ-4196649
 * In the Touch UI, searching for a User/Group by entering special characters in the search field does not work. NPR-15977: HotFix for GRANITE-16518
 
-### Platform {#platform-6}
+### Platform {#platform-7}
 
 * After installation of AEM 6.1 Cumulative Fix Pack SP2-CFP4, installing a package of size 480 MB consumes more than 50 GB of temporary space. NPR-15685: HotFix for CQ-4202159
 
@@ -895,9 +910,9 @@ Column Control
 
 In the Classic UI, the user language is ignored in most dialogs after installation of the AEM 6.1 Cumulative Fix Package SP2-CFP4. NPR-15981: HotFix for CQ-4199208
 
-### Forms {#forms-8}
+### Forms {#forms-11}
 
-#### Forms JEE Installer {#forms-jee-installer-4}
+#### Forms JEE Installer {#forms-jee-installer-6}
 
 `HTML workspace`
 
@@ -925,7 +940,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 * Fixed issues with creating adaptive forms using XSD templates and Assembler service.
 * Resolved issues with Sling utilities post upgrade
 
-### Platform {#platform-7}
+### Platform {#platform-8}
 
 * Synchronization issue in `LinkCheckerSettingsProviderImpl` causes the production server to be inaccessible to users. NPR-14742: Hotfix for CQ-74439
 
@@ -933,7 +948,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 
 * While streaming video to IE 11, Sling `StreamRendererServlet` does not use Partial Content Response. NPR-14877: Hotfix for GRANITE-15945
 
-### Sites {#sites-9}
+### Sites {#sites-12}
 
 * Users cannot re-enable the 'Revert Inheritance' functionality for a live copy. NPR-15050: Hotfix for CQ-112828
 * Bulk editor ignores escape characters in a String array property. NPR-14984: Hotfix for CQ-4194729  
@@ -942,7 +957,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 * Issues with editing multiple image fields inline in Touch UI. NPR-14934: Hotfix for CQ-4194514  
 * Promoting a launch to production doesn't push changes to pre-existing launches. NPR-14926: Hotfix for CQ-4194588
 
-### Assets {#assets-8}
+### Assets {#assets-10}
 
 * Offloading workflow fails when asset path contains folders with special characters. NPR-15193: Hotfix for GRANITE-16280
 * User can't view an asset's timeline, when the asset is moved from a folder for which the user doesn't have read permissions. NPR-15155: Backport for - CQ-4196689
@@ -958,7 +973,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 
 * `Target Framework` does not get updated with `ClientContext` changes. NPR-15076: Hotfix for CQ-4194842
 
-### Forms {#forms-9}
+### Forms {#forms-12}
 
 >[!NOTE]
 >
@@ -966,7 +981,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 >
 >AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms).
 
-#### Forms add-on package {#forms-add-on-package-7}
+#### Forms add-on package {#forms-add-on-package-10}
 
 * When creating an Adaptive Form and uploading an XSD file, AEM Forms does not save the correct XSD reference path, leading to an error. NPR: 15003
 * While using Assembler service, file attachments of type 'ods' to a form, are not converted to PDF. NPR: 14892
@@ -1047,7 +1062,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 1. Select the entry type **Deny** and then select the `jcr:all` privilege.
 1. Open the **Advanced** section, and add "*/&#42;/jcr:content/cq:ActivitySettings*" in the field `rep:glob`. under **Restrictions**. Click/tap **Ok** to save the permissions.
 
-### Platform {#platform-8}
+### Platform {#platform-9}
 
 * Proxy exceptions ignored in Apache HTTP Components Proxy Configuration (Linkchecker fails). NPR-14527: Hotfix for CQ-104212
 * Calls to the tag search widget are very slow for large replication queue. NPR-14507: Hotfix for CQ-108343
@@ -1055,7 +1070,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * If a user is deleted from the rep:impersonators list, the useradmin UI breaks. NPR-14247: Hotfix for CQ-107446
 * ContentDispositionFilter can suppress content type when a setContentType request is forwarded to a new servlet for further handling. NPR-14092: Hotfix for GRANITE-14999
 
-### Sites {#sites-10}
+### Sites {#sites-13}
 
 * Resolves incorrect behavior when comparing LiveRealtionships to detect configuration changes. NPR-14582: Hotfix for CQ-89664, CQ-96323
 * SiteAdmin: Incorrect page reference when user tries to delete a page. NPR-14421
@@ -1064,13 +1079,13 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * Inherited Hide option in the Navigation checkboxPage properties from source is unchecked in live copy when it is saved. NPR-14366: Hotfix for CQ-107579
 * Issues with overlays when page has 100% height. NPR-14117: Hotfix for CQ-81860
 
-### Forms {#forms-10}
+### Forms {#forms-13}
 
 **Note: ***In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP4 release includes hotfixes delivered in [previous cumulative fix packs](#previous).*
 
 *AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) and [Install AEM Forms JEE installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms)*.
 
-#### Forms add-on package {#forms-add-on-package-8}
+#### Forms add-on package {#forms-add-on-package-11}
 
 * Cannot sort columns in the search results in HTML Workspace on Microsoft Edge browser. (Ref# CQ-109497)
 * Expression builder does not open in Microsoft Edge browser while creating a Condition module. (Ref# CQ-109094)
@@ -1079,13 +1094,13 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * Support added for HTML5 forms on Microsoft Edge browser. (Ref# NPR-13747)
 * The Click event on checkboxes in HTML5 forms does not work on some browsers. (Ref# NPR-13705)
 
-#### Forms JEE installer {#forms-jee-installer-5}
+#### Forms JEE installer {#forms-jee-installer-7}
 
 * When using Forms and Output service to generate PDF from an XDP template that uses subforms to create header and rows with **Overflow Leader** and **Keep with next** options enabled, a row moves on top of the header from second page onwards in the resultant PDF. (Ref# NPR-14506)
 
 * The generatePrintedOutput API fails to select correct printer bypass tray. (#NPR-14316)
 
-### Assets {#assets-9}
+### Assets {#assets-11}
 
 * The component *granite/ui/components/foundation/form/userpicker* triggers a query that is sluggish in displaying results on a system with many users. NPR-14691
 * Cannot rename DAM folder if permission Edit ACL is missing. NPR-14441: Hotfix for CQ-104652
@@ -1112,7 +1127,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * AEM login failures due to NumberFormatException raised when reading history log. NPR-13693: Hotfix for CQ-101965
 * Spellcheck does not work when searching from out-of-the-box search components. With this fix, you can define the node type used in search queries in the Settings dialog of the Search component. Default node type values are `cq:Page` and `dam:Asset`. NPR-14073: Hotfix for CQ-104956
 
-### Sites {#sites-11}
+### Sites {#sites-14}
 
 * Issues with publishing resources associated with the Design Importer component when a page is activated. NPR-13901: Hotfix for CQ-102532  
 * Issues with page properties in the page tree when many product variants are created in the product tree. NPR-13716: Backport for CQ-97547  
@@ -1138,13 +1153,13 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 
 * No MIME type validation is performed when binaries of files are uploaded to AEM. NPR-16617
 
-### Forms {#forms-11}
+### Forms {#forms-14}
 
 ***Note**: In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP3 release includes hotfixes delivered in [previous cumulative fix packs](#previous).*
 
 *AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) and [Install AEM Forms JEE installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms)*.
 
-#### Forms add-on package {#forms-add-on-package-9}
+#### Forms add-on package {#forms-add-on-package-12}
 
 * The file attachment map property in the CRX repository contains an entry for the form attachment components that do not have any attachment. (Ref# NPR-13986)
 * If a user opens a draft containing an attachment and tries to save the draft after deleting the attachment, then the form fails to save and an error message is displayed. (Ref# NPR-13821)
@@ -1153,7 +1168,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * In Google Chrome and Mozilla Firefox browsers the click event is not working on check boxes as expected. (Ref# NPR-14254)
 * In Google Chrome the click event is not working on radio buttons as expected. (Ref# NPR-14132)
 
-#### Forms JEE installer {#forms-jee-installer-6}
+#### Forms JEE installer {#forms-jee-installer-8}
 
 * HTML Workspace fails to render a PDF for assigned tasks. (Ref# NPR-9674)
 * “Select save Draft" functionality of HTML Workspace fails to work as expected. (Ref# NPR-10504)
@@ -1182,7 +1197,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * For a hybrid domain configured with an alternate login provider, the login redirection screen shows LiveCycle ES3. (Ref# NPR-10131)
 * The start button is not displayed in the tracking tab. (Ref# NPR-9254)
 
-### Platform {#platform-9}
+### Platform {#platform-10}
 
 * NPR-11724: Hotfix for **Oak 1.2.18** 
 
@@ -1194,7 +1209,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * The audit log nodes that not older than the minimum age of Audit Log Purge Scheduler are removed by the AuditLog maintenance task. NPR-12735: Hotfix for CQ-96368
 * NPR-10768: Hotfix for CQ-73794, CQ-87177
 
-### Sites {#sites-12}
+### Sites {#sites-15}
 
 * References wrongly updated when promoting a nested launch. NPR-13272: Hotfix for CQ-75340
 * Custom image reference added to page dialog not visible under page properties in TouchUI. NPR-12603: Hotfix for CQ-90189
@@ -1209,7 +1224,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 
 * Unable to drop a Target component in the page in targeting mode. NPR-12917: Hotfix for CQ-49942
 
-### Assets {#assets-10}
+### Assets {#assets-12}
 
 * Users unable to download assets in bulk. NPR-12524: Hotfix for CQ-94202
 * Invalid tags applied when processing assets using the Camera Raw package. NPR-12973: Hotfix for CQ-96409
@@ -1228,7 +1243,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * Autocompletion in the tagspicker component ignores filter defined in rootPath property. NPR-12539: Hotfix for CQ-82496
 * Unable to edit asset properties in bulk mode. NPR-13118: Hotfix for CQ-96870
 
-### Forms {#forms-12}
+### Forms {#forms-15}
 
 ***Note**: In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP2 release includes hotfixes delivered in [previous cumulative fix packs](#previous).*
 
@@ -1239,7 +1254,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 * If you modify and check in an XFS stylesheet multiple times and create a new version of the Workbench application, only the first checked-in changes are visible in the new version of the application. (Ref# NPR-12258)
 * If you are using subforms to create header and rows in an XDP template with **Overflow Leader**and **Keep with next** options enabled, a row moves on top of the header from second page onwards in the final XFA form. (Ref# NPR-12208)
 
-### Commerce {#commerce-2}
+### Commerce {#commerce-3}
 
 * Request to remove inappropriate wording from AEM 6.1 code-base. NPR-12745: Hotfix for CQ-49051
 
@@ -1267,7 +1282,7 @@ There is an API change between 6.1 SP2 and 6.1 SP2-CFP2:
 
 * **com.day.cq.dam.scene7.api** exported package version changed from 6.1.0 to 7.1.0.
 
-### Platform {#platform-10}
+### Platform {#platform-11}
 
 * NPR-11309: Hotfix for **Oak 1.2.17**
 * User preferences not replicated using the reverse replication agent. NPR-11765: Hotfix for GRANITE-12965  
@@ -1276,7 +1291,7 @@ There is an API change between 6.1 SP2 and 6.1 SP2-CFP2:
 * Users synchronized from LDAP not searchable by user id. NPR-11457: Hotfix for CQ-82051
 * Merged tag appears as duplicate on TouchUI. NPR-11319: Hotfix for CQ-88485
 
-### Sites {#sites-13}
+### Sites {#sites-16}
 
 * Siteadmin search panel doesn't open the right dialog. NPR-11112: Hotfix for CQ-43790
 * Search Rail Filters issue: Orientation and Style don't fetch/refresh the resultset. NPR-11589: Hotfix for CQ-87978
@@ -1294,7 +1309,7 @@ There is an API change between 6.1 SP2 and 6.1 SP2-CFP2:
 * Adobe Target Mbox component doesn't work as expected. NPR-11718: Hotfix for CQ-59499
 * Offer template does not display the scroll bar if the page contains multiple components. NPR-11696: Hotfix for CQ-83783
 
-### Assets {#assets-11}
+### Assets {#assets-13}
 
 * Uploading a PDF file completely exhausts CPU resources. NPR-11749: Hotfix for NPR-12929
 * Cannot publish asset that is moved to a folder that already contains another asset of the same name. NPR-11732: Hotfix for CQ-90511  
@@ -1309,7 +1324,7 @@ There is an API change between 6.1 SP2 and 6.1 SP2-CFP2:
 * Slow download of assets on author server. NPR-11273  
 * PDF files do not render properly. NPR-11273: Hotfix for CQ-40650
 
-### Forms {#forms-13}
+### Forms {#forms-16}
 
 ***Note:** The AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using a separate Forms add-on package. For details, see [Install AEM Forms add-on](#install-forms).*
 
@@ -1569,7 +1584,7 @@ For AEM 6.1 SP2-CFP2 and higher versions, use the Uber Jar for AEM 6.1 SP2-CFP2 
 >
 ><dependency>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<groupId>com.adobe.aem</groupId>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<artifactId>uber-jar</artifactId>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<version>6.1.SP2-CFP2</version>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<classifier>obfuscated-apis</classifier>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<scope>provided</scope>!!discoiqbr!!</dependency>!!discoiqbr!!
 
-## OSGi bundles and content packages included {#osgi-bundles-and-content-packages-included}
+## OSGi bundles and content packages included {#osgi-bundles-and-content-packages-included-3}
 
 The following text document lists the OSGi bundles included in the latest CFP.
 

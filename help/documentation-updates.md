@@ -3,9 +3,9 @@ title: "AEM Documentation: Recent Documentation Updates"
 seo-title: Learn more about the most recent Adobe Experience Manager (AEM) documentation updates.
 description: AEM Documentation, what’s new | Adobe Experience Manager
 seo-description: AEM Documentation, what’s new | Adobe Experience Manager
-uuid: 464b4c71-0774-478e-9dc3-a45a24066629
+uuid: b28ff051-1c27-436b-9b89-fad59253ad61
 contentOwner: trushton
-discoiquuid: 066f2ef1-d1f4-4bd7-9ea9-328d5ecfd55a
+discoiquuid: 6a6451a9-33f5-4f86-91a3-7374b6b50d9b
 index: y
 internal: n
 snippet: y

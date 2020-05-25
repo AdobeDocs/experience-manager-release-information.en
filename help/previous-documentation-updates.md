@@ -3,9 +3,9 @@ title: Previous Documentation Updates
 seo-title: Previous Documentation Updates
 description: null
 seo-description: null
-uuid: 17e17868-76c5-4b17-b6f6-763e2dded160
+uuid: cd458cee-fedd-49e9-9ff6-12e4bb6d9a06
 contentOwner: alvawb
-discoiquuid: 390f00ac-f8f6-4c06-b8c0-8258dd27b657
+discoiquuid: 9f2aeacf-6ecd-40c5-a7e7-5ff7c040c079
 index: y
 internal: n
 snippet: y
