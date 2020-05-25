@@ -1,7 +1,7 @@
 ---
 title: AEM Product Update Releases Roadmap
-seo-title: AEM Product Update Releases Roadmap
 description: Upcoming AEM update releases
+<<<<<<< HEAD
 seo-description: Upcoming AEM update releases
 uuid: 49a4898b-a32a-4388-a270-4b7953ac5af5
 contentOwner: vishgupt
@@ -10,6 +10,12 @@ discoiquuid: 8ad58c09-449d-40c1-89fa-f10c4a9dcf37
 index: y
 internal: n
 snippet: y
+=======
+uuid: 617b63dd-1a64-489f-823f-2f1e62fba91a
+contentOwner: vishgupt
+products: SG_EXPERIENCEMANAGER
+discoiquuid: 871959be-5ab0-43a3-921b-1b0bd83e9c21
+>>>>>>> master
 ---
 
 # AEM Product Update Releases Roadmap{#aem-product-update-releases-roadmap}

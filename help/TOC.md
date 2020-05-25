@@ -1,13 +1,11 @@
-# Table of Contents {#table-of-contents}
-
 ---
 cloud: experience-cloud
-product: adobe
-archtype: end-user
-user-guide: null
+product: Adobe Experience Manager
+audience: end-user
+user-guide-title: Experience Manager Release Information Help
 ---
 
-# Table of Contents {#table-of-contents}
+# Experience Manager Release Information {#using}
 
 + [AEM Forms JEE Patch Installer 0011](quick-fixes/6-5/jee-patch-0011.md)
 + [AEM Forms JEE Patch Installer 0015](quick-fixes/6-4/jee-patch-0015.md)
@@ -19,3 +17,4 @@ user-guide: null
 + [Previous Documentation Updates](previous-documentation-updates.md)
 + [AEM Documentation: Recent Documentation Updates](documentation-updates.md)
 + [AEM Product Update Releases Roadmap](update-releases-roadmap.md)
++ [AEM Releases Update](https://chl-author.corp.adobe.com/content/help/en/experience-manager/aem-releases-updates.html)

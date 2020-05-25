@@ -1,7 +1,7 @@
 ---
 title: Installing Cumulative Fix Packs on AEM Forms JEE
-seo-title: Installing Cumulative Fix Packs on AEM Forms JEE
 description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE
+<<<<<<< HEAD
 seo-description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE
 uuid: 7acfda23-2d1a-433e-9912-fa1502b68d42
 contentOwner: amgoyal
@@ -10,6 +10,12 @@ discoiquuid: d9e2e9e7-c20c-4a46-acb7-28c73b42b85f
 index: y
 internal: n
 snippet: y
+=======
+uuid: 52905f47-cfef-40f2-a0ca-93f6ce381e34
+contentOwner: amgoyal
+products: SG_AEMFORMS_JEE
+discoiquuid: 5742f6aa-8dd1-42a9-8a91-e4b2cb30a6c1
+>>>>>>> master
 ---
 
 # Installing Cumulative Fix Packs on AEM Forms JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
@@ -64,7 +70,6 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 >[!NOTE]
 >
 >Post AEM 6.2 CFP4, you can use the following instructions to configure the timeout for DSC operations in case you face problems due to timeout during the upgrade process. (See NPR-16774 in [AEM 6.2 CFP4 release notes](release-notes--aem-6-2-cumulative-fix-pack.md)).
->
 
 DSC deployment takes a variable time due to which it might fail. To change the timeout of DSC operations such as Install, Load, Start, and Stop, you need to set the `adobe.component.registry.timeout` using the JVM argument with the -D option.
 
@@ -80,16 +85,20 @@ You can also change the timeouts at the component level using the following thre
 
 Use the following commands to set the timeout at component level:
 
-1. To set the timeout of all service operations to 600 sec:   
+1. To set the timeout of all service operations to 600 sec:
+
    set " `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`"
 
-1. To set the `DesigntimeService` operation values timeout to 500 sec, use:  
+1. To set the `DesigntimeService` operation values timeout to 500 sec, use:
+
    set " `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`"
 
-1. To set the `DesigntimeService's previewLCA` operation values timeout to 700 sec, use:  
+1. To set the `DesigntimeService's previewLCA` operation values timeout to 700 sec, use:
+
    set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`"
 
-1. To set the `DSC operations` such as load, install, and so on to 600 sec, use:  
+1. To set the `DSC operations` such as load, install, and so on to 600 sec, use:
+
    set " `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`"
 
 ## Install CFP for AEM 6.1 Forms JEE {#install-cfp-for-aem-forms-jee}
@@ -148,11 +157,11 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 1. Read the Quick Fix Patch Summary information and click **Next**.
 1. Read the Pre-Installation Summary information and click **Install**.
 1. When the installation is complete, click **Next** to apply the quick fix updates to your installed files.
-1. The Start Configuration Manager checkbox is selected by default. Click **Done **to run the Configuration Manager.
+1. The Start Configuration Manager checkbox is selected by default. Click **Done** to run the Configuration Manager.
 
-   To run Configuration Manager later, deselect the **Start Configuration Manager** option before you click **Done**. You can start Configuration Manager later using the appropriate script in the *[AEM_forms_root]/configurationManager/bin* directory.
+   To run Configuration Manager later, deselect the **Start Configuration Manager** option before you click **Done**. You can start Configuration Manager later using the appropriate script in the *`[AEM_forms_root]`/configurationManager/bin* directory.
 
-1. Depending on your application server, choose one of the following documents and follow the instructions in the *Configuring and Deploying AEM forms *section.
+1. Depending on your application server, choose one of the following documents and follow the instructions in the *Configuring and Deploying AEM forms* section.
 
    For AEM Forms 6.3, refer to:
 
@@ -173,4 +182,3 @@ Perform the following steps, in the specified sequence, to install cumulative fi
     * [Installing and Deploying AEM forms for WebLogic](http://www.adobe.com/go/learn_aemforms_installWebLogic_61)
 
 1. Restart AEM Forms JEE server.
-

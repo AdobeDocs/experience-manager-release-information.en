@@ -1,16 +1,11 @@
 ---
 title: AEM Forms releases
-seo-title: AEM Forms releases
 description: Contains list of all the AEM Forms releases and corresponding packages
-seo-description: Contains list of all the AEM Forms releases and corresponding packages
 uuid: 852417ce-c6e4-45df-be51-9239ed38d294
 contentOwner: khsingh
 content-type: troubleshooting
 topic-tags: introduction
 discoiquuid: 1405005c-ca37-4bf4-94f2-e80012ef7872
-index: y
-internal: n
-snippet: y
 ---
 
 # AEM Forms releases{#aem-forms-releases}
@@ -19,8 +14,13 @@ Adobe Experience Manager Forms is an application deployed onto AEM. It extends e
 
 The following list contains all the AEM Forms add-on packages released till today, corresponding AEM versions (Pre-requisites), download links of packages, and other helpful information:
 
-<details> <summary>AEM 6.5 Forms releases</summary> 
- <table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<!--
+The following tables were wrapped in a details accordion.
+-->
+
+AEM 6.5 Forms releases
+
+<table> 
   <tbody> 
    <tr> 
     <td><strong>Date</strong></td> 
@@ -119,9 +119,8 @@ The following list contains all the AEM Forms add-on packages released till toda
   <li>AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.<br /> </li> 
   <li>AEM Forms Compatibility Package for 6.5.4.0 remains the same as that of 6.5.3.0 release. </li> 
  </ol> 
-</details>
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody> 
   <tr> 
    <td><strong>Date</strong></td> 
@@ -291,7 +290,7 @@ The following list contains all the AEM Forms add-on packages released till toda
 1. AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.  
 1. AEM Forms Compatibility Package for 6.4.8.0 remains the same as that of 6.4.7.0 release.
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody> 
   <tr> 
    <td><strong>Date</strong></td> 
@@ -635,7 +634,7 @@ The following list contains all the AEM Forms add-on packages released till toda
 1. AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package..  
 1. **IMPORTANT**: Before installing the LiveCycle embed package, install [AEM Cumulative Fix Pack 6.3.1.1](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) and ensure that the version of the **Apache Sling Authentication Service** bundle is 1.4.0 or more, otherwise the server may become unresponsive and unrecoverable. You can check the version of bundle at http://[server]:[port]/system/console/bundles.
 
-<table border="1" cellpadding="1" cellspacing="0" height="1000" width="814"> 
+<table> 
  <tbody> 
   <tr> 
    <th><strong>Date</strong><br /> </th> 
@@ -1020,7 +1019,7 @@ The following list contains all the AEM Forms add-on packages released till toda
 >
 >AEM Forms regularly releases patches or quick fixes to address bugs and to improve the usability and performance of the software. If you are encountering an issue with using AEM Forms, it is possible that it is already addressed through a patch or Quick Fixes. For details about the available Quick Fixes, see [Adobe Experience Manager 6.2 hot fixes.](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody> 
   <tr> 
    <th><strong>Date</strong> <br /> </th> 
@@ -1394,17 +1393,17 @@ The following list contains all the AEM Forms add-on packages released till toda
  </tbody> 
 </table>
 
-[1] If you are installing AEM 6.1 Forms Feature Pack 1 using IBM WebSphere with Oracle RDBMK, then before starting AEM 6.1, use [NPR-7700](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/hotfix/cq-6.1.0-hotfix-7700) to add a few JAR files to AEM 6.1 setup (JAR/WAR) files. For detailed steps see, [Installing and Configuring AEM Forms](https://helpx.adobe.com/aem-forms/6-1/installing-configuring-aem-forms.html).
+`[1]` If you are installing AEM 6.1 Forms Feature Pack 1 using IBM WebSphere with Oracle RDBMK, then before starting AEM 6.1, use [NPR-7700](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/hotfix/cq-6.1.0-hotfix-7700) to add a few JAR files to AEM 6.1 setup (JAR/WAR) files. For detailed steps see, [Installing and Configuring AEM Forms](https://helpx.adobe.com/aem-forms/6-1/installing-configuring-aem-forms.html).
 
-[2] Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM Forms JEE installer, AEM Forms App Source Code, AEM Forms Designer Installer, the AEM Forms Workbench Hotfix, or AEM-fd Client SDK (if applicable for the release).
+`[2]` Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM Forms JEE installer, AEM Forms App Source Code, AEM Forms Designer Installer, the AEM Forms Workbench Hotfix, or AEM-fd Client SDK (if applicable for the release).
 
-[3] AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
+`[3]` AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
 
 >[!NOTE]
 >
 >AEM Forms regularly releases patches or quick fixes to address bugs and to improve the usability and performance of the software. If you are encountering an issue with using AEM Forms, it is possible that it is already addressed through a patch or Quick Fixes. For details about the available Quick Fixes, see [Adobe Experience Manager 6.1 hot fixes.](https://helpx.adobe.com/experience-manager/kb/aem61-available-hotfixes.html)
 
-<table border="1" cellpadding="1" cellspacing="0" width="100%"> 
+<table> 
  <tbody> 
   <tr> 
    <th><strong>Date</strong> </th> 
@@ -1490,7 +1489,7 @@ The following list contains all the AEM Forms add-on packages released till toda
  </tbody> 
 </table>
 
-[1] AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
+`[1]` AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
 
 >[!NOTE]
 >
@@ -1505,4 +1504,3 @@ The following list contains all the AEM Forms add-on packages released till toda
 * Always install the latest available Service Pack/Feature Pack add-on. It is highly recommended as it includes security, performance, stability, and key customer fixes and enhancements released since the general availability of the base version. 
 * Whenever you install a Service Pack or upgrade from a previous version of AEM to a newer version, always install the corresponding AEM Forms add-on package. For example, if you upgrade from AEM 6.1 Forms add-on package version 2.2.4 to AEM 6.1 Service Pack 1, after installing AEM 6.1 Service Pack 1, install AEM forms add-on package version 2.4.50.
 * Uninstallation of the AEM Forms add-on package is not supported.
-
