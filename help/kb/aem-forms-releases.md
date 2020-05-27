@@ -1491,7 +1491,7 @@ AEM 6.5 Forms releases
 >
 >AEM Forms regularly releases patches or quick fixes to address bugs and to improve the usability and performance of the software. If you are encountering an issue with using AEM Forms, it is possible that it is already addressed through a patch or Quick Fixes. For details about the available Quick Fixes, see [Adobe Experience Manager 6.0 hot fixes](https://helpx.adobe.com/experience-manager/kb/aem6-available-hotfixes.html)
 
-### Things to remember {#things-to-remember}
+## Things to remember {#things-to-remember}
 
 * The AEM Forms add-on packages listed above are applicable to both AEM Forms on OSGi and AEM Forms on JEE.  
 * All AEM Forms add-on packages and Quick Fixes are cumulative; that is, an add-on package and Quick Fix includes all the preceding add-ons and Quick Fixes for a component for the corresponding version. For example, if you are installing Quick Fix 2.4.50, it already includes AEM Forms add-on package 2.4.26.

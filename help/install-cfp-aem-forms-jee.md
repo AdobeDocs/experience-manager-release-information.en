@@ -10,7 +10,7 @@ discoiquuid: d9e2e9e7-c20c-4a46-acb7-28c73b42b85f
 
 # Installing Cumulative Fix Packs on AEM Forms JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
-## Install CFP on AEM 6.3 Forms JEE {#6-3}
+## Install CFP on AEM 6.3 Forms JEE {#install-cfp-forms-6-3}
 
 Perform the following steps, in the specified sequence, to install cumulative fix pack on AEM 6.3 Forms JEE.
 
@@ -36,7 +36,7 @@ If you are using AEM 6.3 Forms JEE server with Oracle database, configure the fo
 
 1. Import the modified file again and then, re-run the sync.
 
-## Install CFP on AEM 6.2 Forms JEE {#install-cfp-on-aem-forms-jee}
+## Install CFP on AEM 6.2 Forms JEE {#install-cfp-on-aem-62-forms-jee}
 
 Perform the following steps, in the specified sequence, to install cumulative fix pack on AEM 6.2 Forms JEE.
 
