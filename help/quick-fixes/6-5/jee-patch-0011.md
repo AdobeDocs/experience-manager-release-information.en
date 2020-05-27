@@ -30,13 +30,13 @@ The AEM 6.5 Forms JEE patch installer 0011 includes all fixed issues for all com
     * **Windows** 
       Navigate to the appropriate directory on the installation media or folder on your hard disk where you copied the installer, and double-click the aemforms65_cfp_install.exe file.
 
-        * (Windows 32-bit) `Windows\Disk1\InstData\VM`
-        * (Windows 64-bit) `Windows_64Bit`\ `Disk1\InstData\VM`
+      * (Windows 32-bit) `Windows\Disk1\InstData\VM`
+      * (Windows 64-bit) `Windows_64Bit`\ `Disk1\InstData\VM`
 
     * **Linux** 
       Navigate to the appropriate directory, and from a command prompt, type `./aem65_cfp_install.bin`.
 
-        * (Linux) `Linux/Disk1/InstData/NoVM`
+      * (Linux) `Linux/Disk1/InstData/NoVM`
 
    This launches an install wizard that guides you through the installation.
 
@@ -48,11 +48,11 @@ The AEM 6.5 Forms JEE patch installer 0011 includes all fixed issues for all com
 
 1. (Windows only) Perform one of the following steps:
 
-    * Deselect the Start Configuration Manager option before you click Done. Run Configuration Manager later by using the ConfigurationManager.bat file located in [aem-forms root]\configurationManager\bin. Using ConfigurationManager.bat helps you avoid manually updating name of axis.jar name in .lax files
-    * Deselect the Start Configuration Manager option before you click Done. Before running configuration manager using **ConfigurationManager.exe** or **ConfigurationManager_IPv6.exe**, navigate to *&lt;AEMForms_Install_Dir&gt;\configurationManager\bin *directory and update** axis.jar** to **axis-1.4.1.1.jar** in the following files:
+    * Deselect the Start Configuration Manager option before you click Done. Run Configuration Manager later by using the ConfigurationManager.bat file located in `[aem-forms root]\configurationManager\bin`. Using `ConfigurationManager.bat` helps you avoid manually updating name of axis.jar name in .lax files
+    * Deselect the Start Configuration Manager option before you click Done. Before running configuration manager using **ConfigurationManager.exe** or **ConfigurationManager_IPv6.exe**, navigate to *&lt;AEMForms_Install_Dir&gt;\configurationManager\bin* directory and update **axis.jar** to **axis-1.4.1.1.jar** in the following files:
 
-        * ConfigurationManager.lax
-        * ConfigurationManager_IPv6.lax
+      * ConfigurationManager.lax
+      * ConfigurationManager_IPv6.lax
 
 1. (UNIX-based only) Before running configuration manager using **ConfigurationManager.exe** or **ConfigurationManager_IPv6.exe**, navigate to *&lt;AEMForms_Install_Dir&gt;\configurationManager\bin* directory and update **axis.jar** to **axis-1.4.1.1.jar** in the following files:
 
@@ -78,7 +78,6 @@ If you had SAML authentication configured and facing issues with large IDP metad
 
 1. Set the following system property in your application server:  
    `um.saml.enable.large.xml=true`
-
 1. Restart the server.
 1. Delete existing SAML auth providers and add them again for existing domains as described in SAML settings.
 
@@ -88,4 +87,4 @@ If you had SAML authentication configured and facing issues with large IDP metad
 * Document Security
 * Foundation JEE
 
-[**Contact Support**](https://www.adobe.com/account/sign-in.supportportal.html)
+[Contact Support](https://www.adobe.com/account/sign-in.supportportal.html)

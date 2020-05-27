@@ -1,19 +1,10 @@
 ---
 title: "Release Notes: AEM 6.1 Cumulative Fix Pack "
 description: null
-<<<<<<< HEAD
 seo-description: null
 uuid: 7bee5414-01fc-486f-a6e2-0d3dd9c4a4d1
 contentOwner: cmajumda
 discoiquuid: 8d5a5d18-094b-486b-a921-474617f1a7b6
-index: y
-internal: n
-snippet: y
-=======
-uuid: bf3719fa-b95a-454c-8d11-e2e63f124bbf
-contentOwner: cmajumda
-discoiquuid: 19548880-efa6-46ff-846e-ee2558f0e243
->>>>>>> master
 ---
 
 # Release Notes: AEM 6.1 Cumulative Fix Pack {#release-notes-aem-cumulative-fix-pack}
@@ -35,8 +26,7 @@ Starting with AEM 6.1 Service Pack 2, Adobe has introduced a single delivery mod
 * Increased quality assurance
 * Simplified installation (User installs a CFP as a single package that has no dependencies, except for the latest service pack)
 
-For more information on CFP and other types of releases, see [Maintenance Release Vehicle.  
-](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/maintenance-release-vehicle-definitions.html)
+For more information on CFP and other types of releases, see [Maintenance Release Vehicle](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/maintenance-release-vehicle-definitions.html).
 
 ## About the release {#about-the-release}
 
@@ -50,13 +40,11 @@ AEM Cumulative Fix Pack 6.1SP2-CFP18, released on January 11, 2019, includes the
 
 >[!NOTE]
 >
->* Email bundle of apache commons **org.apache.commons/commons-email/1.5 **has been added replacing **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
+>* Email bundle of apache commons **org.apache.commons/commons-email/1.5** has been added replacing **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
 >
->* Apache Sling Scripting Sightly Models use  
->  Provider bundle **org.apache.sling.scripting.sightly.models.provider/1.0.0 **has been added.
+>* Apache Sling Scripting Sightly Models use Provider bundle **org.apache.sling.scripting.sightly.models.provider/1.0.0** has been added.
 >
->* This CFP includes** jQuery 1.12.4 **that can potentially impact your javascript application code. Ensure that you use appropriate JAVA APIs or library updates.
->
+>* This CFP includes **jQuery 1.12.4** that can potentially impact your javascript application code. Ensure that you use appropriate JAVA APIs or library updates.
 
 ## Issues included {#issues-included}
 
@@ -96,7 +84,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP17:
 
 #### Assets {#assets}
 
-* [Firefox/Chrome] Unable to download assets in Asset Share page. NPR-25636: Hotfix for CQ-4244391
+* (Firefox/Chrome) Unable to download assets in Asset Share page. NPR-25636: Hotfix for CQ-4244391
 * Remove S7 polling importer from S7 cloud service configuration. NPR-25239: Hotfix for CQ-95236
 * Publishing video generates DynamicMediaPreprocessor error. NPR-24981: Hotfix for CQ-4247072
 
@@ -104,7 +92,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP17:
 
 * "Live copy suspended" option of live-copy site is unchecked when field is modified in source site. NPR-25696: Hotfix for CQ-4250680
 * WCM Foundation component 'Table' is vulnerable to Stored Cross Site Scripting. NPR-25185: Hotfix for CQ-4240760
-* [Touch UI] NPE in datasource provider when trying to edit the embedded component dialog. NPR-25914: Hotfix for CQ-4250845
+* (Touch UI) NPE in datasource provider when trying to edit the embedded component dialog. NPR-25914: Hotfix for CQ-4250845
 * Adaptive Image rescaling produces artifacts at the bottom of the image. NPR-26269: Hotfix for CQ-44156
 * Rich Text Editor adds inline css "background-color" to links when using backspace/delete. NPR-26251: Hotfix for CQ-4251200
 
@@ -134,7 +122,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP17:
 #### Forms - Foundation JEE {#forms-foundation-jee}
 
 * The .sh files in LCM have been submitted with windows line endings causing the LCM not to run on unix platforms. NPR-22957
-* [SOAP interface] Unable to open workspace after applying axis.jar 1.4 file. NPR-24529: Hotfix for CQ-4241833
+* (SOAP interface) Unable to open workspace after applying axis.jar 1.4 file. NPR-24529: Hotfix for CQ-4241833
 
 * Changing the Form Locale to French (Canada) in the Dictionary Spell Check does not work in AEM Forms Designer. NPR-20765
 
@@ -166,7 +154,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP16:
 
 #### Platform {#platform}
 
-* [Classic UI] Slow performance in tag console due to numerous queries. NPR-23349: Hotfix for CQ-4201748
+* (Classic UI) Slow performance in tag console due to numerous queries. NPR-23349: Hotfix for CQ-4201748
 * Patch jQuery 1.12.4 from clientlib to include security fix. NPR-24130: Hotfix for Granite-20058
 * Apache Sling Scripting Sightly Models use Provider bundle org.apache.sling.scripting.sightly.models.provider/1.0.18. NPR-22614: Hotfix for Sling-5944, Sling-6866
 * Replication of delete event doesn't check for rights. NPR-23382: Hotfix for CQ-4241234
@@ -194,7 +182,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP16:
 
 #### User Interface {#user-interface}
 
-* [Classic UI] Performance issues with selectionchanged listener in case of multiple dropdowns. NPR-22724: Hotfix for CQ-4237215
+* (Classic UI) Performance issues with selectionchanged listener in case of multiple dropdowns. NPR-22724: Hotfix for CQ-4237215
 
 #### WCM - Foundation Components {#wcm-foundation-components}
 
@@ -246,10 +234,10 @@ Here are the key highlights of AEM 6.1 SP2-CFP15:
 * AOD-AEM asset synchronization stops working. NPR-22149: Hotfix for CQ-4207118
 * Creation/Deletion of the asset doesn’t delete the create audit of the previous asset. NPR-21557: Hotfix for CQ-4231831
 * Text extraction gets stuck for a corrupt PDF making AEM instance sluggish. NPR-21527: Hotfix for CTG-4150375
-* [Classic UI] Damadmin stops loading when rep:policy (access control privileges) are applied under wcm/core/content/damadmin/tabs/searchpanel. NPR-21525: Hotfix for CQ-4229590
+* (Classic UI) Damadmin stops loading when rep:policy (access control privileges) are applied under wcm/core/content/damadmin/tabs/searchpanel. NPR-21525: Hotfix for CQ-4229590
 * AEM instance crashes while extracting image from doc file. NPR-21521: Hotfix for CQ-4231143
-* [DAM] Multiple cross-site scripting (XSS) in DAM metadata editor. NPR-21434: Hotfix for CQ-83472
-* [DM] [Classic UI] Multiple cross-site scripting (XSS) vulnerabilities in some SWF files in AEM CQ Author/Publish quickstart. NPR-21379, NPR-21073: Hotfix for NPR-20612
+* (DAM) Multiple cross-site scripting (XSS) in DAM metadata editor. NPR-21434: Hotfix for CQ-83472
+* (DM) [Classic UI] Multiple cross-site scripting (XSS) vulnerabilities in some SWF files in AEM CQ Author/Publish quickstart. NPR-21379, NPR-21073: Hotfix for NPR-20612
 * Hash code collision causes wrong size of displayed image. NPR-21674: Hotfix for CQ-4223363
 
 ### Sites {#sites-3}
@@ -314,6 +302,7 @@ List of OSGi bundles included in AEM 6.1 SP2-CFP15
 List of Content Packages included in AEM 6.1SP2-CFP15
 
 [Get File](assets/6_1cfp15content_packagelist1.txt)
+
 AEM Cumulative Fix Pack 6.1 SP2-CFP14 is an important update that includes key customer fixes released since the general availability of [AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html) in August 2016. It includes version 1.2.18 of the built-in repository (Apache Jackrabbit Oak).
 
 Here are the key highlights of AEM 6.1 SP2-CFP14:
@@ -326,9 +315,9 @@ Here are the key highlights of AEM 6.1 SP2-CFP14:
 ### Assets {#assets-2}
 
 * TIFF images get auto-downloaded on clicking Original under Rendition. NPR-20466: Hotfix for CQ-4224679
-* [Classic UI] Dam Admin fails to load tags when the referencing tag is deleted. NPR-20629: Hotfix for CQ-4224004
-* [Chrome] Unable to open "detailed asset view" or "User preferences" while viewing a video asset on any tablet service. NPR-20863: Hotfix for CQ-4226516
-* [DAM] [ClassicUI] Multiple cross-site scripting (XSS) vulnerabilities in some SWF files in AEM CQ Author/Publish quickstart. NPR-21071, NPR-21074: Hotfix for NPR-20612
+* (Classic UI) Dam Admin fails to load tags when the referencing tag is deleted. NPR-20629: Hotfix for CQ-4224004
+* (Chrome) Unable to open "detailed asset view" or "User preferences" while viewing a video asset on any tablet service. NPR-20863: Hotfix for CQ-4226516
+* (DAM) (ClassicUI) Multiple cross-site scripting (XSS) vulnerabilities in some SWF files in AEM CQ Author/Publish quickstart. NPR-21071, NPR-21074: Hotfix for NPR-20612
 
 ### Sites {#sites-4}
 
@@ -337,7 +326,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP14:
 * Export option to csv from a search page is fetching only first 10 records. NPR-20832: Hotfix for CQ-44157
 * The value does not reset even when users try to cancel the inheritance on page properties. NPR-20931: Hotfix for CQ-83261
 * When using the move page wizard, the destination step makes the system unresponsive. NPR-21011: Hotfix for CQ-4228909
-* [Classic UI] Move tags cannot be removed. NPR-21149: Hotfix for CQ-4229164
+* (Classic UI) Move tags cannot be removed. NPR-21149: Hotfix for CQ-4229164
 
 ### Platform {#platform-1}
 
@@ -346,7 +335,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP14:
 
 ### Integration {#integration-1}
 
-* [Classic UI] Inconsistent behavior with Parsys components while targeting in Classic UI. NPR-20645: Hotfix for CQ-4219983
+* (Classic UI) Inconsistent behavior with Parsys components while targeting in Classic UI. NPR-20645: Hotfix for CQ-4219983
 
 ### Commerce {#commerce-1}
 
@@ -555,6 +544,7 @@ List of OSGi bundles updated in AEM 6.1SP2-CFP12
 List of content packages updated in AEM 6.1SP2-CFP12
 
 [Get File](assets/list_of_content_packagesupdatedinaem61sp2-cfp12.txt)
+
 AEM Cumulative Fix Pack 6.1 SP2-CFP11 is an important update that includes key customer fixes released since the general availability of AEM 6.1 SP2.
 
 The key highlights of this Cumulative Fix Pack are:
@@ -691,14 +681,14 @@ Here are the key highlights of AEM 6.1 SP2-CFP9:
 * Improvements in Asset Management and Translation
 * Fixes in the following components:
 
-    * CUG widget and LiveCopy in Sites
-    * Adaptive Forms Rule Editor
-    * Form Analytics and Forms Portal
-    * Forms Designer, Output Service, and Workbench
+  * CUG widget and LiveCopy in Sites
+  * Adaptive Forms Rule Editor
+  * Form Analytics and Forms Portal
+  * Forms Designer, Output Service, and Workbench
 
 ### Platform {#platform-5}
 
-* Unusual build up of sling distribution packages observed after upgrading from AEM 6.1 SP1 to 6.1 SP2 and installing CFP3 and Communities FP6.* *NPR-15154; Hotfix for GRANITE-16183
+* Unusual build up of sling distribution packages observed after upgrading from AEM 6.1 SP1 to 6.1 SP2 and installing CFP3 and Communities FP6. NPR-15154; Hotfix for GRANITE-16183
 * Request to consider removing the `ReplicationQueue#forceRetry` called during agent startup, as it causes a significant slowdown in instance startup when there are lots of agents. NPR-14130; Hotfix for GRANITE-13095
 * Rendering a page as a PDF in production ready mode (by changing the extension .html to .pdf using Pdf Rewriter) displays a blank page with an error. NPR-16777; Hotfix for CQ-4206337
 * A sync issue occurs while updating a node value from a set of associated nodes in a publish instance, while it is being automatically synced to another publish instance. NPR-12928; Hotfix for CQ-4201878
@@ -792,12 +782,12 @@ Here are the key highlights of AEM 6.1 SP2-CFP8:
 * Secures Forms prefill service
 * Fixes issues encountered while:
 
-    * Uploading duplicate assets and watermarking of assets
-    * Updating LiveCopy components and page properties
-    * Saving inline libraries using Campaign
-    * Creating and submitting XSD-based adaptive forms
-    * Previewing and submitting adaptive forms with file attachment widgets
-    * Accessing the AEM Forms app
+  * Uploading duplicate assets and watermarking of assets
+  * Updating LiveCopy components and page properties
+  * Saving inline libraries using Campaign
+  * Creating and submitting XSD-based adaptive forms
+  * Previewing and submitting adaptive forms with file attachment widgets
+  * Accessing the AEM Forms app
 
 ### Platform {#platform-6}
 
@@ -839,13 +829,13 @@ Here are the key highlights of AEM 6.1 SP2-CFP8:
 * For adaptive forms containing the file attachment component, the submitted XML data does not contain the information for the file attachment component, when the form has any lazy loaded fragment. NPR-16273
 * While saving an Adaptive Form with an attachment, the full path of the attachment is added in the `fileAttachment` tag of the generated XML, rather than the name of the attachment. NPR-16272
 * In case of a file attachment widget where multiple attachments are allowed, if a new form instance with an attachment is submitted on a widget where a previous attachment was already attached, an error code appears on opening the added attachment instead of the actual content. NPR-16339
-* Securing forms prefill service from unauthorized access through protocols such as `file://`, `http://`, and `ftp://`. For details, refer [Configuring Prefill Service using Configuration Manager](https://helpx.adobe.com/aem-forms/6-1/prepopulate-adaptive-form-fields.html#main-pars_header_601884624). ** **NPR-15435.
+* Securing forms prefill service from unauthorized access through protocols such as `file://`, `http://`, and `ftp://`. For details, refer [Configuring Prefill Service using Configuration Manager](https://helpx.adobe.com/aem-forms/6-1/prepopulate-adaptive-form-fields.html#main-pars_header_601884624). NPR-15435.
 
 #### Forms JEE installer {#forms-jee-installer-5}
 
 **Process Management - HTML Workspace**
 
-* Securing forms prefill service from unauthorized access through protocols such as `file://`, `http`://, and `ftp://`. For details, refer [Configuring Prefill Service using Configuration Manager](https://helpx.adobe.com/aem-forms/6-1/prepopulate-adaptive-form-fields.html#main-pars_header_601884624). NPR-15437 ** **
+* Securing forms prefill service from unauthorized access through protocols such as `file://`, `http`://, and `ftp://`. For details, refer [Configuring Prefill Service using Configuration Manager](https://helpx.adobe.com/aem-forms/6-1/prepopulate-adaptive-form-fields.html#main-pars_header_601884624). NPR-15437
 
 #### AEM Forms App / Mobile Workspace {#aem-forms-app-mobile-workspace}
 
@@ -858,6 +848,7 @@ The following text document lists the OSGi bundles included in AEM 6.1 Cumulativ
 List of OSGi Bundles updated between AEM 6.1 SP2 and CFP8
 
 [Get File](assets/aem_6.1_sp2_cfp8_updated_osgi_bundle_list.txt)
+
 Here are the key highlights of AEM 6.1 SP2-CFP7:
 
 * Fixed issues while using Site components such as:
@@ -887,7 +878,7 @@ Column Control
 * On deleting an EPS file in AEM, the Scene7 synchronization purges not only the EPS file but also all its related assets, instead of deleting only the EPS file. NPR-15700: HotFix for CQ-4200226
 * After uploading a PDF to AEM Assets, the PDF thumbnail shows corrupt images if large images are contained in the PDF.  
   NPR-15342: HotFix for CTG-4150272
-* After enabling dynamic media, video reports are not visible to users with read access to them. NPR-15979:   
+* After enabling dynamic media, video reports are not visible to users with read access to them. NPR-15979: 
   HotFix for CQ-4202019
 
 ### Integration {#integration-6}
@@ -933,13 +924,13 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 
 * Improved editing experience in Sites:
 
-    * Removed glitches in Bulk editor Inline editors
-    * Resolved issues with restoring the inheritance functionality in Live Copy
+  * Removed glitches in Bulk editor Inline editors
+  * Resolved issues with restoring the inheritance functionality in Live Copy
 
 * Better targeting experience:
 
-    * Resolved non-pointer exceptions by TargetedContentManager
-    * ReconfiguredTarget Framework to ensure it is responsive to client context changes
+  * Resolved non-pointer exceptions by TargetedContentManager
+  * ReconfiguredTarget Framework to ensure it is responsive to client context changes
 
 * Increased the versatility of the offloading workflow to accommodate folder names with special characters
 * Fixed issues with creating adaptive forms using XSD templates and Assembler service.
@@ -993,7 +984,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 
 ### Feature Packs included in CFP6 {#feature-packs-included-in-cfp-2}
 
-* `HTML5 forms`** **(available in Forms add-on package): Request to enhance tabbing support in HTML forms so that it follows the precedence of subforms in the hierarchy instead of the geographical hierarchy. NPR-12990
+* `HTML5 forms` (available in Forms add-on package): Request to enhance tabbing support in HTML forms so that it follows the precedence of subforms in the hierarchy instead of the geographical hierarchy. NPR-12990
 
 ### Known issues for Cumulative Fix Pack 6 {#known-issues-for-cumulative-fix-pack}
 
@@ -1002,7 +993,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 
 1. Access Web Console from *http://localhost:4502/system/console/configMgr*.
 1. Edit the configuration `Apache Sling GET Servlets`.
-1. Remove the entry [index,index.html] from Index Resources by clicking the (-) button.
+1. Remove the entry `[index,index.html]` from Index Resources by clicking the (-) button.
 1. Click the (+) sign to add the following entries:
 
     * index
@@ -1010,7 +1001,7 @@ Here are the key highlights of AEM 6.1 SP2-CFP6:
 
 1. Click Save.
 
-For a complete list of issues, see [Known Issues in AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html#Known Issues).
+For a complete list of issues, see [Known Issues in AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html).
 
 **Sites**
 
@@ -1028,16 +1019,16 @@ For a complete list of issues, see [Known Issues in AEM 6.1 SP2](https://docs.ad
 
 **Forms**
 
-***Note:***
-
-*In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP5 release includes hotfixes delivered in [previous cumulative fix packs](release-notes-aem-6-1-cumulative-fix-pack.md#previous).*
-
-*AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and Forms Workbench Hotfix. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) or [Forms Workbench installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms).*
+>[!NOTE]
+>
+>In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP5 release includes hotfixes delivered in [previous cumulative fix packs](release-notes-aem-6-1-cumulative-fix-pack.md#previous).
+>
+>AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and Forms Workbench Hotfix. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) or [Forms Workbench installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms).
 
 **Forms add-on package**
 
 * On submitting a form set, the submission service encodes Chinese language characters in an incorrect format. (NPR-14778)
-* On validating a PDF/A-1b compliant PDF document, AEM Forms return “ `PDFA_METADATA_020_MISMATCHED_TYPE_FOR_PROPERTY`” error. The PDF document validates successfully with Adobe Preflight and third-party validator tools. (NPR-14758)
+* On validating a PDF/A-1b compliant PDF document, AEM Forms return “`PDFA_METADATA_020_MISMATCHED_TYPE_FOR_PROPERTY`” error. The PDF document validates successfully with Adobe Preflight and third-party validator tools. (NPR-14758)
 * When a user tabs back and forth in a calculated decimal field, it causes the value to be displayed incorrectly. The issue occurs only for non-English locales. (NPR-14735)
 * When a PDF document is converted to PDF/A-1b with AEM Forms, an error message is displayed. (NPR-14801)
 
@@ -1086,9 +1077,11 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 
 ### Forms {#forms-13}
 
-**Note: ***In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP4 release includes hotfixes delivered in [previous cumulative fix packs](#previous).*
-
-*AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) and [Install AEM Forms JEE installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms)*.
+>[!NOTE]
+>
+>In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP4 release includes hotfixes delivered in [previous cumulative fix packs](#previous).
+>
+>AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) and [Install AEM Forms JEE installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms).
 
 #### Forms add-on package {#forms-add-on-package-11}
 
@@ -1136,8 +1129,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 
 * Issues with publishing resources associated with the Design Importer component when a page is activated. NPR-13901: Hotfix for CQ-102532  
 * Issues with page properties in the page tree when many product variants are created in the product tree. NPR-13716: Backport for CQ-97547  
-* `RangeError` occurs in Chrome when users include multiple tagspredicate in the Sites Editor search panel. NPR-13475: Hotfix for GRANITE-13855  
-
+* `RangeError` occurs in Chrome when users include multiple tagspredicate in the Sites Editor search panel. NPR-13475: Hotfix for GRANITE-13855
 * AEM has a race condition in i18n. NPR-12520: Hotfix for CQ-61862
 * UI becomes unresponsive when users enter text in input fields for page properties. NPR-13598: Hotfix for CQ-101406
 * Searching for products in the Workflow Models page in TouchUI returns errors. NPR-13076: Hotfix for CQ-97680
@@ -1160,9 +1152,11 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 
 ### Forms {#forms-14}
 
-***Note**: In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP3 release includes hotfixes delivered in [previous cumulative fix packs](#previous).*
-
-*AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) and [Install AEM Forms JEE installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms)*.
+>[!NOTE]
+>
+>In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP3 release includes hotfixes delivered in [previous cumulative fix packs](#previous).
+>
+>AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms) and [Install AEM Forms JEE installer](release-notes-aem-6-1-cumulative-fix-pack.md#install-forms).
 
 #### Forms add-on package {#forms-add-on-package-12}
 
@@ -1204,7 +1198,7 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 
 ### Platform {#platform-10}
 
-* NPR-11724: Hotfix for **Oak 1.2.18** 
+* NPR-11724: Hotfix for **Oak 1.2.18**
 
 * Request for upgrade to Jackrabbit Filevault to 3.1.30. NPR-13455
 * Hotfix for issues with SSL Filters. NPR-12543
@@ -1250,14 +1244,16 @@ If you install AEM 6.1 CFP5 without first installing AEM 6.1 CFP4 or NPR-6985 wi
 
 ### Forms {#forms-15}
 
-***Note**: In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP2 release includes hotfixes delivered in [previous cumulative fix packs](#previous).*
-
-*AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](#install-forms) and [Install AEM Forms JEE installer](#install-forms)*.
+>[!NOTE]
+>
+>In addition to the hotfixes listed below, the cumulative AEM 6.1 SP2-CFP2 release includes hotfixes delivered in [previous cumulative fix packs](#previous).
+>
+>AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using separate Forms add-on package and JEE installer. For details, see [Install AEM Forms add-on](#install-forms) and [Install AEM Forms JEE installer](#install-forms).
 
 * A valid PDF/A-1b file is flagged as invalid due to PDFAErrorSetFont error. (Ref# NPR-13018)  
 * Custom properties are not saved as part of the form binary in Forms Manager. (Ref# NPR-12531)  
 * If you modify and check in an XFS stylesheet multiple times and create a new version of the Workbench application, only the first checked-in changes are visible in the new version of the application. (Ref# NPR-12258)
-* If you are using subforms to create header and rows in an XDP template with **Overflow Leader**and **Keep with next** options enabled, a row moves on top of the header from second page onwards in the final XFA form. (Ref# NPR-12208)
+* If you are using subforms to create header and rows in an XDP template with **Overflow Leader** and **Keep with next** options enabled, a row moves on top of the header from second page onwards in the final XFA form. (Ref# NPR-12208)
 
 ### Commerce {#commerce-3}
 
@@ -1331,10 +1327,11 @@ There is an API change between 6.1 SP2 and 6.1 SP2-CFP2:
 
 ### Forms {#forms-16}
 
-***Note:** The AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using a separate Forms add-on package. For details, see [Install AEM Forms add-on](#install-forms).*
+>[!NOTE]
+>
+>The AEM Cumulative Fix Pack does not include fixes for AEM Forms. They are delivered using a separate Forms add-on package. For details, see [Install AEM Forms add-on](#install-forms).
 
 * AEM Forms add-on package released with AEM 6.1 SP2-CFP1 is a cumulative package that includes all hotfixes up to **2.4.128** in the 2.4.x series and **2.2.28** in the 2.2.x series listed on [AEM 6.1 Forms hotfixes](https://helpx.adobe.com/content/help/en/experience-manager/kb/aem61-available-hotfixes/aem61-forms-hotfixes.html).
-
 * Cumulative hotfixes for AEM 6.1 Forms on JEE are also available as part of the AEM 6.1 SP2-CFP1 release. It includes all hotfixes listed on [Hotfixes released before AEM 6.1 SP2-CF1](https://helpx.adobe.com/content/help/en/experience-manager/kb/aem61-available-hotfixes/aem61-forms-hotfixes.html#cf1) and [AEM 6.1 Forms Feature pack 2](https://helpx.adobe.com/content/help/en/aem-forms/6-1/fp2-release-notes.html), which adds Japanese language support for AEM forms on OSGi, AEM forms on JEE, and Forms Designer.
 
 ## Download Instructions for CFP via Package Share {#download-instructions-for-cfp-via-package-share}
@@ -1347,13 +1344,12 @@ There is an API change between 6.1 SP2 and 6.1 SP2-CFP2:
 >
 >* HTTP 500 Internal Server Error is received when the Web console component detail page is opened. To resolve this issue, a newer version of org.apache.felix.webconsole.plugins.ds component to version 2.0.8 has been deployed in the latest package [AEM 6.1SP2-CFP18.1](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/AEM-6.1-SP2-CFP18.1).
 >* AEM Forms customers should install [AEM 6.1SP2-CFP18](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/AEM-6.1-SP2-CFP18) and then install AEM forms add-on package. If the above fix is required, they can then opt to install CFP18.1 package.
->
 
 You can download the CFP package directly from [Adobe Package Share](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/AEM-6.1-SP2-CFP18.1) or perform the following steps:
 
-1. On your AEM instance, click **Tools &gt; Package Share**. 
+1. On your AEM instance, click **Tools &gt; Package Share**.
 1. Log in using your Adobe ID credentials.
-1. Search for ** [AEM-6.1-SP2-CFP18.1](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/AEM-6.1-SP2-CFP18.1) **and click the appropriate package in the search results to open the CFP details page.
+1. Search for [AEM-6.1-SP2-CFP18.1](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/AEM-6.1-SP2-CFP18.1) and click the appropriate package in the search results to open the CFP details page.
 1. On the CFP details page, click **Download** and accept the license agreement. Click **OK** to confirm the download.
 
 ## Installation instructions {#installation-instructions}
@@ -1395,7 +1391,7 @@ The CFP can be automatically installed into a running instance in the following 
 
 ### Validate installation {#validate-installation}
 
-1. The Product Information page (/system/console/ productinfo ) should now show the updated version string "Adobe Experience Manager, Version 6.1.0.SP2-CFP18" under Installed Products.
+1. The Product Information page (/system/console/ productinfo) should now show the updated version string "Adobe Experience Manager, Version 6.1.0.SP2-CFP18" under Installed Products.
 1. All  OSGI  bundles are either ACTIVE or FRAGMENT in the  OSGI  Console.
 1. The OSGi bundle org.apache.jackrabbit.oak-core is on version 1.2.18 or higher (Use Web Console: /system/console/bundles).
 
@@ -1424,7 +1420,7 @@ Fixes in AEM Forms JEE are delivered through a separate installer. For informati
 
 Use the following instructions to build the AEM forms app as per your operating system:
 
-* [Set up Visual Studio project and build  Windows  app]( /help/forms/using/setup-visual-studio-project-build-installer.md)
+* [Set up Visual Studio project and build Windows app](/help/forms/using/setup-visual-studio-project-build-installer.md)
 * [Set up Xcode project and build iOS app](/6-4/forms/using/setup-xcode-project-build-installer.md)
 * [Set up Eclipse project and build  Android  app](/6-4/forms/using/setup-eclipse-project-build-installer.md)
 
@@ -1450,8 +1446,8 @@ After installing the Quick Fix:
 1. Read the License Agreement, select **I accept** to accept the terms of the license agreement and then click **Next**. If you do not accept the license agreement, you cannot continue.
 
 1. Read the Pre-Installation Summary information and click **Install**.
-1. When the installation is complete, click **Next **to apply the quick fix updates to your installed files.
-1. When the quick fix installation is complete, click **Finish **to exit the wizard.
+1. When the installation is complete, click **Next** to apply the quick fix updates to your installed files.
+1. When the quick fix installation is complete, click **Finish** to exit the wizard.
 
 ## User Configurable timeout parameters for DTM, Analytics, Target, Search & Promote Connections {#user-configurable-timeout-parameters-for-dtm-analytics-target-search-promote-connections}
 
@@ -1464,14 +1460,14 @@ Connection timeout periods have been made configurable on all above connections 
 | Target |60000ms |30000ms |
 | Search & Promote |30000ms |30000ms |
 
-* **Connection timeout&#42;**- Timeout in milliseconds until a connection is established. A timeout value of zero is interpreted as an infinite timeout. 
-* **Socket Timeout&#42;&#42;**- Timeout in milliseconds for waiting for data or a maximum period of inactivity between two consecutive data packets.
+* **Connection timeout&#42;** - Timeout in milliseconds until a connection is established. A timeout value of zero is interpreted as an infinite timeout. 
+* **Socket Timeout&#42;&#42;** - Timeout in milliseconds for waiting for data or a maximum period of inactivity between two consecutive data packets.
 
 ## Configuring OakResourceListener queue size with AEM  {#configuring-oakresourcelistener-queue-size-with-aem}
 
-OakResourceListener queue size has been made configurable to  default  value of 1000. To configure the queue size, go to:-
+OakResourceListener queue size has been made configurable to  default  value of 1000. To configure the queue size, go to:
 
-1. [http://localhost:portnumber/system/console/configMgr](http://localhost:portnumber/system/console/configMgr)
+1. `http://localhost:portnumber/system/console/configMgr`
 1. Open "apache sling  jcr  resource provider factory"
 1. Edit observation queue length.
 
@@ -1483,16 +1479,29 @@ OakResourceListener queue size has been made configurable to  default  value of 
 
 NPR-21347 is included in CFP15. If you are installing CFP15 or later, then perform the below procedure to configure NPR-21347 on JBoss application server. If you are installing CFP15 on AEM Forms server running on Oracle WebLogic or IBM WebSpehere application servers, no additional configuration is required:
 
-1. Backup, delete, and create new module.xml file. The default location of the file is [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+1. Backup, delete, and create new module.xml file. The default location of the file is `[AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/`
 1. Open the newly created module.xml file for editing. Add the following code to the file:
 
-   >[!NOTE]
-   >
-   ><module&nbsp;xmlns="urn:jboss:module:1.1"!!discoiqbr!!name="com.adobe.livecycle">!!discoiqbr!!<resources>!!discoiqbr!!<resource-root&nbsp;path="cryptojcommon.jar"/>!!discoiqbr!!<resource-root&nbsp;path="cryptojce.jar"/>!!discoiqbr!!<resource-root&nbsp;path="jcmFIPS.jar"/>!!discoiqbr!!<resource-root&nbsp;path="certj.jar"/>!!discoiqbr!!<resource-root&nbsp;path="cglib.jar"/>!!discoiqbr!!</resources>!!discoiqbr!!<dependencies>!!discoiqbr!!<module&nbsp;name="javax.api"/>!!discoiqbr!!<module&nbsp;name="asm.asm"/>!!discoiqbr!!</dependencies>!!discoiqbr!!</module>
+   ```xml
+   <module xmlns="urn:jboss:module:1.1"
+   name="com.adobe.livecycle">
+   <resources>
+   <resource-root path="cryptojcommon.jar"/>
+   <resource-root path="cryptojce.jar"/>
+   <resource-root path="jcmFIPS.jar"/>
+   <resource-root path="certj.jar"/>
+   <resource-root path="cglib.jar"/>
+   </resources>
+   <dependencies>
+   <module name="javax.api"/>
+   <module name="asm.asm"/>
+   </dependencies>
+   </module>
+   ```
 
-1. Create a backup of the jsafeFIPS.jar, jsafeJCEFIPS.jar, and certjFIPS.jar files located at [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ and delete the files from the aforementioned directory.
+1. Create a backup of the jsafeFIPS.jar, jsafeJCEFIPS.jar, and certjFIPS.jar files located at `[AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/` and delete the files from the aforementioned directory.
 
-   Contact [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html) to get new JAR files. Place the JAR files obtained from [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html) at [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   Contact [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html) to get new JAR files. Place the JAR files obtained from [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html) at `[AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/`
 
 1. (Windows only) Modify the [AEM_Forms_Installation_directory]/jboss/standalone.conf.bat or domain.conf.bat configuration files:
 
@@ -1505,7 +1514,7 @@ NPR-21347 is included in CFP15. If you are installing CFP15 or later, then perfo
 
    set "JAVA_OPTS=%JAVA_OPTS%-Dcom.rsa.cryptoj.fips140initialmode=NON_FIPS140_MODE"
 
-1. (Linux-based OS only) Modify the [AEM_Forms_Installation_directory]/jboss/standalone.conf or domain.conf configuration files:
+1. (Linux-based OS only) Modify the `[AEM_Forms_Installation_directory]/jboss/standalone.conf` or `domain.conf` configuration files:
 
     * For JBoss server in standalone configuration, open the standalone.conf for editing.
     * For JBoss server in cluster configuration, open the domain.conf for editing.
@@ -1551,9 +1560,9 @@ Use the following steps for speeding up the query:
 1. Steps to add this index manually using CRXDE Lite are as follows:
 
     1. Log in as an admin user in CRXDE Lite.
-    1. Copy the node */oak:index/authorizables/indexRules/rep:Authorizable/properties/profileEmail *to a new node in the same 'Properties' folder and name it 'profileDisplayName'.
+    1. Copy the node */oak:index/authorizables/indexRules/rep:Authorizable/properties/profileEmail* to a new node in the same 'Properties' folder and name it 'profileDisplayName'.
     1. In the newly created node, 'profileDisplayName', change the property 'name' to 'profile/displayName'.
-    1. Re-index by navigating to the node* /oak:index/authorizables* and changing the property 'reindex' to be 'true'.
+    1. Re-index by navigating to the node */oak:index/authorizables* and changing the property 'reindex' to be 'true'.
     1. Save the change, and the 'reindex' property automatically changes back to 'false' when re-indexing is done.
 
 ***Note: ***The preceding steps should only be performed on the Publish instance and not the Author instance.
@@ -1562,15 +1571,15 @@ Use the following steps for speeding up the query:
 
 The following errors may occur during installation of CFPx package on AEM 6.1 SP2 and can be safely ignored:
 
-* [FelixFrameworkWiring] com.adobe.cq.social.cq-social-commons [com.adobe.cq.social.commons.impl.DefaultAttachmentTypeBlacklistService(1494)] Timeout waiting for reg change to complete unregistered.
-* [FelixDispatchQueue] com.adobe.aemds.formsmanager.adobe-aemds-formsanddocuments-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: ServiceFactory.getService() resulted in a cycle.)
-* [FelixFrameworkWiring]com.day.cq.search.impl.builder.QueryBuilderImpl Unable to get PredicateEvaluator instance: path  
+* (FelixFrameworkWiring) com.adobe.cq.social.cq-social-commons [com.adobe.cq.social.commons.impl.DefaultAttachmentTypeBlacklistService(1494)] Timeout waiting for reg change to complete unregistered.
+* (FelixDispatchQueue) com.adobe.aemds.formsmanager.adobe-aemds-formsanddocuments-core FrameworkEvent ERROR (org.osgi.framework.ServiceException: ServiceFactory.getService() resulted in a cycle.)
+* (FelixFrameworkWiring)com.day.cq.search.impl.builder.QueryBuilderImpl Unable to get PredicateEvaluator instance: path  
 * org.apache.sling.servlets.resolver.internal.SlingServletResolver bindServlet: Servlet service not available from reference [javax.servlet.Servlet]
-* **ERROR** [pool-34-thread-5] org.apache.sling.discovery.impl.common.heartbeat.HeartbeatHandler announcementRegistry is null 
-* **ERROR** [pool-34-thread-5] org.apache.sling.discovery.impl.common.heartbeat.HeartbeatHandler getResourceResolver: resourceResolverFactory is null! 
-* **ERROR** [pool-34-thread-5] org.apache.sling.discovery.impl.common.heartbeat.HeartbeatHandler checkView: encountered a runtime exception during view check: java.lang.NullPointerException
-* **ERROR** [Thread-237] com.day.cq.dam.cq-dam-handler [com.day.cq.dam.handler.standard.msoffice.MSPowerPointHandler(1210)]Cannot create component instance due to failure to bind reference jcrResolverFactory 
-* **ERROR** [Thread-237] com.day.cq.dam.cq-dam-handler [com.day.cq.dam.handler.standard.msoffice.MSPowerPointHandler(1210)]Failed creating the component instance; see log for reason
+* **ERROR** (pool-34-thread-5) org.apache.sling.discovery.impl.common.heartbeat.HeartbeatHandler announcementRegistry is null 
+* **ERROR** (pool-34-thread-5) org.apache.sling.discovery.impl.common.heartbeat.HeartbeatHandler getResourceResolver: resourceResolverFactory is null! 
+* **ERROR** (pool-34-thread-5) org.apache.sling.discovery.impl.common.heartbeat.HeartbeatHandler checkView: encountered a runtime exception during view check: java.lang.NullPointerException
+* **ERROR** (Thread-237) com.day.cq.dam.cq-dam-handler `[com.day.cq.dam.handler.standard.msoffice.MSPowerPointHandler(1210)]`Cannot create component instance due to failure to bind reference jcrResolverFactory 
+* **ERROR** (Thread-237) com.day.cq.dam.cq-dam-handler `[com.day.cq.dam.handler.standard.msoffice.MSPowerPointHandler(1210)]`Failed creating the component instance; see log for reason
 
 Other Known Issues:
 
@@ -1579,15 +1588,21 @@ Other Known Issues:
 * com.adobe.granite.installer - Unable to finish updating bundle Service already unregistered.
 * Publishing  a uploaded  video generates   error  :  Unable to analyze /content/dam/video-testing.mp4 for YouTube publish java.lang.NullPointerException: null. CQ-4250538
 
-* For a complete list of issues, see [Known Issues in AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html#Known Issues).
+* For a complete list of issues, see [Known Issues in AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html).
 
 ## Uber Jar {#uber-jar}
 
 For AEM 6.1 SP2-CFP2 and higher versions, use the Uber Jar for AEM 6.1 SP2-CFP2 that is available in the [Adobe Public Maven repository](https://repo.adobe.com/nexus/content/groups/public/com/adobe/aem/uber-jar/6.1.SP2-CFP2/). To use Uber Jar in a Maven project, include the following dependency in your project POM:
 
->[!NOTE]
->
-><dependency>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<groupId>com.adobe.aem</groupId>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<artifactId>uber-jar</artifactId>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<version>6.1.SP2-CFP2</version>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<classifier>obfuscated-apis</classifier>!!discoiqbr!!&nbsp;&nbsp;&nbsp;&nbsp;<scope>provided</scope>!!discoiqbr!!</dependency>!!discoiqbr!!
+```
+<dependency>
+    <groupId>com.adobe.aem</groupId>
+    <artifactId>uber-jar</artifactId>
+    <version>6.1.SP2-CFP2</version>
+    <classifier>obfuscated-apis</classifier>
+    <scope>provided</scope>
+</dependency>
+```
 
 ## OSGi bundles and content packages included {#osgi-bundles-and-content-packages-included-3}
 
@@ -1607,8 +1622,6 @@ List of Content Packages included in AEM 6.1SP2-CFP18
 * [AEM 6.1 release notes](https://docs.adobe.com/content/docs/en/aem/6-1/release-notes.html)
 * [AEM 6.1 hotfixes page](/kb/aem61-available-hotfixes.md)
 * [AEM 6.1 SP2 release notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)  
-
 * [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
 * [AEM 6.1 documentation](https://docs.adobe.com/content/docs/en/aem/6-1.html)
 * [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
-

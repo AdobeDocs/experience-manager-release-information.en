@@ -14,10 +14,6 @@ Adobe Experience Manager Forms is an application deployed onto AEM. It extends e
 
 The following list contains all the AEM Forms add-on packages released till today, corresponding AEM versions (Pre-requisites), download links of packages, and other helpful information:
 
-<!--
-The following tables were wrapped in a details accordion.
--->
-
 AEM 6.5 Forms releases
 
 <table> 
@@ -1498,8 +1494,11 @@ AEM 6.5 Forms releases
 ### Things to remember {#things-to-remember}
 
 * The AEM Forms add-on packages listed above are applicable to both AEM Forms on OSGi and AEM Forms on JEE.  
-* All AEM Forms add-on packages and Quick Fixes are cumulative; that is, an add-on package and Quick Fix includes all the preceding add-ons and Quick Fixes for a component for the corresponding version. For example, if you are installing Quick Fix 2.4.50, it already includes AEM Forms add-on package 2.4.26.  
-  **Note:** Cumulative add-on packages and Quick Fixes implies that first two numbers of the version are identical.  
+* All AEM Forms add-on packages and Quick Fixes are cumulative; that is, an add-on package and Quick Fix includes all the preceding add-ons and Quick Fixes for a component for the corresponding version. For example, if you are installing Quick Fix 2.4.50, it already includes AEM Forms add-on package 2.4.26.
+
+  >[!NOTE]
+  >
+  >Cumulative add-on packages and Quick Fixes implies that first two numbers of the version are identical.  
 
 * Always install the latest available Service Pack/Feature Pack add-on. It is highly recommended as it includes security, performance, stability, and key customer fixes and enhancements released since the general availability of the base version. 
 * Whenever you install a Service Pack or upgrade from a previous version of AEM to a newer version, always install the corresponding AEM Forms add-on package. For example, if you upgrade from AEM 6.1 Forms add-on package version 2.2.4 to AEM 6.1 Service Pack 1, after installing AEM 6.1 Service Pack 1, install AEM forms add-on package version 2.4.50.

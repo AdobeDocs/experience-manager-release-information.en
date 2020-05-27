@@ -1,21 +1,11 @@
 ---
 title: AEM Product Update Releases Roadmap
 description: Upcoming AEM update releases
-<<<<<<< HEAD
 seo-description: Upcoming AEM update releases
 uuid: 49a4898b-a32a-4388-a270-4b7953ac5af5
 contentOwner: vishgupt
 products: SG_EXPERIENCEMANAGER
 discoiquuid: 8ad58c09-449d-40c1-89fa-f10c4a9dcf37
-index: y
-internal: n
-snippet: y
-=======
-uuid: 617b63dd-1a64-489f-823f-2f1e62fba91a
-contentOwner: vishgupt
-products: SG_EXPERIENCEMANAGER
-discoiquuid: 871959be-5ab0-43a3-921b-1b0bd83e9c21
->>>>>>> master
 ---
 
 # AEM Product Update Releases Roadmap{#aem-product-update-releases-roadmap}
@@ -45,4 +35,3 @@ For details about the various types of AEM releases, refer to [AEM Update Releas
 ## AEM 6.3 {#6.3}
 
 There are no Cumulative Fix Packs delivered on AEM 6.3 version after [6.3.3.8](release-notes--aem-6-3-cumulative-fix-pack.md), as the core support for 6.3 release ends [end of April, 2020](https://helpx.adobe.com/support/programs/eol-matrix.html).  
-

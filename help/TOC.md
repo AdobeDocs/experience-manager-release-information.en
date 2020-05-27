@@ -17,4 +17,4 @@ user-guide-title: Experience Manager Release Information Help
 + [Previous Documentation Updates](previous-documentation-updates.md)
 + [AEM Documentation: Recent Documentation Updates](documentation-updates.md)
 + [AEM Product Update Releases Roadmap](update-releases-roadmap.md)
-+ [AEM Releases Update](https://chl-author.corp.adobe.com/content/help/en/experience-manager/aem-releases-updates.html)
++ [AEM Releases Update](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)

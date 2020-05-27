@@ -38,30 +38,29 @@ The AEM 6.4 Forms JEE patch installer 0015 includes all fixed issues for all com
 
         * (Linux) `Linux/Disk1/InstData/NoVM`
         * (Solaris) `Solaris/Disk1/InstData/NoVM`
-        * (AIX)         
+        * (AIX)
         
           ```        
           AIX/Disk1/InstData/VM
-          
           ```
 
    This launches an install wizard that guides you through the installation.
 
 1. On the Introduction panel, click **[!UICONTROL Next]**.
-1. On the Choose Install Folder screen, verify that the default location displayed is correct for your existing installation, or click ****[!UICONTROL Browse]** **to select the alternate folder where AEM forms  is installed, and click ****[!UICONTROL Next]****.
+1. On the Choose Install Folder screen, verify that the default location displayed is correct for your existing installation, or click **[!UICONTROL Browse]** to select the alternate folder where AEM forms  is installed, and click **[!UICONTROL Next]**.
 
 1. Read the Quick Fix Patch Summary information and click **[!UICONTROL Next]**.
 1. Read the Pre-Installation Summary information and click **[!UICONTROL Install]**.
 1. When the installation is complete, click **[!UICONTROL Next]**to apply the quick fix updates to your installed files.
 1. [Windows only] Perform one of the following steps:
 
-    * Deselect the Start Configuration Manager option before you click Done. Run Configuration Manager later by using the ConfigurationManager.bat file located in [aem-forms root]\configurationManager\bin. Using ConfigurationManager.bat helps you avoid manually updating name of axis.jar name in .lax files
-    * Deselect the Start Configuration Manager option before you click Done. Before running configuration manager using **ConfigurationManager.exe** or **ConfigurationManager_IPv6.exe**, navigate to *&lt;AEMForms_Install_Dir&gt;\configurationManager\bin *directory and update** axis.jar** to **axis-1.4.1.1.jar** in the following files:
+    * Deselect the Start Configuration Manager option before you click Done. Run Configuration Manager later by using the `ConfigurationManager.bat` file located in `[aem-forms root]\configurationManager\bin`. Using `ConfigurationManager.bat` helps you avoid manually updating name of axis.jar name in .lax files
+    * Deselect the Start Configuration Manager option before you click Done. Before running configuration manager using **ConfigurationManager.exe** or **ConfigurationManager_IPv6.exe**, navigate to *&lt;AEMForms_Install_Dir&gt;\configurationManager\bin* directory and update **axis.jar** to **axis-1.4.1.1.jar** in the following files:
 
-        * ConfigurationManager.lax
-        * ConfigurationManager_IPv6.lax
+      * ConfigurationManager.lax
+      * ConfigurationManager_IPv6.lax
 
-1. [Unix-based only] The Start Configuration Manager check box is selected by default. Click ****[!UICONTROL Done]** **to run the Configuration Manager.
+1. (Unix-based only) The Start Configuration Manager check box is selected by default. Click **[!UICONTROL Done]** to run the Configuration Manager.
 
    To run Configuration Manager later, deselect the Start Configuration Manager option before you click Done. You can start Configuration Manager later using the appropriate script in the `[AEM_forms_root]/configurationManager/bin` directory.
 
@@ -92,4 +91,4 @@ If you had SAML authentication configured and facing issues with large IDP metad
 * Foundation JEE
 * PDFG Service
 
-[**Contact Support**](https://www.adobe.com/account/sign-in.supportportal.html)
+[Contact Support](https://www.adobe.com/account/sign-in.supportportal.html)

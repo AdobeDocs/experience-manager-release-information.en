@@ -1,21 +1,11 @@
 ---
 title: Installing Cumulative Fix Packs on AEM Forms JEE
 description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE
-<<<<<<< HEAD
 seo-description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE
 uuid: 7acfda23-2d1a-433e-9912-fa1502b68d42
 contentOwner: amgoyal
 products: SG_AEMFORMS_JEE
 discoiquuid: d9e2e9e7-c20c-4a46-acb7-28c73b42b85f
-index: y
-internal: n
-snippet: y
-=======
-uuid: 52905f47-cfef-40f2-a0ca-93f6ce381e34
-contentOwner: amgoyal
-products: SG_AEMFORMS_JEE
-discoiquuid: 5742f6aa-8dd1-42a9-8a91-e4b2cb30a6c1
->>>>>>> master
 ---
 
 # Installing Cumulative Fix Packs on AEM Forms JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
