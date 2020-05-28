@@ -307,7 +307,7 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>05 Mar 2020</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.8</a></td> 
+   <td><a href="/help//help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.8</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
    <td> 
     <ul> 
@@ -323,7 +323,7 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>12 Dec 2019</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.7</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.7</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.7</a></td> 
    <td> 
     <ul> 
@@ -339,7 +339,7 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>25 Sep 2019</td> 
-   <td><a disablelinktracking="false" href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.6</a></td> 
+   <td><a disablelinktracking="false" href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.6</a></td> 
    <td><a disablelinktracking="false" href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.6</a></td> 
    <td> 
     <ul> 
@@ -355,7 +355,7 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>03 July 2019</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.5</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.5</a></td> 
    <td><a data-disable-query="false" disablelinktracking="false" href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.5</a></td> 
    <td> 
     <ul> 
@@ -365,7 +365,7 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>09 May 2019</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.4</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.4</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.4</a></td> 
    <td> 
     <ul> 
@@ -381,7 +381,7 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>14 Mar 2019</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.3</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.3</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.3</a></td> 
    <td> 
     <ul> 
@@ -399,7 +399,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td>15 <g class="gr_ gr_1009 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" data-gr-id="1009" id="1009">
       Jan 
     </g> 2019</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.2</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.2</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.2</a></td> 
    <td> 
     <ul> 
@@ -417,7 +417,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td>15 <g class="gr_ gr_300 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep gr-progress" data-gr-id="300" id="300">
       Nov 
     </g> 2018</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.1</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.1</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3.3.1</a></td> 
    <td> 
     <ul> 
@@ -453,8 +453,8 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td>26 <g class="gr_ gr_1015 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" data-gr-id="1015" id="1015">
       Jun 
     </g> 2018</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.2.2</a></td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 Cumulative Fix Pack</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.2.2</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 Cumulative Fix Pack</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.2-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -468,8 +468,8 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>10 May 2018</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.2.1</a></td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 Cumulative Fix Pack</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.2.1</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 Cumulative Fix Pack</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -502,8 +502,8 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>8 Jan 2018</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.1.2</a></td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.1.2</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -522,8 +522,8 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>29 Nov 2017</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.1.1</a></td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.1.1</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -567,8 +567,8 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>8 Aug 2017</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.0.2</a></td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.0.2</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -584,8 +584,8 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>23 Jun 2017</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.0.1</a></td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.0.1</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">AEM 6.3 Cumulative Fix Pack</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -638,7 +638,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
 
 `[2]` AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
 
-`[3]` **IMPORTANT**: Before installing the LiveCycle embed package, install [AEM Cumulative Fix Pack 6.3.1.1](release-notes-aem-6-3-cumulative-fix-pack.md) and ensure that the version of the **Apache Sling Authentication Service** bundle is 1.4.0 or more, otherwise the server may become unresponsive and unrecoverable. You can check the version of bundle at `http://[server]:[port]/system/console/bundles`.
+`[3]` **IMPORTANT**: Before installing the LiveCycle embed package, install [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) and ensure that the version of the **Apache Sling Authentication Service** bundle is 1.4.0 or more, otherwise the server may become unresponsive and unrecoverable. You can check the version of bundle at `http://[server]:[port]/system/console/bundles`.
 
 ## AEM 6.2 Forms releases {#aem-62-forms-releases}
 
@@ -653,8 +653,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>06 Jun 2019</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 20</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 20</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 20</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 20</a></td> 
    <td> 
     <ul> 
      <li><a data-disable-query="false" href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP20-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -669,7 +669,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>07 Mar 2019</td> 
-   <td><a data-disable-query="false" href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 19</a></td> 
+   <td><a data-disable-query="false" href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 19</a></td> 
    <td>AEM 6.2 Cumulative Fix Pack 19</td> 
    <td> 
     <ul> 
@@ -684,8 +684,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>11 Dec 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 18</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 18</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 18</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 18</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP18-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -700,8 +700,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>10 Oct 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 17</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 17</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 17</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 17</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP17-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -716,8 +716,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>3 Aug 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 16</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 16</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 16</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 16</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP16-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -731,8 +731,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>11 Jun 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 15</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 15</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 15</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 15</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP15-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -747,8 +747,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>10 Apr 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 14</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 14</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 14</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 14</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP14-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -762,8 +762,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>12 Mar 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 13</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 13</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 13</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 13</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP13-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -778,8 +778,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>13 Feb 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 12.1</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 12.1</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 12.1</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 12.1</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP12-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -794,8 +794,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>18 Jan 2018</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 11</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 11</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 11</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 11</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP11-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -811,8 +811,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>8 Dec 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 10</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 10</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 10</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 10</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP10-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -827,8 +827,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>9 Nov 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 9</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 9</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 9</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 9</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP9-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -843,8 +843,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>9 Oct 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 8</a></td> 
-   <td><p><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 8</a></p> </td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 8</a></td> 
+   <td><p><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 8</a></p> </td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP8-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -859,8 +859,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>12 Sep 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 7</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 7</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 7</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 7</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP7-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -875,8 +875,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>11 Aug 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 6</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 6 </a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 6</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 6 </a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP6-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -891,8 +891,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>5 Jul 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 5</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 5</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 5</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md">AEM 6.2 Cumulative Fix Pack 5</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP5-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -908,8 +908,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>5 Jun 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 4</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 4</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1881174372" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 4</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM 6.2 Cumulative Fix Pack 4</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP4-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -924,8 +924,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>9 May 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 3</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.2 Cumulative Fix Pack 3</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md" target="_blank">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 3</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.2 Cumulative Fix Pack 3</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP3-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -939,8 +939,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>5 Apr 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 2</a><br /> <br /> <br /> </td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms" target="_blank">AEM 6.2 Cumulative Fix Pack 2</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 2</a><br /> <br /> <br /> </td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms" target="_blank">AEM 6.2 Cumulative Fix Pack 2</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP2-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -954,8 +954,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>8 Mar 2017</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 1</a></td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM 6.2 Cumulative Fix Pack 1</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.2 Cumulative Fix Pack 1</a></td> 
+   <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">AEM 6.2 Cumulative Fix Pack 1</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP1-AIX">AEM Forms add-on package for AIX</a><br /> </li> 
@@ -1044,8 +1044,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>11 Jan 2019</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 18</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 18</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 18</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 18</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP18-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1060,8 +1060,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>9 Oct 2018</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 17</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 17</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 17</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 17</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP17-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1076,8 +1076,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>10 Jul 2018</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 16</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 16</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 16</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 16</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP16-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1092,8 +1092,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>2 Apr 2018</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 15</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 15</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 15</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 15</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP15-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1107,15 +1107,15 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>1 Feb 2018</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 14</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 14</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 14</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 14</a></td> 
    <td>No Forms add-on packages released for AEM 6.1 SP2-CFP14. Re-install the Forms add-on package for AEM 6.1 SP2-CFP13.<br /> </td> 
    <td>AEM Forms Add-on Packages &amp; Client SDK: <strong>2.4.202</strong></td> 
   </tr> 
   <tr> 
    <td>1 Dec 2017</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 13</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 13</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 13</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 13</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP13-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1129,8 +1129,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>6 Oct 2017</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 12</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 12</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 12</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 12</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP12-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1145,8 +1145,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>11 Aug 2017</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 11</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 11 </a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 11</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 11 </a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP11-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1160,8 +1160,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td><p>5 Jul 2017</p> </td> 
-   <td><p><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 10</a></p> </td> 
-   <td width="12%"><p><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 10</a></p> </td> 
+   <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 10</a></p> </td> 
+   <td width="12%"><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 10</a></p> </td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP10-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1176,8 +1176,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td><p>5 Jun 2017</p> </td> 
-   <td><p><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 9</a></p> </td> 
-   <td width="12%"><p><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 9</a></p> </td> 
+   <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 9</a></p> </td> 
+   <td width="12%"><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 9</a></p> </td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP9-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1193,8 +1193,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td><p>5 May 2017</p> </td> 
-   <td><p><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 8</a></p> </td> 
-   <td width="12%"><p><a href="release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 8</a></p> </td> 
+   <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 8</a></p> </td> 
+   <td width="12%"><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 8</a></p> </td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP8-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1208,8 +1208,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>3 Apr 2017</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 7</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 7</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 7</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 7</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP7-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1223,8 +1223,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>6<br /> Mar 2017</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 6</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 6</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 6</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 6</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP6-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1236,8 +1236,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>14 Feb 2017<br /> </td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 5</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 5<br /> </a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 5</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 5<br /> </a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP5-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1250,8 +1250,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>10 Jan 2017</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 4</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 4<br /> </a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 4</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 4<br /> </a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP4-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1264,8 +1264,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>5 Dec 2016</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 3</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 3<br /> </a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 3</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 3<br /> </a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP3-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1278,8 +1278,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>4 Nov 2016</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 2</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 2</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 2</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 2</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP2-AIX">AEM Forms add-on package for AIX</a></li> 
@@ -1291,8 +1291,8 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   </tr> 
   <tr> 
    <td>4 Oct 2016</td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 1</a></td> 
-   <td><a href="release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 1</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on packages for AEM 6.1 Cumulative Fix Pack 1</a></td> 
+   <td><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md" target="_blank">AEM 6.1 Cumulative Fix Pack 1</a></td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP1-AIX">AEM Forms add-on package for AIX</a></li> 
