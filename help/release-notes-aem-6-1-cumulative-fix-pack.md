@@ -1387,7 +1387,7 @@ Perform the following steps to install the Cumulative Fix Pack on an existing AE
 The CFP can be automatically installed into a running instance in the following ways:
 
 * Place the package into ../crx-quickstart/install while the server is running. The package gets installed automatically.
-* Use the [HTTP API from Package Manager](/6-2/sites/administering/using/package-manager.md) - make sure you use `cmd=install&recursive=true` - so the nested package is installed.
+* Use the [HTTP API from Package Manager](https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/package-manager.html) - make sure you use `cmd=install&recursive=true` - so the nested package is installed.
 
 ### Validate installation {#validate-installation}
 
@@ -1420,9 +1420,9 @@ Fixes in AEM Forms JEE are delivered through a separate installer. For informati
 
 Use the following instructions to build the AEM forms app as per your operating system:
 
-* [Set up Visual Studio project and build Windows app](/help/forms/using/setup-visual-studio-project-build-installer.md)
-* [Set up Xcode project and build iOS app](/6-4/forms/using/setup-xcode-project-build-installer.md)
-* [Set up Eclipse project and build  Android  app](/6-4/forms/using/setup-eclipse-project-build-installer.md)
+* [Set up Visual Studio project and build Windows app](https://helpx.adobe.com/experience-manager/6-3/forms/using/setup-visual-studio-project-build-installer.html)
+* [Set up Xcode project and build iOS app](https://docs.adobe.com/content/help/en/experience-manager-64/forms/aem-forms-app/setup-xcode-project-build-installer.html)
+* [Set up Eclipse project and build Android app](https://docs.adobe.com/content/help/en/experience-manager-65/forms/aem-forms-app/setup-android-studio-project-build-installer.html)
 
 #### Forms Designer installer {#forms-designer-installer}
 
@@ -1620,8 +1620,8 @@ List of Content Packages included in AEM 6.1SP2-CFP18
 
 * [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
 * [AEM 6.1 release notes](https://docs.adobe.com/content/docs/en/aem/6-1/release-notes.html)
-* [AEM 6.1 hotfixes page](/kb/aem61-available-hotfixes.md)
+* [AEM 6.1 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem61-available-hotfixes.html)
 * [AEM 6.1 SP2 release notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)  
 * [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
 * [AEM 6.1 documentation](https://docs.adobe.com/content/docs/en/aem/6-1.html)
-* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
+* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)

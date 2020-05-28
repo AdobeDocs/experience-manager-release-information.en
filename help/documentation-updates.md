@@ -451,12 +451,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Mar 05 2020</td> 
    <td>AEM 6.3.3.8</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html">Cumulative Fix Pack 6.3.3.8</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.8</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>Dec 12 2019</td> 
    <td>AEM 6.3.3.7</td> 
-   <td><a disablelinktracking="false" href="https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html">Cumulative Fix Pack 6.3.3.7</a> for AEM 6.3 is available.</td> 
+   <td><a disablelinktracking="false" href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.7</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>October 11, 2019</td> 
@@ -466,7 +466,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>September 25, 2019</td> 
    <td>AEM 6.3.3.6</td> 
-   <td><a disablelinktracking="false" href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.6</a> for AEM 6.3 is available.</td> 
+   <td><a disablelinktracking="false" href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.6</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>September 9, 2019<br /> </td> 
@@ -476,22 +476,22 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>July 03, 2019</td> 
    <td>AEM 6.3.3.5</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.5</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.5</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>May 09, 2019</td> 
    <td>AEM 6.3.3.4</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.4</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.4</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>March 14, 2019</td> 
    <td>AEM 6.3.3.3</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.3</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.3</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>January 15, 2019</td> 
    <td>AEM 6.3.3.2</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.2</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.2</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>January 10, 2019</td> 
@@ -505,7 +505,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date |Topic |Changes |
 |---|---|---|
-| June 6, 2019 |AEM 6.2 Cumulative Fix Pack | [Cumulative Fix Pack 20](release-notes--aem-6-2-cumulative-fix-pack.md) for AEM 6.2 Service Pack 1 is available. |
+| June 6, 2019 |AEM 6.2 Cumulative Fix Pack | [Cumulative Fix Pack 20](release-notes-aem-6-2-cumulative-fix-pack.md) for AEM 6.2 Service Pack 1 is available. |
 
 ## AEM 6.1 {#aem-4}
 

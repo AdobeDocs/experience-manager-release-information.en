@@ -831,7 +831,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 * Upgrading to the latest Java 8 Update 131 throws an exception: "JsafeJCE provider is disabled, a FIPS 140 required self-integrity check failed". NPR-21355  
 
-  **Note:** This NPR requires additional settings, for details refer to [Latest Java 8 update](release-notes--aem-6-2-cumulative-fix-pack.md#latest-java-update-throws-an-exception-npr).
+  **Note:** This NPR requires additional settings, for details refer to [Latest Java 8 update](release-notes-aem-6-2-cumulative-fix-pack.md#latest-java-update-throws-an-exception-npr).
 
 * Update jsafe jars to cryptoj 6.1.3.1 in Core, Encryption, Signature & Document Security. NPR-21360, NPR-21361, NPR-21356, NPR-21358
 
@@ -1743,7 +1743,7 @@ The key highlights of CFP3 are:
 
 ### Sites {#sites-16}
 
-* After upgrading from AEM 6.0 to AEM 6.2, the Classic UI shows slow performance while searching tags due to numerous queries. To resolve the issue, the steps mentioned under [Disable replication status in tagging console (classic UI)](release-notes--aem-6-2-cumulative-fix-pack.md#disable-replication-status-in-tagging-console-classic-ui-npr) can be followed. NPR-15842: Hotfix for CQ-4201748.   
+* After upgrading from AEM 6.0 to AEM 6.2, the Classic UI shows slow performance while searching tags due to numerous queries. To resolve the issue, the steps mentioned under [Disable replication status in tagging console (classic UI)](release-notes-aem-6-2-cumulative-fix-pack.md#disable-replication-status-in-tagging-console-classic-ui-npr) can be followed. NPR-15842: Hotfix for CQ-4201748.   
 
 * While creating a page in the Touch UI, the Input check for 'name' field does not check the special character 'Apostrophe' (same as in the Classic UI). Therefore, the page cannot be moved. NPR-16404: Hotfix for CQ-4205321. 
 * Applying different styles on two rows in Rich Text Editor and then merging them removes the style applied on the second row. NPR-16389: Hotfix for CQ-4203835.  
@@ -2218,7 +2218,7 @@ Perform the following steps to install the Cumulative Fix Pack on an existing AE
 The CFP can be automatically installed into a running instance in the following ways:
 
 * Place the package into ../crx-quickstart/install while the server is running. The package gets installed automatically.
-* Use the [HTTP API from Package Manager](/6-2/sites/administering/using/package-manager.md) - make sure that you use `cmd=install&recursive=true` - so the nested package is installed.
+* Use the [HTTP API from Package Manager](https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/package-manager.html) - make sure that you use `cmd=install&recursive=true` - so the nested package is installed.
 
 ### Validate installation {#validate-installation}
 
@@ -2247,7 +2247,7 @@ The CFP can be automatically installed into a running instance in the following 
 
 1. Ensure that you have installed the AEM 6.2 SP1 CFP package. 
 1. Download the corresponding Forms add-on package listed at [AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) for your operating system.
-1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](/6-2/forms/using/installing-configuring-aem-forms-osgi.md).
+1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://helpx.adobe.com/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html).
 
 #### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}
 
@@ -2441,9 +2441,9 @@ List of Content Packages included in AEM 6.2SP1-CFP20
 
 ## Helpful resources {#helpful-resources}
 
-* [AEM 6.2 hotfixes page](/kb/aem62-available-hotfixes.md)
+* [AEM 6.2 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
 * [AEM 6.2 SP1 release notes](https://docs.adobe.com/content/docs/en/aem/6-2/release-notes/sp1.html)  
 * [AEM 6.2 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 * [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
 * [AEM 6.2 documentation](https://docs.adobe.com/content/docs/en/aem/6-2.html)
-* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
+* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)

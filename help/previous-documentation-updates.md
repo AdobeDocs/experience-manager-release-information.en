@@ -320,7 +320,7 @@ The following versions were moved:
   <tr>
    <td>November 15, 2018</td> 
    <td>AEM 6.3.3.1</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.1</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.1</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>October 16, 2018</td> 
@@ -380,7 +380,7 @@ The following versions were moved:
   <tr>
    <td>June 25, 2018</td> 
    <td>AEM 6.3.2.2</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.2.2</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.2.2</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>May 30, 2018</td> 
@@ -395,7 +395,7 @@ The following versions were moved:
   <tr>
    <td>May 10, 2018</td> 
    <td>AEM 6.3.2.1</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.2.1</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.2.1</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>April 30, 2018</td> 
@@ -435,7 +435,7 @@ The following versions were moved:
   <tr>
    <td>January 8, 2018</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.1.2<br /> </td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.1.2</a> for AEM 6.3 is available.<br /> </td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.1.2</a> for AEM 6.3 is available.<br /> </td> 
   </tr>
   <tr>
    <td>December 14, 2017<br /> </td> 
@@ -445,7 +445,7 @@ The following versions were moved:
   <tr>
    <td>November 29, 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.1.1</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.1.1</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.1.1</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>November 28, 2017</td> 
@@ -552,7 +552,7 @@ The following versions were moved:
   <tr>
    <td>August 8, 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.0.2</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.0.2</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.0.2</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>July 27, 2017</td> 
@@ -567,7 +567,7 @@ The following versions were moved:
   <tr>
    <td>June 23, 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.0.1</td> 
-   <td><a href="release-notes--aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.0.1</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.0.1</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>June 7, 2017</td> 
@@ -613,7 +613,7 @@ The following versions were moved:
   <tr>
    <td>December 11, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 18</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 18</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>October 16, 2018</td> 
@@ -628,7 +628,7 @@ The following versions were moved:
   <tr>
    <td>October 10, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 17</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 17</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>August 29, 2018</td> 
@@ -643,7 +643,7 @@ The following versions were moved:
   <tr>
    <td>August 3, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 16</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 16</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>August 2, 2018</td> 
@@ -653,7 +653,7 @@ The following versions were moved:
   <tr>
    <td>June 11, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack<br /> </td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 15</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 15</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>April 30, 2018</td> 
@@ -663,32 +663,32 @@ The following versions were moved:
   <tr>
    <td>April 10, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 14</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 14</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>March 12, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 13</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 13</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>February 13, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 12</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 12</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>January 18, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 11</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 11</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>December 8, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 10</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 10</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>November 9, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 9</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 9</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>October 10, 2017</td> 
@@ -698,27 +698,27 @@ The following versions were moved:
   <tr>
    <td>October 9, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 8</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 8</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>September 12, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 7</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 7</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>August 11, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 6</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 6</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>July 5, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 5</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 5</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>June 5, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes--aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 4</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 4</a> for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>April 12, 2017</td> 

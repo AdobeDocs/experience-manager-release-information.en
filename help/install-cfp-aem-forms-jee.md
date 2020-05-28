@@ -16,7 +16,7 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 
 1. Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM 6.3 Forms JEE installer for the CFP.
 1. Run the CFP installer and configure AEM Forms JEE as described in [Install and configure AEM Forms JEE](#install-and-configure-aem-forms-jee).
-1. Install the latest AEM CFP [6.3.3.x](release-notes--aem-6-3-cumulative-fix-pack.md)
+1. Install the latest AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
 1. Install the Forms Add-on package for AEM CFP [6.3.3.x](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}
@@ -25,7 +25,7 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 
 ### Additional instructions for CQ-4208044 {#additional-instructions-for-cq}
 
-If you are using AEM 6.3 Forms JEE server with Oracle database, configure the following settings post deployment of the CFP1, that is, after the Configuration Manager is run. This setting is required to sync users, groups, and group members when the enterprise domain sync is run. See issue CQ-4208044 in [AEM 6.3 release notes](release-notes--aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205).
+If you are using AEM 6.3 Forms JEE server with Oracle database, configure the following settings post deployment of the CFP1, that is, after the Configuration Manager is run. This setting is required to sync users, groups, and group members when the enterprise domain sync is run. See issue CQ-4208044 in [AEM 6.3 release notes](release-notes-aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205).
 
 1. Login to the **Admin** UI.
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**
@@ -42,13 +42,13 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 
 >[!NOTE]
 >
->If you are on AEM 6.2 Forms OSGi, follow the installation instructions in [AEM 6.2 CFP release notes.](release-notes--aem-6-2-cumulative-fix-pack.md)
+>If you are on AEM 6.2 Forms OSGi, follow the installation instructions in [AEM 6.2 CFP release notes.](release-notes-aem-6-2-cumulative-fix-pack.md)
 
 1. Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM 6.2 Forms JEE installer for the CFP.
 1. Run the CFP installer and configure AEM Forms JEE as described in [Install and configure AEM Forms JEE](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Install [AEM Hotfix 12785 version 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785).
 1. Install [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
-1. Install the latest [AEM 6.2 Service Pack1 CFP](release-notes--aem-6-2-cumulative-fix-pack.md).
+1. Install the latest [AEM 6.2 Service Pack1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md).
 1. Install the Forms Add-on package for [AEM 6.2 Service Pack 1 CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
 
 ### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package-1}
@@ -59,7 +59,7 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 
 >[!NOTE]
 >
->Post AEM 6.2 CFP4, you can use the following instructions to configure the timeout for DSC operations in case you face problems due to timeout during the upgrade process. (See NPR-16774 in [AEM 6.2 CFP4 release notes](release-notes--aem-6-2-cumulative-fix-pack.md)).
+>Post AEM 6.2 CFP4, you can use the following instructions to configure the timeout for DSC operations in case you face problems due to timeout during the upgrade process. (See NPR-16774 in [AEM 6.2 CFP4 release notes](release-notes-aem-6-2-cumulative-fix-pack.md)).
 
 DSC deployment takes a variable time due to which it might fail. To change the timeout of DSC operations such as Install, Load, Start, and Stop, you need to set the `adobe.component.registry.timeout` using the JVM argument with the -D option.
 

@@ -14,7 +14,7 @@ discoiquuid: 52676daf-64c3-4fd5-b997-e83e0a4d6a61
 |---|---|
 | **Version** |6.3 |
 | **Release** |Cumulative Fix Pack 6.3.3.8 on [PackageShare](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8), [Software Distribution(Beta)](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
-| **Prerequisite** | [AEM 6.3 Service Pack 3 (6.3.3.0)](/6-3/release-notes/sp3-release-notes.md) |
+| **Prerequisite** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **General availability** |March 05, 2020 |
 
 ### Cumulative Fix Pack {#cumulative-fix-pack}
@@ -31,7 +31,7 @@ For more information on CFP and other types of releases, see [Maintenance Releas
 
 AEM Cumulative Fix Pack 6.3.3.8 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 3 (6.3.3.0) in September 2018.
 
-AEM Cumulative Fix Pack 6.3.3.8 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](/6-3/release-notes/sp3-release-notes.md).
+AEM Cumulative Fix Pack 6.3.3.8 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 The key highlights of the **AEM Cumulative Fix Pack** are:
 
@@ -97,7 +97,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 AEM Cumulative Fix Pack 6.3.3.7 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 3 (6.3.3.0) in September 2018.
 
-AEM Cumulative Fix Pack 6.3.3.7 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](/6-3/release-notes/sp3-release-notes.md).
+AEM Cumulative Fix Pack 6.3.3.7 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ### Assets {#assets-1}
 
@@ -165,7 +165,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 AEM Cumulative Fix Pack 6.3.3.6 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 3 (6.3.3.0) in September 2018.
 
-AEM Cumulative Fix Pack 6.3.3.6 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](/6-3/release-notes/sp3-release-notes.md).
+AEM Cumulative Fix Pack 6.3.3.6 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ### Assets {#assets-2}
 
@@ -219,7 +219,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 AEM Cumulative Fix Pack 6.3.3.5 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 3 (6.3.3.0) in September 2018.
 
-AEM Cumulative Fix Pack 6.3.3.5 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](/6-3/release-notes/sp3-release-notes.md).
+AEM Cumulative Fix Pack 6.3.3.5 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 The key highlights of the **AEM Cumulative Fix Pack** are:
 
@@ -287,7 +287,7 @@ List of Content Packages included in AEM 6.3.3.5
 
 AEM Cumulative Fix Pack 6.3.3.4 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 3 (6.3.3.0) in September 2018.
 
-AEM Cumulative Fix Pack 6.3.3.4 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](/6-3/release-notes/sp3-release-notes.md).
+AEM Cumulative Fix Pack 6.3.3.4 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 The key highlights of the **AEM Cumulative Fix Pack** are:
 
@@ -395,7 +395,7 @@ List of Content Packages included in AEM 6.3.3.4
 
 AEM Cumulative Fix Pack 6.3.3.3 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 3 (6.3.3.0) in September 2018.
 
-AEM Cumulative Fix Pack 6.3.3.3 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](/6-3/release-notes/sp3-release-notes.md).
+AEM Cumulative Fix Pack 6.3.3.3 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 The key highlights of the **AEM Cumulative Fix Pack** are:
 
@@ -623,7 +623,7 @@ List of Content Packages included in AEM 6.3.3.2
 
 AEM Cumulative Fix Pack 6.3.3.1 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 3 (6.3.3.0) in September 2018.
 
-AEM Cumulative Fix Pack 6.3.3.1 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](/6-3/release-notes/sp3-release-notes.md).
+AEM Cumulative Fix Pack 6.3.3.1 is dependent on AEM 6.3 Service Pack 3. Therefore, you must install the AEM Cumulative Fix Pack 6.3.3.x package after installing AEM 6.3 Service Pack 3. For installation instructions, see [AEM 6.3 Service Pack 3 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 The key highlights of the **AEM Cumulative Fix Pack** are:
 
@@ -821,7 +821,7 @@ List of Content Packages included in AEM 6.3.3.1
 
 AEM Cumulative Fix Pack 6.3.2.2 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 2 (6.3.2.0) in April 2018.
 
-AEM Cumulative Fix Pack 6.3.2.2 is dependent on AEM 6.3 Service Pack 2. Therefore, you must install the AEM Cumulative Fix Pack 6.3.2.x package after installing AEM 6.3 Service Pack 2. For installation instructions, see [AEM 6.3 Service Pack 2 release notes](/6-3/release-notes/sp2-release-notes.md).
+AEM Cumulative Fix Pack 6.3.2.2 is dependent on AEM 6.3 Service Pack 2. Therefore, you must install the AEM Cumulative Fix Pack 6.3.2.x package after installing AEM 6.3 Service Pack 2. For installation instructions, see [AEM 6.3 Service Pack 2 release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html).
 
 The key highlights of the **AEM Cumulative Fix Pack** are:
 
@@ -1772,7 +1772,7 @@ Perform the following steps to install the Cumulative Fix Pack on an existing AE
 The CFP can be automatically installed into a running instance in the following ways:
 
 * Place the package into `../crx-quickstart/install` while the server is running. The package gets installed automatically.
-* Use the [HTTP API from Package Manager](/6-3/sites/administering/using/package-manager.md) - make sure that you use `cmd=install&recursive=true` - so the nested package is installed.
+* Use the [HTTP API from Package Manager](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/package-manager.html) - make sure that you use `cmd=install&recursive=true` - so the nested package is installed.
 
 ### Validate installation {#validate-installation}
 
@@ -1797,7 +1797,7 @@ The CFP can be automatically installed into a running instance in the following 
 
 1. Ensure that you have installed the AEM 6.3.3.x CFP package. 
 1. Download the corresponding Forms add-on package listed at [AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) for your operating system.
-1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](/6-3/forms/using/installing-configuring-aem-forms-osgi.md).
+1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://helpx.adobe.com/experience-manager/6-3/forms/using/installing-configuring-aem-forms-osgi.html).
 
 #### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}
 
@@ -1813,7 +1813,7 @@ Fixes in AEM Forms JEE are delivered through a separate installer. For informati
 
 >[!NOTE]
 >
->If you are installing 6.3.3.0 or later releases, perform the below procedure to configure settings for JBoss application server. If you are installing 6.3.3.0 on AEM Forms server running on Oracle WebLogic or IBM WebSpehere application servers, no additional configuration is required. For further details, see [AEM 6.3.3.0 Release Notes](/6-3/release-notes/sp3-release-notes.md).
+>If you are installing 6.3.3.0 or later releases, perform the below procedure to configure settings for JBoss application server. If you are installing 6.3.3.0 on AEM Forms server running on Oracle WebLogic or IBM WebSpehere application servers, no additional configuration is required. For further details, see [AEM 6.3.3.0 Release Notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ## Configuration updates for Search&Promote Integration {#configuration-updates-for-search-promote-integration}
 
@@ -1929,7 +1929,7 @@ This enables the sling GET servlet to be able to return all the required nodes.
 
 The Uber Jar for 6.3.3.8 is available at [Adobe Public Maven repository](https://repo.adobe.com/nexus/content/groups/public/com/adobe/aem/uber-jar/6.3.3.8/).
 
-To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](/6-3/sites/developing/using/ht-projects-maven.md) and include the following dependency in your project POM:
+To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/ht-projects-maven.html) and include the following dependency in your project POM:
 
 ```
 <dependency>
@@ -1955,8 +1955,8 @@ This section lists features and capabilities that have been removed or deprecate
   </tr> 
   <tr> 
    <td>Assets and Adobe Creative Cloud integration</td> 
-   <td><a href="/6-3/sites/administering/using/creative-cloud.md" target="_blank">AEM to Creative Cloud folder sharing</a> was introduced in AEM 6.2 as a way to give creative users access to assets from AEM. A new capability released in Creative Cloud application, Adobe Asset Link, provides a much better user experience and more powerful access to assets from AEM directly from inside Photoshop, InDesign, and Illustrator.<br /> Adobe will not make further enhancements to the folder sharing capability. While the feature is included in AEM, customers are strongly advised to use the replacement.</td> 
-   <td>Adobe Asset Link or Desktop App. For more info, see <a data-disable-query="false" href="/6-3/assets/using/aem-cc-integration-best-practices.md" target="_blank">AEM Creative Cloud integration</a> article.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/creative-cloud.html" target="_blank">AEM to Creative Cloud folder sharing</a> was introduced in AEM 6.2 as a way to give creative users access to assets from AEM. A new capability released in Creative Cloud application, Adobe Asset Link, provides a much better user experience and more powerful access to assets from AEM directly from inside Photoshop, InDesign, and Illustrator.<br /> Adobe will not make further enhancements to the folder sharing capability. While the feature is included in AEM, customers are strongly advised to use the replacement.</td> 
+   <td>Adobe Asset Link or Desktop App. For more info, see <a data-disable-query="false" href="https://helpx.adobe.com/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html" target="_blank">AEM Creative Cloud integration</a> article.</td> 
    <td>AEM 6.3.3.x<br /> </td> 
   </tr> 
  </tbody> 
@@ -1977,7 +1977,7 @@ List of Content Packages included in AEM 6.3.3.8
 ## Helpful resources {#helpful-resources}
 
 * [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
-* [AEM 6.3 hotfixes page](/kb/aem63-available-hotfixes.md)
+* [AEM 6.3 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem63-available-hotfixes.html)
 * [AEM 6.3 release notes](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
 * [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
 * [AEM 6.3 documentation](https://docs.adobe.com/content/docs/en/aem/6-3.html)
