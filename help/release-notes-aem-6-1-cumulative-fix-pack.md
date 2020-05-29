@@ -6,7 +6,7 @@ contentOwner: cmajumda
 discoiquuid: 8d5a5d18-094b-486b-a921-474617f1a7b6
 ---
 
-# Release Notes: AEM 6.1 Cumulative Fix Pack {#release-notes-aem-cumulative-fix-pack}
+# Release Notes - AEM 6.1 Cumulative Fix Pack {#release-notes-aem-cumulative-fix-pack}
 
 ## Release information {#release-information}
 
@@ -35,7 +35,6 @@ AEM Cumulative Fix Pack 6.1SP2-CFP18, released on January 11, 2019, includes the
 >
 >* Applying CFP without validating compatibility between installed feature packs may result in system failure or loss of custom configurations, which could require restoration from backup to resolve.
 >* If your instance is running a higher version of Oak compared to the Oak version of the CFP package, the latter will not impact your current Oak version.
->
 
 >[!NOTE]
 >
