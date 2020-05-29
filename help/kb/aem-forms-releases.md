@@ -126,10 +126,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td><strong>AEM forms releases</strong></td> 
    <td><strong>Prerequisite</strong></td> 
    <td><strong>Available packages</strong></td> 
-   <td><strong>Build 
-     <g class="gr_ gr_166 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del multiReplace" data-gr-id="166" id="166">
-       Versions 
-     </g></strong></td> 
+   <td><strong>Build Versions</strong></td> 
   </tr> 
   <tr> 
    <td>05 Mar 2020</td> 
@@ -300,10 +297,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td><strong>AEM forms releases</strong></td> 
    <td><strong>Prerequisite</strong></td> 
    <td><strong>Available packages</strong></td> 
-   <td><strong>Build 
-     <g class="gr_ gr_180 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="180" id="180">
-       versions 
-     </g></strong></td> 
+   <td><strong>Build versions</strong></td> 
   </tr> 
   <tr> 
    <td>05 Mar 2020</td> 
@@ -396,9 +390,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.104</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0035</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>15 <g class="gr_ gr_1009 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" data-gr-id="1009" id="1009">
-      Jan 
-    </g> 2019</td> 
+   <td>15 Jan 2019</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.2</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.2</a></td> 
    <td> 
@@ -414,9 +406,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.94</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0034</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>15 <g class="gr_ gr_300 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep gr-progress" data-gr-id="300" id="300">
-      Nov 
-    </g> 2018</td> 
+   <td>15 Nov 2018</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.1</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3.3.1</a></td> 
    <td> 
@@ -432,9 +422,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.90</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0032</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>12 <g class="gr_ gr_1014 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" data-gr-id="1014" id="1014">
-      Sep 
-    </g> 2018</td> 
+   <td>12 Sep 2018</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3 Service Pack 3 Forms add-on package</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.0</a></td> 
    <td> 
@@ -450,9 +438,7 @@ The following list contains all the AEM Forms add-on packages released till toda
    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.82</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0028</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>26 <g class="gr_ gr_1015 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" data-gr-id="1015" id="1015">
-      Jun 
-    </g> 2018</td> 
+   <td>26 Jun 2018</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.2.2</a></td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">AEM 6.3 Cumulative Fix Pack</a></td> 
    <td> 
@@ -536,9 +522,7 @@ The following list contains all the AEM Forms add-on packages released till toda
      <li>LiveCycle embed package <sup>[1] [3]</sup></li> 
      <li>AEM Forms App Source<sup> [1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.36</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0013</strong></p> <p> <g class="gr_ gr_181 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="181" id="181">
-       Livecycle 
-     </g> embed package: <strong>4.0.20</strong></p> <p>AEM Forms App Source: <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
+   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.36</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0013</strong></p> <p> Livecycle embed package: <strong>4.0.20</strong></p> <p>AEM Forms App Source: <strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
   </tr> 
   <tr> 
    <td>13 Oct 2017</td> 
@@ -557,13 +541,7 @@ The following list contains all the AEM Forms add-on packages released till toda
      <li>AEM Workbench Hotfix [1]</li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3-SP1-FSI-REF-SITE" target="_blank">AEM Forms FSI Reference Site Package</a></li> 
     </ul> </td> 
-   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.18</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0008</strong></p> <p>AEM Forms App Source: <strong>3.1.16</strong></p> <p>AEM Workbench Hotfix: <strong>1003-004</strong></p> <p>AEM Forms FSI Reference Site Package: <strong> 
-      <g class="gr_ gr_175 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="175" id="175">
-        aemfd 
-      </g>: 
-      <g class="gr_ gr_176 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="176" id="176">
-        cq 
-      </g>-we-finance-pkg:3.1.10</strong></p> </td> 
+   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.1.18</strong></p> <p>AEM Forms JEE installer: <strong>6.3.0-0008</strong></p> <p>AEM Forms App Source: <strong>3.1.16</strong></p> <p>AEM Workbench Hotfix: <strong>1003-004</strong></p> <p>AEM Forms FSI Reference Site Package: <strong>aemfd: cq-we-finance-pkg:3.1.10</strong></p> </td> 
   </tr> 
   <tr> 
    <td>8 Aug 2017</td> 
@@ -619,16 +597,7 @@ The following list contains all the AEM Forms add-on packages released till toda
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">AEM Forms FSI Reference Site Package</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-GOV-REF-SITE" target="_blank">AEM Forms Gov Reference Site Package</a></li> 
     </ul> </td> 
-   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.0.74</strong></p> <p>Central Migration Bridge Package: <strong>5.0.10</strong></p> <p>AEM Forms App Source: <strong>3.1.12</strong></p> <p>AEM Forms Document Security Indexer: <strong>2.0.4</strong></p> <p>AEM Forms FSI Reference Site Package: <strong> 
-      <g class="gr_ gr_177 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="177" id="177">
-        aemfd 
-      </g>: 
-      <g class="gr_ gr_178 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="178" id="178">
-        cq 
-      </g>-we-finance-pkg:3.0.6</strong></p> <p>AEM Forms Gov Reference Site Package: <strong>day/cq60/fd: 
-      <g class="gr_ gr_179 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="179" id="179">
-        cq 
-      </g>-we-gov-all-pkg:4.0.8</strong></p> </td> 
+   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.0.74</strong></p> <p>Central Migration Bridge Package: <strong>5.0.10</strong></p> <p>AEM Forms App Source: <strong>3.1.12</strong></p> <p>AEM Forms Document Security Indexer: <strong>2.0.4</strong></p> <p>AEM Forms FSI Reference Site Package: <strong> aemfd: cq-we-finance-pkg:3.0.6</strong></p> <p>AEM Forms Gov Reference Site Package: <strong>day/cq60/fd: cq -we-gov-all-pkg:4.0.8</strong></p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -1038,9 +1007,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
    <th> <strong>AEM Forms releases </strong></th> 
    <th><strong>Prerequisite</strong></th> 
    <th><strong>Available packages</strong></th> 
-   <th>Build <g class="gr_ gr_306 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="306" id="306">
-      versions 
-    </g></th> 
+   <th>Build versions</th> 
   </tr> 
   <tr> 
    <td>11 Jan 2019</td> 
@@ -1424,9 +1391,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
    <th><strong>AEM Forms release</strong></th> 
    <th><strong>Prerequisite</strong></th> 
    <th><strong>Available packages</strong></th> 
-   <th>Build <g class="gr_ gr_54 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" data-gr-id="54" id="54">
-      versions 
-    </g></th> 
+   <th>Build versions</th> 
   </tr> 
   <tr> 
    <td>23 Oct 2015</td> 

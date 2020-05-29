@@ -592,7 +592,7 @@ You can also view [previous documentation updates](previous-documentation-update
    <td>The documentation covers the following major updates:
     <ul> 
      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html">Frequently Asked Questions</a> in Brand Portal Asset Sourcing.</li> 
-     <li>Updated documentation for <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html" style="font-size: 16px;">Asset Sourcing in Brand Portal</a>.</li> 
+     <li>Updated documentation for <a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">Asset Sourcing in Brand Portal</a>.</li> 
     </ul> </td> 
   </tr>
   <tr>
