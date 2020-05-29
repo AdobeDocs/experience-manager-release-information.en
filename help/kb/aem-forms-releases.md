@@ -307,7 +307,7 @@ The following list contains all the AEM Forms add-on packages released till toda
   </tr> 
   <tr> 
    <td>05 Mar 2020</td> 
-   <td><a href="/help//help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.8</a></td> 
+   <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">Forms add-on package for AEM 6.3 Cumulative Fix Pack 6.3.3.8</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
    <td> 
     <ul> 

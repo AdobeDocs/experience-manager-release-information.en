@@ -69,7 +69,7 @@ You can also view [previous documentation updates](previous-documentation-update
  </tbody>
 </table>
 
-## AEM 6.5 {#aem}
+## AEM 6.5 {#aem-65}
 
 <table> 
  <tbody>
@@ -131,12 +131,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>18 Oct 2019<br /> </td> 
    <td>Headless Experience Management<br /> </td> 
-   <td>Features of the <a href="/6-5/sites/developing/using/spa-ssr.md#remote-content-renderer">Remote Content Renderer</a>, used for server side rendering of single page applications, have been documented.<br /> </td> 
+   <td>Features of the <a href="https://docs.adobe.com/content/help/en/experience-manager-65/developing/headless/spas/spa-ssr.html#remote-content-renderer-configuration">Remote Content Renderer</a>, used for server side rendering of single page applications, have been documented.<br /> </td> 
   </tr>
   <tr>
    <td>October 11, 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="/6-5/sites/administering/using/adobeanalytics-connect.md#configuring-the-connection-to-adobe-analytics">Configuring the connection to Adobe Analytics</a>.</p> <p>The <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/integration/adobeanalytics-link.html#configuring-link-tracking-for-an-adobe-analytics-framework">Configuring the connection to Adobe Analytics</a>.</p> <p>The <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
   </tr>
   <tr>
    <td>October 10, 2019</td> 
@@ -146,7 +146,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Oct 08, 2019</td> 
    <td>AEM Screens<br /> </td> 
-   <td><p>AEM Screens released AEM 6.4.6 Feature Pack 6 and AEM 6.5.2 Feature Pack 2.</p> <p>Refer to <a href="/6-5/screens/using/release-notes-fp-201909.md">Release Notes for Feature Pack 201909</a> for more details.</p> </td> 
+   <td><p>AEM Screens released AEM 6.4.6 Feature Pack 6 and AEM 6.5.2 Feature Pack 2.</p> <p>Refer to <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html">Release Notes for Feature Pack 201909</a> for more details.</p> </td> 
   </tr>
   <tr>
    <td>Oct 01, 2019</td> 
@@ -166,7 +166,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Sep 25, 2019</td> 
    <td>AEM Assets search<br /> </td> 
-   <td>Fresh content on asset searching and discovery is a one-stop-shop for information on using, configuring, troubleshooting, limitations, and tips. Check out <a href="/6-5/assets/using/search-assets.md" target="_blank">search assets</a>.</td> 
+   <td>Fresh content on asset searching and discovery is a one-stop-shop for information on using, configuring, troubleshooting, limitations, and tips. Check out <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/search-assets.html" target="_blank">search assets</a>.</td> 
   </tr>
   <tr>
    <td>Sep 25, 2019</td> 
@@ -181,7 +181,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Sep 19, 2019</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="/6-5/release-notes/sp-release-notes.md">AEM 6.5 Service Pack 2 (6.5.2.0)</a> is available.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> is available.</td>
   </tr>
   <tr>
    <td>Sep 9, 2019</td> 
@@ -201,22 +201,22 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Aug 21, 2019</td> 
    <td>AEM 6.5 Screens User Guide</td> 
-   <td>A new section on Network Deployment Basics is now live. Refer to <a href="/6-5/screens/user-guide.md">User Guide</a> for more details.</td> 
+   <td>A new section on Network Deployment Basics is now live. Refer to <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">User Guide</a> for more details.</td> 
   </tr>
   <tr>
    <td>Aug 20, 2019</td> 
    <td>AEM Assets Smart Tags<br /> </td> 
-   <td>Know how to <a href="/6-5/assets/using/config-smart-tagging.md#certrenew" target="_blank">update certificate</a> after it expires.</td> 
+   <td>Know how to <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/config-smart-tagging.html#certrenew" target="_blank">update certificate</a> after it expires.</td> 
   </tr>
   <tr>
    <td>Aug 2, 2019</td> 
    <td>New PDF rasterizer package<br /> </td> 
-   <td>A <a href="/6-5/assets/using/aem-pdf-rasterizer.md" target="_blank">new package is available</a> that helps AEM Assets process heavy AI/PDF files and generate previews and thumbnails.<br /> </td> 
+   <td>A <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-pdf-rasterizer.html" target="_blank">new package is available</a> that helps AEM Assets process heavy AI/PDF files and generate previews and thumbnails.<br /> </td> 
   </tr>
   <tr>
    <td>Jul 25, 2019</td> 
    <td>AEM Assets functionality under difference licenses</td> 
-   <td><a href="/6-5/assets/using/medialibrary.md" target="_blank">List of capabilities</a> of AEM Assets that are available in a stand-alone DAM license vs in AEM MediaLibrary are updated for AEM 6.5 release.<br /> </td> 
+   <td><a href="https://docs.adobe.com/help/en/experience-manager-65/assets/administer/medialibrary.html" target="_blank">List of capabilities</a> of AEM Assets that are available in a stand-alone DAM license vs in AEM MediaLibrary are updated for AEM 6.5 release.<br /> </td> 
   </tr>
   <tr>
    <td>Jul 12, 2019</td> 
@@ -226,17 +226,17 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Jul 08, 2019</td> 
    <td>Migration to the Touch-Enabled UI</td> 
-   <td>Landing page listing information and resources for <a href="/6-5/sites/developing/using/touch-ui-migration.md">migrating to the touch-enabled UI</a>.</td> 
+   <td>Landing page listing information and resources for <a href="https://docs.adobe.com/help/en/experience-manager-65/developing/introduction/touch-ui-migration.html">migrating to the touch-enabled UI</a>.</td> 
   </tr>
   <tr>
    <td>Jul 03, 2019</td> 
    <td>Experience Fragments</td> 
-   <td><a href="/6-5/sites/developing/using/experience-fragments.md#the-experience-fragment-link-rewriter-provider-html">The Experience Fragment Link Rewriter Provider - HTML</a>.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">The Experience Fragment Link Rewriter Provider - HTML</a>.</td> 
   </tr>
   <tr>
    <td>Jul 03, 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="/6-5/release-notes/sp-release-notes.md">AEM 6.5 Service Pack 1 (6.5.1.0) </a>is available.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>is available.</td> 
   </tr>
   <tr>
    <td>Jun 25, 2019</td> 
@@ -246,12 +246,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Jun 17, 2019<br /> </td> 
    <td>AEM Assets and Creative Cloud integration</td> 
-   <td>The best practices are updated with crisp mapping of business requirements, Adobe solution offering, and customer use cases. An infographic is added to make it visually appealing. See <a href="/6-5/assets/using/aem-cc-integration-best-practices.md" target="_blank">AEM Creative Cloud integration best practices</a>.<br /> </td> 
+   <td>The best practices are updated with crisp mapping of business requirements, Adobe solution offering, and customer use cases. An infographic is added to make it visually appealing. See <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM Creative Cloud integration best practices</a>.<br /> </td> 
   </tr>
   <tr>
    <td>Jun 3, 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Added a package in the <a href="/6-5/sites/administering/using/rich-text-editor.md#enable-rte-functionalities-by-activating-plug-ins" target="_blank">configuration article</a> with all plug-ins enabled, to be used as a sample configuration. A community member contributed a tutorial on how to <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </p> <p>Created a <a href="/6-5/sites/administering/using/aem-rte-faq.md" target="_blank">troubleshooting FAQ</a> based on customer feedback.</p> </td> 
+   <td><p>Added a package in the <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/rich-text-editor.html" target="_blank">configuration article</a> with all plug-ins enabled, to be used as a sample configuration. A community member contributed a tutorial on how to <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </p> <p>Created a <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">troubleshooting FAQ</a> based on customer feedback.</p> </td> 
   </tr>
   <tr>
    <td>May 31, 2019</td> 
@@ -305,17 +305,17 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Apr 12, 2019</td> 
    <td>AEM 6.5 Screens User Guide</td> 
-   <td><p><a href="/6-5/screens/user-guide.md">AEM 6.5 Screens User Guide</a> is now available. </p> <p>Additionally, you can now enable Kiosk mode in Windows 10 Player. Refer to <a href="/6-5/screens/using/implementing-windows-player.md">Implementing Windows 10 Player</a> for more information.</p> </td> 
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM 6.5 Screens User Guide</a> is now available. </p> <p>Additionally, you can now enable Kiosk mode in Windows 10 Player. Refer to <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Implementing Windows 10 Player</a> for more information.</p> </td> 
   </tr>
   <tr>
    <td>April 8, 2019</td> 
    <td>AEM Assets</td> 
-   <td>The folder sharing functionality is deprecated. See <a href="/6-5/assets/using/aem-cc-folder-sharing-best-practices.md" target="_blank">folder sharing best practices</a>.</td> 
+   <td>The folder sharing functionality is deprecated. See <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">folder sharing best practices</a>.</td> 
   </tr>
  </tbody>
 </table>
 
-## AEM 6.4 {#aem-1}
+## AEM 6.4 {#aem-64}
 
 <table> 
  <tbody>
@@ -357,7 +357,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Sep 19, 2019</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td><a href="/6-4/release-notes/sp-release-notes.md">AEM 6.4 Service Pack 6 (6.4.6.0)</a> is available.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> is available.</td> 
   </tr>
   <tr>
    <td>Sep 9, 2019<br /> </td> 
@@ -372,32 +372,32 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Aug 20, 2019</td> 
    <td>AEM Assets Smart Tags</td> 
-   <td>Know how to <a data-disable-query="false" disablelinktracking="false" href="/6-4/assets/using/config-smart-tagging.md#certrenew" target="_blank">update certificate</a> after it expires.</td> 
+   <td>Know how to <a data-disable-query="false" disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">update certificate</a> after it expires.</td> 
   </tr>
   <tr>
    <td>Aug 2, 2019<br /> </td> 
    <td>New PDF rasterizer package</td> 
-   <td>A <a href="/6-4/assets/using/aem-pdf-rasterizer.md" target="_blank">new package is available</a> that helps AEM Assets process heavy AI/PDF files and generate previews and thumbnails.</td> 
+   <td>A <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-pdf-rasterizer.html" target="_blank">new package is available</a> that helps AEM Assets process heavy AI/PDF files and generate previews and thumbnails.</td> 
   </tr>
   <tr>
    <td>Jul 03, 2019</td> 
    <td>AEM 6.4 Service Pack 5</td> 
-   <td><a data-disable-query="false" href="/6-4/release-notes/sp-release-notes.md">AEM 6.4 Service Pack 5 (6.4.5.0)</a> is available.</td> 
+   <td><a data-disable-query="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a> is available.</td> 
   </tr>
   <tr>
    <td>Jun 17, 2019</td> 
    <td>AEM Assets and Creative Cloud integration</td> 
-   <td>The best practices are updated with crisp mapping of business requirements, Adobe solution offering, and customer use cases. An infographic is added to make it visually appealing. See <a data-disable-query="false" href="/6-4/assets/using/aem-cc-integration-best-practices.md" target="_blank">AEM Creative Cloud integration best practices</a>.</td> 
+   <td>The best practices are updated with crisp mapping of business requirements, Adobe solution offering, and customer use cases. An infographic is added to make it visually appealing. See <a data-disable-query="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM Creative Cloud integration best practices</a>.</td> 
   </tr>
   <tr>
    <td>Jun 3, 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td>Added a package in the <a data-disable-query="false" href="/6-4/sites/administering/using/rich-text-editor.md#enable-rte-functionalities-by-activating-plug-ins" target="_blank">configuration article</a> with all plug-ins enabled, to be used as a sample configuration. A community member contributed a tutorial on how to <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </td> 
+   <td>Added a package in the <a data-disable-query="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuration article</a> with all plug-ins enabled, to be used as a sample configuration. A community member contributed a tutorial on how to <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </td> 
   </tr>
   <tr>
    <td>Apr 04, 2019</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td><a href="/6-4/release-notes/sp-release-notes.md">AEM 6.4 Service Pack 4 (6.4.4.0)</a> is available.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> is available.</td> 
   </tr>
   <tr>
    <td>Feb 22, 2019</td> 
@@ -424,12 +424,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Jan 10, 2019</td> 
    <td>Experience Fragments</td> 
-   <td>Documentation on <a href="/6-4/sites/administering/using/experience-fragments-target.md">Target Integration with Experience Fragments</a>, including <a href="/6-4/sites/administering/using/experience-fragments-target.md#deleting-an-experience-fragment-already-exported-to-target">Deleting an Experience Fragment already exported to Target</a>.</td> 
+   <td>Documentation on <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html">Target Integration with Experience Fragments</a>, including <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">Deleting an Experience Fragment already exported to Target</a>.</td> 
   </tr>
   <tr>
    <td>Jan 9, 2019</td> 
    <td>Troubleshooting Integration Issues</td> 
-   <td>A new <a href="/6-4/sites/administering/using/troubleshooting-integration-issues.md">Troubleshooting Integration Issues</a> page has been added.</td> 
+   <td>A new <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/troubleshooting-integration-issues.html">Troubleshooting Integration Issues</a> page has been added.</td> 
   </tr>
  </tbody>
 </table>
@@ -461,7 +461,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>October 11, 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="/6-3/sites/administering/using/adobeanalytics-connect.md#configuring-the-connection-to-adobe-analytics">Configuring the connection to Adobe Analytics</a>.</p> <p>The <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used.</p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Configuring the connection to Adobe Analytics</a>.</p> <p>The <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used.</p> </td> 
   </tr>
   <tr>
    <td>September 25, 2019</td> 
@@ -471,7 +471,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>September 9, 2019<br /> </td> 
    <td>AEM Assets Smart Tags</td> 
-   <td>Know how to <a data-disable-query="false" disablelinktracking="false" href="/6-3/assets/using/config-smart-tagging.md#certrenew" target="_blank">update certificate</a> after it expires.</td> 
+   <td>Know how to <a data-disable-query="false" disablelinktracking="false" href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html" target="_blank">update certificate</a> after it expires.</td> 
   </tr>
   <tr>
    <td>July 03, 2019</td> 
@@ -496,24 +496,24 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>January 10, 2019</td> 
    <td>Experience Fragments</td> 
-   <td>Documentation on <a href="/6-3/sites/administering/using/experience-fragments-target.md">Target Integration with Experience Fragments</a>.</td> 
+   <td>Documentation on <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/experience-fragments-target.html">Target Integration with Experience Fragments</a>.</td> 
   </tr>
  </tbody>
 </table>
 
-## AEM 6.2 {#aem-3}
+## AEM 6.2 {#aem-62}
 
 | Date |Topic |Changes |
 |---|---|---|
 | June 6, 2019 |AEM 6.2 Cumulative Fix Pack | [Cumulative Fix Pack 20](release-notes-aem-6-2-cumulative-fix-pack.md) for AEM 6.2 Service Pack 1 is available. |
 
-## AEM 6.1 {#aem-4}
+## AEM 6.1 {#aem-61}
 
 | Date |Topics |Changes |
 |---|---|---|
-| Jan 11, 2019 |AEM 6.1 Cumulative Fix Pack | [Cumulative Fix Pack 18](release-notes-aem-6-1-cumulative-fix-pack.md) [1] for AEM 6.1 Service Pack 2 is available. |
+| Jan 11, 2019 |AEM 6.1 Cumulative Fix Pack | [Cumulative Fix Pack 18](release-notes-aem-6-1-cumulative-fix-pack.md) `[1]` for AEM 6.1 Service Pack 2 is available. |
 
-[1] Last maintenance release for AEM 6.1.
+`[1]` Last maintenance release for AEM 6.1.
 
 ## AEM Assets Brand Portal {#aem-assets-brand-portal}
 
@@ -561,8 +561,8 @@ You can also view [previous documentation updates](previous-documentation-update
    <td>AEM Assets Brand Portal 6.4.6 release</td> 
    <td><p>In Brand Portal 6.4.6, the authorization channel between AEM Assets and Brand Portal is changed. AEM Assets is now configured with Brand Portal via Adobe I/O. Brand Portal is now supported on AEM Assets 6.3 and above.</p> <p>The documentation covers the following major updates:</p> 
     <ul> 
-     <li><a href="/brand-portal/using/whats-new.md">What's new in AEM Assets Brand Portal</a></li> 
-     <li><a href="/brand-portal/release-notes/brand-portal-release-notes.md">Brand Portal release notes</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">What's new in AEM Assets Brand Portal</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal release notes</a></li> 
     </ul> </td> 
   </tr>
   <tr>
@@ -612,7 +612,7 @@ You can also view [previous documentation updates](previous-documentation-update
     <ul> 
      <li><strong>BP 6.4.4.7</strong> - Optimize User Sync process to prevent concurrent execution.</li> 
      <li><strong>BP 6.4.4.6</strong> - Performance optimizations for download report generation.</li> 
-    </ul> <p><a href="/brand-portal/release-notes/brand-portal-release-notes.md">Brand Portal release notes</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html">Brand Portal release notes</a></p> </td> 
   </tr>
   <tr>
    <td>February 13, 2019</td> 
@@ -621,7 +621,7 @@ You can also view [previous documentation updates](previous-documentation-update
     <ul> 
      <li>Property predicate in Search filter now supports searching for partial phrases.</li> 
      <li>Property predicate in Search Filter now supports wild card (*) searches.</li> 
-    </ul> <p><a href="/brand-portal/using/whats-new.md">What's new in AEM Assets Brand Portal</a></p> <p><a href="/brand-portal/release-notes/brand-portal-release-notes.md">Brand Portal release notes</a></p> <p><a href="/brand-portal/user-guide.md">Brand Portal user guide</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">What's new in AEM Assets Brand Portal</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal release notes</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal user guide</a></p> </td> 
   </tr>
  </tbody>
 </table>
