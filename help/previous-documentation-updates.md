@@ -880,7 +880,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>August 17, 2016</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html#configuring image replication">Configuring the Replication Agent</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html#ConfiguringImageReplication">Configuring the Replication Agent</a></td> 
    <td>Pertains to <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html">Configuring Dynamic Media</a>.<br /> Improved steps to make configuration of the Replication Agent clearer.</td> 
   </tr>
   <tr>
@@ -1043,7 +1043,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>November 18, 2016</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html#configuring image replication">Configuring Image Replication</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/config-dynamic.html#ConfiguringImageReplication">Configuring Image Replication</a></td> 
    <td>Pertains to new instructions for configuring image replication.</td> 
   </tr>
   <tr>
@@ -1053,7 +1053,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>November 3, 2016</td> 
-   <td>Updated Dynamic Media Technical Requirements <a href="https://docs.adobe.com/content/docs/en/aem/6-0/deploy/technical-requirements.html#Dynamic-Media Add-on Prerequisites">6.0</a>, <a href="https://docs.adobe.com/content/docs/en/aem/6-1/deploy/technical-requirements.html#Dynamic-Media Add-on Prerequisites">6.1</a>, <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/technical-requirements.html#dynamic-media%20add-on%20prerequisites">6.2</a></td> 
+   <td>Updated Dynamic Media Technical Requirements <a href="https://helpx.adobe.com/ca/experience-manager/aem-previous-versions.html">6.0</a>, <a href="https://helpx.adobe.com/ca/experience-manager/aem-previous-versions.html">6.1</a>, <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/technical-requirements.html#dynamic-media%20add-on%20prerequisites">6.2</a></td> 
    <td>Updated Visual Studio C++ redistributables for technical requirements.</td> 
   </tr>
   <tr>
