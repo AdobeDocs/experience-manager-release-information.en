@@ -1073,7 +1073,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>October 11, 2016</td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring Dynamic Media Color Management">Dynamic Media Color Management</a></td> 
+   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20Dynamic%20Media%20Color%20Management">Dynamic Media Color Management</a></td> 
    <td>New feature pack for AEM 6.1 that lets you color correct dynamic media assets before previewing them.</td> 
   </tr>
   <tr>

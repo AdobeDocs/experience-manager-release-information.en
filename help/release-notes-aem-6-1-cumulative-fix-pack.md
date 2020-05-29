@@ -1,7 +1,6 @@
 ---
-title: "Release Notes: AEM 6.1 Cumulative Fix Pack "
-description: null
-seo-description: null
+title: Release Notes: AEM 6.1 Cumulative Fix Pack
+description: AEM 6.1 Cumulative Fix Pack
 uuid: 7bee5414-01fc-486f-a6e2-0d3dd9c4a4d1
 contentOwner: cmajumda
 discoiquuid: 8d5a5d18-094b-486b-a921-474617f1a7b6
@@ -1347,7 +1346,7 @@ There is an API change between 6.1 SP2 and 6.1 SP2-CFP2:
 
 You can download the CFP package directly from [Adobe Package Share](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/AEM-6.1-SP2-CFP18.1) or perform the following steps:
 
-1. On your AEM instance, click **Tools &gt; Package Share**.
+1. On your AEM instance, click **Tools** > **Package Share**.
 1. Log in using your Adobe ID credentials.
 1. Search for [AEM-6.1-SP2-CFP18.1](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/AEM-6.1-SP2-CFP18.1) and click the appropriate package in the search results to open the CFP details page.
 1. On the CFP details page, click **Download** and accept the license agreement. Click **OK** to confirm the download.
