@@ -1,5 +1,5 @@
 ---
-title: Release Notes: AEM 6.1 Cumulative Fix Pack
+title: AEM 6.1 Cumulative Fix Pack
 description: AEM 6.1 Cumulative Fix Pack
 uuid: 7bee5414-01fc-486f-a6e2-0d3dd9c4a4d1
 contentOwner: cmajumda
