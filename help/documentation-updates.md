@@ -30,7 +30,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>April 20, 2020</td> 
    <td>Content Fragments</td> 
-   <td>Information about <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/admin/assets-api-content-fragments.html">Content Fragments Support in AEM Assets HTTP API</a>, together with <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-customizing.html">Customizing and Extending Content Fragments</a>, and <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-configuring-components-rendering.html">Content Fragments Configuring Components for Rendering</a>.</td> 
+   <td>Information about <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-customizing.html">Customizing and Extending Content Fragments</a>, and <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-configuring-components-rendering.html">Content Fragments Configuring Components for Rendering</a>.</td> 
   </tr>
   <tr>
    <td>Apr 09, 2020</td> 
@@ -59,12 +59,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>25 Feb 2020</td> 
    <td>Role Based Permissions</td> 
-   <td>Cloud Manager has pre-configured roles with appropriate permissions. Each of the roles have specific permissions, preconfigured tasks, or permissions, associated with each role. <a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/what-is-required/role-based-permissions.html">Role Based Permissions page</a> lists the functions available and the roles who can execute the function.<br /> </td> 
+   <td>Cloud Manager has pre-configured roles with appropriate permissions. Each of the roles have specific permissions, preconfigured tasks, or permissions, associated with each role. <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/what-is-required/role-based-permissions.html">Role Based Permissions page</a> lists the functions available and the roles who can execute the function.<br /> </td> 
   </tr>
   <tr>
    <td>15 Feb 2020</td> 
    <td>Dispatcher in the Cloud</td> 
-   <td>The <a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn">Dispatcher and CDN</a> and <a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation">Explicit Dispatcher cache invalidation</a> sections were updated to clarify the options available and how they work.<br /> </td> 
+   <td>The <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn">Dispatcher and CDN</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation">Explicit Dispatcher cache invalidation</a> sections were updated to clarify the options available and how they work.<br /> </td> 
   </tr>
  </tbody>
 </table>
@@ -81,12 +81,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Apr 13, 2020</td> 
    <td>Asset versioning</td> 
-   <td>Updated content and video on how to create, preview, and revert to <a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#asset-versioning" target="_blank">versions of assets in AEM</a>.</td> 
+   <td>Updated content and video on how to create, preview, and revert to <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#asset-versioning" target="_blank">versions of assets in AEM</a>.</td> 
   </tr>
   <tr>
    <td>Apr 13, 2020</td> 
    <td>Asset processing</td> 
-   <td>A new overview is added about how workflows are used for processing assets. Also, a new topic describes how to <a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/assets-workflow.html" target="_blank">auto-trigger workflow to process assets</a>.<br /> </td> 
+   <td>A new overview is added about how workflows are used for processing assets. Also, a new topic describes how to <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/assets-workflow.html" target="_blank">auto-trigger workflow to process assets</a>.<br /> </td> 
   </tr>
   <tr>
    <td>30 Mar 2020</td> 
@@ -111,17 +111,17 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>12 Dec 2019</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/sp-release-notes.html">AEM 6.5 Service Pack 3</a> is available.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/sp-release-notes.html">AEM 6.5 Service Pack 3</a> is available.</td> 
   </tr>
   <tr>
    <td>5 Dec 2019</td> 
    <td>Core Components<br /> </td> 
-   <td>Core Components release 2.8.0 including lots of fixes is now available along with <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">authoring documentation</a> and <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
+   <td>Core Components release 2.8.0 including lots of fixes is now available along with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
   </tr>
   <tr>
    <td>20 Nov 2019</td> 
    <td>AEM Project Archetype<br /> </td> 
-   <td>The <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/uifrontend.html">ui.frontend module</a> of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html">AEM Project Archetype</a> is a useful and flexible tool to make front-end development for your AEM project easier.<br /> </td> 
+   <td>The <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html">AEM Project Archetype</a> is a useful and flexible tool to make front-end development for your AEM project easier.<br /> </td> 
   </tr>
   <tr>
    <td>18 Oct 2019<br /> </td> 
@@ -136,7 +136,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>October 11, 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/integration/adobeanalytics-link.html#configuring-link-tracking-for-an-adobe-analytics-framework">Configuring the connection to Adobe Analytics</a>.</p> <p>The <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
   </tr>
   <tr>
    <td>October 10, 2019</td> 
@@ -151,7 +151,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Oct 01, 2019</td> 
    <td>AEM Forms on JEE Installation </td> 
-   <td><p>AEM Forms support for Oracle 18c database driver added. </p> <p>Platform Matrix: <a href="https://helpx.adobe.com/experience-manager/6-5/forms/using/AEM-forms-JEE-supported-platforms.html#Databasedrivers">https://helpx.adobe.com/experience-manager/6-5/forms/using/AEM-forms-JEE-supported-platforms.html#Databasedrivers</a></p> <p>PDF guides:</p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-jboss.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-jboss.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>AEM Forms support for Oracle 18c database driver added. </p> <p>Platform Matrix: <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>Oct 01, 2019 </td> 
@@ -161,7 +161,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>25 September 2019</td> 
    <td>Core Components</td> 
-   <td>Core Components release 2.7.0 introducing the Embed Component is now available along with <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">authoring documentation</a> and <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
+   <td>Core Components release 2.7.0 introducing the Embed Component is now available along with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
   </tr>
   <tr>
    <td>Sep 25, 2019</td> 
@@ -196,7 +196,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Sep 6, 2019</td> 
    <td>Core Components</td> 
-   <td>Core Components release 2.6.0 introducing an Experience Fragment Component is now available along with <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">authoring documentation</a> and <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
+   <td>Core Components release 2.6.0 introducing an Experience Fragment Component is now available along with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
   </tr>
   <tr>
    <td>Aug 21, 2019</td> 
@@ -221,7 +221,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Jul 12, 2019</td> 
    <td>Uploading files in Dynamic Media Classic</td> 
-   <td>The <a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/upload-publish/uploading-files.html#uploading-your-files">About uploading files</a> topic and the <a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/upload-publish/uploading-files.html#upload-options">Upload Job Options dialog box</a> topic in Dynamic Media Classic were rewritten and updated.</td> 
+   <td>The <a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/upload-publish/uploading-files.html#upload-options">Upload Job Options dialog box</a> topic in Dynamic Media Classic were rewritten and updated.</td> 
   </tr>
   <tr>
    <td>Jul 08, 2019</td> 
@@ -241,7 +241,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Jun 25, 2019</td> 
    <td>Core Components<br /> </td> 
-   <td>Core Components release 2.5.0 including new Accordion, Button, Container and Download components is now available along with <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">authoring documentation</a> and <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
+   <td>Core Components release 2.5.0 including new Accordion, Button, Container and Download components is now available along with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
   </tr>
   <tr>
    <td>Jun 17, 2019<br /> </td> 
@@ -251,12 +251,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Jun 3, 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Added a package in the <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/rich-text-editor.html" target="_blank">configuration article</a> with all plug-ins enabled, to be used as a sample configuration. A community member contributed a tutorial on how to <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </p> <p>Created a <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">troubleshooting FAQ</a> based on customer feedback.</p> </td> 
+   <td><p>Added a package in the <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </p> <p>Created a <a href="https://docs.adobe.com/content/help/en/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">troubleshooting FAQ</a> based on customer feedback.</p> </td> 
   </tr>
   <tr>
    <td>May 31, 2019</td> 
    <td>AEM and Magento Integration </td> 
-   <td><a href="https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/integrations.html#!AdobeDocs/commerce-cif-documentation/master/integrations/02-AEM-Magento.md">AEM and Magento integration</a> using the <a href="https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/integrations.html">Commerce Integration Framework</a>.</td> 
+   <td><a href="https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/integrations.html">Commerce Integration Framework</a>.</td> 
   </tr>
   <tr>
    <td>May 24, 2019</td> 
@@ -266,7 +266,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>May 14, 2019</td> 
    <td>Viewers Reference Guide</td> 
-   <td>The modifier preload for the video player in the <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/mixed-media/command-reference-configuration-attributes-mixed-media/r-html5-mixedmedia-viewer-config-attrib-videoplayer-preload.html">Mixed Media</a>, <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html">Video</a>, <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/interactive-video/command-reference-configuration-attributes-interactive-video/r-html5-aem-int-video-config-attrib-videoplayer-preload.html">Interactive Video</a>, and <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html">Video360</a> viewer is now documented.</td> 
+   <td>The modifier preload for the video player in the <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html">Video</a>, <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html">Video360</a> viewer is now documented.</td> 
   </tr>
   <tr>
    <td>May 14, 2019</td> 
@@ -276,17 +276,17 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>May 13, 2019</td> 
    <td>IS/IR API</td> 
-   <td>Added new BFC (Browser Format Conversion) values to the<a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/command-reference/r-bfc.html"> HTTP command reference section</a>, and the <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html">Image Catalog Attributes reference section</a>.</td> 
+   <td>Added new BFC (Browser Format Conversion) values to the<a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html">Image Catalog Attributes reference section</a>.</td> 
   </tr>
   <tr>
    <td>May 8, 2019</td> 
    <td>Core Components<br /> </td> 
-   <td>Core Components release 2.4.0 including a new Content Fragment List component is now available along with <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">authoring documentation</a> with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.<br /> </td> 
+   <td>Core Components release 2.4.0 including a new Content Fragment List component is now available along with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.<br /> </td> 
   </tr>
   <tr>
    <td>May 1, 2019</td> 
    <td>Viewers Reference Guide</td> 
-   <td><p>New <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/c-html5-aem-video360.html">Video360 API documentation</a> is now available in the Viewers Reference Guide.</p> <p>The HTML5 Video360 Viewer is a 360-degree video player that plays streaming and progressive 360 video encoded in H.264 and delivered from SPS or from Dynamic Media on AEM.</p> <p>See also <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/360-video.html">360/VR Video documentation</a>.</p> </td> 
+   <td><p>New <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/360-video.html">360/VR Video documentation</a>.</p> </td> 
   </tr>
   <tr>
    <td>Apr 18, 2019</td> 
@@ -305,7 +305,7 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Apr 12, 2019</td> 
    <td>AEM 6.5 Screens User Guide</td> 
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM 6.5 Screens User Guide</a> is now available. </p> <p>Additionally, you can now enable Kiosk mode in Windows 10 Player. Refer to <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Implementing Windows 10 Player</a> for more information.</p> </td> 
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Implementing Windows 10 Player</a> for more information.</p> </td> 
   </tr>
   <tr>
    <td>April 8, 2019</td> 
@@ -342,12 +342,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Dec 12 2019</td> 
    <td>AEM 6.4 Service Pack 7</td> 
-   <td><a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 7</a> is available.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 7</a> is available.</td> 
   </tr>
   <tr>
    <td>October 11, 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/adobeanalytics-connect.html#configuring-the-connection-to-adobe-analytics">Configuring the connection to Adobe Analytics</a>.</p> <p>The <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
   </tr>
   <tr>
    <td>Sep 25, 2019</td> 
@@ -367,12 +367,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Sep 6, 2019</td> 
    <td><strong>Open-sourcing of AEM 6.4 docs</strong></td> 
-   <td><p>AEM 6.4 documentation is published from GitHub now. Our readers can not just rate pages and log issues, but even collaborate and contribute to the docs. To contribute, read the code of conduct and contributor guide at <a disablelinktracking="false" href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>.</p> <p>All your updates are available via your pull requests for AEM documentation and product teams to monitor for approval and publishing.</p> </td> 
+   <td><p>AEM 6.4 documentation is published from GitHub now. Our readers can not just rate pages and log issues, but even collaborate and contribute to the docs. To contribute, read the code of conduct and contributor guide at <a href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>.</p> <p>All your updates are available via your pull requests for AEM documentation and product teams to monitor for approval and publishing.</p> </td> 
   </tr>
   <tr>
    <td>Aug 20, 2019</td> 
    <td>AEM Assets Smart Tags</td> 
-   <td>Know how to <a data-disable-query="false" disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">update certificate</a> after it expires.</td> 
+   <td>Know how to <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">update certificate</a> after it expires.</td> 
   </tr>
   <tr>
    <td>Aug 2, 2019<br /> </td> 
@@ -382,17 +382,17 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Jul 03, 2019</td> 
    <td>AEM 6.4 Service Pack 5</td> 
-   <td><a data-disable-query="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a> is available.</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a> is available.</td> 
   </tr>
   <tr>
    <td>Jun 17, 2019</td> 
    <td>AEM Assets and Creative Cloud integration</td> 
-   <td>The best practices are updated with crisp mapping of business requirements, Adobe solution offering, and customer use cases. An infographic is added to make it visually appealing. See <a data-disable-query="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM Creative Cloud integration best practices</a>.</td> 
+   <td>The best practices are updated with crisp mapping of business requirements, Adobe solution offering, and customer use cases. An infographic is added to make it visually appealing. See <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM Creative Cloud integration best practices</a>.</td> 
   </tr>
   <tr>
    <td>Jun 3, 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td>Added a package in the <a data-disable-query="false" href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuration article</a> with all plug-ins enabled, to be used as a sample configuration. A community member contributed a tutorial on how to <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </td> 
+   <td>Added a package in the <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuration article</a> with all plug-ins enabled, to be used as a sample configuration. A community member contributed a tutorial on how to <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </td> 
   </tr>
   <tr>
    <td>Apr 04, 2019</td> 
@@ -419,12 +419,12 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Feb 11, 2019</td> 
    <td>Core Components</td> 
-   <td>Release 2.3.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html">core components</a> is now available, introducing a new <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/separator.html">Separator Component</a>, improvements to the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/image.html">Image Component</a>, and numerous bug fixes. Also introduced is a new <a href="http://opensource.adobe.com/aem-core-wcm-components/library/image.html">Component Library</a> to make experimenting with the components even easier.<br /> </td> 
+   <td>Release 2.3.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/separator.html">Separator Component</a>, improvements to the <a href="http://opensource.adobe.com/aem-core-wcm-components/library/image.html">Component Library</a> to make experimenting with the components even easier.<br /> </td> 
   </tr>
   <tr>
    <td>Jan 10, 2019</td> 
    <td>Experience Fragments</td> 
-   <td>Documentation on <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html">Target Integration with Experience Fragments</a>, including <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">Deleting an Experience Fragment already exported to Target</a>.</td> 
+   <td>Documentation on <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">Deleting an Experience Fragment already exported to Target</a>.</td> 
   </tr>
   <tr>
    <td>Jan 9, 2019</td> 
@@ -456,22 +456,22 @@ You can also view [previous documentation updates](previous-documentation-update
   <tr>
    <td>Dec 12 2019</td> 
    <td>AEM 6.3.3.7</td> 
-   <td><a disablelinktracking="false" href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.7</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.7</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>October 11, 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Configuring the connection to Adobe Analytics</a>.</p> <p>The <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used.</p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used.</p> </td> 
   </tr>
   <tr>
    <td>September 25, 2019</td> 
    <td>AEM 6.3.3.6</td> 
-   <td><a disablelinktracking="false" href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.6</a> for AEM 6.3 is available.</td> 
+   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.6</a> for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>September 9, 2019<br /> </td> 
    <td>AEM Assets Smart Tags</td> 
-   <td>Know how to <a data-disable-query="false" disablelinktracking="false" href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html" target="_blank">update certificate</a> after it expires.</td> 
+   <td>Know how to <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html" target="_blank">update certificate</a> after it expires.</td> 
   </tr>
   <tr>
    <td>July 03, 2019</td> 
@@ -582,8 +582,8 @@ You can also view [previous documentation updates](previous-documentation-update
    <td><p>Brand Portal 6.4.5 is a feature release that focuses on providing Brand Portal users (external agencies/teams) with the ability to upload content to Brand Portal and publish to AEM Assets, without needing access to the author environment. This feature is called <strong>Asset Sourcing in Brand Portal</strong>.</p> <p>The documentation covers the following major updates:</p> 
     <ul> 
      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html">Feature video</a> added demonstrating the overall workflow of Asset Sourcing in Brand Portal.</li> 
-     <li><a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Configure Contribution folder in AEM Assets</a></li> 
-     <li><a disablelinktracking="false" href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">Using Asset Sourcing to publish contribution folder's assets to AEM Assets</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Configure Contribution folder in AEM Assets</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">Using Asset Sourcing to publish contribution folder's assets to AEM Assets</a></li> 
     </ul> </td> 
   </tr>
   <tr>
@@ -621,7 +621,7 @@ You can also view [previous documentation updates](previous-documentation-update
     <ul> 
      <li>Property predicate in Search filter now supports searching for partial phrases.</li> 
      <li>Property predicate in Search Filter now supports wild card (*) searches.</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">What's new in AEM Assets Brand Portal</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal release notes</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal user guide</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal release notes</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html">Brand Portal user guide</a></p> </td> 
   </tr>
  </tbody>
 </table>

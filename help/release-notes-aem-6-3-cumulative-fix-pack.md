@@ -1956,7 +1956,7 @@ This section lists features and capabilities that have been removed or deprecate
   <tr> 
    <td>Assets and Adobe Creative Cloud integration</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/creative-cloud.html" target="_blank">AEM to Creative Cloud folder sharing</a> was introduced in AEM 6.2 as a way to give creative users access to assets from AEM. A new capability released in Creative Cloud application, Adobe Asset Link, provides a much better user experience and more powerful access to assets from AEM directly from inside Photoshop, InDesign, and Illustrator.<br /> Adobe will not make further enhancements to the folder sharing capability. While the feature is included in AEM, customers are strongly advised to use the replacement.</td> 
-   <td>Adobe Asset Link or Desktop App. For more info, see <a data-disable-query="false" href="https://helpx.adobe.com/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html" target="_blank">AEM Creative Cloud integration</a> article.</td> 
+   <td>Adobe Asset Link or Desktop App. For more info, see <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html" target="_blank">AEM Creative Cloud integration</a> article.</td> 
    <td>AEM 6.3.3.x<br /> </td> 
   </tr> 
  </tbody> 

@@ -47,7 +47,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>November 28, 2018</td> 
    <td>Single Page Applications</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html">Developing SPAs for AEM document</a> expanded with <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-development-principles-for-aem">development principles</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-design-models">design models</a> for SPAs in AEM.<br /> </td>
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-development-principles-for-aem">development principles</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-design-models">design models</a> for SPAs in AEM.<br /> </td>
   </tr>
   <tr>
    <td>November 28, 2018</td> 
@@ -57,7 +57,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>November 28, 2018</td> 
    <td>Core Components<br /> </td> 
-   <td><a href="https://github.com/adobe/aem-core-wcm-components/releases/tag/core.wcm.components.reactor-2.2.2">Core Components 2.2.2</a> is now available and the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">core components documentation</a> has been updated accordingly.<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">core components documentation</a> has been updated accordingly.<br /> </td> 
   </tr>
   <tr>
    <td>November 19, 2018</td> 
@@ -87,7 +87,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>October 16, 2018</td> 
    <td>Core Components<br /> </td> 
-   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">core components</a> is now available, introducing the new <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
+   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
   </tr>
   <tr>
    <td>October 10, 2018<br /> </td> 
@@ -117,7 +117,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>August 29, 2018<br /> </td> 
    <td>AEM Assets</td> 
-   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io</a>. Adobe has decommissioned the service at https://marketing.adobe.com/. For details, see <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html" target="_blank">configure Assets integration with Brand Portal</a> articles.</td> 
+   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html" target="_blank">configure Assets integration with Brand Portal</a> articles.</td> 
   </tr>
   <tr>
    <td>August 24, 2018</td> 
@@ -132,12 +132,12 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>August 16, 2018</td> 
    <td>Livefyre Integration</td> 
-   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html">Livefyre Integration</a> with new workflow for <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
+   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
   </tr>
   <tr>
    <td>July 19, 2018</td> 
    <td>Core Components Release 2.1.0</td> 
-   <td>Release 2.1.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">core components</a> is now available, introducing <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/image.html">Image</a> component improvements, a new <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/teaser.html">Teaser</a> component, and numerous bug fixes.</td> 
+   <td>Release 2.1.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/image.html">Image</a> component improvements, a new <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/teaser.html">Teaser</a> component, and numerous bug fixes.</td> 
   </tr>
   <tr>
    <td>July 19, 2018</td> 
@@ -162,7 +162,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>July 11, 2018</td> 
    <td>Image Enhancements<br /> </td> 
-   <td>Various <a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/components/image-editor.html">image enhancements</a> including better handling of SVG and relative launch maps have been introduced for AEM 6.3 in <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/featurepack/cq-6.3.0-featurepack-24268">feature pack 24268</a> and for AEM 6.4 in <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">feature pack 24267</a>.<br /> </td> 
+   <td>Various <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/featurepack/cq-6.3.0-featurepack-24268">feature pack 24268</a> and for AEM 6.4 in <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">feature pack 24267</a>.<br /> </td> 
   </tr>
   <tr>
    <td>July 5, 2018</td> 
@@ -217,7 +217,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>May 30, 2018</td> 
    <td>Activity Map</td> 
-   <td>Activity map functionality for published pages as part of the page editor. How to <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/adobeanalytics-connect.html">configure</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-64/authoring/page-performance/pa-using.html">use</a>.</td> 
+   <td>Activity map functionality for published pages as part of the page editor. How to <a href="https://docs.adobe.com/content/help/en/experience-manager-64/authoring/page-performance/pa-using.html">use</a>.</td> 
   </tr>
   <tr>
    <td>May 25, 2018<br /> </td> 
@@ -323,7 +323,7 @@ The following versions were moved:
   <tr>
    <td>October 16, 2018</td> 
    <td>Core Components<br /> </td> 
-   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">core components</a> is now available, introducing the new <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
+   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a> components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
   </tr>
   <tr>
    <td>October 03, 2018</td> 
@@ -333,12 +333,12 @@ The following versions were moved:
   <tr>
    <td>September 12, 2018</td> 
    <td>AEM 6.3.3.0</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.0</a> is available. AEM Assets ships with enhancements in <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/cascading-metadata.html" target="_blank">cascading metadata</a> and <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/asset-reports.html" target="_blank">asset reporting</a>.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/cascading-metadata.html" target="_blank">cascading metadata</a> and <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/asset-reports.html" target="_blank">asset reporting</a>.</td> 
   </tr>
   <tr>
    <td>August 29, 2018</td> 
    <td>AEM Assets</td> 
-   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io</a>. Adobe has decommissioned the service at https://marketing.adobe.com/. For details, see <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> and <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/brand-portal-configuring-integration.html" target="_blank">configure Assets integration with Brand Portal</a> articles.<br /> </td> 
+   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> and <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/brand-portal-configuring-integration.html" target="_blank">configure Assets integration with Brand Portal</a> articles.<br /> </td> 
   </tr>
   <tr>
    <td>August 24, 2018</td> 
@@ -348,7 +348,7 @@ The following versions were moved:
   <tr>
    <td>August 16, 2018</td> 
    <td>Integrating with Livefyre</td> 
-   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">Livefyre Integration</a> with new workflow for <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
+   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
   </tr>
   <tr>
    <td>August 2, 2018</td> 
@@ -383,7 +383,7 @@ The following versions were moved:
   <tr>
    <td>May 30, 2018</td> 
    <td>Activity Map</td> 
-   <td>Activity map functionality for published pages as part of the page editor. How to <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html#configuring-for-the-activity-map">configure</a> and <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html#analyticsvisiblefromthepageeditor">use</a>.</td> 
+   <td>Activity map functionality for published pages as part of the page editor. How to <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html#analyticsvisiblefromthepageeditor">use</a>.</td> 
   </tr>
   <tr>
    <td>May 25, 2018<br /> </td> 
@@ -398,7 +398,7 @@ The following versions were moved:
   <tr>
    <td>April 30, 2018</td> 
    <td>Integrating with Livefyre</td> 
-   <td>Added a page for <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">Livefyre Integration (6.3)</a>, <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a>, and <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
+   <td>Added a page for <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a>, and <a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
   </tr>
   <tr>
    <td>April 05, 2018</td> 
@@ -423,7 +423,7 @@ The following versions were moved:
   <tr>
    <td>February 5, 2018</td> 
    <td>Adobe Analytics Integration</td> 
-   <td>Updates to <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/opt-in.html">Using Opt-In</a> and <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Managed Polling Configurations</a>. Also <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html">Seeing Page Analytics Data</a>.<br /> </td> 
+   <td>Updates to <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Managed Polling Configurations</a>. Also <a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/pa-using.html">Seeing Page Analytics Data</a>.<br /> </td> 
   </tr>
   <tr>
    <td>January 19, 2018</td> 
@@ -483,7 +483,7 @@ The following versions were moved:
   <tr>
    <td>September 5, 2017</td> 
    <td>Dynamic Media Feature Packs 14410 and 18912</td> 
-   <td><p>This feature pack provides new automation and delivery capabilities for Dynamic Media customers and is an upgrade for Dynamic Media Classic (Scene7) customers to transition to Dynamic Media. </p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/dynamic-media-featurepack-14410.html">Release Notes</a></p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-dynamic-fp-14410.html">Configuring Dynamic Media with Feature Pack 14410 and 18912</a></p> </td> 
+   <td><p>This feature pack provides new automation and delivery capabilities for Dynamic Media customers and is an upgrade for Dynamic Media Classic (Scene7) customers to transition to Dynamic Media. </p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-dynamic-fp-14410.html">Configuring Dynamic Media with Feature Pack 14410 and 18912</a></p> </td> 
   </tr>
   <tr>
    <td>August 31, 2017</td> 
@@ -528,7 +528,7 @@ The following versions were moved:
   <tr>
    <td>August 14, 2017</td> 
    <td>AEM Screens 6.3</td> 
-   <td><p>New AEM Screens 6.3 documentation is available. Alternatively, a Quickstart is available that lets a user create a Digital Signage Experience in 5 minutes. See the following resources:</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/aem-screens-introduction.html">What is AEM Screens</a></p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/setting-up-a-basic-project-screens.html">Quickstart</a></p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/authoring/using/authoring-screens.html">Authoring for AEM Screens</a></p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/administering-screens.html">Administering Content for AEM Screens</a><br /> </p> </td> 
+   <td><p>New AEM Screens 6.3 documentation is available. Alternatively, a Quickstart is available that lets a user create a Digital Signage Experience in 5 minutes. See the following resources:</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/setting-up-a-basic-project-screens.html">Quickstart</a></p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/administering-screens.html">Administering Content for AEM Screens</a><br /> </p> </td> 
   </tr>
   <tr>
    <td>August 10, 2017</td> 
@@ -616,7 +616,7 @@ The following versions were moved:
   <tr>
    <td>October 16, 2018</td> 
    <td>Core Components<br /> </td> 
-   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">core components</a> is now available, introducing the new <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a>components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
+   <td>Release 2.2.0 of the <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Tabs</a> and <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carousel</a>components along with improvements to the Image, Title, and Page components and numerous bug fixes.</td> 
   </tr>
   <tr>
    <td>October 10, 2018</td> 
@@ -631,12 +631,12 @@ The following versions were moved:
   <tr>
    <td>August 29, 2018</td> 
    <td>AEM Assets</td> 
-   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io</a>. Adobe has decommissioned the service at https://marketing.adobe.com/. For details, see <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> article.</td> 
+   <td>To configure oAuth integrations, the Adobe I/O gateway service is available at <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/configure-assets-cc-integration.html" target="_blank">configure AEM Assets integration</a> article.</td> 
   </tr>
   <tr>
    <td>August 16, 2018</td> 
    <td>Integrating Livefyre</td> 
-   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/livefyre.html">Livefyre Integration</a> with new workflow for <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
+   <td>Updated <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 feature pack release</a>, as well as the <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Feature Pack</a> page. </td> 
   </tr>
   <tr>
    <td>August 3, 2018</td> 
@@ -656,7 +656,7 @@ The following versions were moved:
   <tr>
    <td>April 30, 2018</td> 
    <td>Integrating with Livefyre</td> 
-   <td>Added <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/livefyre.html">Integrating with Livefyre (6.2)</a>, <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a>, and <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
+   <td>Added <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/livefyre-feature-pack-204.html">Livefyre Feature Pack 2.0.4</a>, and <a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/livefyre-feature-pack202.html">Livefyre Feature Pack 2.0.2</a>.</td> 
   </tr>
   <tr>
    <td>April 10, 2018</td> 
@@ -756,7 +756,7 @@ The following versions were moved:
   <tr>
    <td>November 30, 2016</td> 
    <td>Performance documentation updates</td> 
-   <td>Enhanced documentation for <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/configuring-performance.html">AEM Performance Optimization</a> and how to <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/performance-tree.html">Troubleshoot Performance issues</a>.</td> 
+   <td>Enhanced documentation for <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/performance-tree.html">Troubleshoot Performance issues</a>.</td> 
   </tr>
   <tr>
    <td>November 28, 2016</td> 
@@ -766,7 +766,7 @@ The following versions were moved:
   <tr>
    <td>November 23, 2016</td> 
    <td>Design importer documentation updated</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/authoring/using/landingpages.html">Documentation</a> updated to include importer pages, remove blank canvas pages, and add touch-optimized instructions. <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/extending-the-design-importer-for-landingpages.html">Preparing the design</a> package documentation also updated.</td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/extending-the-design-importer-for-landingpages.html">Preparing the design</a> package documentation also updated.</td> 
   </tr>
   <tr>
    <td>October 27, 2016</td> 
@@ -780,7 +780,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>October 25, 2016</td> 
-   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/notifications.html">Communities Notifications</a></p> <p><a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/subscriptions.html">Communities Subscriptions</a></p> </td> 
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/communities/using/subscriptions.html">Communities Subscriptions</a></p> </td> 
    <td>For AEM Communities, it is now possible to configure a community site for email subscriptions and notifications of member activity.</td> 
   </tr>
   <tr>
@@ -837,7 +837,7 @@ The following versions were moved:
   <tr>
    <td>September 8, 2016</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Uploading a video and its associated thumbnail assets</a></td> 
-   <td>Added a hyperlink to <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/managing-assets-touch-ui.html#deleting%2520assets">Deleting Assets</a> from the <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Uploading a video and its associated thumbnail assets</a> topic. </td> 
+   <td>Added a hyperlink to <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Uploading a video and its associated thumbnail assets</a> topic. </td> 
   </tr>
   <tr>
    <td>September 1, 2016</td> 
@@ -920,7 +920,7 @@ The following versions were moved:
   <tr>
    <td>July 16, 2016</td> 
    <td>eCommerce Connector</td> 
-   <td>AEM 6.2 eCommerce Connector documentation now includes details on how to <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/demandware.html">install</a> and <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/demandware.html">administer</a> Demandware.</td> 
+   <td>AEM 6.2 eCommerce Connector documentation now includes details on how to <a href="https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/demandware.html">administer</a> Demandware.</td> 
   </tr>
  </tbody>
 </table>
@@ -997,7 +997,7 @@ The following versions were moved:
   <tr>
    <td>November 23, 2016</td> 
    <td>Design importer documentation updated</td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/author/personalization/campaigns/landingpages.html">Documentation</a> updated to include importer pages, remove blank canvas pages, and add touch-optimized instructions. <a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/personalization/campaigns/extending-the-design-importer-for-landingpages.html">Preparing the design</a> package documentation also updated.</td> 
+   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/personalization/campaigns/extending-the-design-importer-for-landingpages.html">Preparing the design</a> package documentation also updated.</td> 
   </tr>
   <tr>
    <td>October 27, 2016<br /> </td> 
@@ -1053,7 +1053,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>November 3, 2016</td> 
-   <td>Updated Dynamic Media Technical Requirements <a href="https://helpx.adobe.com/ca/experience-manager/aem-previous-versions.html">6.0</a>, <a href="https://helpx.adobe.com/ca/experience-manager/aem-previous-versions.html">6.1</a>, <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/technical-requirements.html#dynamic-media%20add-on%20prerequisites">6.2</a></td> 
+   <td>Updated Dynamic Media Technical Requirements <a href="https://helpx.adobe.com/ca/experience-manager/aem-previous-versions.html">6.1</a>, <a href="https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/technical-requirements.html#dynamic-media%20add-on%20prerequisites">6.2</a></td> 
    <td>Updated Visual Studio C++ redistributables for technical requirements.</td> 
   </tr>
   <tr>
@@ -1172,7 +1172,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>February 23, 2017</td> 
-   <td><p><a href="http://answers.livefyre.com/developers/reference/app-customizations/change-display-options/css-classes/storify-css/">Storify 2 CSS Classes</a></p> <p><a href="http://answers.livefyre.com/product/storify-2/createastory/">Create a Storify 2</a></p> </td> 
+   <td><p><a href="http://answers.livefyre.com/product/storify-2/createastory/">Create a Storify 2</a></p> </td> 
    <td>Updated documentation to reflect a new option to open a Modal window when a site visitor shares a link to a Storify 2 post.</td> 
   </tr>
   <tr>
@@ -1274,7 +1274,7 @@ The following versions were moved:
      <li>New configuration to set up Dynamic Media image server settings.</li> 
      <li>Path Browser predicate introduced in Search Form.</li> 
      <li>Download via email link expires after 45 days. </li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html" target="_blank">What's new in AEM Assets Brand Portal</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal release notes</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html" target="_blank">Brand Portal user guide</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal release notes</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html" target="_blank">Brand Portal user guide</a></p> </td> 
   </tr>
   <tr>
    <td>August 16, 2018 </td> 
@@ -1290,7 +1290,7 @@ The following versions were moved:
      <li>Support for non-case sensitive search for property predicate and multi-value property predicate in search Filter.</li> 
      <li>Six new configurations to give greater control to organizations and enable them to cater to individual business needs.</li> 
      <li>The UI for configuring oAuth integrations is now hosted in <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io/</a>.</li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html" target="_blank">What's new in AEM Assets Brand Portal</a></p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html">Brand Portal user guide</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html">Brand Portal user guide</a></p> </td> 
   </tr>
   <tr>
    <td>May, 17 2018</td> 
@@ -1304,7 +1304,7 @@ The following versions were moved:
      <li>New Link Share report introduced.</li> 
      <li>Reporting interface made more intuitive with granular capabilities to customize reports.</li> 
      <li>Asset search enhanced with accurate time stamp filters, new Access type filter, new search options in File Type search filter, and capability to navigate back to search results.</li> 
-    </ul> <p><a href="https://helpx.adobe.com/experience-manager/brand-portal/using/whats-new.html">What's new in AEM Assets Brand Portal</a></p> <p><a href="https://helpx.adobe.com/experience-manager/brand-portal/user-guide.html">Brand Portal user guide</a></p> </td> 
+    </ul> <p><a href="https://helpx.adobe.com/experience-manager/brand-portal/user-guide.html">Brand Portal user guide</a></p> </td> 
   </tr>
   <tr>
    <td>October 26, 2017</td> 
@@ -1335,7 +1335,7 @@ The following versions were moved:
   <tr>
    <td>July 5, 2018</td> 
    <td>Version indepenent articles</td> 
-   <td>Updated the Desktop App articles (<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html">Use</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/install-upgrade.html">Install</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html">Troubleshoot</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">RNs</a>, and <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">Best Practices</a>) to untie from AEM 6.4 release. The app works with multiple releases and articles are now version agnostic.</td> 
+   <td>Updated the Desktop App articles (<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/install-upgrade.html">Install</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">RNs</a>, and <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">Best Practices</a>) to untie from AEM 6.4 release. The app works with multiple releases and articles are now version agnostic.</td> 
   </tr>
   <tr>
    <td>June 21, 2018</td> 
