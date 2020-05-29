@@ -1093,7 +1093,7 @@ The following versions were moved:
   </tr>
   <tr>
    <td>September 16, 2016</td> 
-   <td><a href="/desktop-app/release-notes.md">AEM Assets Desktop App 1.3 Release Notes</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">AEM Assets Desktop App 1.3 Release Notes</a></td> 
    <td>Release notes for AEM Assets Desktop App 1.3<br /> </td> 
   </tr>
   <tr>
