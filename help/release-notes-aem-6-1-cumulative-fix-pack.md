@@ -6,7 +6,7 @@ contentOwner: cmajumda
 discoiquuid: 8d5a5d18-094b-486b-a921-474617f1a7b6
 ---
 
-# AEM 6.1 Cumulative Fix Pack Release Notes{#release-notes-aem-cumulative-fix-pack}
+# AEM 6.1 Cumulative Fix Pack Release Notes
 
 ## Release information {#release-information}
 
