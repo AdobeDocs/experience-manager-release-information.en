@@ -1128,7 +1128,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   <tr> 
    <td><p>5 Jul 2017</p> </td> 
    <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 10</a></p> </td> 
-   <td width="12%"><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 10</a></p> </td> 
+   <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420">AEM 6.1 Cumulative Fix Pack 10</a></p> </td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP10-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1144,7 +1144,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   <tr> 
    <td><p>5 Jun 2017</p> </td> 
    <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 9</a></p> </td> 
-   <td width="12%"><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 9</a></p> </td> 
+   <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 9</a></p> </td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP9-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 
@@ -1161,7 +1161,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
   <tr> 
    <td><p>5 May 2017</p> </td> 
    <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#forms" target="_blank">AEM Forms add-on package for AEM 6.1 Cumulative Fix Pack 8</a></p> </td> 
-   <td width="12%"><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 8</a></p> </td> 
+   <td><p><a href="/help/release-notes-aem-6-1-cumulative-fix-pack.md#main-pars_header_1220661420" target="_blank">AEM 6.1 Cumulative Fix Pack 8</a></p> </td> 
    <td> 
     <ul> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/cumulativefixpack/fd/AEM-FORMS-6.1-SP2-CFP8-AIX" target="_blank">AEM Forms add-on package for AIX</a></li> 

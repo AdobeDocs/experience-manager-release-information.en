@@ -930,7 +930,7 @@ The following versions were moved:
 <table> 
  <tbody>
   <tr>
-   <td width="15%">Date</td> 
+   <td>Date</td> 
    <td>Topic</td> 
    <td>Changes</td> 
   </tr>
@@ -1022,7 +1022,7 @@ The following versions were moved:
 <table> 
  <tbody>
   <tr>
-   <td width="15%">Date</td> 
+   <td>Date</td> 
    <td>Topic</td> 
    <td>Changes</td> 
   </tr>
@@ -1156,7 +1156,7 @@ The following versions were moved:
 <table> 
  <tbody>
   <tr>
-   <td width="15%">Date</td> 
+   <td>Date</td> 
    <td>Topic</td> 
    <td>Changes</td> 
   </tr>
