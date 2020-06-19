@@ -1868,7 +1868,7 @@ The key highlights of Cumulative Fix Pack 2 are:
 
 * When an interface extends another interface, the injectable methods on the super interface are not injected correctly. NPR-15202: Hotfix for SLING- 5710  
 * A potential null pointer exception is not prevented when making use of the `com.adobe.granite.infocollector.impl.FilesTraversal`function call. NPR-15169 Hotfix for CQ-4197640
-* The workflow state is inconsistent for some slave nodes and error is displayed while dispatching observation events for that node. NPR-15701: Hotfix for GRANITE-13786
+* The workflow state is inconsistent for some secondary nodes and error is displayed while dispatching observation events for that node. NPR-15701: Hotfix for GRANITE-13786
 * When user selects a node in CRXDE (for example, /content/dam/) and then the 'Access control' tab, making sure that an Access Control List exists, dragging and dropping some elements moves the elements other than the one selected. NPR-15696 Hotfix for GRANITE-16300
 * Selecting a user from the drop-down list when trying to impersonate makes the entire user pop-up disappear. NPR-15774: HotFix for CQ-4201738/GRANITE-11895
 * In Omnisearch, searching by tags with auto-populated suggestions does not work. NPR-15088: Hotfix for GRANITE-14426.  
