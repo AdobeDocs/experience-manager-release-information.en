@@ -142,12 +142,12 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>July 19, 2018</td> 
    <td>Image Serving and Image Rendering API</td> 
-   <td><p>Image Serving 6.6.1 and Image Rendering 6.6.1 is now available for Dynamic Media on AEM and Dynamic Media Classic (Scene7).</p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/s7/is_ir_api/is_api/r_about_this_release.html">About this release</a>.</p> </td> 
+   <td><p>Image Serving 6.6.1 and Image Rendering 6.6.1 is now available for Dynamic Media on AEM and Dynamic Media Classic (Scene7).</p> <p>See <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html">About this release</a>.</p> </td> 
   </tr>
   <tr>
    <td>July 17, 2018</td> 
    <td>Viewers Reference Guide</td> 
-   <td><p>Viewers 5.10.1 is now available for Dynamic Media on AEM and Dynamic Media Classic (Scene7).</p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_rn_07_17_18.html">Viewer Release Notes (5.10.1)</a>.</p> </td> 
+   <td><p>Viewers 5.10.1 is now available for Dynamic Media on AEM and Dynamic Media Classic (Scene7).</p> <p>See <a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-release-notes/archive/c-rn-07-17-18.html">Viewer Release Notes (5.10.1)</a>.</p> </td> 
   </tr>
   <tr>
    <td>July 16, 2018</td> 
