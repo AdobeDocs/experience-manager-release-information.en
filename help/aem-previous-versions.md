@@ -30,7 +30,7 @@ Before you download the package, determine who will consume the content. This de
 
 AEM 6.1 documentation is available at [https://docs.adobe.com/docs/en/aem/6-1.html](https://docs.adobe.com/docs/en/aem/6-1.html).
 
-## Software Distribution Locations {software-distribution-locations}
+## Software Distribution Locations {#software-distribution-locations}
 
 You will require a valid Adobe ID:
 
@@ -103,7 +103,7 @@ In order to Install a legacy documentation package you must have AEM installed a
 
 ![Example Software Distribution](assets/screen_shot_2020-07-10at161922.jpg)
 
-### Install the package on your local instance {install-package-local-instance}
+### Install the package on your local instance {#install-package-local-instance}
 
 1. Open the AEM UI. In a Web browser enter: http://localhost:4502/. Login as an Administrator.
 
