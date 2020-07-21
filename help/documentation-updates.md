@@ -22,8 +22,52 @@ You can also view [previous documentation updates](previous-documentation-update
    <td>Topic</td> 
    <td>Changes</td> 
   </tr>
+   <tr>
+   <td>June 24, 2020</td> 
+   <td>Content Fragments</td> 
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/content-fragments/content-fragments.html" target="_blank">Updates have been made to the documentation as Models are now standard</a>.</p> </td> 
+  </tr>
+   <tr>
+   <td>June 19, 2020</td> 
+   <td>Adobe Experience Manager</td> 
+   <td><p>At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.</p> <p>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future.</p> </td> 
+  </tr>
+   <tr>
+   <td>June 19, 2020</td> 
+   <td>Core Components</td> 
+   <td><p>Core Components release 2.10.0 introduces the PDF Viewer Component and is now available along with <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html" target="_blank">authoring documentation</a> and <a href="https://github.com/adobe/aem-core-wcm-components" target="_blank">developer details and project download available on GitHub</a>.<br /> </p> </td> 
+  </tr>
+   <tr>
+   <td>June 04, 2020</td> 
+   <td>Configure Experience Manager Assets as a Cloud Service with Brand Portal</td> 
+   <td><p>Adobe I/O has been upgraded to Adobe Developer Console with new branding, user interface, and workflow.  The documentation is updated based on the latest Adobe Developer Console workflow to <a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html" target="_blank">configure Experience Manager Assets as a Cloud Service with Brand Portal</a>.<br /> </p> </td> 
+  </tr>
+   <tr>
+   <td>June 01, 2020</td> 
+   <td>RTE (Rich Text Editor)</td> 
+   <td><p>The following articles for Rich Text Editor (RTE) are available for Adobe Experience Manager as a Cloud Service:</p> 
+    <ul> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/rich-text-editor.html" target="_blank">Configure RTE</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/configure-rich-text-editor-plug-ins.html" target="_blank">Configure each plug-in</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/rte-accessible-content.html" target="_blank">Configure RTE to create accessible pages</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/authoring/fundamentals/accessible-content.html" target="_blank">Author content using RTE</a></li> 
+    </ul></td> 
+  </tr>
+   <tr>
+   <td>May 29, 2020</td> 
+   <td>Core Components</td> 
+   <td><p>Core Components release 2.9.0 introduces integration with the <a href="https://github.com/adobe/adobe-client-data-layer" target="_blank">Adobe Client Data Layer</a> and a new Progress Bar Component and is now available along with <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html" target="_blank">authoring documentation</a> and <a href="https://github.com/adobe/aem-core-wcm-components" target="_blank">developer details and project download available on GitHub</a>.</p> </td> 
+  </tr>
+   <tr>
+   <td>May 19, 2020</td> 
+   <td>Accessibility and the WCAG 2.1 Guidelines</td> 
+   <td><p>Updates in relation to the WCAG 2.1 Guidelines:</p>    <ul> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/accessibility/web-accessibility.html" target="_blank">Adobe Experience Manager as a Cloud Service and the Web Accessibility Guidelines</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/accessibility/quick-guide-wcag.html" target="_blank">A Quick Guide to WCAG 2.1</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/authoring/fundamentals/accessible-content.html" target="_blank">Creating Accessible Content (WCAG 2.1 Conformance)</a></li></td> 
+  </tr>
   <tr>
-   <td>May 4, 2020</td> 
+   <td>May 04, 2020</td> 
    <td>Unsupported image formats in Dynamic Media</td> 
    <td><p>Information about the sub-types of raster image file formats that are <em>not</em> supported in Dynamic Media.</p> <p>See <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/assets-formats.html#unsupported-image-formats-dynamic-media" target="_blank">Unsupported raster image formats in Dynamic Media</a>.<br /> </p> </td> 
   </tr>
@@ -77,6 +121,33 @@ You can also view [previous documentation updates](previous-documentation-update
    <td>Date</td> 
    <td>Topic</td> 
    <td>Changes</td> 
+  </tr>
+    <tr>
+   <td>June 13, 2020</td> 
+   <td>Adobe Experience Manager</td> 
+   <td><p>At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.</p> <p>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future.</p></td> 
+  </tr>
+    <tr>
+   <td>June 04, 2020</td> 
+   <td>Configure Experience Manager Assets with Brand Portal</td> 
+   <td>Adobe I/O has been upgraded to Adobe Developer Console with new branding, user interface, and workflow. The documentation is updated based on the latest Adobe Developer Console workflow to configure Experience Manager Assets with Brand Portal:</a>.
+    <ul> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/brandportal/configure-aem-assets-with-brand-portal.html" target="_blank">Configure AEM Assets with Brand Portal</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/brandportal/configure-aem-assets-with-brand-portal.html#upgrade-integration-65" target="_blank">Upgrade legacy configurations to Adeobe Developer Console</a></li> 
+    </ul> </td> 
+  </tr>
+    <tr>
+   <td>June 04, 2020</td> 
+   <td>AEM 6.5 Service Page 5</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html" target="_blank">AEM 6.5 Service Page 5</a> is available.</td> 
+  </tr>
+    <tr>
+   <td>May 25 2020</td> 
+   <td>Accessibility and the WCAG 2.1 Guidelines</td> 
+   <td><p>Updates in relation to the WCAG 2.1 Guidelines:</p>    <ul> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/managing/accessibility/web-accessibility.html" target="_blank">Adobe Experience Manager and the Web Accessibility Guidelines</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/managing/accessibility/qg-wcag.html" target="_blank">A Quick Guide to WCAG 2.1</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/authoring/siteandpage/creating-accessible-content.html" target="_blank">Creating Accessible Content (WCAG 2.1 Conformance)</a></li></td> 
   </tr>
   <tr>
    <td>Apr 13, 2020</td> 
@@ -325,6 +396,16 @@ You can also view [previous documentation updates](previous-documentation-update
    <td>Changes</td> 
   </tr>
   <tr>
+   <td>June 19, 2020</td> 
+   <td>Adobe Experience Manager</td> 
+   <td><p>At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.</p><p>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future.</p></td> 
+  </tr>
+  <tr>
+   <td>June 04, 2020</td> 
+   <td>AEM 6.4 Service Pack 8 Cumulative Fix Pack 1</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html" target="_blank">AEM 6.4 Service Pack 8 Cumulative Fix Pack 1</a> is available.</td> 
+  </tr>
+  <tr>
    <td>Apr 13, 2020</td> 
    <td>Asset processing</td> 
    <td>A new overview is added about how workflows are used for processing assets. Also, a new topic describes how to <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/using/assets-workflow.html" target="_blank">auto-trigger workflow to process assets</a>.<br /> </td> 
@@ -444,6 +525,11 @@ You can also view [previous documentation updates](previous-documentation-update
    <td>Changes</td> 
   </tr>
   <tr>
+   <td>June 20 2020<br /> </td> 
+   <td>Adobe Experience Manager</td> 
+   <td><p>At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.</p><p>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future.</p> </td> 
+  </tr>
+  <tr>
    <td>Mar 30 2020<br /> </td> 
    <td>Dynamic Media - Smart Imaging</td> 
    <td><p>The entire Smart Imaging Help topic was updated with new information.</p> <p>See <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html" target="_blank">Smart Imaging</a>.</p> </td> 
@@ -505,12 +591,14 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date |Topic |Changes |
 |---|---|---|
+| June 19, 2020 |Adobe Experience Manager | At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.<br>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future. |
 | June 6, 2019 |AEM 6.2 Cumulative Fix Pack | [Cumulative Fix Pack 20](release-notes-aem-6-2-cumulative-fix-pack.md) for AEM 6.2 Service Pack 1 is available. |
 
 ## AEM 6.1 {#aem-61}
 
 | Date |Topics |Changes |
 |---|---|---|
+| June 19, 2020 |Adobe Experience Manager | At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.<br>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future. |
 | Jan 11, 2019 |AEM 6.1 Cumulative Fix Pack | [Cumulative Fix Pack 18](release-notes-aem-6-1-cumulative-fix-pack.md) `[1]` for AEM 6.1 Service Pack 2 is available. |
 
 `[1]` Last maintenance release for AEM 6.1.
@@ -523,6 +611,23 @@ You can also view [previous documentation updates](previous-documentation-update
    <td>Date</td> 
    <td>Topic</td> 
    <td>Changes</td> 
+  </tr>
+    <tr>
+   <td>June 20, 2020<br /> </td> 
+   <td>Adobe Experience Manager</td> 
+   <td><p>At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.</p><p>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future.</p> </td> 
+  </tr>
+    <tr>
+   <td>June 04, 2020<br /> </td> 
+   <td>Experience Manager Assets Brand Portal 6.4.6.2 release</td> 
+   <td><p>In Brand Portal 6.4.6.2, the documentation is updated based on the latest Adobe Developer Console workflow to configure Experience Manager Assets with Brand Portal. The release also includes fixes in the Asset Sourcing feature. </p><p>See the following articles for details:</p> <ul> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/publish/configure-aem-assets-with-brand-portal.html" target="_blank">Configure Experience Manager Assets with Brand Portal</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html" target="_blank">Brand Portal 6.4.6.2 release notes</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html" target="_blank">What's New in Brand Portal</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html" target="_blank">Frequently Asked Questions</a></li>
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html" target="_blank">Asset Sourcing in Brand Portal</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal.html" target="_blank">Brand Portal overview</a></li>
+    </ul> </td> 
   </tr>
   <tr>
    <td>Apr 09, 2020</td> 
