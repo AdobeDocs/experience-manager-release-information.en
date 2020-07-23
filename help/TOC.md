@@ -17,8 +17,8 @@ user-guide-title: Experience Manager Release Information Help
   + [Older versions of AEM, CQ & CRX](aem-previous-versions.md)
 + AEM Forms release updates {#forms-updates}
   + [AEM Forms releases](kb/aem-forms-releases.md)
-  + [AEM Forms JEE Patch Installer 0011](quick-fixes/6-5/jee-patch-0011.md)
-  + [AEM Forms JEE Patch Installer 0015](quick-fixes/6-4/jee-patch-0015.md)
+  + [AEM Forms 6.5 JEE Patch Installer](quick-fixes/6-5/jee-patch-installer-65.md)
+  + [AEM Forms 6.4 JEE Patch Installer](quick-fixes/6-4/jee-patch-installer-64.md)
   + [Installing Cumulative Fix Packs on AEM Forms JEE](install-cfp-aem-forms-jee.md)
 + Documentation updates {#doc-updates}
   + [Recent Documentation Updates](documentation-updates.md)
