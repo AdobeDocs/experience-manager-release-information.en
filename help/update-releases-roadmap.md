@@ -20,7 +20,6 @@ For details about the various types of AEM releases, refer to [AEM Update Releas
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.5 Service Pack 5 |6.5.5.0  |Service Pack |Jun 04, 2020 |
 | AEM 6.5 Service Pack 6 |6.5.6.0  |Service Pack |Sep 03, 2020 |
 | AEM 6.5 Service Pack 7 |6.5.7.0  |Service Pack |Dec 03, 2020 |
 
@@ -28,7 +27,6 @@ For details about the various types of AEM releases, refer to [AEM Update Releas
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.4 Service Pack 8 CFP 1 |6.4.8.1 |Cumulative Fix Pack |Jun 04, 2020 |
 | AEM 6.4 Service Pack 8 CFP 2 |6.4.8.2 |Cumulative Fix Pack |Sep 03, 2020 |
 | AEM 6.4 Service Pack 8 CFP 3 |6.4.8.3 |Cumulative Fix Pack |Dec 03, 2020 |
 
