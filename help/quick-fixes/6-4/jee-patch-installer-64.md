@@ -1,12 +1,12 @@
 ---
-title: AEM Forms JEE Patch Installer 0015
+title: AEM Forms JEE Patch Installer
 description: null
 uuid: e709871b-c04c-43bb-a7d0-45e89fbd3d44
 content-type: reference
 discoiquuid: 83bace08-1d4f-4192-a634-c7c4879963d8
 ---
 
-# AEM Forms JEE Patch Installer 0015{#aem-forms-jee-patch-installer}
+# AEM Forms JEE Patch Installer {#aem-forms-jee-patch-installer}
 
 >[!NOTE]
 >
@@ -14,7 +14,7 @@ discoiquuid: 83bace08-1d4f-4192-a634-c7c4879963d8
 
 ## About the patch installer {#about-the-patch-installer}
 
-The AEM 6.4 Forms JEE patch installer 0015 includes all fixed issues for all components of AEM 6.4 Forms JEE available until the release of this patch. See [AEM 6.4.8.0 Forms JEE Installer](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html) for a complete list of fixed issues.
+The AEM 6.4 Forms JEE patch installer includes all fixed issues for all components of AEM 6.4 Forms JEE available until the release of this patch. See [AEM 6.4.8.0 Forms JEE Installer](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html) for a complete list of fixed issues.
 
 ## Prerequisites to installing the patch {#prerequisites-to-installing-the-patch}
 
@@ -28,7 +28,7 @@ The AEM 6.4 Forms JEE patch installer 0015 includes all fixed issues for all com
 1. In the directory named according to the operating system that you are using:
 
     * **Windows** 
-      Navigate to the appropriate directory on the installation media or folder on your hard disk where you copied the installer, and double-click the aemforms64_cfp_install.exe file.
+      Navigate to the appropriate directory on the installation media or folder on your hard disk where you copied the installer, and double-click the `aemforms64_cfp_install.exe` file.
 
         * (Windows 32-bit) `Windows\Disk1\InstData\VM`
         * (Windows 64-bit) `Windows_64Bit`\ `Disk1\InstData\VM`
@@ -64,7 +64,7 @@ The AEM 6.4 Forms JEE patch installer 0015 includes all fixed issues for all com
 
    To run Configuration Manager later, deselect the Start Configuration Manager option before you click Done. You can start Configuration Manager later using the appropriate script in the `[AEM_forms_root]/configurationManager/bin` directory.
 
-1. Depending on your application server, choose one of the following documents and follow the instructions in the *Configuring and Deploying AEM forms *section.
+1. Depending on your application server, choose one of the following documents and follow the instructions in the *Configuring and Deploying AEM forms* section.
 
     * [Installing and Deploying AEM forms for JBoss](http://www.adobe.com/go/learn_aemforms_installJBoss_64)
     * [Installing and Deploying AEM forms for WebSphere](http://www.adobe.com/go/learn_aemforms_installWebSphere_64)
