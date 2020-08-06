@@ -32,4 +32,4 @@ For details about the various types of AEM releases, refer to [AEM Update Releas
 
 ## AEM 6.3 {#aem-63}
 
-There are no Cumulative Fix Packs delivered on AEM 6.3 version after [6.3.3.8](release-notes-aem-6-3-cumulative-fix-pack.md), as the core support for 6.3 release ends [end of April, 2020](https://helpx.adobe.com/support/programs/eol-matrix.html).  
+There are no Cumulative Fix Packs delivered on AEM 6.3 version after [6.3.3.8](release-notes-aem-6-3-cumulative-fix-pack.md), as the core support for 6.3 release ends [end of April, 2020](https://helpx.adobe.com/support/programs/eol-matrix.html).

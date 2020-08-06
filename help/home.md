@@ -1,13 +1,12 @@
 ---
-title: AEM Release Notes
-description: AEM Release Notes
+title: AEM Release Updates and Roadmap
+description: AEM Release Updates and Roadmap
 ---
 
-# AEM Release Notes
+# AEM Release Updates and Roadmap
 
-[AEM Releases Update](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#aem)
-
-[AEM Product Update Releases Roadmap](update-releases-roadmap.md)
+* [AEM Releases Update](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#aem)
+* [AEM Product Update Releases Roadmap](update-releases-roadmap.md)
 
 ## Previous release updates
 
@@ -24,5 +23,5 @@ description: AEM Release Notes
 
 ## Documentation updates
 
-* [Previous Documentation Updates](previous-documentation-updates.md)
 * [AEM Documentation: Recent Documentation Updates](documentation-updates.md)
+* [Previous Documentation Updates](previous-documentation-updates.md)
