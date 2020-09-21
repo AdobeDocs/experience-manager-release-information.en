@@ -1,6 +1,6 @@
 ---
-title: AEM Product Update Releases Roadmap
-description: Upcoming AEM update releases
+title: AEM releases roadmap
+description: AEM releases roadmap
 seo-description: Upcoming AEM update releases
 uuid: 49a4898b-a32a-4388-a270-4b7953ac5af5
 contentOwner: vishgupt
@@ -8,28 +8,61 @@ products: SG_EXPERIENCEMANAGER
 discoiquuid: 8ad58c09-449d-40c1-89fa-f10c4a9dcf37
 ---
 
-# AEM Product Update Releases Roadmap{#aem-product-update-releases-roadmap}
+# AEM releases roadmap {#aem-releases-roadmap}
 
-This article lists the AEM product update releases roadmap for 2020. Dates for 2021 will be announced in second half of 2020.
+Adobe Experience Manager periodically delivers new features, enhancements to existing features, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
 
-In 2020, for AEM 6.5, new features and improvements are delivered in quarterly Service Packs. This benefits our customers as they can adopt the innovation quicker. At this point, there is no need for a full AEM product release (Quickstart) in 2020.
+This article lists upcoming releases for AEM as a Cloud Service and supported on-premise and managed services AEM versions.
 
-For details about the various types of AEM releases, refer to [AEM Update Release Vehicle Definitions](https://docs.adobe.com/content/help/en/experience-manager-65/deploying/deploying/update-release-vehicle-definitions.html).
+## AEM as a Cloud Service {#aem-as-cloud-service}
 
-## AEM 6.5 {#aem65}
+[AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html) follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month. The upcoming releases for AEM as a Cloud Services are as follows.
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.5 Service Pack 6 |6.5.6.0  |Service Pack |Sep 03, 2020 |
+| AEM as a Cloud Service 2020.9.0 |2020.9.0  |Monthly Release |September 24, 2020 |
+| AEM as a Cloud Service 2020.10.0 |2020.10.0  |Monthly Release |October 28, 2020 |
+| AEM as a Cloud Service 2020.11.0 |2020.11.0  |Monthly Release |December 01, 2020 |
+| AEM as a Cloud Service 2020.12.0 |2020.12.0  |Monthly Release |December 17, 2020 |
+| AEM as a Cloud Service 2021.1.0 |2021.1.0  |Monthly Release |January 28, 2021 |
+| AEM as a Cloud Service 2021.2.0 |2021.2.0  |Monthly Release |February 25, 2021 |
+| AEM as a Cloud Service 2021.3.0 |2021.3.0  |Monthly Release |March 25, 2021 |
+| AEM as a Cloud Service 2021.4.0 |2021.4.0  |Monthly Release |April 29, 2021 |
+| AEM as a Cloud Service 2021.5.0 |2021.5.0  |Monthly Release |May 27, 2021 |
+
+In addition to the monthly releases, various critical updates are available in AEM on a daily release frequency.
+
+## AEM on-premise and managed services {#aem-on-prem-managed-services}
+
+Product updates in terms of new features, enhancements, and bug fixes for supported AEM on-premise and managed services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
+
+## AEM 6.5 {#aem65}
+
+AEM 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [AEM 6.5 service pack release notes](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html).
+
+| Release |Version |Type |Schedule |
+|---|---|---|---|
 | AEM 6.5 Service Pack 7 |6.5.7.0  |Service Pack |Dec 03, 2020 |
 
 ## AEM 6.4 {#aem64}
 
+AEM 6.4 product updates are delivered through quarterly CFPs. These include bug fixes. For details about the latest released CFP, see [AEM 6.4 Cumulative Fix Pack release notes](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html).
+
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.4 Service Pack 8 CFP 2 |6.4.8.2 |Cumulative Fix Pack |Sep 03, 2020 |
 | AEM 6.4 Service Pack 8 CFP 3 |6.4.8.3 |Cumulative Fix Pack |Dec 03, 2020 |
+
+>[!NOTE]
+>
+>AEM 6.4 Service Pack 8 CFP 4, scheduled for a February 2021 release, is the last CFP for AEM 6.4.
 
 ## AEM 6.3 {#aem-63}
 
-There are no Cumulative Fix Packs delivered on AEM 6.3 version after [6.3.3.8](release-notes-aem-6-3-cumulative-fix-pack.md), as the core support for 6.3 release ends [end of April, 2020](https://helpx.adobe.com/support/programs/eol-matrix.html).
+There are no planned service packs or CFPs for AEM 6.3. The latest released CFP for AEM 6.3 is [AEM 6.3.3.8](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html).
+
+>[!MORELIKETHIS]
+>
+>* [EOL matrix](https://helpx.adobe.com/support/programs/eol-matrix.html)
+>* [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
+>* [AEM Learn & Support](https://helpx.adobe.com/support/experience-manager.html)
+>* [AEM Update Release Vehicle Definitions](https://docs.adobe.com/content/help/en/experience-manager-65/deploying/deploying/update-release-vehicle-definitions.html)
