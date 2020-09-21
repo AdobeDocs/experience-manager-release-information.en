@@ -5,7 +5,9 @@ description: AEM Release Updates and Roadmap
 
 # AEM Release Updates and Roadmap
 
-* [AEM Releases Update](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#aem)
+This guide covers information about AEM releases roadmap, previous release updates, and documentation updates.
+
+* [AEM Releases Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#aem)
 * [AEM Product Update Releases Roadmap](update-releases-roadmap.md)
 
 ## Previous release updates
@@ -17,8 +19,6 @@ description: AEM Release Updates and Roadmap
 ## AEM Forms release updates
 
 * [AEM Forms releases](kb/aem-forms-releases.md)
-* [AEM Forms 6.5 JEE Patch Installer](quick-fixes/6-5/jee-patch-installer-65.md)
-* [AEM Forms 6.4 JEE Patch Installer](quick-fixes/6-4/jee-patch-installer-64.md)
 * [Installing Cumulative Fix Packs on AEM Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Documentation updates
