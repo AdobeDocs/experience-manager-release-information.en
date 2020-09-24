@@ -10,7 +10,7 @@ user-guide-description: See the latest AEM release updates.
 # Experience Manager Release Updates and Roadmap {#aem-release-updates}
 
 + [Release Information Home Page](home.md)
-+ [AEM Releases Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#aem)
++ [AEM Releases Updates](aem-releases-updates.md)
 + [AEM Releases Roadmap](update-releases-roadmap.md)
 + Previous release updates {#previous-updates}
   + [AEM 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
