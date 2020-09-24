@@ -30,7 +30,7 @@ This article lists upcoming releases for AEM as a Cloud Service and supported on
 | AEM as a Cloud Service 2021.4.0 |2021.4.0  |Monthly Release |April 29, 2021 |
 | AEM as a Cloud Service 2021.5.0 |2021.5.0  |Monthly Release |May 27, 2021 |
 
-In addition to the monthly releases, various critical updates are available in AEM on a daily release frequency.
+In addition to the monthly releases, various critical updates are available in AEM as a Cloud Service with a daily release frequency.
 
 ## AEM on-premise and managed services {#aem-on-prem-managed-services}
 
@@ -42,7 +42,11 @@ AEM 6.5 product updates are delivered through quarterly service packs. These inc
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.5 Service Pack 7 |6.5.7.0  |Service Pack |Dec 03, 2020 |
+| AEM 6.5 Service Pack 7 |6.5.7.0  |Service Pack |Nov 26, 2020 |
+| AEM 6.5 Service Pack 8 |6.5.8.0  |Service Pack |Feb 25, 2021 |
+| AEM 6.5 Service Pack 9 |6.5.9.0  |Service Pack |May 27, 2021 |
+| AEM 6.5 Service Pack 10 |6.5.10.0  |Service Pack |Aug 26, 2021 |
+| AEM 6.5 Service Pack 11|6.5.11.0  |Service Pack |Nov 25, 2021 |
 
 ## AEM 6.4 {#aem64}
 
@@ -51,6 +55,7 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
 | AEM 6.4 Service Pack 8 CFP 3 |6.4.8.3 |Cumulative Fix Pack |Dec 03, 2020 |
+| AEM 6.4 Service Pack 8 CFP 4 |6.4.8.4 |Cumulative Fix Pack |Feb 25, 2021 |
 
 >[!NOTE]
 >
