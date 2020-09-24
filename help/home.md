@@ -3,7 +3,7 @@ title: AEM Release Updates and Roadmap
 description: AEM Release Updates and Roadmap
 ---
 
-# AEM Release Updates and Roadmap
+# Experience Manager Release Updates and Roadmap
 
 This guide covers information about AEM releases roadmap, previous release updates, and documentation updates.
 

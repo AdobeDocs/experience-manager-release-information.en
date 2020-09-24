@@ -2,12 +2,12 @@
 cloud: experience-cloud
 product: Adobe Experience Manager
 audience: end-user
-user-guide-title: Experience Manager Release Information Help
+user-guide-title: Experience Manager Release Updates and Roadmap
 breadcrumb-title: AEM Release Information
 user-guide-description: See the latest AEM release updates.
 ---
 
-# Experience Manager Release Information {#aem-release-information}
+# Experience Manager Release Updates and Roadmap {#aem-release-updates}
 
 + [Release Information Home Page](home.md)
 + [AEM Releases Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#aem)
