@@ -10,7 +10,7 @@ discoiquuid: 8ad58c09-449d-40c1-89fa-f10c4a9dcf37
 
 # AEM releases roadmap {#aem-releases-roadmap}
 
-Adobe Experience Manager periodically delivers new features, enhancements to existing features, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
+Adobe Experience Manager continuously delivers new features, enhancements to existing features, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
 
 This article lists upcoming releases for AEM as a Cloud Service and supported on-premise and managed services AEM versions.
 
@@ -60,10 +60,6 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
 >[!NOTE]
 >
 >AEM 6.4 Service Pack 8 CFP 4, scheduled for a February 2021 release, is the last CFP for AEM 6.4.
-
-## AEM 6.3 {#aem-63}
-
-There are no planned service packs or CFPs for AEM 6.3. The latest released CFP for AEM 6.3 is [AEM 6.3.3.8](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html).
 
 >[!MORELIKETHIS]
 >
