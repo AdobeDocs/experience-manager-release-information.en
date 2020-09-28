@@ -20,7 +20,6 @@ This article lists upcoming releases for AEM as a Cloud Service and supported on
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM as a Cloud Service 2020.9.0 |2020.9.0  |Monthly Release |September 24, 2020 |
 | AEM as a Cloud Service 2020.10.0 |2020.10.0  |Monthly Release |October 28, 2020 |
 | AEM as a Cloud Service 2020.11.0 |2020.11.0  |Monthly Release |December 01, 2020 |
 | AEM as a Cloud Service 2020.12.0 |2020.12.0  |Monthly Release |December 17, 2020 |
