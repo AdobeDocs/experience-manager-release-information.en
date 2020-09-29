@@ -14,6 +14,10 @@ Adobe Experience Manager continuously delivers new features, enhancements to exi
 
 This article lists upcoming releases for AEM as a Cloud Service and supported on-premise and managed services AEM versions.
 
+>[!NOTE]
+>
+>Roadmap updates available in this article are for information only and are subject to change at any time.
+
 ## AEM as a Cloud Service {#aem-as-cloud-service}
 
 [AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html) follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month. The upcoming releases for AEM as a Cloud Services are as follows.
