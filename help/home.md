@@ -3,12 +3,12 @@ title: AEM Release Updates and Roadmap
 description: AEM Release Updates and Roadmap
 ---
 
-# Experience Manager Release Updates and Roadmap
+# Experience Manager release updates and roadmap
 
 This guide covers information about AEM releases roadmap, previous release updates, and documentation updates.
 
-* [AEM Releases Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#aem)
-* [AEM Product Update Releases Roadmap](update-releases-roadmap.md)
+* [AEM releases updates](aem-releases-updates.md)
+* [AEM releases roadmap](update-releases-roadmap.md)
 
 ## Previous release updates
 
@@ -23,5 +23,5 @@ This guide covers information about AEM releases roadmap, previous release updat
 
 ## Documentation updates
 
-* [AEM Documentation: Recent Documentation Updates](documentation-updates.md)
-* [Previous Documentation Updates](previous-documentation-updates.md)
+* [AEM documentation: Recent documentation updates](documentation-updates.md)
+* [Previous documentation updates](previous-documentation-updates.md)
