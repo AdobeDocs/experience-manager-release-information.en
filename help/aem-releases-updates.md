@@ -14,40 +14,130 @@ Adobe Experience Manager (AEM) releases frequent updates that include features, 
 
 ## AEM 6.5 {#aem-65}
 
-| Release |Version |Type |
-|---|---|---|---|
-| [AEM 6.5 Service Pack 6](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html) |6.5.6.0  |Service Pack |
-| [AEM 6.5](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/release-notes.html)  |6.5 |Main Release |
+<table>
+ <tbody>
+  <tr>
+   <td><b>Release</b></td>
+   <td><b>Version</b></td>
+   <td><b>Type</b></td>
+  </tr>
+   <tr>
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html" target="_blank">AEM 6.5 Service Pack 6</a></p></td>
+   <td>6.5.6.0</td>
+   <td>Service Pack</td>
+  </tr>
+   <tr>
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/release-notes.html" target="_blank">AEM 6.5</a></p></td>
+   <td>6.5</td>
+   <td>Main Release</td>
+  </tr>  
+ </tbody>
+</table>
 
 ## AEM 6.4 {#aem-64}
 
-| Release |Version |Type |
-|---|---|---|---|
-| [AEM 6.4 Service Pack 8 Cumulative Fix Pack 2](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html) |6.4.8.2  |Cumulative Fix Pack |
-| [AEM 6.4 Service Pack 8](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html) |6.4.8.0  |Service Pack |
-| [AEM 6.4](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/release-notes.html) |6.4  |Main Release |
-
+<table>
+ <tbody>
+  <tr>
+   <td><b>Release</b></td>
+   <td><b>Version</b></td>
+   <td><b>Type</b></td>
+  </tr>
+   <tr>
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html" target="_blank">AEM 6.4 Service Pack 8 Cumulative Fix Pack 2</a></p></td>
+   <td>6.4.8.2</td>
+   <td>Cumulative Fix Pack</td>
+  </tr>
+   <tr>
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 8</a></p></td>
+   <td>6.4.8.0</td>
+   <td>Service Pack</td>
+  </tr>
+  <tr>
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/release-notes.html">AEM 6.4</a></p></td>
+   <td>6.4</td>
+   <td>Main Release</td>
+  </tr>  
+ </tbody>
+</table>
 
 ## AEM 6.3 {#aem-63}
 
-| Release |Version |Type |
-|---|---|---|---|
-| [AEM 6.3 Service Pack 3 Cumulative Fix Pack 8](release-notes-aem-6-3-cumulative-fix-pack.md) |6.3.3.8  |Cumulative Fix Pack |
-| [AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html) |6.3.3.0  |Service Pack |
-| [AEM 6.3](https://helpx.adobe.com/experience-manager/6-3/release-notes.html) |6.3  |Main Release |
+<table>
+ <tbody>
+  <tr>
+   <td><b>Release</b></td>
+   <td><b>Version</b></td>
+   <td><b>Type</b></td>
+  </tr>
+   <tr>
+   <td><p><a href="https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html" target="_blank">AEM 6.3 Service Pack 3 Cumulative Fix Pack 8</a></p></td>
+   <td>6.3.3.8</td>
+   <td>Cumulative Fix Pack</td>
+  </tr>
+   <tr>
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html" target="_blank">AEM 6.3 Service Pack 3</a></p></td>
+   <td>6.3.3.0</td>
+   <td>Service Pack</td>
+  </tr>
+  <tr>
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes.html">AEM 6.3</a></p></td>
+   <td>6.3</td>
+   <td>Main Release</td>
+  </tr>  
+ </tbody>
+</table>
 
 ## AEM 6.2 {#aem-62}
 
-| Release |Version |Type |
-|---|---|---|---|
-| [AEM 6.2 Service Pack 1 Cumulative Fix Pack 20](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html) |6.2.1.20  |Cumulative Fix Pack |
-| [AEM 6.2 Service Pack 1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) |6.2.1.0  |Service Pack |
-| [AEM 6.2](https://helpx.adobe.com/experience-manager/6-2/release-notes.html) |6.2  |Main Release |
+<table>
+ <tbody>
+  <tr>
+   <td><b>Release</b></td>
+   <td><b>Version</b></td>
+   <td><b>Type</b></td>
+  </tr>
+   <tr>
+   <td><p><a href="https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html" target="_blank">AEM 6.2 Service Pack 1 Cumulative Fix Pack 20</a></p></td>
+   <td>6.2.1.20</td>
+   <td>Cumulative Fix Pack</td>
+  </tr>
+   <tr>
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html" target="_blank">AEM 6.2 Service Pack 1</a></p></td>
+   <td>6.2.1.0</td>
+   <td>Service Pack</td>
+  </tr>
+  <tr>
+   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/release-notes.html">AEM 6.2</a></p></td>
+   <td>6.2</td>
+   <td>Main Release</td>
+  </tr>  
+ </tbody>
+</table>
 
 ## AEM 6.1 {#aem-61}
 
-| Release |Version |Type |
-|---|---|---|---|
-| [AEM 6.1 Service Pack 2 Cumulative Fix Pack 18](https://helpx.adobe.com/experience-manager/release-notes-aem-6-1-cumulative-fix-pack.html) |6.1.2.18  |Cumulative Fix Pack |
-| [AEM 6.1 Service Pack 2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html) |6.1.2.0  |Service Pack |
-| [AEM 6.1](https://docs.adobe.com/docs/en/aem/6-1/release-notes.html) |6.1  |Main Release |
+<table>
+ <tbody>
+  <tr>
+   <td><b>Release</b></td>
+   <td><b>Version</b></td>
+   <td><b>Type</b></td>
+  </tr>
+   <tr>
+   <td><p><a href="https://helpx.adobe.com/experience-manager/release-notes-aem-6-1-cumulative-fix-pack.html" target="_blank">AEM 6.1 Service Pack 2 Cumulative Fix Pack 18</a></p></td>
+   <td>6.1.2.18</td>
+   <td>Cumulative Fix Pack</td>
+  </tr>
+   <tr>
+   <td><p><a href="https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html" target="_blank">AEM 6.1 Service Pack 2</a></p></td>
+   <td>6.1.2.0</td>
+   <td>Service Pack</td>
+  </tr>
+  <tr>
+   <td><p><a href="https://docs.adobe.com/docs/en/aem/6-1/release-notes.html">AEM 6.1</a></p></td>
+   <td>6.1</td>
+   <td>Main Release</td>
+  </tr>  
+ </tbody>
+</table>
