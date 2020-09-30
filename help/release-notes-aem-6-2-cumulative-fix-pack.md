@@ -25,8 +25,7 @@ Adobe introduced a single-delivery model for releasing fixes. Instead of releasi
 * Increased quality assurance
 * Simplified installation (User installs a CFP as a single package that has no dependencies, except for the latest service pack)
 
-For more information on CFP and other types of releases, see [Maintenance Release Vehicle.  
-](https://docs.adobe.com/content/docs/en/aem/6-2/deploy/maintenance-release-vehicle-definitions.html)
+For more information on CFP and other types of releases, see [Maintenance Release Vehicle](https://docs.adobe.com/content/docs/en/aem/6-2/deploy/maintenance-release-vehicle-definitions.html).
 
 ## About the release {#about-the-release}
 
