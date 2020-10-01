@@ -57,7 +57,7 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.4 Service Pack 8 CFP 3 |6.4.8.3 |Cumulative Fix Pack |Dec 03, 2020 |
+| AEM 6.4 Service Pack 8 CFP 3 |6.4.8.3 |Cumulative Fix Pack |Nov 26, 2020 |
 | AEM 6.4 Service Pack 8 CFP 4 |6.4.8.4 |Cumulative Fix Pack |Feb 25, 2021 |
 
 >[!NOTE]
