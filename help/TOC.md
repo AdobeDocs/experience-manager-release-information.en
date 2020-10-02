@@ -1,6 +1,7 @@
 ---
 cloud: experience-cloud
 product: Adobe Experience Manager
+solution: Experience Manager
 audience: end-user
 user-guide-title: Experience Manager release updates and roadmap
 breadcrumb-title: AEM Release Information

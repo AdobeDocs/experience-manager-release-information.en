@@ -7,7 +7,7 @@ getting-started-url: https://helpx.adobe.com/experience-manager/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use
