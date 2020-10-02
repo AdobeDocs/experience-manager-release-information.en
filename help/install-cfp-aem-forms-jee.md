@@ -91,21 +91,6 @@ Use the following commands to set the timeout at component level:
 
    set " `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`"
 
-## Install CFP for AEM 6.1 Forms JEE {#install-cfp-for-aem-forms-jee}
-
-Perform the following steps, in the specified sequence, to install cumulative fix pack on AEM 6.1 Forms JEE.
-
->[!NOTE]
->
->If you are on AEM 6.1 Forms OSGi, follow the installation instructions in [AEM 6.1 CFP release notes.](release-notes-aem-6-1-cumulative-fix-pack.md)
-
-1. Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM 6.1 Forms JEE installer for the CFP.
-1. Run the CFP installer and configure AEM Forms JEE as described in [Install and configure AEM Forms JEE](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
-1. Install [AEM 6.1 Service Pack 2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html).
-1. Install [AEM 6.1 Service Pack 2 CFP](release-notes-aem-6-1-cumulative-fix-pack.md).
-1. Install [AEM Forms 6.1 Service Pack 2 OSGi package for AEM Forms JEE](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq610/servicepack/fd/AEM-FORMS-6.1-SP2-JEE-PKG).
-1. Install the Forms Add-on package for [AEM 6.1 Service Pack 2 CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
-
 ## Install and configure AEM Forms JEE {#install-and-configure-aem-forms-jee}
 
 1. Take a backup of the /deploy folder. It is required if you decide to uninstall the quick fix.

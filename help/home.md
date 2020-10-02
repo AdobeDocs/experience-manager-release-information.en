@@ -14,7 +14,6 @@ This guide covers information about AEM releases roadmap, previous release updat
 
 * [Release Notes: AEM 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
 * [Release Notes: AEM 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
-* [Release Notes: AEM 6.1 Cumulative Fix Pack ](release-notes-aem-6-1-cumulative-fix-pack.md)
 
 ## AEM Forms release updates
 
