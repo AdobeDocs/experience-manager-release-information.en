@@ -10,9 +10,9 @@ discoiquuid: 8ad58c09-449d-40c1-89fa-f10c4a9dcf37
 
 # AEM releases and updates {#aem-releases-and-updates}
 
-Adobe Experience Manager (AEM) releases frequent updates that include features, enhancements, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
+Adobe Experience Manager (AEM) releases continuous updates that include features, enhancements, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
 
-This article lists the latest release for each release category and directs you to the release notes for that version.
+This article lists the latest release for each release category and directs you to the documentation for that version.
 
 ## AEM as a Cloud Service {#aem-as-cloud-service}
 
@@ -35,7 +35,7 @@ For more information on the previous AEM as a Cloud Service releases, see [Relea
 
 ## AEM on-premise and managed services {#aem-on-prem-managed-services}
 
-For Managed Services and on-premise offerings, the article lists the latest Cumulative Fix Pack release, latest Service Pack release, and the main release and directs you to the release notes for that release version.. Adobe recommends to review and apply the latest service pack followed by the latest cumulative fix pack for your AEM version to keep your deployment stable, secure, and up-to-date.
+For Managed Services and on-premise offerings, the article lists the latest Cumulative Fix Pack release, latest Service Pack release, and the main release and directs you to the documentation for those release versions. Adobe recommends to review and apply the latest service pack followed by the latest cumulative fix pack for your AEM version to keep your deployment stable, secure, and up-to-date.
 
 ### AEM 6.5 {#aem-65}
 
