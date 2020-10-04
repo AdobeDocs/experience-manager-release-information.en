@@ -10,9 +10,34 @@ discoiquuid: 8ad58c09-449d-40c1-89fa-f10c4a9dcf37
 
 # AEM releases and updates {#aem-releases-and-updates}
 
-Adobe Experience Manager (AEM) releases frequent updates that include features, enahancements, and fixes for supported AEM versions through various update release vehicles. Adobe recommends to review and apply the latest service pack followed by the latest cumulative fix pack for your AEM version to keep your deployment stable, secure, and up-to-date.
+Adobe Experience Manager (AEM) releases frequent updates that include features, enhancements, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
 
-## AEM 6.5 {#aem-65}
+This article lists the latest release for each release category and directs you to the release notes for that version.
+
+## AEM as a Cloud Service {#aem-as-cloud-service}
+
+<table>
+ <tbody>
+  <tr>
+   <td><b>Release</b></td>
+   <td><b>Version</b></td>
+   <td><b>Type</b></td>
+  </tr>
+   <tr>
+   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html" target="_blank">AEM as a Cloud Service 2020.9.0</a></p></td>
+   <td>2020.9.0</td>
+   <td>Monthly Release</td>
+  </tr>  
+ </tbody>
+</table>
+
+For more information on the previous AEM as a Cloud Service releases, see [Release Notes for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html). Expand the [!UICONTROL Release Notes] option from the list of topics to view release notes for the monthly versions released this year.
+
+## AEM on-premise and managed services {#aem-on-prem-managed-services}
+
+For Managed Services and on-premise offerings, the article lists the latest Cumulative Fix Pack release, latest Service Pack release, and the main release and directs you to the release notes for that release version.. Adobe recommends to review and apply the latest service pack followed by the latest cumulative fix pack for your AEM version to keep your deployment stable, secure, and up-to-date.
+
+### AEM 6.5 {#aem-65}
 
 <table>
  <tbody>
@@ -34,7 +59,9 @@ Adobe Experience Manager (AEM) releases frequent updates that include features, 
  </tbody>
 </table>
 
-## AEM 6.4 {#aem-64}
+For the list of features introduced in AEM 6.5 Service Packs, see [What's New](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html).
+
+### AEM 6.4 {#aem-64}
 
 <table>
  <tbody>
@@ -61,7 +88,7 @@ Adobe Experience Manager (AEM) releases frequent updates that include features, 
  </tbody>
 </table>
 
-## AEM 6.3 {#aem-63}
+### AEM 6.3 {#aem-63}
 
 <table>
  <tbody>
@@ -88,7 +115,7 @@ Adobe Experience Manager (AEM) releases frequent updates that include features, 
  </tbody>
 </table>
 
-## AEM 6.2 {#aem-62}
+### AEM 6.2 {#aem-62}
 
 <table>
  <tbody>
@@ -110,33 +137,6 @@ Adobe Experience Manager (AEM) releases frequent updates that include features, 
   <tr>
    <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/release-notes.html">AEM 6.2</a></p></td>
    <td>6.2</td>
-   <td>Main Release</td>
-  </tr>  
- </tbody>
-</table>
-
-## AEM 6.1 {#aem-61}
-
-<table>
- <tbody>
-  <tr>
-   <td><b>Release</b></td>
-   <td><b>Version</b></td>
-   <td><b>Type</b></td>
-  </tr>
-   <tr>
-   <td><p><a href="https://helpx.adobe.com/experience-manager/release-notes-aem-6-1-cumulative-fix-pack.html" target="_blank">AEM 6.1 Service Pack 2 Cumulative Fix Pack 18</a></p></td>
-   <td>6.1.2.18</td>
-   <td>Cumulative Fix Pack</td>
-  </tr>
-   <tr>
-   <td><p><a href="https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html" target="_blank">AEM 6.1 Service Pack 2</a></p></td>
-   <td>6.1.2.0</td>
-   <td>Service Pack</td>
-  </tr>
-  <tr>
-   <td><p><a href="https://docs.adobe.com/docs/en/aem/6-1/release-notes.html">AEM 6.1</a></p></td>
-   <td>6.1</td>
    <td>Main Release</td>
   </tr>  
  </tbody>
