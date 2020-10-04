@@ -39,7 +39,7 @@ In addition to the monthly releases, various critical updates are available in A
 
 Product updates in terms of new features, enhancements, and bug fixes for supported AEM on-premise and managed services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
 
-## AEM 6.5 {#aem65}
+### AEM 6.5 {#aem65}
 
 AEM 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [AEM 6.5 service pack release notes](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html).
 
@@ -51,7 +51,7 @@ AEM 6.5 product updates are delivered through quarterly service packs. These inc
 | AEM 6.5 Service Pack 10 |6.5.10.0  |Service Pack |Aug 26, 2021 |
 | AEM 6.5 Service Pack 11|6.5.11.0  |Service Pack |Nov 25, 2021 |
 
-## AEM 6.4 {#aem64}
+### AEM 6.4 {#aem64}
 
 AEM 6.4 product updates are delivered through quarterly CFPs. These include bug fixes. For details about the latest released CFP, see [AEM 6.4 Cumulative Fix Pack release notes](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html).
 
