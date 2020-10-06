@@ -1,16 +1,12 @@
 ---
 title: AEM Forms releases
 description: Contains list of all the AEM Forms releases and corresponding packages
-uuid: 852417ce-c6e4-45df-be51-9239ed38d294
 contentOwner: khsingh
-content-type: troubleshooting
-topic-tags: introduction
-discoiquuid: 1405005c-ca37-4bf4-94f2-e80012ef7872
 ---
 
 # AEM Forms releases {#aem-forms-releases}
 
-Adobe Experience Manager Forms is an application deployed onto AEM. It extends engaging web and mobile experiences to enterprise forms and documents, allowing organizations to complete complex digital interactions while improving user experiences and extending business reach. The out-of-the box AEM Forms included in AEM Quick start has a limited set of functionality. AEM Forms add-on package provides advanced features such as integration with Adobe Analytics, Adobe esign, document services, workflow engine, and many more.
+Adobe Experience Manager Forms is an application deployed onto AEM. It extends engaging web and mobile experiences to enterprise forms and documents, allowing organizations to complete complex digital interactions while improving user experiences and extending business reach. The out-of-the box AEM Forms included in AEM Quick start has a limited set of functionality. AEM Forms add-on package provides advanced features such as integration with Adobe Analytics, Adobe Sign, document services, workflow engine, and many more.
 
 The following list contains all the AEM Forms add-on packages released till today, corresponding AEM versions (Pre-requisites), download links of packages, and other helpful information:
 

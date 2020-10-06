@@ -1,9 +1,6 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: null
-seo-description: null
-uuid: 767319ae-48be-417e-a777-6a5d7e4d03d2
-discoiquuid: 334fd54d-2d62-4fb6-a1b1-6401fc6310f6
 ---
 
 # AEM 6.2 Cumulative Fix Pack Release Notes{#release-notes-aem-cumulative-fix-pack}

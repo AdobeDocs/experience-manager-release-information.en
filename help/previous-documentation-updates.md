@@ -1,9 +1,7 @@
 ---
 title: Previous Documentation Updates
 description: This page lists older important documentation changes and updates for Adobe Experience Manager.
-uuid: cd458cee-fedd-49e9-9ff6-12e4bb6d9a06
 contentOwner: alvawb
-discoiquuid: 9f2aeacf-6ecd-40c5-a7e7-5ff7c040c079
 ---
 
 # Previous Documentation Updates{#previous-documentation-updates}

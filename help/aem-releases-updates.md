@@ -1,11 +1,7 @@
 ---
 title: AEM releases updates
 description: AEM releases updates
-seo-description: Upcoming AEM update releases
-uuid: 49a4898b-a32a-4388-a270-4b7953ac5af5
 contentOwner: AK
-products: SG_EXPERIENCEMANAGER
-discoiquuid: 8ad58c09-449d-40c1-89fa-f10c4a9dcf37
 ---
 
 # AEM releases and updates {#aem-releases-and-updates}

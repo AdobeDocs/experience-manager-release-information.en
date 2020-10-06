@@ -1,10 +1,7 @@
 ---
 title: "AEM Documentation: Recent Documentation Updates"
 description: AEM Documentation, what’s new | Adobe Experience Manager
-seo-description: AEM Documentation, what’s new | Adobe Experience Manager
-uuid: b28ff051-1c27-436b-9b89-fad59253ad61
 contentOwner: trushton
-discoiquuid: 6a6451a9-33f5-4f86-91a3-7374b6b50d9b
 ---
 
 # AEM Documentation: Recent Documentation Updates {#aem-documentation-recent-documentation-updates}
