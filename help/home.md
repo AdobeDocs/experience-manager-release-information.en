@@ -9,6 +9,7 @@ This guide covers information about AEM releases roadmap, previous release updat
 
 * [AEM releases updates](aem-releases-updates.md)
 * [AEM releases roadmap](update-releases-roadmap.md)
+* [AEM release vehicle definitions](update-release-vehicle-definitions.md)
 
 ## Previous release updates
 
