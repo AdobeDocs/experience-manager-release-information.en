@@ -6,6 +6,8 @@ contentOwner: AK
 
 # AEM releases and updates {#aem-releases-and-updates}
 
+![AEM new releases](assets/new-aem-releases.jpeg)
+
 Adobe Experience Manager (AEM) releases continuous updates that include features, enhancements, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
 
 This article lists the latest release for each release category and directs you to the documentation for those versions.
