@@ -8,9 +8,11 @@ contentOwner: AK
 
 Adobe Experience Manager (AEM) releases continuous updates that include features, enhancements, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
 
-This article lists the latest release for each release category and directs you to the documentation for that version.
+This article lists the latest release for each release category and directs you to the documentation for those versions.
 
 ## AEM as a Cloud Service {#aem-as-cloud-service}
+
+AEM as a Cloud Service follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month.
 
 <table>
  <tbody>
@@ -27,6 +29,8 @@ This article lists the latest release for each release category and directs you 
  </tbody>
 </table>
 
+The monthly release notes also includes a What's New section categorized by component names.
+
 For more information on the previous AEM as a Cloud Service releases, see [Release Notes for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html). Expand the [!UICONTROL Release Notes] option from the list of topics to view release notes for the monthly versions released this year.
 
 ## AEM on-premise and managed services {#aem-on-prem-managed-services}
@@ -34,6 +38,8 @@ For more information on the previous AEM as a Cloud Service releases, see [Relea
 For Managed Services and on-premise offerings, the article lists the latest Cumulative Fix Pack release, latest Service Pack release, and the main release and directs you to the documentation for those release versions. Adobe recommends to review and apply the latest service pack followed by the latest cumulative fix pack for your AEM version to keep your deployment stable, secure, and up-to-date.
 
 ### AEM 6.5 {#aem-65}
+
+AEM 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes.
 
 <table>
  <tbody>
@@ -58,6 +64,8 @@ For Managed Services and on-premise offerings, the article lists the latest Cumu
 For the list of features introduced in AEM 6.5 Service Packs, see [What's New](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html).
 
 ### AEM 6.4 {#aem-64}
+
+AEM 6.4 product updates are delivered through quarterly CFPs. These include bug fixes.  
 
 <table>
  <tbody>
