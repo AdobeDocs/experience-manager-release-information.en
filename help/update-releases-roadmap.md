@@ -6,7 +6,7 @@ contentOwner: vishgupt
 
 # AEM releases roadmap {#aem-releases-roadmap}
 
-Adobe Experience Manager continuously delivers new features, enhancements to existing features, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
+[!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for its cloud services, [!DNL Adobe] Managed Services, and on-premise offerings.
 
 This article lists upcoming releases for AEM as a Cloud Service and supported on-premise and managed services AEM versions.
 

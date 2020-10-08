@@ -2164,18 +2164,17 @@ The key highlights of AEM 6.2 SP2-CFP1 are:
 
 * CoreCross Origin Resource Sharing (CORS) functionality as a servlet filter is not enabled for Jboss+. NPR-13050
 
-## Download Instructions for CFP via Package Share {#download-instructions-for-cfp-via-package-share}
+## Download Instructions for CFP via Software Distribution {#download-instructions-for-cfp-via-package-share}
 
 >[!NOTE]
 >
 >For AEM Forms customers, it is essential to install AEM forms add-on package after installing any AEM Service Pack, Cumulative Service Pack or Feature Pack.
 
-You can download the CFP package directly from Adobe Package Share or perform the following steps:
+You can download the CFP package directly from Software Distribution  or perform the following steps:
 
-1. On your AEM instance, click **Tools &gt; Package Share**. 
-1. Log in using your Adobe ID credentials.
-1. Search for **AEM6.2 SP1-CFP20** and click the appropriate package in the search results to open the CFP details page.
-1. On the CFP details page, click **Download** and accept the license agreement. Click **OK** to confirm the download.
+1. Open [Software Distribution](https://experience.adobe.com/downloads). You require an Adobe ID to log in to the Software Distribution.
+1. Tap **[!UICONTROL Adobe Experience Manager]** available in the header menu.
+1. Tap the package name, select **[!UICONTROL Accept EULA Terms]**, and tap **[!UICONTROL Download]**.
 
 ## Installation instructions for CFP {#installation-instructions-for-cfp}
 
@@ -2195,19 +2194,21 @@ This section walks you through the requirements and steps to install the CFP.
 
 * AEM 6.2 Service Pack 1 is a prerequisite for the CFP. For installation instructions, see [AEM 6.2 Service Pack 1 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).  
 
-* The Cumulative Fix Pack download is available on [Adobe Package Share](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), which you can access directly from the AEM instance.
+* The Cumulative Fix Pack download is available on [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), which you can access directly from the AEM instance.
 * For a cluster deployment using ( RDBMK  or MongoDB), the CFP package can be installed on any of the Author instances that  uses  Package Manager.
 
 * Before installing the cumulative fix pack, ensure to take a snapshot or make a backup of your AEM instance.
 * Uninstalling the CFP is not supported.
 
-### Install the CFP via Package Share {#install-the-cfp-via-package-share}
+### Install the CFP via Software Distribution {#install-the-cfp-via-package-share}
 
 Perform the following steps to install the Cumulative Fix Pack on an existing AEM 6.2 SP1 instance:
 
-1. On your AEM instance, click **Tools &gt; Packages.** 
+1. Click the [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip) link to download the package.
 
-1. Find the downloaded CFP package and click Install.
+1. Open [Package Manager](http://localhost:4502/crx/packmgr/index.jsp) and click **[!UICONTROL Upload Package]** to upload the package.
+
+1. Select the package name and click **[!UICONTROL Install]**.
 
 ### Automatic installation {#automatic-installation}
 

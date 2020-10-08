@@ -1714,14 +1714,13 @@ AEM Cumulative Fix Pack 6.3.0.1 is an important update that includes several int
 
 * Provides validation option in Package Manager for detecting conflicts between overlay and CFP
 
-## Download Instructions for CFP via Package Share {#download-instructions-for-cfp-via-package-share}
+## Download Instructions for CFP via Software Distribution {#download-instructions-for-cfp-via-package-share}
 
-You can download the CFP package directly from [Adobe Package Share](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8) or perform the following steps:
+You can download the CFP package directly from [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8) or perform the following steps:
 
-1. On your AEM instance, click **Tools &gt; Package Share**. 
-1. Log in using your Adobe ID credentials.
-1. Search for **6.3.3.x** and click the appropriate package in the search results to open the CFP details page.
-1. On the CFP details page, click **Download** and accept the license agreement. Click **OK** to confirm the download.
+1. Open [Software Distribution](https://experience.adobe.com/downloads). You require an Adobe ID to log in to the Software Distribution.
+1. Tap **[!UICONTROL Adobe Experience Manager]** available in the header menu.
+1. Tap the package name, select **[!UICONTROL Accept EULA Terms]**, and tap **[!UICONTROL Download]**.
 
 ## Installation instructions {#installation-instructions}
 
@@ -1757,12 +1756,15 @@ To configure debug level logging and retrieve an activity log during installatio
 
 The activity.log will be created in   crx -quickstart /logs folder.
 
-### Install the Cumulative Fix Pack via Package Share {#install-the-cumulative-fix-pack-via-package-share}
+### Install the Cumulative Fix Pack via Software Distribution {#install-the-cumulative-fix-pack-via-package-share}
 
 Perform the following steps to install the Cumulative Fix Pack on an existing AEM 6.3 instance:
 
-1. On your AEM instance, click **Tools** > **Packages**.
-1. Find the downloaded CFP package and click Install.
+1. Click the [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip) link to download the package.
+
+1. Open [Package Manager](http://localhost:4502/crx/packmgr/index.jsp) and click **[!UICONTROL Upload Package]** to upload the package.
+
+1. Select the package name and click **[!UICONTROL Install]**.
 
 ### Automatic installation {#automatic-installation}
 
