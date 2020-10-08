@@ -6,7 +6,7 @@ contentOwner: AK
 
 # AEM update release vehicle definitions {#update-release-vehicle-definitions}
 
-This document includes details about the various types of Adobe Experience Manager (AEM) releases, including full releases, feature packs, and services packs that Adobe delivers to its customers.
+This document includes details about the various types of [!DNL Adobe Experience Manager] (AEM) releases, including full releases, feature packs, and services packs that [!DNL Adobe] delivers to its customers.
 
 >[!NOTE]
 >
@@ -117,7 +117,7 @@ This document includes details about the various types of Adobe Experience Manag
    <td>
     <ul>
      <li>Delivered as a package</li>
-     <li>Available on Package Share</li>
+     <li>Available on Software Distribution</li>
      <li>Requires existing functional installation</li>
     </ul> </td>
   </tr>
@@ -166,7 +166,7 @@ This document includes details about the various types of Adobe Experience Manag
    <td>
     <ul>
      <li>Delivered as a package</li>
-     <li>Available on Package Share</li>
+     <li>Available on Software Distribution</li>
      <li>Dependent on the latest service pack released</li>
      <li>CFP is self-dependant. Customers need not worry about finding/resolving dependencies. CFP should be installed on latest released Service Pack.</li>
      <li>CFP can be installed as a single package, which improves customer experience.</li>
@@ -227,7 +227,7 @@ This document includes details about the various types of Adobe Experience Manag
    <td>
     <ul>
      <li>Feature Packs are add-on functionalities and are delivered via Service Packs. If an AEM version has released its last service pack, Adobe will not deliver any feature pack for it in future.</li>
-     <li>FPs contain product enhancements, scheduled for a subsequent product release, but delivered early based on the decision of Adobe's Product Management.</li>
+     <li>FPs contain product enhancements, scheduled for a subsequent product release, but delivered early based on the decision of [!DNL Adobe's] Product Management.</li>
      <li>Features are always merged with the next major release and then backported to the AEM version required by the customer</li>
      <li>Common Interest and GA feature packs are merged into the next service pack</li>
     </ul> </td>
@@ -258,7 +258,7 @@ This document includes details about the various types of Adobe Experience Manag
    <td>
     <ul>
      <li>Delivered via Service Packs</li>
-     <li>Available on Package Share. Customers accept Adobe's Terms and Conditions through Package Share.</li>
+     <li>Available on Software Distribution. Customers accept [!DNL Adobe's] Terms and Conditions through Software Distribution.</li>
     </ul> </td>
   </tr>
   <tr>

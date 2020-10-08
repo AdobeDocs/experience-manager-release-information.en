@@ -4,13 +4,13 @@ description: Contains list of all the AEM Forms releases and corresponding packa
 contentOwner: khsingh
 ---
 
-# AEM Forms releases {#aem-forms-releases}
+# AEM [!DNL Forms] releases {#aem-forms-releases}
 
-Adobe Experience Manager Forms is an application deployed onto AEM. It extends engaging web and mobile experiences to enterprise forms and documents, allowing organizations to complete complex digital interactions while improving user experiences and extending business reach. The out-of-the box AEM Forms included in AEM Quick start has a limited set of functionality. AEM Forms add-on package provides advanced features such as integration with Adobe Analytics, Adobe Sign, document services, workflow engine, and many more.
+Adobe Experience Manager [!DNL Forms] is an application deployed onto AEM. It extends engaging web and mobile experiences to enterprise forms and documents, allowing organizations to complete complex digital interactions while improving user experiences and extending business reach. The out-of-the box AEM [!DNL Forms] included in AEM Quick start has a limited set of functionality. AEM [!DNL Forms] add-on package provides advanced features such as integration with [!DNL Adobe Analytics], [!DNL Adobe Sign], document services, workflow engine, and many more.
 
-The following list contains all the AEM Forms add-on packages released till today, corresponding AEM versions (Pre-requisites), download links of packages, and other helpful information:
+The following list contains all the AEM [!DNL Forms] add-on packages released till today, corresponding AEM versions (Pre-requisites), download links of packages, and other helpful information:
 
-## AEM 6.5 Forms releases {#aem-65-forms-releases}
+## AEM 6.5 [!DNL Forms] releases {#aem-65-forms-releases}
 
 <table> 
   <tbody> 
@@ -137,11 +137,11 @@ The following list contains all the AEM Forms add-on packages released till toda
 
 `[1]` Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain installers for Workbench, Rights Management SDK, Portable Protection Library (PPL) and Enhanced PPL.
 
-`[2]` AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
+`[2]` AEM [!DNL Forms] add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
 
-`[3]` AEM Forms Compatibility Package for 6.5.4.0 remains the same as that of 6.5.3.0 release.
+`[3]` AEM [!DNL Forms] Compatibility Package for 6.5.4.0 remains the same as that of 6.5.3.0 release.
 
-## AEM 6.4 Forms releases {#aem-64-forms-releases}
+## AEM 6.4 [!DNL Forms] releases {#aem-64-forms-releases}
 
 <table> 
  <tbody> 
@@ -339,13 +339,13 @@ The following list contains all the AEM Forms add-on packages released till toda
  </tbody> 
 </table>
 
-`[1]` Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain installers for AEM Forms JEE, AEM Forms Client SDK, LiveCycle embed package, AEM Forms Designer, RMCSDK, PPL and EnhancedPPL.
+`[1]` Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain installers for AEM [!DNL Forms JEE], AEM [!DNL Forms] Client SDK, [!DNL LiveCycle] embed package, AEM [!DNL Forms Designer], RMCSDK, PPL and EnhancedPPL.
 
-`[2]` AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.  
+`[2]` AEM [!DNL Forms] add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.  
 
-`[3]` AEM Forms Compatibility Package for 6.4.8.0 remains the same as that of 6.4.7.0 release.
+`[3]` AEM [!DNL Forms] Compatibility Package for 6.4.8.0 remains the same as that of 6.4.7.0 release.
 
-## AEM 6.3 Forms releases {#aem-63-forms-releases}
+## AEM 6.3 [!DNL Forms] releases {#aem-63-forms-releases}
 
 <table> 
  <tbody> 
@@ -660,13 +660,13 @@ The following list contains all the AEM Forms add-on packages released till toda
 </table>
 
 `[1]`
-Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain installers for AEM Forms JEE, AEM Forms Client SDK, LiveCycle embed package, AEM Forms Designer, RMCSDK, PPL and EnhancedPPL.
+Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain installers for AEM [!DNL Forms] JEE, AEM [!DNL Forms] Client SDK, [!DNL LiveCycle] embed package, AEM [!DNL Forms Designer], RMCSDK, PPL and EnhancedPPL.
 
-`[2]` AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
+`[2]` AEM [!DNL Forms] add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
 
 `[3]` **IMPORTANT**: Before installing the LiveCycle embed package, install [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) and ensure that the version of the **Apache Sling Authentication Service** bundle is 1.4.0 or more, otherwise the server may become unresponsive and unrecoverable. You can check the version of bundle at `http://[server]:[port]/system/console/bundles`.
 
-## AEM 6.2 Forms releases {#aem-62-forms-releases}
+## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
 
 <table> 
  <tbody> 
@@ -1045,25 +1045,25 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
  </tbody> 
 </table>
 
-`[1]` In addition to AEM Forms add-on packages and source code for AEM Forms app, an updated version of AEM Forms Document Security Extension for Microsoft Office, and hot fixes for AEM Forms on JEE Core and Document Security components are also released. For detailed information, see [release notes of AEM 6.2 Forms cumulative fix 10325](https://helpx.adobe.com/experience-manager/6-2/forms/using/cf1-release-notes.html).
+`[1]` In addition to AEM [!DNL Forms] add-on packages and source code for AEM [!DNL Forms] app, an updated version of AEM [!DNL Forms] Document Security Extension for Microsoft Office, and hot fixes for AEM [!DNL Forms] on JEE Core and Document Security components are also released. For detailed information, see [release notes of AEM 6.2 [!DNL Forms] cumulative fix 10325](https://helpx.adobe.com/experience-manager/6-2/forms/using/cf1-release-notes.html).
 
-`[2]` Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM Forms JEE, AEM Forms App Source or the AEM Forms Designer installer, AEM Forms Workbench Hotfix, or AEM-fd Client SDK (if applicable for the release). 
+`[2]` Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM [!DNL Forms] JEE, AEM [!DNL Forms] App Source or the AEM [!DNL Forms Designer] installer, AEM [!DNL Forms Workbench] Hotfix, or AEM-fd Client SDK (if applicable for the release). 
 
-`[3]` AEM Forms add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
+`[3]` AEM [!DNL Forms] add-on package for Mac OS X is not supported in production environment and should be used only for demonstration purposes. PDF Generator capability is not available for Mac OS X package.
 
 >[!NOTE]
 >
->AEM Forms regularly releases patches or quick fixes to address bugs and to improve the usability and performance of the software. If you are encountering an issue with using AEM Forms, it is possible that it is already addressed through a patch or Quick Fixes. For details about the available Quick Fixes, see [Adobe Experience Manager 6.2 hot fixes.](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
+>AEM [!DNL Forms] regularly releases patches or quick fixes to address bugs and to improve the usability and performance of the software. If you are encountering an issue with using AEM [!DNL Forms], it is possible that it is already addressed through a patch or Quick Fixes. For details about the available Quick Fixes, see [Adobe Experience Manager 6.2 hot fixes.](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
 
 ## Things to remember {#things-to-remember}
 
-* The AEM Forms add-on packages listed above are applicable to both AEM Forms on OSGi and AEM Forms on JEE.  
-* All AEM Forms add-on packages and Quick Fixes are cumulative; that is, an add-on package and Quick Fix includes all the preceding add-ons and Quick Fixes for a component for the corresponding version. For example, if you are installing Quick Fix 2.4.50, it already includes AEM Forms add-on package 2.4.26.
+* The AEM Forms add-on packages listed above are applicable to both AEM [!DNL Forms] on OSGi and AEM [!DNL Forms] on JEE.  
+* All AEM [!DNL Forms] add-on packages and Quick Fixes are cumulative; that is, an add-on package and Quick Fix includes all the preceding add-ons and Quick Fixes for a component for the corresponding version. For example, if you are installing Quick Fix 2.4.50, it already includes AEM [!DNL Forms] add-on package 2.4.26.
 
   >[!NOTE]
   >
   >Cumulative add-on packages and Quick Fixes implies that first two numbers of the version are identical.  
 
 * Always install the latest available Service Pack/Feature Pack add-on. It is highly recommended as it includes security, performance, stability, and key customer fixes and enhancements released since the general availability of the base version. 
-* Whenever you install a Service Pack or upgrade from a previous version of AEM to a newer version, always install the corresponding AEM Forms add-on package. For example, if you upgrade from AEM 6.1 Forms add-on package version 2.2.4 to AEM 6.1 Service Pack 1, after installing AEM 6.1 Service Pack 1, install AEM forms add-on package version 2.4.50.
-* Uninstallation of the AEM Forms add-on package is not supported.
+* Whenever you install a Service Pack or upgrade from a previous version of AEM to a newer version, always install the corresponding AEM [!DNL Forms] add-on package. For example, if you upgrade from AEM 6.1 [!DNL Forms] add-on package version 2.2.4 to AEM 6.1 Service Pack 1, after installing AEM 6.1 Service Pack 1, install AEM [!DNL Forms] add-on package version 2.4.50.
+* Uninstallation of the AEM [!DNL Forms] add-on package is not supported.
