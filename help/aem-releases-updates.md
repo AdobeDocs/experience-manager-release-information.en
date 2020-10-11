@@ -37,7 +37,7 @@ For more information on the previous AEM as a Cloud Service releases, see [Relea
 
 ## AEM on-premise and managed services {#aem-on-prem-managed-services}
 
-For Managed Services and on-premise offerings, the article lists the latest Cumulative Fix Pack release, latest Service Pack release, and the main release and directs you to the documentation for those release versions. [!DNL Adobe ]recommends to review and apply the latest service pack followed by the latest cumulative fix pack for your AEM version to keep your deployment stable, secure, and up-to-date.
+For Managed Services and on-premise offerings, the article lists the latest Cumulative Fix Pack release, latest Service Pack release, and the main release and directs you to the documentation for those release versions. [!DNL Adobe] recommends to review and apply the latest service pack followed by the latest cumulative fix pack for your AEM version to keep your deployment stable, secure, and up-to-date.
 
 ### AEM 6.5 {#aem-65}
 
