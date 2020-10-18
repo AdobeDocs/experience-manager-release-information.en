@@ -7,9 +7,7 @@ description: Documentation packages for older versions of Adobe Experience Manag
 
 ## Older versions of AEM documentation {#older-version-aem-documentation}
 
-The versions of AEM, CQ and CRX listed on this page (with the exception of AEM 6.1) are End of Life and no longer officially sold by Adobe. Our last versions of official documentation for these older versions are available for your self-help needs. We recommend you upgrade to the latest version (which currently is [AEM 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html)).
-
-AEM 6.1 is not supported and you need to buy an extended support contract. See [EOL Matrix](https://helpx.adobe.com/support/programs/eol-matrix.html) for more details. Documentation for AEM 6.1 is available [here](https://docs.adobe.com/docs/en/aem/6-1.html).
+The versions of AEM, CQ and CRX listed on this page are End of Life and no longer officially sold by Adobe. Our last versions of official documentation for these older versions are available for your self-help needs. We recommend you upgrade to the latest version (which currently is [AEM 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html)).
 
 >[!NOTE]
 >
@@ -26,10 +24,6 @@ Before you download the package, determine who will consume the content. This de
 >
 >Users must be logged into the AEM instance to access this content on AEM Author. This content is not accessible by default on AEM Publish (as it exists under /libs).
 
-## AEM 6.1 {#aem-6.1}
-
-AEM 6.1 documentation is available at [https://docs.adobe.com/docs/en/aem/6-1.html](https://docs.adobe.com/docs/en/aem/6-1.html).
-
 ## Software Distribution Locations {#software-distribution-locations}
 
 You will require a valid Adobe ID:
@@ -42,6 +36,11 @@ If you need assistance creating or managing your Adobe ID, [please refer to this
   <tr>
    <th>AEM Version</th> 
    <th>Software Distribution Link</th>   
+  </tr>
+    <tr>
+   <td>AEM 6.1</td> 
+   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip">Download AEM-DOCS-6.1 from Software Distribution</a>
+   </td>   
   </tr>
   <tr>
    <td>AEM 6.0</td> 
