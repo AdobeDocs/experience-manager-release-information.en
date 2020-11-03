@@ -1,6 +1,6 @@
 ---
 title: "AEM Documentation: Recent Documentation Updates"
-description: AEM Documentation, what’s new | Adobe Experience Manager
+description: AEM Documentation, what’s new and changed | Adobe Experience Manager
 contentOwner: trushton
 ---
 
