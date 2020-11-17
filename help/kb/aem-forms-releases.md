@@ -10,7 +10,7 @@ Adobe Experience Manager [!DNL Forms] is an application deployed onto AEM. It ex
 
 >[!NOTE]
 >
->AEM Forms releases the add-on packages one week after the scheduled AEM Service Pack and Cumulative Fix Pack release date. AEM 6.5 Service Pack 7 (6.5.7.0) and AEM 6.4 Service Pack 8 Cumulative Pack 3 (6.4.8.3) is scheduled to release on 4th December.
+>AEM Forms releases the add-on packages one week after the scheduled AEM Service Pack and Cumulative Fix Pack release date. AEM 6.5 Service Pack 7 (6.5.7.0) and AEM 6.4 Service Pack 8 Cumulative Pack 3 (6.4.8.3) is scheduled to release on November 26, 2020.
 
 The following list contains all the AEM [!DNL Forms] add-on packages released till today, corresponding AEM versions (Pre-requisites), download links of packages, and other helpful information:
 
