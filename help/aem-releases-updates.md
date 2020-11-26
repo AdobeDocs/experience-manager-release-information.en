@@ -24,8 +24,8 @@ AEM as a Cloud Service follows a monthly release cadence. As a result, new featu
    <td><b>Type</b></td>
   </tr>
    <tr>
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html" target="_blank">AEM as a Cloud Service 2020.9.0</a></p></td>
-   <td>2020.9.0</td>
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en#release-notes" target="_blank">AEM as a Cloud Service 2020.10.0</a></p></td>
+   <td>2020.10.0</td>
    <td>Monthly Release</td>
   </tr>  
  </tbody>
@@ -51,8 +51,8 @@ AEM 6.5 product updates are delivered through quarterly service packs. These inc
    <td><b>Type</b></td>
   </tr>
    <tr>
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html" target="_blank">AEM 6.5 Service Pack 6</a></p></td>
-   <td>6.5.6.0</td>
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack" target="_blank">AEM 6.5 Service Pack 7</a></p></td>
+   <td>6.5.7.0</td>
    <td>Service Pack</td>
   </tr>
    <tr>
@@ -77,8 +77,8 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
    <td><b>Type</b></td>
   </tr>
    <tr>
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html" target="_blank">AEM 6.4 Service Pack 8 Cumulative Fix Pack 2</a></p></td>
-   <td>6.4.8.2</td>
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html" target="_blank">AEM 6.4 Service Pack 8 Cumulative Fix Pack 3</a></p></td>
+   <td>6.4.8.3</td>
    <td>Cumulative Fix Pack</td>
   </tr>
    <tr>
