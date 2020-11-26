@@ -43,6 +43,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date | Topic | Changes |
 | --- | --- | --- |
+| November 26, 2020 | AEM 6.5 Service Pack 7 | [AEM 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | September 03, 2020 | CDN Invalidation in Dynamic Media | You can now send a request from within Dynamic Media to have the CDN cache expire within minutes. This feature is useful when you make updates to assets and you want those changes to take effect immediately on your website.<br>See [Invalidating the CDN cache by way of Dynamic Media.](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
 | September 03, 2020 | Working with Selective Publish in Dynamic Media | You can choose to publish or unpublish assets to or from AEM or Dynamic Media at the folder level, using either **Manage Publication** or **Quick Publish** instead of relying solely on the **Dynamic Media Configuration** whose settings are global to all folders across your Dynamic Media instance.<br>See [Working with Selective Publish in Dynamic Media.](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/selective-publishing.html) |
 | September 03, 2020 | AEM 6.5 Service Pack 6 | [AEM 6.5 Service Pack 6](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html) is available. |
@@ -62,6 +63,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date | Topic | Changes |
 | --- | --- | --- |
+| November 26, 2020 | AEM 6.4 Service Pack 8 Cumulative Fix Pack 3 | [AEM 6.4 Service Pack 8 Cumulative Fix Pack 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) is available. |
 | September 03, 2020 | AEM 6.4 Service Pack 8 Cumulative Fix Pack 2 | [AEM 6.4 Service Pack 8 Cumulative Fix Pack 2](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html) is available. |
 | July 29, 2020 | [Multi Site Manager] | Updates have been made to the procedures [Creating a New Synchronization Action](https://docs.adobe.com/content/help/en/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action) and [Creating a New Rollout Configuration.](https://docs.adobe.com/content/help/en/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration) |
 | June 19, 2020 | Adobe Experience Manager | At Adobe we aim to use equitable terminology throughout our code, our documentation, and our experiences.<br>For this reason we have been making a series of updates to this documentation set, and will continue to do so in the future. |

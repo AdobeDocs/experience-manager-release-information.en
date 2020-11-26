@@ -40,7 +40,6 @@ AEM 6.5 product updates are delivered through quarterly service packs. These inc
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.5 Service Pack 7 |6.5.7.0  |Service Pack |Nov 26, 2020 |
 | AEM 6.5 Service Pack 8 |6.5.8.0  |Service Pack |Feb 25, 2021 |
 | AEM 6.5 Service Pack 9 |6.5.9.0  |Service Pack |May 27, 2021 |
 | AEM 6.5 Service Pack 10 |6.5.10.0  |Service Pack |Aug 26, 2021 |
@@ -56,7 +55,6 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM 6.4 Service Pack 8 CFP 3 |6.4.8.3 |Cumulative Fix Pack |Nov 26, 2020 |
 | AEM 6.4 Service Pack 8 CFP 4 |6.4.8.4 |Cumulative Fix Pack |Feb 25, 2021 |
 
 >[!NOTE]
