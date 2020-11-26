@@ -46,6 +46,10 @@ AEM 6.5 product updates are delivered through quarterly service packs. These inc
 | AEM 6.5 Service Pack 10 |6.5.10.0  |Service Pack |Aug 26, 2021 |
 | AEM 6.5 Service Pack 11|6.5.11.0  |Service Pack |Nov 25, 2021 |
 
+>[!NOTE]
+>
+>AEM Forms releases the add-on packages one week after the scheduled AEM Service Pack release date.
+
 ### AEM 6.4 {#aem64}
 
 AEM 6.4 product updates are delivered through quarterly CFPs. These include bug fixes. For details about the latest released CFP, see [AEM 6.4 Cumulative Fix Pack release notes](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html).
@@ -54,6 +58,10 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
 |---|---|---|---|
 | AEM 6.4 Service Pack 8 CFP 3 |6.4.8.3 |Cumulative Fix Pack |Nov 26, 2020 |
 | AEM 6.4 Service Pack 8 CFP 4 |6.4.8.4 |Cumulative Fix Pack |Feb 25, 2021 |
+
+>[!NOTE]
+>
+>AEM Forms releases the add-on packages one week after the scheduled AEM Cumulative Fix Pack release date.
 
 >[!NOTE]
 >
