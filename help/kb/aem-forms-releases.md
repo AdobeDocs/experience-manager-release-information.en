@@ -24,6 +24,20 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
     <td><strong>Prerequisite</strong></td> 
     <td><strong>Available packages</strong></td> 
     <td><strong>Build Versions</strong></td> 
+   </tr>
+   <tr> 
+    <td>03 Dec 2020</td> 
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 7 Forms add-on package for AEM 6.5.7.0</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.7.0</a></td> 
+    <td> 
+     <ul> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.192.zip">AEM Forms add-on package for Linux</a></li> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.192.zip">AEM Forms add-on package for Windows</a></li> 
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.192.zip">AEM Forms add-on package for Mac OS X [2]</a> </li>  
+      <li>AEM Forms Client SDK [1]</li> 
+      <li>AEM Forms JEE installer [1]</li> 
+     </ul> </td> 
+    <td><p>AEM Forms JEE installer: 6.5.0-0018<br /> </p> AEM Forms Add-on Packages: 6.0.192</p> <p>Client SDK: 6.0.192<br /> </p> <p>AEM Forms Designer Patch: 650.012<br /> </p> </td> 
    </tr> 
    <tr> 
     <td>03 Sep 2020</td> 
@@ -156,6 +170,22 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
    <td><strong>Available packages</strong></td> 
    <td><strong>Build Versions</strong></td> 
   </tr> 
+  <tr> 
+   <td>03 Dec 2020</td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM Forms add-on packages for AEM 6.4 Service Pack 8 Cumulative Fix Pack 3 (6.4.8.3)</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.3</a></td> 
+   <td> 
+    <ul> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-linux-pkg-5.1.148.zip">AEM Forms add-on package for Linux</a><br /> </li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-win-pkg-5.1.148.zip">AEM Forms add-on package for Windows</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.148.zip">AEM Forms add-on package for Mac OS X[2]</a><br /> </li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.148.zip">AEM Forms add-on package for AIX</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-solaris-pkg-5.1.148.zip">AEM Forms add-on package for Solaris</a></li>  
+     <li>AEM Forms Client SDK [1]<br /> </li> 
+     <li>AEM Forms JEE installer [1]</li> 
+    </ul> </td> 
+   <td><p>AEM Forms JEE installer: AEMForms-6.4.0-0019<br /> </p> <p>AEM Forms Add-on Packages: 5.1.148</p> <p>Client SDK: 5.1.148<br /> </p> <p>AEM Forms Designer Patch: 640.011</p></td> 
+  </tr>
   <tr> 
    <td>03 Sep 2020</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM Forms add-on packages for AEM 6.4 Service Pack 8 Cumulative Fix Pack 2 (6.4.8.2)</a></td> 
