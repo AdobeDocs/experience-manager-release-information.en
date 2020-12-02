@@ -64,7 +64,7 @@ This document includes details about the various types of [!DNL Adobe Experience
 |Items | Details |
 |--------|-----|
 | Definition | <ul> <li>Feature Packs are add-on functionalities and are delivered via Service Packs. If an AEM version has released its last service pack, Adobe will not deliver any feature pack for it in future. </li> <li> FPs contain product enhancements, scheduled for a subsequent product release, but delivered early based on the decision of [!DNL Adobe's] Product Management.</li> <li>  Features are always merged with the next major release and then ported to the AEM version required by the customer </li> <li>  Common Interest and GA feature packs are merged into the next service pack  </li> </ul> |
-| Naming | cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version> |
+| Naming | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusions | <ul> <li> New features </li> <li> Improvements </li> <li> Bug fixes (incremental product updates) </li> </ul>|
 | Documentation | Documentation is available on adobe.com. |
 | Cadence | Varies with Product area |
