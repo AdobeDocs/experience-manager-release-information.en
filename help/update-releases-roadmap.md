@@ -1,34 +1,33 @@
 ---
-title: AEM releases roadmap
-description: AEM releases roadmap
-contentOwner: vishgupt
+title: [!DNL Adobe Experience Manager] releases roadmap
+description: [!DNL Adobe Experience Manager] releases roadmap
 ---
 
 # AEM releases roadmap {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for its cloud services, [!DNL Adobe] Managed Services, and on-premise offerings.
+[!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for its [!DNL Cloud Service], Adobe Managed Services, and on-premise offerings.
 
-This article lists upcoming releases for AEM as a Cloud Service and supported on-premise and managed services AEM versions.
+This article lists upcoming releases for AEM as a [!DNL Cloud Service] and supported on-premise and managed services AEM versions.
 
 >[!NOTE]
 >
 >Roadmap updates available in this article are for information only and are subject to change at any time.
 
-## AEM as a Cloud Service {#aem-as-cloud-service}
+## AEM as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month. The upcoming releases for AEM as a Cloud Services are as follows.
+[AEM as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month. The upcoming releases for AEM as a [!DNL Cloud Service]s are as follows.
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| AEM as a Cloud Service 2020.11.0 |2020.11.0  |Monthly Release |December 02, 2020 |
-| AEM as a Cloud Service 2020.12.0 |2020.12.0  |Monthly Release |December 17, 2020 |
-| AEM as a Cloud Service 2021.1.0 |2021.1.0  |Monthly Release |January 28, 2021 |
-| AEM as a Cloud Service 2021.2.0 |2021.2.0  |Monthly Release |February 25, 2021 |
-| AEM as a Cloud Service 2021.3.0 |2021.3.0  |Monthly Release |March 25, 2021 |
-| AEM as a Cloud Service 2021.4.0 |2021.4.0  |Monthly Release |April 29, 2021 |
-| AEM as a Cloud Service 2021.5.0 |2021.5.0  |Monthly Release |May 27, 2021 |
+| AEM as a [!DNL Cloud Service] 2020.11.0 |2020.11.0  |Monthly Release |December 02, 2020 |
+| AEM as a [!DNL Cloud Service] 2020.12.0 |2020.12.0  |Monthly Release |December 17, 2020 |
+| AEM as a [!DNL Cloud Service] 2021.1.0 |2021.1.0  |Monthly Release |January 28, 2021 |
+| AEM as a [!DNL Cloud Service] 2021.2.0 |2021.2.0  |Monthly Release |February 25, 2021 |
+| AEM as a [!DNL Cloud Service] 2021.3.0 |2021.3.0  |Monthly Release |March 25, 2021 |
+| AEM as a [!DNL Cloud Service] 2021.4.0 |2021.4.0  |Monthly Release |April 29, 2021 |
+| AEM as a [!DNL Cloud Service] 2021.5.0 |2021.5.0  |Monthly Release |May 27, 2021 |
 
-In addition to the monthly releases, various critical updates are available in AEM as a Cloud Service with a daily release frequency.
+In addition to the monthly releases, various critical updates are available in AEM as a [!DNL Cloud Service] with a daily release frequency.
 
 ## AEM on-premise and managed services {#aem-on-prem-managed-services}
 

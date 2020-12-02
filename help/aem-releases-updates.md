@@ -8,19 +8,19 @@ contentOwner: AK
 
 ![AEM new releases](assets/new-aem-releases1.jpeg)
 
-[!DNL Adobe Experience Manager] (AEM) releases continuous updates that include features, enhancements, and bug fixes for its cloud services, Adobe Managed Services, and on-premise offerings.
+[!DNL Adobe Experience Manager] (AEM) releases continuous updates that include features, enhancements, and bug fixes for its [!DNL Cloud Service]s, Adobe Managed Services, and on-premise offerings.
 
 This article lists the latest release for each release category and directs you to the documentation for those versions.
 
-## AEM as a Cloud Service {#aem-as-cloud-service}
+## AEM as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-AEM as a Cloud Service follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month.
+AEM as a [!DNL Cloud Service] follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month.
 
-* [[!DNL Experience Manager] as a Cloud Service 2020.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
+* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
-* [[!DNL Experience Manager] as a Cloud Service 2020.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
+* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
 
-The monthly release notes also includes a what is new section categorized by component names. For more information on the previous Experience Manager as a Cloud Service releases, see [all release notes for Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html).
+The monthly release notes also includes a what is new section categorized by component names. For more information on the previous Experience Manager as a [!DNL Cloud Service] releases, see [all release notes for Experience Manager as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html).
 
 ## AEM on-premise and managed services {#aem-on-prem-managed-services}
 
