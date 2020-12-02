@@ -1735,7 +1735,7 @@ The key highlights of CFP3 are:
 * A race condition in the **ModelAdapterFactory**, which is possible when two threads try to inject the same field, results in failure to construct the model. NPR-16443: Hotfix for SLING-6584
 * Validation option in package manager to detect any conflicts between overlaid file (JSP or JavaScript file) under /apps and the one that contained in a Hotfix under /libs. Affected overlay can then be rebased to include changes from the file under /libs . NPR-16216: Hotfix for CQ-81729
 * Logging in the error.log sometimes stops a few seconds after starting the publisher and needs to be cleared to run again. Request to update the logging framework and provide Sling logging. NPR-15913: Hotfix for Granite-15452
-* Request to update the JavaScript " `use"` API to avoid failure in the HTL Javascript Use API implementation. NPR-16461: Hotfix for SLING-6780
+* Request to update the JavaScript " `use"` API to avoid failure in the HTL JavaScript Use API implementation. NPR-16461: Hotfix for SLING-6780
 
 ### Sites {#sites-16}
 

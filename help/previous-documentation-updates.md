@@ -546,9 +546,9 @@ This page lists older important documentation changes and updates for Adobe Expe
      <li>Coral UI Guide</li> 
      <li>Widgets API (Classic UI) Documentation</li> 
      <li>UI Test Framework</li> 
-     <li>Javascript API Reference</li> 
-     <li>Editor Core Javascript API Reference</li> 
-     <li>Single Page Applications Javascript API References</li> 
+     <li>JavaScript API Reference</li> 
+     <li>Editor Core JavaScript API Reference</li> 
+     <li>Single Page Applications JavaScript API References</li> 
     </ul> </td> 
   </tr>
   <tr>
@@ -943,8 +943,8 @@ The following versions were moved:
      <li>Coral UI Guide</li> 
      <li>Widgets API (Classic UI) Documentation</li> 
      <li>UI Test Framework</li> 
-     <li>Javascript API Reference</li> 
-     <li>Editor Core Javascript API Reference</li> 
+     <li>JavaScript API Reference</li> 
+     <li>Editor Core JavaScript API Reference</li> 
     </ul> </td> 
   </tr>
   <tr>
