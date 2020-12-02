@@ -26,66 +26,15 @@ This document includes details about the various types of [!DNL Adobe Experience
 
 ## Service Pack {#service-pack}
 
-<table>
- <tbody>
-  <tr>
-   <td><strong>Definition</strong></td>
-   <td>
-    <ul>
-     <li>Scheduled release</li>
-     <li>Currently, cannot be rolled back</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Naming</strong></td>
-   <td>
-    <ul>
-     <li>Patch release number is a single digit number</li>
-     <li>After installation, will increase the installed release number patch digit, based on the formula X.Y.Z.SPx</li>
-     <li>Where X is the primary version number, Y is the secondary version number, and Z the patch number. x is the service pack number.</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Inclusions</strong></td>
-   <td>
-    <ul>
-     <li>New features</li>
-     <li>Improvements</li>
-     <li>Bug fixes</li>
-     <li>Common Interest feature packs (if any)</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Documentation</strong></td>
-   <td>
-    <ul>
-     <li>Release notes available on the documentation portal</li>
-     <li>Documentation on features, improvements, bug fixes on the documentation portal</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Cadence</strong></td>
-   <td>Quarterly</td>
-  </tr>
-  <tr>
-   <td><strong>Availability and Installation</strong></td>
-   <td>
-    <ul>
-     <li>Delivered as a package</li>
-     <li>Available on Software Distribution</li>
-     <li>Requires existing functional installation</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Level of Testing</strong></td>
-   <td>
-    <ul>
-     <li>All fixes QA validated</li>
-     <li>Overall package sanity with automation runs</li>
-    </ul> </td>
-  </tr>
- </tbody>
-</table>
+|Item | Description |
+|-----|-----|
+| Definition  | <ul> <li> Scheduled release </li> <li> Currently, cannot be rolled back </li> </ul>|
+| Naming | <ul> <li> Patch release number is a single digit number </li> <li> After installation, will increase the installed release number patch digit, based on the formula X.Y.Z.SPx </li> </ul> Where X is the primary version number, Y is the secondary version number, and Z the patch number. x is the service pack number. |
+| Inclusions | <ul> <li> New features</li> <li>  Improvements </li> <li> Bug fixes </li> <li> Common Interest feature packs (if any) </li> </ul> |
+| Documentation |<ul> <li> Release notes available on the documentation portal </li> <li> Documentation on features, improvements, bug fixes on the documentation portal </li> </ul> |
+| Cadence   | Quarterly |
+| Availability and Installation | <ul> <li> Delivered as a package </li> <li> Available on Software Distribution</li> <li>  Requires existing functional installation </li> </ul> |
+| Level of Testing  | <ul> <li> All fixes QA validated </li> <li>  Overall package sanity with automation runs </li> </ul>|
 
 ## Cumulative Fix Pack  {#cumulative-fix-pack-aem}
 
