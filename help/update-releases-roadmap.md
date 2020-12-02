@@ -16,7 +16,7 @@ This article lists upcoming releases for AEM as a Cloud Service and supported on
 
 ## AEM as a Cloud Service {#aem-as-cloud-service}
 
-[AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html) follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month. The upcoming releases for AEM as a Cloud Services are as follows.
+[AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) follows a monthly release cadence. As a result, new features are available as continuous updates to AEM every month. The upcoming releases for AEM as a Cloud Services are as follows.
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
@@ -36,7 +36,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 ### AEM 6.5 {#aem65}
 
-AEM 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [AEM 6.5 service pack release notes](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html).
+AEM 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [AEM 6.5 service pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html).
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
@@ -51,7 +51,7 @@ AEM 6.5 product updates are delivered through quarterly service packs. These inc
 
 ### AEM 6.4 {#aem64}
 
-AEM 6.4 product updates are delivered through quarterly CFPs. These include bug fixes. For details about the latest released CFP, see [AEM 6.4 Cumulative Fix Pack release notes](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html).
+AEM 6.4 product updates are delivered through quarterly CFPs. These include bug fixes. For details about the latest released CFP, see [AEM 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html).
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
@@ -70,4 +70,4 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
 >* [EOL matrix](https://helpx.adobe.com/support/programs/eol-matrix.html)
 >* [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
 >* [AEM Learn & Support](https://helpx.adobe.com/support/experience-manager.html)
->* [AEM Update Release Vehicle Definitions](https://docs.adobe.com/content/help/en/experience-manager-65/deploying/deploying/update-release-vehicle-definitions.html)
+>* [AEM Update Release Vehicle Definitions](/help/update-release-vehicle-definitions.md)

@@ -33,7 +33,7 @@ AEM as a Cloud Service follows a monthly release cadence. As a result, new featu
 
 The monthly release notes also includes a What's New section categorized by component names.
 
-For more information on the previous AEM as a Cloud Service releases, see [Release Notes for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html). Expand the [!UICONTROL Release Notes] option from the list of topics to view release notes for the monthly versions released this year.
+For more information on the previous AEM as a Cloud Service releases, see [Release Notes for AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html). Expand the [!UICONTROL Release Notes] option from the list of topics to view release notes for the monthly versions released this year.
 
 ## AEM on-premise and managed services {#aem-on-prem-managed-services}
 
@@ -56,14 +56,14 @@ AEM 6.5 product updates are delivered through quarterly service packs. These inc
    <td>Service Pack</td>
   </tr>
    <tr>
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/release-notes.html" target="_blank">AEM 6.5</a></p></td>
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html" target="_blank">AEM 6.5</a></p></td>
    <td>6.5</td>
    <td>Main Release</td>
   </tr>  
  </tbody>
 </table>
 
-For the list of features introduced in AEM 6.5 Service Packs, see [What's New](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html).
+For the list of features introduced in AEM 6.5 Service Packs, see [What's New](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html).
 
 ### AEM 6.4 {#aem-64}
 
@@ -82,12 +82,12 @@ AEM 6.4 product updates are delivered through quarterly CFPs. These include bug 
    <td>Cumulative Fix Pack</td>
   </tr>
    <tr>
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 8</a></p></td>
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 8</a></p></td>
    <td>6.4.8.0</td>
    <td>Service Pack</td>
   </tr>
   <tr>
-   <td><p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/release-notes.html">AEM 6.4</a></p></td>
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html">AEM 6.4</a></p></td>
    <td>6.4</td>
    <td>Main Release</td>
   </tr>  
