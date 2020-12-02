@@ -14,60 +14,15 @@ This document includes details about the various types of [!DNL Adobe Experience
 
 ## Full Release {#full-release}
 
-<table>
- <tbody>
-  <tr>
-   <td><strong>Definition</strong></td>
-   <td>
-    <ul>
-     <li>Scheduled release</li>
-     <li>Supports upgrade paths for specific versions, which is defined in the release notes</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Naming</strong></td>
-   <td>
-    <ul>
-     <li>Version numbers for major releases increase based on the formula X+1.Y.Z. </li>
-     <li>Version numbers for minor releases increase based on the formula X.Y+1.Z</li>
-    </ul> <p>Where X is the primary version number, Y is the secondary version number, and Z the patch number.</p> </td>
-  </tr>
-  <tr>
-   <td><strong>Inclusions</strong></td>
-   <td>
-    <ul>
-     <li>New features</li>
-     <li>Improvements</li>
-     <li>Bug fixes</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Documentation</strong></td>
-   <td>
-    <ul>
-     <li>Release notes are available on the documentation portal</li>
-     <li>Documentation on features, improvements, and bug fixes are available on the documentation portal</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Cadence</strong></td>
-   <td>Yearly</td>
-  </tr>
-  <tr>
-   <td><strong>Availability and Installation</strong></td>
-   <td>
-    <ul>
-     <li>Delivered as a standalone product installer</li>
-     <li>Available from Licensing Website and Managed Services Licensing Website</li>
-     <li>May require content repository migration</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Level of Testing</strong></td>
-   <td>Fully validated by QA</td>
-  </tr>
- </tbody>
-</table>
+| Items | Description|
+|-------|------|
+| Definition  | <ul> <li> Scheduled release </li> <li> Supports upgrade paths for specific versions, which is defined in the release notes </li> </ul> |
+| Naming | <ul> <li> Version numbers for major releases increase based on the formula X+1.Y.Z. </li> <li> Version numbers for minor releases increase based on the formula X.Y+1.Z </li> </ul> Where X is the primary version number, Y is the secondary version number, and Z the patch number. |
+| Inclusions  | <ul> <li> New features </li> <li>  Improvements </li> <li>  Bug fixes </li> </ul> |
+| Documentation | <ul> <li> Release notes are available on the documentation portal </li> <li> Documentation on features, improvements, and bug fixes are available on the documentation portal </li> </ul> |
+| Cadence  | Yearly |
+| Availability and Installation | <ul> <li> Delivered as a standalone product installer </li> <li>  Available from Licensing Website and Managed Services </li> <li> Licensing Website May require content repository migration </li> </ul> |
+| Level of Testing | Fully validated by QA |
 
 ## Service Pack {#service-pack}
 
