@@ -50,91 +50,25 @@ This document includes details about the various types of [!DNL Adobe Experience
 
 ## Overlay {#overlay}
 
-<table>
- <tbody>
-  <tr>
-   <td><strong>Definition</strong></td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Naming</strong></td>
-   <td>overlay-&lt;ticket ID&gt;</td>
-  </tr>
-  <tr>
-   <td><strong>Inclusions</strong></td>
-   <td>Bug fix for a JS or JSP file</td>
-  </tr>
-  <tr>
-   <td><strong>Documentation</strong></td>
-   <td>None</td>
-  </tr>
-  <tr>
-   <td><strong>Cadence</strong></td>
-   <td>As necessary</td>
-  </tr>
-  <tr>
-   <td><strong>Availability and Installation</strong></td>
-   <td>
-    <ul>
-     <li>Delivered as package by AEM Customer Care</li>
-     <li>Not necessarily included in service packs or full releases</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Level of Testing</strong></td>
-   <td>Validated by Customer Care</td>
-  </tr>
- </tbody>
-</table>
+| Item   | Details |
+|-------|--------|
+| Naming  | overlay-<ticket ID> |
+| Inclusions | Bug fix for a JS or JSP file |
+| Documentation  | None |
+| Cadence   | As necessary  |
+| Availability and Installation | <ul> <li> Delivered as package by AEM Customer Care  </li> <li> Not necessarily included in service packs or full releases </li> </ul> |
+| Level of Testing  | Validated by Customer Care |
 
 ## Feature Pack {#feature-pack}
 
-<table>
- <tbody>
-  <tr>
-   <td><strong>Definition</strong></td>
-   <td>
-    <ul>
-     <li>Feature Packs are add-on functionalities and are delivered via Service Packs. If an AEM version has released its last service pack, Adobe will not deliver any feature pack for it in future.</li>
-     <li>FPs contain product enhancements, scheduled for a subsequent product release, but delivered early based on the decision of [!DNL Adobe's] Product Management.</li>
-     <li>Features are always merged with the next major release and then ported to the AEM version required by the customer</li>
-     <li>Common Interest and GA feature packs are merged into the next service pack</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Naming</strong></td>
-   <td>cq-&lt;Release Version&gt;-featurepack-&lt;feature pack ID&gt;-&lt;feature pack version&gt;</td>
-  </tr>
-  <tr>
-   <td><strong>Inclusions</strong></td>
-   <td>
-    <ul>
-     <li>New features</li>
-     <li>Improvements</li>
-     <li>Bug fixes (incremental product updates)</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Documentation</strong></td>
-   <td>Documentation is available on helpx.adobe.com.</td>
-  </tr>
-  <tr>
-   <td><strong>Cadence</strong></td>
-   <td>Varies with Product area</td>
-  </tr>
-  <tr>
-   <td><strong>Availability and Installation</strong></td>
-   <td>
-    <ul>
-     <li>Delivered via Service Packs</li>
-     <li>Available on Software Distribution. Customers accept [!DNL Adobe's] Terms and Conditions through Software Distribution.</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Level of Testing</strong></td>
-   <td>General Availability feature packs are QA validated</td>
-  </tr>
- </tbody>
-</table>
+|Items | Details |
+|--------|-----|
+| Definition | <ul> <li>Feature Packs are add-on functionalities and are delivered via Service Packs. If an AEM version has released its last service pack, Adobe will not deliver any feature pack for it in future. </li> <li> FPs contain product enhancements, scheduled for a subsequent product release, but delivered early based on the decision of [!DNL Adobe's] Product Management.</li> <li>  Features are always merged with the next major release and then ported to the AEM version required by the customer </li> <li>  Common Interest and GA feature packs are merged into the next service pack  </li> </ul> |
+| Naming | cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version> |
+| Inclusions | <ul> <li> New features </li> <li> Improvements </li> <li> Bug fixes (incremental product updates) </li> </ul>|
+| Documentation | Documentation is available on adobe.com. |
+| Cadence | Varies with Product area |
+| Availability and Installation | <ul> <li>Delivered via Service Packs </li> <li> Available on Software Distribution. Customers accept [!DNL Adobe's] Terms and Conditions through Software Distribution. </li> </ul> |
+| Level of Testing | General Availability feature packs are QA validated. |
 
 * 1: OAK fixes are not delivered as individual hot fixes. However, they are included in the subsequent Cumulative Oak hot fix. If necessary, a diagnostic build on top of the latest COFP can be made available. The precondition is that the customer has the latest COFP running. Diagnostic builds only provide the same level quality assurance as a hot fix. Therefore, they don't provide the same level of quality assurance as a cumulative fix pack, service pack, or product release. The final fix is delivered with the next CFP.
