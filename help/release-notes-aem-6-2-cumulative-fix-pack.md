@@ -34,7 +34,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 is the last Cumulative Fix Pack for AEM 6.
 
 >[!NOTE]
 >
->* A new Sling `discovery-  api` bundle  Johnzon  1.0.0 is included with AEM Cumulative Fix Pack 6.2 SP1-CFP10. In addition, a service user sling-discovery is added with  Read  and Write privileges for the node */var/discovery* in the CRX repository.
+>* A new Sling `discovery-  api` bundle Johnzon 1.0.0 is included with AEM Cumulative Fix Pack 6.2 SP1-CFP10. In addition, a service user sling-discovery is added with  Read  and Write privileges for the node */var/discovery* in the CRX repository.
 >
 >* Email bundle of apache commons **org.apache.commons/commons-email/1.5** has been added replacing **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
 >
@@ -49,7 +49,7 @@ In addition, this CFP includes hotfixes delivered in [previous cumulative fix pa
 
 ### Integration {#integration}
 
-* Backporting multiple Campaign Taregting personalization improvements. NPR-29163: Hotfix for CQ-4264126
+* Backporting multiple Campaign Targeting personalization improvements. NPR-29163: Hotfix for CQ-4264126
 * com.day.cq.personalization.impl.TeaserResourceEventHandler goes into an infinite loop and causes updates to nodes on publish instances. NPR-28561: Hotfix for CQ-4263096
 
 ### DAM - General {#dam-general}
@@ -194,7 +194,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Migrate context hub to jquery 3. NPR-26956: Hotfix for CQ-4255472
 * Anchor input fields appear out of the browsers visible section on the dialog until maximized. NPR-26852: Hotfix for CQ-4255019
 * Copy paste of text inserting unwanted &lt;br&gt; in the Content fragment. NPR-26660: Hotfix for CRTE-151
-* Classic  siteadmin  does not render the list in the right pane for some pages. NPR-27247: Hotfix for CQ-4251621
+* Classic siteadmin does not render the list in the right pane for some pages. NPR-27247: Hotfix for CQ-4251621
 * (Classic UI) Attempts to move/rename pages generates an error, “An error occurred while moving page.” NPR-27179: Hotfix for CQ-4235907
 
 ### Integration {#integration-2}
@@ -263,7 +263,7 @@ The key highlights of this Cumulative Fix Pack are:
 * (External Link Checker) Invalid https links are shown as valid links. NPR-25541: Hotfix for CQ-4201333
 * (Classic UI) When creating a standalone page under a live copy, the page is created as a live copy. NPR-25610: Hotfix for CQ-4249801
 * Issues with publishing resources associated with the Design Importer component when a page is activated. NPR-25638: Hotfix for CQ-102532
-* RTE richtext toolbar covers select list. NPR-25165: Hotfix for CQ-4248948
+* RTE rich text toolbar covers select list. NPR-25165: Hotfix for CQ-4248948
 * Migrate contexthub to jquery 3. NPR-25059: Hotfix for Granite-19902
 * For a nested parsys components, always the first (with least nested path) satisfying design is applied from multiple available components. For more information, see [Design Path Resolution](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-static.html). NPR-25250: Hotfix for CQ-4246276
 
@@ -425,7 +425,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 #### Adaptive Forms {#adaptive-forms-3}
 
-* “Guidelib is not defiend” error while adding AEM form to parsys component. NPR-24269: Hotfix for CQ-4244546
+* “Guidelib is not defined” error while adding AEM form to parsys component. NPR-24269: Hotfix for CQ-4244546
 
 ### Forms JEE Installer {#forms-jee-installer-4}
 
@@ -482,7 +482,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Saving the segment with a huge value (10000000000) sets the boost to 0 causing error message. NPR-22524: Hotfix for CQ-4237006
 * Unable to click on Add item in Multifield component. NPR-22552: Hotfix for CQ-4237404
 * The horizontal scrollbar is not visible when segment has a long title. NPR-22615: Hotfix for CQ-4237001
-* Loading of an empty audience generates an incorrect javascript code. NPR-22974: Hotfix for CQ-4238734
+* Loading of an empty audience generates an incorrect JavaScript code. NPR-22974: Hotfix for CQ-4238734
 * When scheduling an activation or deactivation the workflow title is mandatory, hence, the custom workflow title is not translated in the timeline. NPR-23121: Hotfix for CQ-4237552
 * Request for fixes to issues around Target segments in Sites. NPR-23128
 * (Firefox) Checkbox for selected persona is not the correct one. NPR-23345
@@ -572,7 +572,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Improved editability of metadata properties of assets.
 * Re-configured the Password Expiration Notification job for assets already in expired state.
 * Customized Touch UI console to extend additional locales. 
-* Updated cq-msm-core for efficient Livecopyindex synchronisation. 
+* Updated cq-msm-core for efficient Livecopyindex synchronization. 
 * Streamlined replication functionality to various Rollouts.
 
 ### Assets {#assets-5}
@@ -702,7 +702,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Platform {#platform-4}
 
-* Performance issues with user sychronisation when number of users or groups is large. NPR-20431: Hotfix for CQ-4223282
+* Performance issues with user sychronization when number of users or groups is large. NPR-20431: Hotfix for CQ-4223282
 * Users not synced with User Synchronization using Sling Distribution. NPR-21911: Hotfix for Granite-20404
 * Preventing stop words from being highlighted in search excerpts (on a Geometrixx page). NPR-21835: Hotfix for Granite-21067   
   Note: This fix requires the Oak CFP 1.4.20 or higher.
@@ -1231,7 +1231,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Behavior change in displaying titles on Image card for Image having dc: title property set to String [] (multifield).
 * Fixes in Performance Issue with Dynamic Media Cloud Services, Touch UI & Security UI interfaces.
 * Fixes in Apache Felix Http Bridge 3.0.8
-* Resolved Binaryless replication(BLR) b/w author & publish environment.
+* Resolved binary-less replication (BLR) between author & publish environment.
 * Support for target Library file, AT.JS, an implementation library for client-side integration with Adobe Target designed for both typical web implementations and single-page applications.
 * Improved AEM performance by introducing user configurable connection timeout period for Marketing Cloud solutions (Analytics, DTM, Target and S&P).
 

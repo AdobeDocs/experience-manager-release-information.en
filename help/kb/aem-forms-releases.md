@@ -339,7 +339,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
      <li>AEM Workbench <sup>[1]</sup></li> 
      <li>AEM Designer Installer <sup>[1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>5.0.86</strong></p> <p>Cental Migration Bridge package:<strong> 6.0.18</strong></p> <p>AEM Websphere Global Security Configuration Package:<strong> 1.0.0</strong></p> <p>AEM Forms Compatibility Package:<strong> 1.0.18</strong></p> <p>AEM Forms App Source code:<strong> 4.0.30</strong></p> </td> 
+   <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>5.0.86</strong></p> <p>Central Migration Bridge package:<strong> 6.0.18</strong></p> <p>AEM Websphere Global Security Configuration Package:<strong> 1.0.0</strong></p> <p>AEM Forms Compatibility Package:<strong> 1.0.18</strong></p> <p>AEM Forms App Source code:<strong> 4.0.30</strong></p> </td> 
   </tr> 
  </tbody> 
 </table>
