@@ -1,27 +1,27 @@
 ---
-title: Adobe Experience Manager Release Updates and Roadmap
-description: AEM Release Updates and Roadmap
+title: [!DNL Adobe Experience Manager] Release Updates and Roadmap
+description: [!DNL Adobe Experience Manager] Release Updates and Roadmap
 ---
 
 # Adobe Experience Manager Release Updates and Roadmap
 
-This guide covers information about AEM releases roadmap, previous release updates, and documentation updates.
+This guide covers information about [!DNL Adobe Experience Manager] releases roadmap, previous release updates, and documentation updates.
 
-* [AEM releases updates](aem-releases-updates.md)
-* [AEM releases roadmap](update-releases-roadmap.md)
-* [AEM release vehicle definitions](update-release-vehicle-definitions.md)
+* [[!DNL Experience Manager] releases updates](aem-releases-updates.md)
+* [[!DNL Experience Manager] releases roadmap](update-releases-roadmap.md)
+* [[!DNL Experience Manager] release vehicle definitions](update-release-vehicle-definitions.md)
 
 ## Previous release updates
 
-* [Release Notes: AEM 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [Release Notes: AEM 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
+* [Release Notes: [!DNL Experience Manager] 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
+* [Release Notes: [!DNL Experience Manager] 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
 
-## AEM Forms release updates
+## [!DNL Experience Manager] Forms release updates
 
-* [AEM Forms releases](kb/aem-forms-releases.md)
-* [Installing Cumulative Fix Packs on AEM Forms JEE](install-cfp-aem-forms-jee.md)
+* [[!DNL Experience Manager] Forms releases](kb/aem-forms-releases.md)
+* [Installing Cumulative Fix Packs on [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Documentation updates
 
-* [AEM documentation: Recent documentation updates](documentation-updates.md)
+* [[!DNL Experience Manager] documentation: Recent documentation updates](documentation-updates.md)
 * [Previous documentation updates](previous-documentation-updates.md)

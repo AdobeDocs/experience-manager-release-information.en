@@ -5,7 +5,7 @@ solution-hub-url: https://helpx.adobe.com/support/experience-manager.html
 getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/experience-manager/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.en
 index: yes
 ---
