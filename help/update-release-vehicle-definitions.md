@@ -52,7 +52,7 @@ This document includes details about the various types of [!DNL Adobe Experience
 
 | Item   | Details |
 |-------|--------|
-| Naming  | overlay-<ticket ID> |
+| Naming  | overlay-&lt;ticket ID&gt; |
 | Inclusions | Bug fix for a JS or JSP file |
 | Documentation  | None |
 | Cadence   | As necessary  |
