@@ -120,7 +120,7 @@ In order to Install a legacy documentation package you must have AEM installed a
 
 1. On the confirmation dialog select **[!UICONTROL Install]** again. Note: the installation will take a few minutes.
 
-1. In a web browser, launch the documentaiton page. Using the AEM 5.6.1 example the URL would be: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. In a web browser, launch the documentation page. Using the AEM 5.6.1 example the URL would be: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Get help from our AEM community team {#get-help-from-aem-community}
 
