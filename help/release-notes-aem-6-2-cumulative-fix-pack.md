@@ -5,6 +5,9 @@ description: null
 
 # AEM 6.2 Cumulative Fix Pack Release Notes{#release-notes-aem-cumulative-fix-pack}
 
+<!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
+-->
+
 ## Release information {#release-information}
 
 | **Product** |Adobe Experience Manager |
@@ -655,7 +658,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 #### Install LCM {#install-lcm}
 
-* Update Jsafe Jars to Cryptoj 6.1.3.1 in installer & LCM. NPR-22744
+* Update Jsafe Jars to Cryptoj 6.1.3.1 in installer and LCM. NPR-22744
 
 ### Feature Packs Included {#feature-packs-included}
 

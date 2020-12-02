@@ -1,9 +1,9 @@
 ---
-title: Older versions of AEM, CQ & CRX
+title: Older versions of AEM, CQ, and CRX
 description: Documentation packages for older versions of Adobe Experience Manager, CQ and CRX.
 ---
 
-# Older versions of AEM, CQ & CRX {#older-versions-aem-cq-crx}
+# Older versions of AEM, CQ, and CRX {#older-versions-aem-cq-crx}
 
 ## Older versions of AEM documentation {#older-version-aem-documentation}
 

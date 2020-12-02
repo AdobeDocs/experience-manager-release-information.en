@@ -1,16 +1,16 @@
 ---
 title: Update Release Vehicle Definitions
-description: This article details the various types of AEM releases, including full releases, feature packs, and services packs.
+description: This article details the various types of [!DNL Experience Manager] releases, including full releases, feature packs, and services packs.
 contentOwner: AK
 ---
 
-# AEM update release vehicle definitions {#update-release-vehicle-definitions}
+# [!DNL Experience Manager] update release vehicle definitions {#update-release-vehicle-definitions}
 
-This document includes details about the various types of [!DNL Adobe Experience Manager] (AEM) releases, including full releases, feature packs, and services packs that [!DNL Adobe] delivers to its customers.
+This document includes details about the various types of [!DNL Adobe Experience Manager] releases, including full releases, feature packs, and services packs that [!DNL Adobe] delivers to its customers.
 
 >[!NOTE]
 >
->For release schedule of AEM update releases, refer to [AEM update releases roadmap](update-releases-roadmap.md)
+>For release schedule of [!DNL Experience Manager] update releases, refer to [[!DNL Experience Manager] update releases roadmap](update-releases-roadmap.md)
 
 ## Full Release {#full-release}
 
@@ -56,14 +56,14 @@ This document includes details about the various types of [!DNL Adobe Experience
 | Inclusions | Bug fix for a JS or JSP file |
 | Documentation  | None |
 | Cadence   | As necessary  |
-| Availability and Installation | <ul> <li> Delivered as package by AEM Customer Care  </li> <li> Not necessarily included in service packs or full releases </li> </ul> |
+| Availability and Installation | <ul> <li> Delivered as package by [!DNL Experience Manager] Customer Care  </li> <li> Not necessarily included in service packs or full releases </li> </ul> |
 | Level of Testing  | Validated by Customer Care |
 
 ## Feature Pack {#feature-pack}
 
 |Items | Details |
 |--------|-----|
-| Definition | <ul> <li>Feature Packs are add-on functionalities and are delivered via Service Packs. If an AEM version has released its last service pack, Adobe will not deliver any feature pack for it in future. </li> <li> FPs contain product enhancements, scheduled for a subsequent product release, but delivered early based on the decision of [!DNL Adobe's] Product Management.</li> <li>  Features are always merged with the next major release and then ported to the AEM version required by the customer </li> <li>  Common Interest and GA feature packs are merged into the next service pack  </li> </ul> |
+| Definition | <ul> <li>Feature Packs are add-on functionalities and are delivered via Service Packs. If an [!DNL Experience Manager] version has released its last service pack, Adobe will not deliver any feature pack for it in future. </li> <li> FPs contain product enhancements, scheduled for a subsequent product release, but delivered early based on the decision of [!DNL Adobe's] Product Management.</li> <li>  Features are always merged with the next major release and then ported to the [!DNL Experience Manager] version required by the customer </li> <li>  Common Interest and GA feature packs are merged into the next service pack  </li> </ul> |
 | Naming | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | Inclusions | <ul> <li> New features </li> <li> Improvements </li> <li> Bug fixes (incremental product updates) </li> </ul>|
 | Documentation | Documentation is available on adobe.com. |
