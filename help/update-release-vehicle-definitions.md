@@ -37,6 +37,7 @@ This document includes details about the various types of [!DNL Adobe Experience
 | Level of Testing  | <ul> <li> All fixes QA validated </li> <li>  Overall package sanity with automation runs </li> </ul>|
 
 ## Cumulative Fix Pack  {#cumulative-fix-pack-aem}
+
 |Item | Description |
 |-----|-----|
 | Definition | <ul> <li> Single delivery model of releasing fixes </li> <li> Aggregator content package containing content package of individual components </li> <li>  CFPs are rollover of hot fixes and no improvements are part of it.  </li> </ul> |
