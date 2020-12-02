@@ -37,51 +37,15 @@ This document includes details about the various types of [!DNL Adobe Experience
 | Level of Testing  | <ul> <li> All fixes QA validated </li> <li>  Overall package sanity with automation runs </li> </ul>|
 
 ## Cumulative Fix Pack  {#cumulative-fix-pack-aem}
-
-<table>
- <tbody>
-  <tr>
-   <td><strong>Definition</strong></td>
-   <td>
-    <ul>
-     <li>Single delivery model of releasing fixes</li>
-     <li>Aggregator content package containing content package of individual components</li>
-     <li>CFPs are rollover of hot fixes and no improvements are part of it.</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Naming</strong></td>
-   <td><p>X.Y.Z.CFPx</p> <p>Where X is the primary version number, Y is the secondary version number, and Z the patch number. x is the cumulative service pack number.</p> </td>
-  </tr>
-  <tr>
-   <td><strong>Inclusions</strong></td>
-   <td><p>CFP is cumulative fix pack containing fixes of all components through specified dates. For example, if a customer applies CFP3, then CFP3 = CFP1 + CFP2.</p> </td>
-  </tr>
-  <tr>
-   <td><strong>Documentation</strong></td>
-   <td>Release notes available on the documentation portal</td>
-  </tr>
-  <tr>
-   <td><strong>Cadence</strong></td>
-   <td>Quarterly</td>
-  </tr>
-  <tr>
-   <td><strong>Availability and Installation</strong></td>
-   <td>
-    <ul>
-     <li>Delivered as a package</li>
-     <li>Available on Software Distribution</li>
-     <li>Dependent on the latest service pack released</li>
-     <li>CFP is self-dependent. Customers need not worry about finding/resolving dependencies. CFP should be installed on latest released Service Pack.</li>
-     <li>CFP can be installed as a single package, which improves customer experience.</li>
-    </ul> </td>
-  </tr>
-  <tr>
-   <td><strong>Level of Testing</strong></td>
-   <td>QA validated at Integration level and regression testing</td>
-  </tr>
- </tbody>
-</table>
+|Item | Description |
+|-----|-----|
+| Definition | <ul> <li> Single delivery model of releasing fixes </li> <li> Aggregator content package containing content package of individual components </li> <li>  CFPs are rollover of hot fixes and no improvements are part of it.  </li> </ul> |
+| Naming | X.Y.Z.CFPx  <br> Where X is the primary version number, Y is the secondary version number, and Z the patch number. x is the cumulative service pack number. |
+| Inclusions | CFP is cumulative fix pack containing fixes of all components through specified dates. For example, if a customer applies CFP3, then CFP3 = CFP1 + CFP2. |
+| Documentation | Release notes available on the documentation portal |
+| Cadence  | Quarterly  |
+| Availability and Installation | <ul> <li> Delivered as a package </li> <li>  Available on Software Distribution </li> <li>  Dependent on the latest service pack released </li> <li>  CFP is self-dependent. Customers need not worry about finding/resolving dependencies. CFP should be installed on latest released Service Pack. </li> <li>  CFP can be installed as a single package, which improves customer experience.  </li> </ul> |
+| Level of Testing  | QA validated at Integration level and regression testing |
 
 ## Overlay {#overlay}
 
