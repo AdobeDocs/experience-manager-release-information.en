@@ -1,9 +1,9 @@
 ---
-title: Older versions of AEM, CQ & CRX
+title: Older versions of AEM, CQ, and CRX
 description: Documentation packages for older versions of Adobe Experience Manager, CQ and CRX.
 ---
 
-# Older versions of AEM, CQ & CRX {#older-versions-aem-cq-crx}
+# Older versions of AEM, CQ, and CRX {#older-versions-aem-cq-crx}
 
 ## Older versions of AEM documentation {#older-version-aem-documentation}
 
@@ -31,60 +31,19 @@ You will require a valid Adobe ID:
 * If you don't have an Adobe ID, you can create one at www.adobe.com
 If you need assistance creating or managing your Adobe ID, [please refer to this guide](https://helpx.adobe.com/manage-account.html)
 
-<table> 
- <tbody>
-  <tr>
-   <th>AEM Version</th> 
-   <th>Software Distribution Link</th>   
-  </tr>
-    <tr>
-   <td>AEM 6.1</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip">Download AEM-DOCS-6.1 from Software Distribution</a>
-   </td>   
-  </tr>
-  <tr>
-   <td>AEM 6.0</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip">Download AEM-DOCS-6.0 from Software Distribution</a>
-   </td>   
-  </tr>
-  <tr>
-   <td>AEM 5.6.1</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip">Download AEM-DOCS-5.6.1 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>AEM 5.6</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip">Download AEM-DOCS-5.6 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CQ 5.5</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip">Download CQ-DOCS-5.5 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CQ 5.4</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip">Download CQ-DOCS-5.4 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CQ 5.3</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip">Download CQ-DOCS-5.3 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.3</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip">Download CRX-DOCS-2.3 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.2</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip">Download CRX-DOCS-2.2 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.1</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip">Download CRX-DOCS-2.1 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.0</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip">Download CRX-DOCS-2.0 from Software Distribution</a></td>   
-  </tr>
- </tbody>
-</table>
+| AEM Version |             Software Distribution Link             |
+|:-----------:|:--------------------------------------------------:|
+| AEM 6.1     | [Download AEM-DOCS-6.1 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip)  |
+| AEM 6.0     | [Download AEM-DOCS-6.0 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip)  |
+| AEM 5.6.1   | [Download AEM-DOCS-5.6.1 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip)|
+| AEM 5.6     | [Download AEM-DOCS-5.6 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip)  |
+| CQ 5.5      | [Download CQ-DOCS-5.5 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip)   |
+| CQ 5.4      | [Download CQ-DOCS-5.4 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip)   |
+| CQ 5.3      | [Download CQ-DOCS-5.3 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip)   |
+| CRX 2.3     | [Download CRX-DOCS-2.3 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip)  |
+| CRX 2.2     | [Download CRX-DOCS-2.2 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip)  |
+| CRX 2.1     | [Download CRX-DOCS-2.1 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip)  |
+| CRX 2.0     | [Download CRX-DOCS-2.0 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip)  |
 
 ## How to install a documentation package {#how-to-install-documentation-package}
 

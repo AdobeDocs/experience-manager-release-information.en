@@ -95,7 +95,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>Sep 19, 2019</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> is available.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> is available.</td>
   </tr>
   <tr>
    <td>Sep 9, 2019</td> 
@@ -130,7 +130,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>Jul 25, 2019</td> 
    <td>AEM Assets functionality under difference licenses</td> 
-   <td><a href="https://docs.adobe.com/help/en/experience-manager-65/assets/administer/medialibrary.html" target="_blank">List of capabilities</a> of AEM Assets that are available in a stand-alone DAM license vs in AEM MediaLibrary are updated for AEM 6.5 release.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=en" target="_blank">List of capabilities</a> of AEM Assets that are available in a stand-alone DAM license vs in AEM MediaLibrary are updated for AEM 6.5 release.<br /> </td> 
   </tr>
   <tr>
    <td>Jul 12, 2019</td> 
@@ -140,7 +140,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>Jul 08, 2019</td> 
    <td>Migration to the Touch-Enabled UI</td> 
-   <td>Landing page listing information and resources for <a href="https://docs.adobe.com/help/en/experience-manager-65/developing/introduction/touch-ui-migration.html">migrating to the touch-enabled UI</a>.</td> 
+   <td>Landing page listing information and resources for <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=en#introduction">migrating to the touch-enabled UI</a>.</td> 
   </tr>
   <tr>
    <td>Jul 03, 2019</td> 
@@ -150,7 +150,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>Jul 03, 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>is available.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>is available.</td> 
   </tr>
   <tr>
    <td>Jun 25, 2019</td> 
@@ -306,13 +306,13 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>Feb 11, 2019</td> 
    <td>Collaborative Documentation<br /> </td> 
-   <td><p>The following AEM documentation sets have been migrated to a new <a href="https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html">collaborative documentation platform</a>.</p> 
+   <td><p>The following AEM documentation sets have been migrated to a new <a href="https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html">collaborative documentation platform</a>.</p> 
     <ul> 
-     <li><a href="https://docs.adobe.com/help/en/experience-manager-core-components/using/introduction.html">Core Components</a></li> 
-     <li><a href="https://docs.adobe.com/help/en/experience-manager-dispatcher/using/dispatcher.html">Dispatcher</a></li> 
-     <li><a href="https://docs.adobe.com/help/en/experience-manager-htl/using/overview.html">HTL</a></li> 
-     <li><a href="https://docs.adobe.com/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">Cloud Manager</a></li> 
-     <li><a href="https://docs.adobe.com/help/en/exc/using/overview.html">Adobe Experience Cloud Library</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html">Core Components</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html">Dispatcher</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html">HTL</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">Cloud Manager</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=en">Adobe Experience Cloud Library</a></li> 
     </ul> <p>The content is the same with some improvement in the presentation. More exciting is the new ability to contribute your documentation suggestions via pull requests or issues over GitHub via the <strong>Edit this page</strong> and <strong>Log an issue</strong> links on every page. We welcome your input!</p> </td> 
   </tr>
   <tr>
@@ -338,7 +338,7 @@ This page lists older important documentation changes and updates for Adobe Expe
   <tr>
    <td>December 17, 2018</td> 
    <td>Experience Fragments - Building Blocks</td> 
-   <td>You can select one or more components to <a href="https://docs.adobe.com/help/en/experience-manager-64/authoring/authoring/experience-fragments.html#building-blocks">create a building block for recycling within your Experience Fragment</a>.</td> 
+   <td>You can select one or more components to <a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/experience-fragments.html#authoring">create a building block for recycling within your Experience Fragment</a>.</td> 
   </tr>
   <tr>
    <td>December 11, 2018</td> 
@@ -546,9 +546,9 @@ This page lists older important documentation changes and updates for Adobe Expe
      <li>Coral UI Guide</li> 
      <li>Widgets API (Classic UI) Documentation</li> 
      <li>UI Test Framework</li> 
-     <li>Javascript API Reference</li> 
-     <li>Editor Core Javascript API Reference</li> 
-     <li>Single Page Applications Javascript API References</li> 
+     <li>JavaScript API Reference</li> 
+     <li>Editor Core JavaScript API Reference</li> 
+     <li>Single Page Applications JavaScript API References</li> 
     </ul> </td> 
   </tr>
   <tr>
@@ -943,8 +943,8 @@ The following versions were moved:
      <li>Coral UI Guide</li> 
      <li>Widgets API (Classic UI) Documentation</li> 
      <li>UI Test Framework</li> 
-     <li>Javascript API Reference</li> 
-     <li>Editor Core Javascript API Reference</li> 
+     <li>JavaScript API Reference</li> 
+     <li>Editor Core JavaScript API Reference</li> 
     </ul> </td> 
   </tr>
   <tr>

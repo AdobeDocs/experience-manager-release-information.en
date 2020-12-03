@@ -5,6 +5,9 @@ description: null
 
 # AEM 6.2 Cumulative Fix Pack Release Notes{#release-notes-aem-cumulative-fix-pack}
 
+<!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
+-->
+
 ## Release information {#release-information}
 
 | **Product** |Adobe Experience Manager |
@@ -655,7 +658,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 #### Install LCM {#install-lcm}
 
-* Update Jsafe Jars to Cryptoj 6.1.3.1 in installer & LCM. NPR-22744
+* Update Jsafe Jars to Cryptoj 6.1.3.1 in installer and LCM. NPR-22744
 
 ### Feature Packs Included {#feature-packs-included}
 
@@ -1735,7 +1738,7 @@ The key highlights of CFP3 are:
 * A race condition in the **ModelAdapterFactory**, which is possible when two threads try to inject the same field, results in failure to construct the model. NPR-16443: Hotfix for SLING-6584
 * Validation option in package manager to detect any conflicts between overlaid file (JSP or JavaScript file) under /apps and the one that contained in a Hotfix under /libs. Affected overlay can then be rebased to include changes from the file under /libs . NPR-16216: Hotfix for CQ-81729
 * Logging in the error.log sometimes stops a few seconds after starting the publisher and needs to be cleared to run again. Request to update the logging framework and provide Sling logging. NPR-15913: Hotfix for Granite-15452
-* Request to update the JavaScript " `use"` API to avoid failure in the HTL Javascript Use API implementation. NPR-16461: Hotfix for SLING-6780
+* Request to update the JavaScript " `use"` API to avoid failure in the HTL JavaScript Use API implementation. NPR-16461: Hotfix for SLING-6780
 
 ### Sites {#sites-16}
 
