@@ -1,14 +1,14 @@
 ---
 title: Previous Documentation Updates
-description: This page lists older important documentation changes and updates for Adobe Experience Manager.
+description: This page lists older important documentation changes and updates for [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 ---
 
 # Previous Documentation Updates{#previous-documentation-updates}
 
-This page lists older important documentation changes and updates for Adobe Experience Manager. You can view the [Recent Documentation Updates](documentation-updates.md) here.
+This page lists older important documentation changes and updates for [!DNL Adobe Experience Manager]. You can view the [Recent Documentation Updates](documentation-updates.md) here.
 
-## AEM 6.5 {#aem-65}
+## [!DNL Adobe Experience Manager] 6.5 {#aem-65}
 
 <table>
  <tbody>
@@ -229,7 +229,7 @@ This page lists older important documentation changes and updates for Adobe Expe
  </tbody>
 </table>
 
-## AEM 6.4 {#aem-64}
+## [!DNL Adobe Experience Manager] 6.4 {#aem-64}
 
 <table> 
  <tbody>
@@ -607,7 +607,7 @@ The following versions were moved:
  </tbody>
 </table>
 
-## AEM 6.3 {#aem-1}
+## [!DNL Adobe Experience Manager] 6.3 {#aem-1}
 
 <table> 
  <tbody>
@@ -955,7 +955,7 @@ The following versions were moved:
  </tbody>
 </table>
 
-## AEM 6.2 {#aem-2}
+## [!DNL Adobe Experience Manager] 6.2 {#aem-2}
 
 <table> 
  <tbody>
@@ -1286,7 +1286,7 @@ The following versions were moved:
  </tbody>
 </table>
 
-## AEM Assets {#aem-assets}
+## [!DNL Adobe Experience Manager Assets] {#aem-assets}
 
 <table> 
  <tbody>
@@ -1522,7 +1522,7 @@ The following versions were moved:
  </tbody>
 </table>
 
-## AEM Assets Brand Portal {#aem-assets-brand-portal}
+## [!DNL Adobe Experience Manager Assets Brand Portal] {#aem-assets-brand-portal}
 
 <table> 
  <tbody>
@@ -1650,7 +1650,7 @@ The following versions were moved:
  </tbody>
 </table>
 
-## AEM Desktop App {#aem-desktop-app}
+## [!DNL Adobe Experience Manager] desktop app {#aem-desktop-app}
 
 <table> 
  <tbody>
