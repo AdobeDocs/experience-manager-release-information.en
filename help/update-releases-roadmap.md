@@ -5,9 +5,7 @@ description: [!DNL Adobe Experience Manager] releases roadmap
 
 # [!DNL Experience Manager] releases roadmap {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for its [!DNL Cloud Service], Adobe Managed Services, and on-premise offerings.
-
-This article lists upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] and supported on-premise and managed services [!DNL Experience Manager] versions.
+[!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for users using [!DNL Cloud Service], Managed Services, and on-premise offerings of the product. This article lists the upcoming releases for [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -62,7 +60,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 >[!NOTE]
 >
->[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4, scheduled for a February 2021 release, is the last CFP for [!DNL Experience Manager] 6.4.
+>[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 is the last CFP for [!DNL Experience Manager] 6.4.
 
 >[!MORELIKETHIS]
 >
