@@ -59,6 +59,6 @@ For the list of features introduced, see [what is new in [!DNL Experience Manage
 <!-- TBD: This content will soon be archived and new links can move to aem-previous-versions.md article. See status in UGP-1894.
 -->
 
-* [Experience Manager 6.2 Service Pack 1 Cumulative Fix Pack 20]](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
+* [Experience Manager 6.2 Service Pack 1 Cumulative Fix Pack 20](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
 * [Experience Manager 6.2 Service Pack 1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)
 * [Experience Manager 6.2](https://helpx.adobe.com/experience-manager/6-2/release-notes.html)
