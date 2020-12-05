@@ -1930,7 +1930,7 @@ The Uber Jar for 6.3.3.8 is available at [Adobe Public Maven repository](https:/
 
 To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/ht-projects-maven.html) and include the following dependency in your project POM:
 
-```
+```TXT
 <dependency>
       <groupId>com.adobe.aem</groupId>
       <artifactId>uber-jar</artifactId>
@@ -1944,40 +1944,23 @@ To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](
 
 This section lists features and capabilities that have been removed or deprecated from AEM 6.3.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th scope="col">Area</th> 
-   <th scope="col">Feature</th> 
-   <th scope="col">Replacement</th> 
-   <th scope="col">Version</th> 
-  </tr> 
-  <tr> 
-   <td>Assets and Adobe Creative Cloud integration</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/creative-cloud.html" target="_blank">AEM to Creative Cloud folder sharing</a> was introduced in AEM 6.2 as a way to give creative users access to assets from AEM. A new capability released in Creative Cloud application, Adobe Asset Link, provides a much better user experience and more powerful access to assets from AEM directly from inside Photoshop, InDesign, and Illustrator.<br /> Adobe will not make further enhancements to the folder sharing capability. While the feature is included in AEM, customers are strongly advised to use the replacement.</td> 
-   <td>Adobe Asset Link or Desktop App. For more info, see <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html" target="_blank">AEM Creative Cloud integration</a> article.</td> 
-   <td>AEM 6.3.3.x<br /> </td> 
-  </tr> 
- </tbody> 
-</table>
+|Area| Feature | Replacement | Version |
+|----|-----|-----|-----|
+|Assets and Adobe Creative Cloud integration | [AEM to Creative Cloud folder sharing](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/creative-cloud.html) was introduced in AEM 6.2 as a way to give creative users access to assets from AEM. A new capability released in Creative Cloud application, Adobe Asset Link, provides a much better user experience and more powerful access to assets from AEM directly from inside Photoshop, InDesign, and Illustrator.<br /> Adobe will not make further enhancements to the folder sharing capability. While the feature is included in AEM, customers are strongly advised to use the replacement. | Adobe Asset Link or Desktop App. For more info, see [AEM Creative Cloud integration](https://helpx.adobe.com/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html) article.| AEM 6.3.3.x |
 
 ## OSGi bundles and Content Packages included {#osgi-bundles-and-content-packages-included-1}
 
-The following text documents list the OSGi bundles and Content Packages included in the CFP. 
+The following text documents list the OSGi bundles and Content Packages included in the CFP.
 
-List of OSGi bundles included in AEM 6.3.3.8
+* [List of OSGi bundles included in AEM 6.3.3.8](assets/list_of_osgi_bundlesincludedin6338.txt)
 
-[Get File](assets/list_of_osgi_bundlesincludedin6338.txt)
+* [List of Content Packages included in AEM 6.3.3.8](assets/list_of_content_packageincludedin6338.txt)
 
-List of Content Packages included in AEM 6.3.3.8
-
-[Get File](assets/list_of_content_packageincludedin6338.txt)
-
-## Helpful resources {#helpful-resources}
-
-* [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
-* [AEM 6.3 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem63-available-hotfixes.html)
-* [AEM 6.3 release notes](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
-* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
-* [AEM 6.3 documentation](https://docs.adobe.com/content/docs/en/aem/6-3.html)
-* Subscribe to [Adobe priority product updates](https://www.adobe.com/subscription/priority-product-update.html)
+>[!MORELIKETHIS]
+>
+>* [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
+>* [AEM 6.3 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem63-available-hotfixes.html)
+>* [AEM 6.3 release notes](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
+>* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
+>* [AEM 6.3 documentation](https://docs.adobe.com/content/docs/en/aem/6-3.html)
+>* Subscribe to [Adobe priority product updates](https://www.adobe.com/subscription/priority-product-update.html)

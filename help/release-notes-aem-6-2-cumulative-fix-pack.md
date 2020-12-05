@@ -2417,7 +2417,7 @@ The Uber Jar for 6.2 SP1-CFP20 is available at [Adobe Public Maven repository](h
 
 To use Uber Jar in a Maven project, include the following dependency in your project POM:
 
-```
+```XML
 <dependency>
     <groupId>com.adobe.aem</groupId>
     <artifactId>uber-jar</artifactId>
@@ -2431,19 +2431,14 @@ To use Uber Jar in a Maven project, include the following dependency in your pro
 
 The following text documents the list of OSGI bundles and content packages included in the CFP.
 
-List of OSGi bundles included in AEM 6.2 SP1-CFP20
+* [List of OSGi bundles included in AEM 6.2 SP1-CFP20](assets/updated.txt)
+* [List of Content Packages included in AEM 6.2SP1-CFP20](assets/content_package_comparison_result.txt)
 
-[Get File](assets/updated.txt)
-
-List of Content Packages included in AEM 6.2SP1-CFP20
-
-[Get File](assets/content_package_comparison_result.txt)
-
-## Helpful resources {#helpful-resources}
-
-* [AEM 6.2 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
-* [AEM 6.2 SP1 release notes](https://docs.adobe.com/content/docs/en/aem/6-2/release-notes/sp1.html)  
-* [AEM 6.2 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
-* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
-* [AEM 6.2 documentation](https://docs.adobe.com/content/docs/en/aem/6-2.html)
-* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
+>[!MORELIKETHIS]
+>
+>* [AEM 6.2 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
+>* [AEM 6.2 SP1 release notes](https://docs.adobe.com/content/docs/en/aem/6-2/release-notes/sp1.html)  
+>* [AEM 6.2 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
+>* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
+>* [AEM 6.2 documentation](https://docs.adobe.com/content/docs/en/aem/6-2.html)
+>* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)

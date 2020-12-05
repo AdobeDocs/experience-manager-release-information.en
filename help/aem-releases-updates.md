@@ -20,7 +20,7 @@ This article lists the latest release for each release category and directs you 
 
 * [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
 
-The monthly release notes also includes a what is new section categorized by component names. For more information on the previous Experience Manager as a [!DNL Cloud Service] releases, see [all release notes for Experience Manager as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html).
+The monthly release notes also includes a what is new section categorized by component names. For more information on the previous [!DNL Experience Manager]as a [!DNL Cloud Service] releases, see [all release notes for [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html).
 
 ## [!DNL Experience Manager] on-premise and managed services {#aem-on-prem-managed-services}
 
@@ -59,27 +59,6 @@ For the list of features introduced, see [what is new in [!DNL Experience Manage
 <!-- TBD: This content will soon be archived and new links can move to aem-previous-versions.md article. See status in UGP-1894.
 -->
 
-<table>
- <tbody>
-  <tr>
-   <td><b>Release</b></td>
-   <td><b>Version</b></td>
-   <td><b>Type</b></td>
-  </tr>
-   <tr>
-   <td><p><a href="https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html" target="_blank">Experience Manager 6.2 Service Pack 1 Cumulative Fix Pack 20</a></p></td>
-   <td>6.2.1.20</td>
-   <td>Cumulative Fix Pack</td>
-  </tr>
-   <tr>
-   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html" target="_blank">Experience Manager 6.2 Service Pack 1</a></p></td>
-   <td>6.2.1.0</td>
-   <td>Service Pack</td>
-  </tr>
-  <tr>
-   <td><p><a href="https://helpx.adobe.com/experience-manager/6-2/release-notes.html">Experience Manager 6.2</a></p></td>
-   <td>6.2</td>
-   <td>Main Release</td>
-  </tr>  
- </tbody>
-</table>
+* [Experience Manager 6.2 Service Pack 1 Cumulative Fix Pack 20](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
+* [Experience Manager 6.2 Service Pack 1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html)
+* [Experience Manager 6.2](https://helpx.adobe.com/experience-manager/6-2/release-notes.html)
