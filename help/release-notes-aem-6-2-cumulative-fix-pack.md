@@ -168,11 +168,11 @@ The following text documents the list of OSGI bundles and content packages inclu
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP19
 
-[Get File](assets/cfp19_osgi_bundles.txt)
+[Get File](assets/do-not-localize/cfp19_osgi_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP19
 
-[Get File](assets/cfp19_content_packages.txt)
+[Get File](assets/do-not-localize/cfp19_content_packages.txt)
 
 ### Cumulative Fix Pack 18 {#cumulative-fix-pack-2}
 
@@ -236,11 +236,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP18
 
-[Get File](assets/62cfp18updated_bundles.txt)
+[Get File](assets/do-not-localize/62cfp18updated_bundles.txt)
 
 List of content packages included in AEM 6.2 SP1-CFP18
 
-[Get File](assets/content_package_62sp1_cfp18.txt)
+[Get File](assets/do-not-localize/content_package_62sp1_cfp18.txt)
 
 ### Cumulative Fix Pack 17 {#cumulative-fix-pack-3}
 
@@ -328,11 +328,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP17
 
-[Get File](assets/62cfp17updated_bundles.txt)
+[Get File](assets/do-not-localize/62cfp17updated_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP17
 
-[Get File](assets/content_package_62sp1_cfp17_2.txt)
+[Get File](assets/do-not-localize/content_package_62sp1_cfp17_2.txt)
 
 ### Cumulative Fix Pack 16 {#cumulative-fix-pack-4}
 
@@ -440,11 +440,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP16
 
-[Get File](assets/6_2cfp16_bundlecomparison-list.txt)
+[Get File](assets/do-not-localize/6_2cfp16_bundlecomparison-list.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP16
 
-[Get File](assets/6_2cfp16_contentpackage-list.txt)
+[Get File](assets/do-not-localize/6_2cfp16_contentpackage-list.txt)
 
 ### Cumulative Fix Pack 15 {#cumulative-fix-pack-5}
 
@@ -560,11 +560,11 @@ The following text documents the list of OSGI bundles and content packages inclu
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP15
 
-[Get File](assets/6_2cfp15updated_bundles.txt)
+[Get File](assets/do-not-localize/6_2cfp15updated_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP15
 
-[Get File](assets/6_2_cfp15contentpackage-list.txt)
+[Get File](assets/do-not-localize/6_2_cfp15contentpackage-list.txt)
 
 ### Cumulative Fix Pack 14 {#cumulative-fix-pack-6}
 
@@ -670,11 +670,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP14
 
-[Get File](assets/6_2cfp14updated_bundles.txt)
+[Get File](assets/do-not-localize/6_2cfp14updated_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP14
 
-[Get File](assets/6_2_cfp14contentpackage-list.txt)
+[Get File](assets/do-not-localize/6_2_cfp14contentpackage-list.txt)
 AEM Cumulative Fix Pack 6.2 SP1-CFP13 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
 The key highlights of this Cumulative Fix Pack are:
@@ -748,11 +748,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP13
 
-[Get File](assets/cfp13_bundlecompare-list.txt)
+[Get File](assets/do-not-localize/cfp13_bundlecompare-list.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP13
 
-[Get File](assets/cfp13_contentpackage-list.txt)
+[Get File](assets/do-not-localize/cfp13_contentpackage-list.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP12.1 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -854,11 +854,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP12.1
 
-[Get File](assets/cfp12_bundlecomparsion-list1.txt)
+[Get File](assets/do-not-localize/cfp12_bundlecomparsion-list1.txt)
 
 List of Content Packages included in AEM 6.2 SP1-CFP12.1
 
-[Get File](assets/cfp12_contentpackage-list.txt)
+[Get File](assets/do-not-localize/cfp12_contentpackage-list.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP11 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -959,11 +959,11 @@ The key highlights for AEM Forms are:
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP11
 
-[Get File](assets/cfp11_bundlecomparsion-list.txt)
+[Get File](assets/do-not-localize/cfp11_bundlecomparsion-list.txt)
 
 List of Content Packages included in AEM 6.2 SP1-CFP11
 
-[Get File](assets/cfp11_contentpackage-list.txt)
+[Get File](assets/do-not-localize/cfp11_contentpackage-list.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP10 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1041,11 +1041,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM CFP 6.2 SP1-CFP10
 
-[Get File](assets/bundle-list-cfp10.txt)
+[Get File](assets/do-not-localize/bundle-list-cfp10.txt)
 
 List of Content Packages included in AEM CFP 6.2 SP1-CFP10
 
-[Get File](assets/contentpackage-list-cfp10.txt)
+[Get File](assets/do-not-localize/contentpackage-list-cfp10.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP9 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1124,11 +1124,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of content packages updated in AEM 6.2SP1-CFP9
 
-[Get File](assets/content_package-list62sp1-cfp9.txt)
+[Get File](assets/do-not-localize/content_package-list62sp1-cfp9.txt)
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP9
 
-[Get File](assets/content_package-list62sp1-cfp9-1.txt)
+[Get File](assets/do-not-localize/content_package-list62sp1-cfp9-1.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP8 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1221,11 +1221,11 @@ The key highlights of this Cumulative Fix Pack are:
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP8
 
-[Get File](assets/updated-bundles-list-cfp8.txt)
+[Get File](assets/do-not-localize/updated-bundles-list-cfp8.txt)
 
 List of content packages updated in AEM 6.2SP1-CFP8
 
-[Get File](assets/6_2sp1-cfp8-contentpackagelist.txt)
+[Get File](assets/do-not-localize/6_2sp1-cfp8-contentpackagelist.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP7 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1338,11 +1338,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP7
 
-[Get File](assets/bundle-list-6_2sp1cfp7.txt)
+[Get File](assets/do-not-localize/bundle-list-6_2sp1cfp7.txt)
 
 List of content packages updated in AEM 6.2SP1-CFP7
 
-[Get File](assets/cfp7_content_packages.txt)
+[Get File](assets/do-not-localize/cfp7_content_packages.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP6 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1442,11 +1442,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP6
 
-[Get File](assets/6.2sp1-cfp6-bundlelist.txt)
+[Get File](assets/do-not-localize/6.2sp1-cfp6-bundlelist.txt)
 
 List of content packages updated in AEM 6.2SP1-CFP6
 
-[Get File](assets/6_2sp1-cfp6-contentpackagelist.txt)
+[Get File](assets/do-not-localize/6_2sp1-cfp6-contentpackagelist.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP5 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1563,11 +1563,11 @@ Correspondence Management
 
 List of OSGi bundles updated between AEM6.2 SP1-CFP5
 
-[Get File](assets/cfp5_osgi_bundles.txt)
+[Get File](assets/do-not-localize/cfp5_osgi_bundles.txt)
 
 List of content packages updated between AEM6.2 SP1-CFP5
 
-[Get File](assets/content-package-cfp5.txt)
+[Get File](assets/do-not-localize/content-package-cfp5.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP4 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1845,7 +1845,7 @@ The key highlights of CFP3 are:
 
 List of OSGi bundles updated between AEM 6.2 SP1 and CFP3
 
-[Get File](assets/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)
+[Get File](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)
 The key highlights of Cumulative Fix Pack 2 are:
 
 * Stability fixes and performance improvements in AEM platform, including Sling framework and operations
@@ -2431,8 +2431,8 @@ To use Uber Jar in a Maven project, include the following dependency in your pro
 
 The following text documents the list of OSGI bundles and content packages included in the CFP.
 
-* [List of OSGi bundles included in AEM 6.2 SP1-CFP20](assets/updated.txt)
-* [List of Content Packages included in AEM 6.2SP1-CFP20](assets/content_package_comparison_result.txt)
+* [List of OSGi bundles included in AEM 6.2 SP1-CFP20](assets/do-not-localize/updated.txt)
+* [List of Content Packages included in AEM 6.2SP1-CFP20](assets/do-not-localize/content_package_comparison_result.txt)
 
 >[!MORELIKETHIS]
 >
