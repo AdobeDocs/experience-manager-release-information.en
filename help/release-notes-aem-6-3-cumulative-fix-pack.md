@@ -274,11 +274,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.3.3.5
 
-[Get File](assets/6_5-bundle-list.txt)
+[Get File](assets/do-not-localize/6_5-bundle-list.txt)
 
 List of Content Packages included in AEM 6.3.3.5
 
-[Get File](assets/content_packages6335.txt)
+[Get File](assets/do-not-localize/content_packages6335.txt)
 
 ### Cumulative Fix Pack 6.3.3.4 {#cumulative-fix-pack-4}
 
@@ -382,11 +382,11 @@ The key highlights for AEM Forms are:
 
 List of OSGi bundles included in AEM 6.3.3.4
 
-[Get File](assets/list_of_osgi_bundlesincludedinaem633.4)
+[Get File](assets/do-not-localize/list_of_osgi_bundlesincludedinaem633.4)
 
 List of Content Packages included in AEM 6.3.3.4
 
-[Get File](assets/list_of_content_packagesincludedinaem633.4)
+[Get File](assets/do-not-localize/list_of_content_packagesincludedinaem633.4)
 
 ### Cumulative Fix Pack 6.3.3.3 {#cumulative-fix-pack-5}
 
@@ -484,11 +484,11 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 List of OSGi bundles included in AEM 6.3.3.3
 
-[Get File](assets/6333_bundle_list.txt)
+[Get File](assets/do-not-localize/6333_bundle_list.txt)
 
 List of Content packages included in AEM 6.3.3.3
 
-[Get File](assets/content_package_list_6333.txt)
+[Get File](assets/do-not-localize/content_package_list_6333.txt)
 
 ### Cumulative Fix Pack 6.3.3.2 {#cumulative-fix-pack-6}
 
@@ -610,11 +610,11 @@ The key highlights of the AEM Cumulative Fix Pack are:
 
 List of OSGi bundles included in AEM 6.3.3.2
 
-[Get File](assets/63332bundle_list.txt)
+[Get File](assets/do-not-localize/63332bundle_list.txt)
 
 List of Content Packages included in AEM 6.3.3.2
 
-[Get File](assets/6332content_package.txt)
+[Get File](assets/do-not-localize/6332content_package.txt)
 
 ### Cumulative Fix Pack 6.3.3.1 {#cumulative-fix-pack-7}
 
@@ -810,7 +810,7 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 List of OSGi bundles included in AEM 6.3.3.1
 
-[Get File](assets/63sp3cfp1bundlelist.txt)
+[Get File](assets/do-not-localize/63sp3cfp1bundlelist.txt)
 
 List of Content Packages included in AEM 6.3.3.1
 
@@ -1002,11 +1002,11 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 List of OSGi bundles included in AEM 6.3.2.2
 
-[Get File](assets/6_3_2_2_bundle-list.txt)
+[Get File](assets/do-not-localize/6_3_2_2_bundle-list.txt)
 
 List of Content Packages included in AEM 6.3.2.2
 
-[Get File](assets/6_3_2_2_content_packagelist.txt)
+[Get File](assets/do-not-localize/6_3_2_2_content_packagelist.txt)
 
 ### Cumulative Fix Pack 6.3.2.1 {#cumulative-fix-pack-9}
 
@@ -1237,11 +1237,11 @@ The key highlights for AEM Forms are:
 
 List of OSGi bundles included in AEM 6.3.2.1
 
-[Get File](assets/bundle-list_002_.txt)
+[Get File](assets/do-not-localize/bundle-list_002_.txt)
 
 List of Content Packages included in AEM 6.3.2.1
 
-[Get File](assets/content_package_comparison.txt)
+[Get File](assets/do-not-localize/content_package_comparison.txt)
 
 AEM Cumulative Fix Pack 6.3.1.2 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 1 (6.3.1.0) in October 2017.
 
@@ -1389,11 +1389,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.3.1.2
 
-[Get File](assets/6_3_1_2-bundle-list.txt)
+[Get File](assets/do-not-localize/6_3_1_2-bundle-list.txt)
 
 List of Content Packages included in AEM 6.3.1.2
 
-[Get File](assets/6_3_1_2-content-package-list.txt)
+[Get File](assets/do-not-localize/6_3_1_2-content-package-list.txt)
 AEM Cumulative Fix Pack 6.3.1.1 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 1 (6.3.1.0) in October 2017.
 
 The key highlights of the AEM Cumulative Fix Pack are:
@@ -1553,11 +1553,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM CFP 6.3.1.1
 
-[Get File](assets/bundle-list.txt)
+[Get File](assets/do-not-localize/bundle-list.txt)
 
 List of Content Packages included in AEM CFP 6.3.1.1
 
-[Get File](assets/content-package-list.txt)
+[Get File](assets/do-not-localize/content-package-list.txt)
 
 AEM Cumulative Fix Pack 6.3.0.2 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 in April 2017.
 
@@ -1952,9 +1952,9 @@ This section lists features and capabilities that have been removed or deprecate
 
 The following text documents list the OSGi bundles and Content Packages included in the CFP.
 
-* [List of OSGi bundles included in AEM 6.3.3.8](assets/list_of_osgi_bundlesincludedin6338.txt)
+* [List of OSGi bundles included in AEM 6.3.3.8](assets/do-not-localize/list_of_osgi_bundlesincludedin6338.txt)
 
-* [List of Content Packages included in AEM 6.3.3.8](assets/list_of_content_packageincludedin6338.txt)
+* [List of Content Packages included in AEM 6.3.3.8](assets/do-not-localize/list_of_content_packageincludedin6338.txt)
 
 >[!MORELIKETHIS]
 >
