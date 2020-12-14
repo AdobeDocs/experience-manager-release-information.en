@@ -19,7 +19,7 @@ user-guide-description: See the latest AEM release updates.
   + [AEM 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
   + [Older versions of AEM, CQ, and CRX](aem-previous-versions.md)
 + AEM Forms release updates {#forms-updates}
-  + [AEM Forms releases](kb/aem-forms-releases.md)
+  + [AEM Forms releases](aem-forms-releases.md)
   + [Installing Cumulative Fix Packs on AEM Forms JEE](install-cfp-aem-forms-jee.md)
 + Documentation updates {#doc-updates}
   + [Recent documentation updates](documentation-updates.md)

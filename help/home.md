@@ -18,7 +18,7 @@ This guide covers information about [!DNL Adobe Experience Manager] releases roa
 
 ## [!DNL Experience Manager] Forms release updates
 
-* [[!DNL Experience Manager] Forms releases](kb/aem-forms-releases.md)
+* [[!DNL Experience Manager] Forms releases](aem-forms-releases.md)
 * [Installing Cumulative Fix Packs on [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Documentation updates
