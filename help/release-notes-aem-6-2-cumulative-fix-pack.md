@@ -65,7 +65,7 @@ In addition, this CFP includes hotfixes delivered in [previous cumulative fix pa
 
 ### Forms {#forms}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package}
 
@@ -150,7 +150,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Forms {#forms-1}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-1}
 
@@ -222,7 +222,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Forms {#forms-2}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-2}
 
@@ -305,7 +305,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Forms {#forms-3}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-3}
 
@@ -408,7 +408,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-4}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-4}
 
@@ -1184,7 +1184,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-12}
 
-* AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+* AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-12}
 
@@ -1297,7 +1297,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-13}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-13}
 
@@ -1412,7 +1412,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-14}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-14}
 
@@ -2246,7 +2246,7 @@ The CFP can be automatically installed into a running instance in the following 
 >(**AEM Forms on JEE only**) The procedure to install a CFP on AEM Forms on JEE is described in [Installing CFP on AEM Forms JEE](install-cfp-aem-forms-jee.md#install-cfp-on-aem-forms-jee).
 
 1. Ensure that you have installed the AEM 6.2 SP1 CFP package. 
-1. Download the corresponding Forms add-on package listed at [AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) for your operating system.
+1. Download the corresponding Forms add-on package listed at [AEM Forms releases](aem-forms-releases.md) for your operating system.
 1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://helpx.adobe.com/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html).
 
 #### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}

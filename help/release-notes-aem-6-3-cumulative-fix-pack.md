@@ -76,7 +76,7 @@ In addition, this CFP includes hotfixes delivered in [previous cumulative fix pa
 
 ### Forms {#forms}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 #### Forms add-on package {#forms-add-on-package}
 
@@ -128,7 +128,7 @@ AEM Cumulative Fix Pack 6.3.3.7 is dependent on AEM 6.3 Service Pack 3. Therefor
 
 ### Forms {#forms-1}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-1}
 
@@ -190,7 +190,7 @@ AEM Cumulative Fix Pack 6.3.3.6 is dependent on AEM 6.3 Service Pack 3. Therefor
 
 ### Forms {#forms-2}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-2}
 
@@ -260,7 +260,7 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 ### Forms {#forms-3}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-3}
 
@@ -348,7 +348,7 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 ### Forms {#forms-4}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 The key highlights for AEM Forms are:
 
@@ -1535,7 +1535,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 >[!NOTE]
 >
->Install LiveCycle embed package listed in [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) article to fix the issue.
+>Install LiveCycle embed package listed in [AEM Forms Releases](aem-forms-releases.md) article to fix the issue.
 
 #### Standard Services {#standard-services}
 
@@ -1641,7 +1641,7 @@ The key highlights of the AEM Cumulative Fix Pack are:
 
 ## Forms {#forms-12}
 
-AEM Forms fixes are delivered through Forms add-on package and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through Forms add-on package and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 The key highlights for AEM Forms are:
 
@@ -1795,7 +1795,7 @@ The CFP can be automatically installed into a running instance in the following 
 #### Install AEM Forms add-on {#install-forms}
 
 1. Ensure that you have installed the AEM 6.3.3.x CFP package. 
-1. Download the corresponding Forms add-on package listed at [AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) for your operating system.
+1. Download the corresponding Forms add-on package listed at [AEM Forms releases](aem-forms-releases.md) for your operating system.
 1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://helpx.adobe.com/experience-manager/6-3/forms/using/installing-configuring-aem-forms-osgi.html).
 
 #### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}
