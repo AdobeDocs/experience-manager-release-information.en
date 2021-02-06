@@ -1,6 +1,6 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
-description: null
+description: Experience Manager 6.2 Cumulative Fix Pack Release Notes. Dig deeper on the issues fixed in various cumulative fix packs in Experience Manager components.
 ---
 
 # AEM 6.2 Cumulative Fix Pack Release Notes{#release-notes-aem-cumulative-fix-pack}
