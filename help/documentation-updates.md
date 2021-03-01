@@ -12,6 +12,12 @@ You can also view [previous documentation updates](previous-documentation-update
 
 ## [!DNL Adobe Experience Manager] as a [!DNL Cloud Service] {#aem-as-a-cloud-service}
 
+>[!NOTE]
+>
+>AEM as a Cloud Service is released monthly. 
+>
+>See the [Release Notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) for documentation related to the individual releases (current amd  versions).
+
 | Date | Topic | Changes |
 | --- | --- | --- |
 | December 02, 2020 | Batch Set Presets | Learn how to automate image set and spin set creation using batch set presets in Dynamic Media. See [Batch Set Presets](https://experienceleague.corp.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html#dynamicmedia). |
