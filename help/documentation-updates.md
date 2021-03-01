@@ -16,7 +16,7 @@ You can also view [previous documentation updates](previous-documentation-update
 >
 >AEM as a Cloud Service is released monthly. 
 >
->See the [Release Notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) for documentation related to the individual releases (current amd  versions).
+>See the [Release Notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) for documentation related to the individual releases (current amd prior versions).
 
 | Date | Topic | Changes |
 | --- | --- | --- |
