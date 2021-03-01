@@ -16,7 +16,7 @@ This article lists the latest release for each release category and directs you 
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] follows a monthly release cadence. As a result, new features are available as continuous updates to [!DNL Experience Manager] every month.
 
-See [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) for details of the current (latest) version. From here you can also navigate to details of prior versions (arranged chronologically).
+See [Current Release Notes for [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) for details of the current/latest version. From here you can also navigate to details of prior versions (arranged chronologically).
 
 ## [!DNL Experience Manager] on-premise and managed services {#aem-on-prem-managed-services}
 
