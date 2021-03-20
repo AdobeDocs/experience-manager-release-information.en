@@ -51,6 +51,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date | Topic | Changes |
 | --- | --- | --- |
+| Mar 11, 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | November 25, 2020 | Accessibility in Dynamic Media | Dynamic Media and Dynamic Media Viewers support keyboard control and assistive technologies, such as JAWS and NVDA screen readers, across the authoring user interface. See [Accessibility in Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic). |
 | November 26, 2020 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | September 03, 2020 | CDN Invalidation in Dynamic Media | You can now send a request from within Dynamic Media to have the CDN cache expire within minutes. This feature is useful when you make updates to assets and you want those changes to take effect immediately on your website.<br>See [Invalidating the CDN cache by way of Dynamic Media.](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
@@ -72,6 +73,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date | Topic | Changes |
 | --- | --- | --- |
+| February 25, 2021 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4 | [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) is available. |
 | November 26, 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 3 | [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) is available. |
 | September 03, 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 2 | [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 2](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html) is available. |
 | July 29, 2020 | [Multi Site Manager] | Updates have been made to the procedures [Creating a New Synchronization Action](https://docs.adobe.com/content/help/en/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action) and [Creating a New Rollout Configuration.](https://docs.adobe.com/content/help/en/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration) |
