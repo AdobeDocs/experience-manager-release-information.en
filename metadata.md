@@ -1,11 +1,7 @@
 ---
 cloud: experience-cloud
-solution-title: Learn & Support
-solution-hub-url: https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/experience-manager/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html
+solution: Experience Cloud
+type: Documenation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.en
 index: yes
 ---
