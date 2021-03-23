@@ -6,7 +6,7 @@ contentOwner: trushton
 
 # [!DNL Experience Manager] Documentation: Recent Documentation Updates {#aem-documentation-recent-documentation-updates}
 
-This page lists important documentation changes and updates for [!DNL Adobe Experience Manager] since the start of the new year.
+This page lists important documentation changes and updates for [!DNL Adobe Experience Manager].
 
 You can also view [previous documentation updates](previous-documentation-updates.md).
 
