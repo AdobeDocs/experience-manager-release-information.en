@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: Adobe Experience Manager
 solution: Experience Manager
 audience: end-user
