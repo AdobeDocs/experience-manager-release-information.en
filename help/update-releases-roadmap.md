@@ -1,8 +1,8 @@
 ---
 title: [!DNL Adobe Experience Manager] releases roadmap
 description: [!DNL Adobe Experience Manager] releases roadmap
+exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 ---
-
 # [!DNL Experience Manager] releases roadmap {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for users using [!DNL Cloud Service], Managed Services, and on-premise offerings of the product. This article lists the upcoming releases for [!DNL Experience Manager].

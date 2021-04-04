@@ -2,8 +2,8 @@
 title: Previous Documentation Updates
 description: This page lists older important documentation changes and updates for [!DNL Adobe Experience Manager].
 contentOwner: alvawb
+exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 ---
-
 # Previous Documentation Updates{#previous-documentation-updates}
 
 This page lists older important documentation changes and updates for [!DNL Adobe Experience Manager]. You can view the [Recent Documentation Updates](documentation-updates.md) here.
