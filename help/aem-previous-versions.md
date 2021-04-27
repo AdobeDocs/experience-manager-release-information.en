@@ -1,8 +1,8 @@
 ---
 title: Older versions of AEM, CQ, and CRX
 description: Documentation packages for older versions of Adobe Experience Manager, CQ and CRX.
+exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 ---
-
 # Older versions of [!DNL Adobe Experience Manager], CQ, and CRX {#older-versions-aem-cq-crx}
 
 ## Older versions of [!DNL Experience Manager] documentation {#older-version-aem-documentation}
@@ -64,13 +64,17 @@ In order to Install a legacy documentation package you must have [!DNL Experienc
 
 ### Install the package on your local instance {#install-package-local-instance}
 
+>[!NOTE]
+>
+>For AEM 6.2, you might need to start your local instance with an increased maximum heap size, by using this command for example: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+
 1. Open the [!DNL Experience Manager] user interface. In a web browser enter: `http://localhost:4502/`. Login as an Administrator.
 
 1. Select **[!UICONTROL Tools]** > **[!UICONTROL Deployment]** > **[!UICONTROL Packages]**.
 
 1. From the Package Manager UI, select **[!UICONTROL Upload Package]**.
 
-1. Browse to the location where you downloaded the AEM 5.6.1 package (aem-docs-5-6-1.zip).
+1. Browse to the location where you downloaded the AEM package.
 
 1. Select the package and click **[!UICONTROL OK]**.
 
@@ -80,7 +84,7 @@ In order to Install a legacy documentation package you must have [!DNL Experienc
 
 1. On the confirmation dialog select **[!UICONTROL Install]** again. Note: the installation will take a few minutes.
 
-1. In a web browser, launch the documentation page. Using the AEM 5.6.1 example the URL would be: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. In a web browser, launch the documentation page. Using the AEM 5.6.1 example, the URL would be: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Get help from the [!DNL Experience Manager] community {#get-help-from-aem-community}
 

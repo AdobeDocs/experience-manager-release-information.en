@@ -1,6 +1,6 @@
 ---
-cloud: experience-cloud
-product: Adobe Experience Manager
+cloud: Experience Cloud
+product: experience manager
 solution: Experience Manager
 audience: end-user
 user-guide-title: Adobe Experience Manager Release Updates and Roadmap

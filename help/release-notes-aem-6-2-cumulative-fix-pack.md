@@ -1,8 +1,8 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: Experience Manager 6.2 Cumulative Fix Pack Release Notes. Dig deeper on the issues fixed in various cumulative fix packs in Experience Manager components.
+exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 ---
-
 # AEM 6.2 Cumulative Fix Pack Release Notes{#release-notes-aem-cumulative-fix-pack}
 
 <!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?

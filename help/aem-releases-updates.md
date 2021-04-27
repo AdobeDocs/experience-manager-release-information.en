@@ -2,8 +2,8 @@
 title: [!DNL Adobe Experience Manager] releases updates
 description: [!DNL Adobe Experience Manager] releases updates
 contentOwner: AK
+exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 ---
-
 # [!DNL Adobe Experience Manager] releases and updates {#aem-releases-and-updates}
 
 ![[!DNL Experience Manager] new releases](assets/new-aem-releases1.jpeg)

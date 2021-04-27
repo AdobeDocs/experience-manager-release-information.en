@@ -2,8 +2,8 @@
 title: [!DNL Experience Manager] recent documentation updates
 description: What is new, updated, or changed in [!DNL Experience Manager] documentation
 contentOwner: trushton
+exl-id: 8c136a03-f961-4854-af38-45457b85d289
 ---
-
 # [!DNL Experience Manager] Documentation: Recent Documentation Updates {#aem-documentation-recent-documentation-updates}
 
 This page lists important documentation changes and updates for [!DNL Adobe Experience Manager].

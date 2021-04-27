@@ -2,8 +2,8 @@
 title: AEM Forms releases
 description: Contains list of all the AEM Forms releases and corresponding packages
 contentOwner: khsingh
+exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 ---
-
 # AEM [!DNL Forms] releases {#aem-forms-releases}
 
 Adobe Experience Manager [!DNL Forms] is an application deployed onto AEM. It extends engaging web and mobile experiences to enterprise forms and documents, allowing organizations to complete complex digital interactions while improving user experiences and extending business reach. The out-of-the box AEM [!DNL Forms] included in AEM Quick start has a limited set of functionality. AEM [!DNL Forms] add-on package provides advanced features such as integration with [!DNL Adobe Analytics], [!DNL Adobe Sign], document services, workflow engine, and many more.
