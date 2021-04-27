@@ -17,7 +17,6 @@ description: [!DNL Adobe Experience Manager] releases roadmap
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 |2021.3.0  |Monthly Release |March 25, 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 |2021.4.0  |Monthly Release |April 29, 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 |2021.5.0  |Monthly Release |May 27, 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 |2021.6.0  |Monthly Release |June 24, 2021 |
