@@ -2,8 +2,8 @@
 title: Update Release Vehicle Definitions
 description: This article details the various types of [!DNL Experience Manager] releases, including full releases, feature packs, and services packs.
 contentOwner: AK
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 ---
-
 # [!DNL Experience Manager] update release vehicle definitions {#update-release-vehicle-definitions}
 
 This document includes details about the various types of [!DNL Adobe Experience Manager] releases, including full releases, feature packs, and services packs that [!DNL Adobe] delivers to its customers.

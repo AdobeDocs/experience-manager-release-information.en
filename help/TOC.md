@@ -1,11 +1,15 @@
 ---
-cloud: experience-cloud
-product: Adobe Experience Manager
+cloud: Experience Cloud
+product: experience manager
 solution: Experience Manager
 audience: end-user
 user-guide-title: Adobe Experience Manager Release Updates and Roadmap
 breadcrumb-title: AEM Release Information
 user-guide-description: See the latest AEM release updates.
+feature-set: Experience Manager
+feature: Release Information
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+level: Beginner, Intermediate, Experienced
 ---
 
 # Adobe Experience Manager Release Updates and Roadmap {#aem-release-updates}
