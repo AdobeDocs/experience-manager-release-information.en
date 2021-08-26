@@ -17,8 +17,6 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 |2021.7.0  |Monthly Release |July 29, 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 |2021.8.0  |Monthly Release |August 26, 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 |2021.9.0  |Monthly Release |September 30, 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 |2021.10.0  |Monthly Release |October 28, 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 |2021.11.0  |Monthly Release |December 02, 2021 |
@@ -35,7 +33,6 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 10 |6.5.10.0  |Service Pack |Aug 26, 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11|6.5.11.0  |Service Pack |Nov 25, 2021 |
 
 >[!NOTE]
