@@ -51,6 +51,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date | Topic | Changes |
 | --- | --- | --- |
+| August 26, 2021 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | May 27, 2021 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | Mar 11, 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | November 25, 2020 | Accessibility in Dynamic Media | Dynamic Media and Dynamic Media Viewers support keyboard control and assistive technologies, such as JAWS and NVDA screen readers, across the authoring user interface. See [Accessibility in Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic). |
