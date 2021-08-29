@@ -2441,4 +2441,4 @@ The following text documents the list of OSGI bundles and content packages inclu
 >* [AEM 6.2 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
 >* [AEM 6.2 documentation](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
+>* [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
