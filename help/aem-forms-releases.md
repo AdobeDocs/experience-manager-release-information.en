@@ -804,6 +804,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
 
 `[3]` **IMPORTANT**: Before installing the LiveCycle embed package, install [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) and ensure that the version of the **Apache Sling Authentication Service** bundle is 1.4.0 or more, otherwise the server may become unresponsive and unrecoverable. You can check the version of bundle at `http://[server]:[port]/system/console/bundles`.
 
+<!--
 ## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
 
 <table> 
@@ -1192,6 +1193,7 @@ Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html
 >[!NOTE]
 >
 >AEM [!DNL Forms] regularly releases patches or quick fixes to address bugs and to improve the usability and performance of the software. If you are encountering an issue with using AEM [!DNL Forms], it is possible that it is already addressed through a patch or Quick Fixes. For details about the available Quick Fixes, see [Adobe Experience Manager 6.2 hot fixes.](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
+-->
 
 ## Things to remember {#things-to-remember}
 
