@@ -207,8 +207,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WEBSPHERE-GLOBALSEC-CONFIG">AEM Websphere Global Security Configuration Package</a> </li> 
       <li><a href="https://licensing.adobe.com/">AEM Forms JEE installer</a><sup> [1]</sup></li> 
       <li><a href="https://licensing.adobe.com/">AEM Workbench</a> <sup>[1]</sup></li> 
-      <li><a href="https://licensing.adobe.com/">AEM Designer Installer</a> <sup>[1]</sup></li> 
-      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.4.0-COMPAT">AEM Forms Compatibility Package</a></li> 
+      <li><a href="https://licensing.adobe.com/">AEM Designer Installer</a> <sup>[1]</sup></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">AEM Forms App source</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI Reference Site Package</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov Reference Site Package</a></li> 
@@ -379,8 +378,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-LX">AEM Forms add-on package for Linux</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-WIN">AEM Forms add-on package for Windows</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">AEM Forms add-on package for Mac OS X[2]</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/fd/AEM-FORMS-6.4.5.0-COMPAT">AEM Forms Compatibility Package</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">AEM Forms add-on package for Mac OS X[2]</a><br /> </li>      
      <li>AEM Forms JEE installer [1]<br /> </li> 
     </ul> </td> 
    <td><p>AEM Forms JEE installer: 6.4.0-0008_00</p> <p>AEM Forms Add-on Packages: 5.1.66</p> <p>AEM Forms Compatibility Package:<strong> </strong>1.1.14</p> <br /> </td> 
@@ -411,8 +409,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-LX">AEM Forms add-on package for Linux</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-WIN">AEM Forms add-on package for Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-SOL">AEM Forms add-on package for Solaris</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">AEM Forms add-on package for Mac OS X<sup>[2]</sup></a></li> 
-     <li>AEM Forms JEE installer<sup> [1]</sup><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG"></a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">AEM Forms add-on package for Mac OS X<sup>[2]</sup></a></li>      
     </ul> </td> 
    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>5.1.42</strong></p> <p>AEM Forms JEE installer: <strong>6.4.0-004</strong></p> </td> 
   </tr> 
@@ -764,9 +761,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-LX" target="_blank">AEM Forms add-on package for Linux</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-WIN" target="_blank">AEM Forms add-on package for Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-SOL" target="_blank">AEM Forms add-on package for Solaris</a></li>
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">AEM Forms add-on package for Mac OS X </a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG" target="_blank">AEM Forms JEE Package</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-FORMS-APP-SRC-PKG" target="_blank">AEM Forms App Source Code</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">AEM Forms add-on package for Mac OS X </a></li>      
      <li>AEM Forms Client SDK <sup>[1]</sup><br /> </li> 
      <li>AEM Forms Designer <sup>[1]</sup></li> 
      <li>AEM Forms JEE installer<sup> [1]</sup></li> 
@@ -779,18 +774,9 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
    <td>AEM 6.3 Forms add-on package</td> 
    <td><a href="https://docs.adobe.com/docs/en/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td> 
    <td> 
-    <ul> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-AIX">AEM Forms add-on package for AIX</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-LX">AEM Forms add-on package for Linux</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-WIN">AEM Forms add-on package for Windows</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-SOL">AEM Forms add-on package for Solaris</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-Forms-6.3-OSX">AEM Forms add-on package for Mac OS X </a><sup>[2]</sup></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-CMB">Central Migration Bridge package</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">AEM Forms App source code package</a></li> 
+    <ul>      
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">AEM Forms Document Security Indexer package</a></li> 
-     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">AEM Forms FSI Reference Site Package</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-GOV-REF-SITE" target="_blank">AEM Forms Gov Reference Site Package</a></li> 
+     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li>      
     </ul> </td> 
    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <strong>4.0.74</strong></p> <p>Central Migration Bridge Package: <strong>5.0.10</strong></p> <p>AEM Forms App Source: <strong>3.1.12</strong></p> <p>AEM Forms Document Security Indexer: <strong>2.0.4</strong></p> <p>AEM Forms FSI Reference Site Package: <strong> aemfd: cq-we-finance-pkg:3.0.6</strong></p> <p>AEM Forms Gov Reference Site Package: <strong>day/cq60/fd: cq -we-gov-all-pkg:4.0.8</strong></p> </td> 
   </tr> 
