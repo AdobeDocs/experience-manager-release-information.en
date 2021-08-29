@@ -1,7 +1,6 @@
 ---
 title: AEM 6.3 Cumulative Fix Pack
-description: AEM 6.3 Cumulative Fix Pack Release Notes
-exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
+description: AEM 6.3 Cumulative Fix Pack Release Notes.
 ---
 # AEM 6.3 Cumulative Fix Pack Release Notes {#release-notes-aem-cumulative-fix-pack}
 
