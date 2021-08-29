@@ -1,8 +1,8 @@
 ---
 title: AEM 6.3 Cumulative Fix Pack
 description: AEM 6.3 Cumulative Fix Pack Release Notes
+exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 ---
-
 # AEM 6.3 Cumulative Fix Pack Release Notes {#release-notes-aem-cumulative-fix-pack}
 
 ## Release information {#release-information}
@@ -76,7 +76,7 @@ In addition, this CFP includes hotfixes delivered in [previous cumulative fix pa
 
 ### Forms {#forms}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 #### Forms add-on package {#forms-add-on-package}
 
@@ -128,7 +128,7 @@ AEM Cumulative Fix Pack 6.3.3.7 is dependent on AEM 6.3 Service Pack 3. Therefor
 
 ### Forms {#forms-1}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-1}
 
@@ -190,7 +190,7 @@ AEM Cumulative Fix Pack 6.3.3.6 is dependent on AEM 6.3 Service Pack 3. Therefor
 
 ### Forms {#forms-2}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-2}
 
@@ -260,7 +260,7 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 ### Forms {#forms-3}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-3}
 
@@ -274,11 +274,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.3.3.5
 
-[Get File](assets/6_5-bundle-list.txt)
+[Get File](assets/do-not-localize/6_5-bundle-list.txt)
 
 List of Content Packages included in AEM 6.3.3.5
 
-[Get File](assets/content_packages6335.txt)
+[Get File](assets/do-not-localize/content_packages6335.txt)
 
 ### Cumulative Fix Pack 6.3.3.4 {#cumulative-fix-pack-4}
 
@@ -348,7 +348,7 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 ### Forms {#forms-4}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 The key highlights for AEM Forms are:
 
@@ -382,11 +382,11 @@ The key highlights for AEM Forms are:
 
 List of OSGi bundles included in AEM 6.3.3.4
 
-[Get File](assets/list_of_osgi_bundlesincludedinaem633.4)
+[Get File](assets/do-not-localize/list_of_osgi_bundlesincludedinaem633.4)
 
 List of Content Packages included in AEM 6.3.3.4
 
-[Get File](assets/list_of_content_packagesincludedinaem633.4)
+[Get File](assets/do-not-localize/list_of_content_packagesincludedinaem633.4)
 
 ### Cumulative Fix Pack 6.3.3.3 {#cumulative-fix-pack-5}
 
@@ -484,11 +484,11 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 List of OSGi bundles included in AEM 6.3.3.3
 
-[Get File](assets/6333_bundle_list.txt)
+[Get File](assets/do-not-localize/6333_bundle_list.txt)
 
 List of Content packages included in AEM 6.3.3.3
 
-[Get File](assets/content_package_list_6333.txt)
+[Get File](assets/do-not-localize/content_package_list_6333.txt)
 
 ### Cumulative Fix Pack 6.3.3.2 {#cumulative-fix-pack-6}
 
@@ -610,11 +610,11 @@ The key highlights of the AEM Cumulative Fix Pack are:
 
 List of OSGi bundles included in AEM 6.3.3.2
 
-[Get File](assets/63332bundle_list.txt)
+[Get File](assets/do-not-localize/63332bundle_list.txt)
 
 List of Content Packages included in AEM 6.3.3.2
 
-[Get File](assets/6332content_package.txt)
+[Get File](assets/do-not-localize/6332content_package.txt)
 
 ### Cumulative Fix Pack 6.3.3.1 {#cumulative-fix-pack-7}
 
@@ -810,7 +810,7 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 List of OSGi bundles included in AEM 6.3.3.1
 
-[Get File](assets/63sp3cfp1bundlelist.txt)
+[Get File](assets/do-not-localize/63sp3cfp1bundlelist.txt)
 
 List of Content Packages included in AEM 6.3.3.1
 
@@ -1002,11 +1002,11 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 
 List of OSGi bundles included in AEM 6.3.2.2
 
-[Get File](assets/6_3_2_2_bundle-list.txt)
+[Get File](assets/do-not-localize/6_3_2_2_bundle-list.txt)
 
 List of Content Packages included in AEM 6.3.2.2
 
-[Get File](assets/6_3_2_2_content_packagelist.txt)
+[Get File](assets/do-not-localize/6_3_2_2_content_packagelist.txt)
 
 ### Cumulative Fix Pack 6.3.2.1 {#cumulative-fix-pack-9}
 
@@ -1237,11 +1237,11 @@ The key highlights for AEM Forms are:
 
 List of OSGi bundles included in AEM 6.3.2.1
 
-[Get File](assets/bundle-list_002_.txt)
+[Get File](assets/do-not-localize/bundle-list_002_.txt)
 
 List of Content Packages included in AEM 6.3.2.1
 
-[Get File](assets/content_package_comparison.txt)
+[Get File](assets/do-not-localize/content_package_comparison.txt)
 
 AEM Cumulative Fix Pack 6.3.1.2 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 1 (6.3.1.0) in October 2017.
 
@@ -1389,11 +1389,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.3.1.2
 
-[Get File](assets/6_3_1_2-bundle-list.txt)
+[Get File](assets/do-not-localize/6_3_1_2-bundle-list.txt)
 
 List of Content Packages included in AEM 6.3.1.2
 
-[Get File](assets/6_3_1_2-content-package-list.txt)
+[Get File](assets/do-not-localize/6_3_1_2-content-package-list.txt)
 AEM Cumulative Fix Pack 6.3.1.1 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 Service Pack 1 (6.3.1.0) in October 2017.
 
 The key highlights of the AEM Cumulative Fix Pack are:
@@ -1535,7 +1535,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 >[!NOTE]
 >
->Install LiveCycle embed package listed in [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) article to fix the issue.
+>Install LiveCycle embed package listed in [AEM Forms Releases](aem-forms-releases.md) article to fix the issue.
 
 #### Standard Services {#standard-services}
 
@@ -1553,11 +1553,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM CFP 6.3.1.1
 
-[Get File](assets/bundle-list.txt)
+[Get File](assets/do-not-localize/bundle-list.txt)
 
 List of Content Packages included in AEM CFP 6.3.1.1
 
-[Get File](assets/content-package-list.txt)
+[Get File](assets/do-not-localize/content-package-list.txt)
 
 AEM Cumulative Fix Pack 6.3.0.2 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 in April 2017.
 
@@ -1641,7 +1641,7 @@ The key highlights of the AEM Cumulative Fix Pack are:
 
 ## Forms {#forms-12}
 
-AEM Forms fixes are delivered through Forms add-on package and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through Forms add-on package and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 The key highlights for AEM Forms are:
 
@@ -1795,7 +1795,7 @@ The CFP can be automatically installed into a running instance in the following 
 #### Install AEM Forms add-on {#install-forms}
 
 1. Ensure that you have installed the AEM 6.3.3.x CFP package. 
-1. Download the corresponding Forms add-on package listed at [AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) for your operating system.
+1. Download the corresponding Forms add-on package listed at [AEM Forms releases](aem-forms-releases.md) for your operating system.
 1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://helpx.adobe.com/experience-manager/6-3/forms/using/installing-configuring-aem-forms-osgi.html).
 
 #### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}
@@ -1930,7 +1930,7 @@ The Uber Jar for 6.3.3.8 is available at [Adobe Public Maven repository](https:/
 
 To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/ht-projects-maven.html) and include the following dependency in your project POM:
 
-```
+```TXT
 <dependency>
       <groupId>com.adobe.aem</groupId>
       <artifactId>uber-jar</artifactId>
@@ -1944,40 +1944,23 @@ To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](
 
 This section lists features and capabilities that have been removed or deprecated from AEM 6.3.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th scope="col">Area</th> 
-   <th scope="col">Feature</th> 
-   <th scope="col">Replacement</th> 
-   <th scope="col">Version</th> 
-  </tr> 
-  <tr> 
-   <td>Assets and Adobe Creative Cloud integration</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/creative-cloud.html" target="_blank">AEM to Creative Cloud folder sharing</a> was introduced in AEM 6.2 as a way to give creative users access to assets from AEM. A new capability released in Creative Cloud application, Adobe Asset Link, provides a much better user experience and more powerful access to assets from AEM directly from inside Photoshop, InDesign, and Illustrator.<br /> Adobe will not make further enhancements to the folder sharing capability. While the feature is included in AEM, customers are strongly advised to use the replacement.</td> 
-   <td>Adobe Asset Link or Desktop App. For more info, see <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html" target="_blank">AEM Creative Cloud integration</a> article.</td> 
-   <td>AEM 6.3.3.x<br /> </td> 
-  </tr> 
- </tbody> 
-</table>
+|Area| Feature | Replacement | Version |
+|----|-----|-----|-----|
+|Assets and Adobe Creative Cloud integration | [AEM to Creative Cloud folder sharing](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/creative-cloud.html) was introduced in AEM 6.2 as a way to give creative users access to assets from AEM. A new capability released in Creative Cloud application, Adobe Asset Link, provides a much better user experience and more powerful access to assets from AEM directly from inside Photoshop, InDesign, and Illustrator.<br /> Adobe will not make further enhancements to the folder sharing capability. While the feature is included in AEM, customers are strongly advised to use the replacement. | Adobe Asset Link or Desktop App. For more info, see [AEM Creative Cloud integration](https://helpx.adobe.com/experience-manager/6-3/assets/using/aem-cc-integration-best-practices.html) article.| AEM 6.3.3.x |
 
 ## OSGi bundles and Content Packages included {#osgi-bundles-and-content-packages-included-1}
 
-The following text documents list the OSGi bundles and Content Packages included in the CFP. 
+The following text documents list the OSGi bundles and Content Packages included in the CFP.
 
-List of OSGi bundles included in AEM 6.3.3.8
+* [List of OSGi bundles included in AEM 6.3.3.8](assets/do-not-localize/list_of_osgi_bundlesincludedin6338.txt)
 
-[Get File](assets/list_of_osgi_bundlesincludedin6338.txt)
+* [List of Content Packages included in AEM 6.3.3.8](assets/do-not-localize/list_of_content_packageincludedin6338.txt)
 
-List of Content Packages included in AEM 6.3.3.8
-
-[Get File](assets/list_of_content_packageincludedin6338.txt)
-
-## Helpful resources {#helpful-resources}
-
-* [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
-* [AEM 6.3 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem63-available-hotfixes.html)
-* [AEM 6.3 release notes](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
-* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
-* [AEM 6.3 documentation](https://docs.adobe.com/content/docs/en/aem/6-3.html)
-* Subscribe to [Adobe priority product updates](https://www.adobe.com/subscription/priority-product-update.html)
+>[!MORELIKETHIS]
+>
+>* [AEM releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
+>* [AEM 6.3 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem63-available-hotfixes.html)
+>* [AEM 6.3 release notes](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
+>* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
+>* [AEM 6.3 documentation](https://docs.adobe.com/content/docs/en/aem/6-3.html)
+>* Subscribe to [Adobe priority product updates](https://www.adobe.com/subscription/priority-product-update.html)

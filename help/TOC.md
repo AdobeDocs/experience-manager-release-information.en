@@ -1,11 +1,15 @@
 ---
-cloud: experience-cloud
-product: Adobe Experience Manager
+cloud: Experience Cloud
+product: experience manager
 solution: Experience Manager
 audience: end-user
 user-guide-title: Adobe Experience Manager Release Updates and Roadmap
 breadcrumb-title: AEM Release Information
 user-guide-description: See the latest AEM release updates.
+feature-set: Experience Manager
+feature: Release Information
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
+level: Beginner, Intermediate, Experienced
 ---
 
 # Adobe Experience Manager Release Updates and Roadmap {#aem-release-updates}
@@ -17,9 +21,9 @@ user-guide-description: See the latest AEM release updates.
 + Previous release updates {#previous-updates}
   + [AEM 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
   + [AEM 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
-  + [Older versions of AEM, CQ & CRX](aem-previous-versions.md)
+  + [Older versions of AEM, CQ, and CRX](aem-previous-versions.md)
 + AEM Forms release updates {#forms-updates}
-  + [AEM Forms releases](kb/aem-forms-releases.md)
+  + [AEM Forms releases](aem-forms-releases.md)
   + [Installing Cumulative Fix Packs on AEM Forms JEE](install-cfp-aem-forms-jee.md)
 + Documentation updates {#doc-updates}
   + [Recent documentation updates](documentation-updates.md)

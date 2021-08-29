@@ -1,17 +1,17 @@
 ---
-title: Older versions of AEM, CQ & CRX
+title: Older versions of AEM, CQ, and CRX
 description: Documentation packages for older versions of Adobe Experience Manager, CQ and CRX.
+exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 ---
+# Older versions of [!DNL Adobe Experience Manager], CQ, and CRX {#older-versions-aem-cq-crx}
 
-# Older versions of AEM, CQ & CRX {#older-versions-aem-cq-crx}
+## Older versions of [!DNL Experience Manager] documentation {#older-version-aem-documentation}
 
-## Older versions of AEM documentation {#older-version-aem-documentation}
-
-The versions of AEM, CQ and CRX listed on this page are End of Life and no longer officially sold by Adobe. Our last versions of official documentation for these older versions are available for your self-help needs. We recommend you upgrade to the latest version (which currently is [AEM 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html)).
+The versions of [!DNL Experience Manager], CQ and CRX listed on this page are End of Life and no longer officially sold by Adobe. Our last versions of official documentation for these older versions are available for your self-help needs. We recommend you upgrade to the latest version (which currently is [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html)).
 
 >[!NOTE]
 >
->To know when an AEM version will reach End of core support, have a look at [Products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html) and search CQ or AEM.
+>To know when an [!DNL Experience Manager] version will reach end of core support, see [products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html) and search `AEM`.
 
 ### Before you install {#before-installation}
 
@@ -22,7 +22,7 @@ Before you download the package, determine who will consume the content. This de
 
 >[!NOTE]
 >
->Users must be logged into the AEM instance to access this content on AEM Author. This content is not accessible by default on AEM Publish (as it exists under /libs).
+>Users must be logged into the [!DNL Experience Manager] instance to access this content on [!DNL Experience Manager] Author. This content is not accessible by default on AEM Publish (as it exists under /libs).
 
 ## Software Distribution Locations {#software-distribution-locations}
 
@@ -31,68 +31,29 @@ You will require a valid Adobe ID:
 * If you don't have an Adobe ID, you can create one at www.adobe.com
 If you need assistance creating or managing your Adobe ID, [please refer to this guide](https://helpx.adobe.com/manage-account.html)
 
-<table> 
- <tbody>
-  <tr>
-   <th>AEM Version</th> 
-   <th>Software Distribution Link</th>   
-  </tr>
-    <tr>
-   <td>AEM 6.1</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip">Download AEM-DOCS-6.1 from Software Distribution</a>
-   </td>   
-  </tr>
-  <tr>
-   <td>AEM 6.0</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip">Download AEM-DOCS-6.0 from Software Distribution</a>
-   </td>   
-  </tr>
-  <tr>
-   <td>AEM 5.6.1</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip">Download AEM-DOCS-5.6.1 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>AEM 5.6</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip">Download AEM-DOCS-5.6 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CQ 5.5</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip">Download CQ-DOCS-5.5 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CQ 5.4</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip">Download CQ-DOCS-5.4 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CQ 5.3</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip">Download CQ-DOCS-5.3 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.3</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip">Download CRX-DOCS-2.3 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.2</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip">Download CRX-DOCS-2.2 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.1</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip">Download CRX-DOCS-2.1 from Software Distribution</a></td>   
-  </tr>
-  <tr>
-   <td>CRX 2.0</td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip">Download CRX-DOCS-2.0 from Software Distribution</a></td>   
-  </tr>
- </tbody>
-</table>
+| [!DNL Experience Manager] Version |             Software Distribution Link             |
+|:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.3     | [Download AEM-DOCS-6.3 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip)  |
+| [!DNL Experience Manager] 6.2     | [Download AEM-DOCS-6.2 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip)  |
+| [!DNL Experience Manager] 6.1     | [Download AEM-DOCS-6.1 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip)  |
+| [!DNL Experience Manager] 6.0     | [Download AEM-DOCS-6.0 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip)  |
+| [!DNL Experience Manager] 5.6.1   | [Download AEM-DOCS-5.6.1 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6-1.zip)|
+| [!DNL Experience Manager] 5.6     | [Download AEM-DOCS-5.6 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-6.zip)  |
+| CQ 5.5      | [Download CQ-DOCS-5.5 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=%2Fcontent%2Fsoftware-distribution%2Fen%2Fdetails.html%2Fcontent%2Fdam%2Faem%2Fpublic%2Fadobe%2Fpackages%2Faem-docs%2Faem-docs-5-5.zip)   |
+| CQ 5.4      | [Download CQ-DOCS-5.4 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-4.zip)   |
+| CQ 5.3      | [Download CQ-DOCS-5.3 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-5-3.zip)   |
+| CRX 2.3     | [Download CRX-DOCS-2.3 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-3.zip)  |
+| CRX 2.2     | [Download CRX-DOCS-2.2 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-2.zip)  |
+| CRX 2.1     | [Download CRX-DOCS-2.1 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-1.zip)  |
+| CRX 2.0     | [Download CRX-DOCS-2.0 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/crx-docs-2-0.zip)  |
 
 ## How to install a documentation package {#how-to-install-documentation-package}
 
-In order to Install a legacy documentation package you must have AEM installed and running on your local drive or network drive.
+In order to Install a legacy documentation package you must have [!DNL Experience Manager] installed and running on your local drive or network drive.
 
 ### Download the documentation package {#download-documentation-package}
 
-1. From the table above, select the link for the AEM Documentation version to download. For example, AEM 5.6.1.
+1. From the table above, select the link for the [!DNL Experience Manager] documentation version to download. For example, AEM 5.6.1.
 
 1. Login using your Adobe ID. If you don't have an ID, create one.
 
@@ -104,13 +65,17 @@ In order to Install a legacy documentation package you must have AEM installed a
 
 ### Install the package on your local instance {#install-package-local-instance}
 
-1. Open the AEM UI. In a Web browser enter: http://localhost:4502/. Login as an Administrator.
+>[!NOTE]
+>
+>For AEM 6.2, you might need to start your local instance with an increased maximum heap size, by using this command for example: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+
+1. Open the [!DNL Experience Manager] user interface. In a web browser enter: `http://localhost:4502/`. Login as an Administrator.
 
 1. Select **[!UICONTROL Tools]** > **[!UICONTROL Deployment]** > **[!UICONTROL Packages]**.
 
 1. From the Package Manager UI, select **[!UICONTROL Upload Package]**.
 
-1. Browse to the location where you downloaded the AEM 5.6.1 package (aem-docs-5-6-1.zip).
+1. Browse to the location where you downloaded the AEM package.
 
 1. Select the package and click **[!UICONTROL OK]**.
 
@@ -120,8 +85,8 @@ In order to Install a legacy documentation package you must have AEM installed a
 
 1. On the confirmation dialog select **[!UICONTROL Install]** again. Note: the installation will take a few minutes.
 
-1. In a web browser, launch the documentaiton page. Using the AEM 5.6.1 example the URL would be: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. In a web browser, launch the documentation page. Using the AEM 5.6.1 example, the URL would be: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
-## Get help from our AEM community team {#get-help-from-aem-community}
+## Get help from the [!DNL Experience Manager] community {#get-help-from-aem-community}
 
-If you do have questions about any aspect of using Experience Manager, we highly recommend you [reach out to our extremely experienced community experts in the AEM Forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community). They are available round the clock to help you.
+If you have questions about using Experience Manager, we recommend that you [reach out to our experienced community experts in the [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
