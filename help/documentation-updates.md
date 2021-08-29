@@ -10,17 +10,17 @@ This page lists important documentation changes and updates for Adobe Experience
 
 You can also view [previous documentation updates](previous-documentation-updates.md).
 
-## Experience Manager as a Cloud Service {#aem-as-a-cloud-service}
-=======
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-a-cloud-service}
+
 This page lists important documentation changes and updates for [!DNL Adobe Experience Manager].
 
 You can also view [previous documentation updates](previous-documentation-updates.md).
 
-## [!DNL Adobe Experience Manager] as a [!DNL Cloud Service] {#aem-as-a-cloud-service}
+## [!DNL Adobe Experience Manager] as a [!DNL Cloud Service] {#aem-cloud-service}
 
 >[!NOTE]
 >
->AEM as a Cloud Service is released monthly. 
+>Experience Manager as a Cloud Service is released monthly.
 >
 >See the [Release Notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) for documentation related to the individual releases (current and prior versions).
 
@@ -90,7 +90,7 @@ You can also view [previous documentation updates](previous-documentation-update
 | March 30, 2020 | Dynamic Media - Smart Imaging | The entire Smart Imaging Help topic was updated with new information, including image asset examples that depict the added Smart Imaging optimization.<br>See [Smart Imaging.](https://docs.adobe.com/content/help/en/experience-manager-64/assets/dynamic/imaging-faq.html) |
 | March 05, 2020 | Experience Manager 6.4 Service Pack 8 | [Experience Manager 6.4 Service Pack 8](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html) is available. |
 
-## [!DNL Experience Manager] 6.3 {#aem-2}
+## [!DNL Experience Manager] 6.3 {#aem-63}
 
 | Date | Topic | Changes |
 | --- | --- | --- |
@@ -119,20 +119,17 @@ You can also view [previous documentation updates](previous-documentation-update
 | March 30, 2020 | Dynamic Media - Smart Imaging | The entire Smart Imaging Help topic was updated with new information, including image asset examples that depict the added Smart Imaging optimization.<br>See [Smart Imaging.](https://docs.adobe.com/content/help/en/experience-manager-64/assets/dynamic/imaging-faq.html) |
 | March 05, 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 | [[!DNL Experience Manager] 6.4 Service Pack 8](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html) is available. |
 
-## [!DNL Experience Manager] 6.3 {#aem-2}
-
-| Date | Topic | Changes |
-| --- | --- | --- |
-| June 19, 2020 | Adobe Experience Manager | Adobe aims to use equitable terminology throughout their code, documentation, and experiences.<br>For this reason, a series of updates were made to this documentation set that reflects this equity. |
-| March 30, 2020 | Dynamic Media - Smart Imaging | The entire Smart Imaging Help topic was updated with new information.<br>See [Smart Imaging.](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html) |
-| March 05, 2020 | Experience Manager 6.3.3.8 | [Cumulative Fix Pack 6.3.3.8](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) for Experience Manager 6.3 is available. |
-| March 05, 2020 | [!DNL Experience Manager] 6.3.3.8 | [Cumulative Fix Pack 6.3.3.8](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) for [!DNL Experience Manager] 6.3 is available. |
 
 ## [!DNL Experience Manager] 6.2 {#aem-62}
 
 | Date | Topic |Changes |
 |---|---|---|
 | June 19, 2020 |Adobe Experience Manager | Adobe aims to use equitable terminology throughout their code, documentation, and experiences.<br>For this reason, a series of updates were made to this documentation set that reflect this equity. |
+| June 19, 2020 | Adobe Experience Manager | Adobe aims to use equitable terminology throughout their code, documentation, and experiences.<br>For this reason, a series of updates were made to this documentation set that reflects this equity. |
+| March 30, 2020 | Dynamic Media - Smart Imaging | The entire Smart Imaging Help topic was updated with new information.<br>See [Smart Imaging.](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html) |
+| March 05, 2020 | Experience Manager 6.3.3.8 | [Cumulative Fix Pack 6.3.3.8](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) for Experience Manager 6.3 is available. |
+| March 05, 2020 | [!DNL Experience Manager] 6.3.3.8 | [Cumulative Fix Pack 6.3.3.8](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) for [!DNL Experience Manager] 6.3 is available. |
+
 
 ## [!DNL Experience Manager] 6.1 {#aem-61}
 
