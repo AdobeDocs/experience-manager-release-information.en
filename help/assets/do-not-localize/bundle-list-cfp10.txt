@@ -1,0 +1,111 @@
+SYMBOLIC NAME                                      BUNDLE NAME                                                                      VERSION
+PDFServices.security                               Adobe PDF Security services                                                      3.0.577161
+org.apache.sling.commons.johnzon                   Apache Johnzon Wrapper Library                                                   1.0.0
+org.apache.sling.commons.log.webconsole            Apache Sling Log WebConsole                                                      1.0.0
+org.apache.tika.bundle                             Apache Tika OSGi bundle                                                          1.14.0.CQ630-B0002
+AGL.proxy                                          Proxy for Adobe Globalization Library                                            1.0.698416.2
+xtg                                                xtg                                                                              3.0
+com.adobe.cq.cq-searchpromote-integration          AEM 6 - Adobe Search&Promote Integration                                         5.9.26
+com.adobe.cq.cq-target-integration                 AEM 6 - Adobe Target integration                                                 1.0.238
+com.adobe.cq.cq-analytics-integration              AEM 6 Analytics Integration Bundle                                               1.0.100
+com.day.cq.cq-personalization                      AEM Personalization                                                              5.9.310
+com.adobe.xmp.worker.files.host                    Adobe - XMPFiles Worker host                                                     1.0.6
+com.adobe.xmp.worker.files.native.fragment.linux   Adobe - XMPFiles Worker platform fragment linux                                  1.0.6
+com.adobe.xmp.worker.files.native.fragment.macosx  Adobe - XMPFiles Worker platform fragment macosx                                 1.0.6
+com.adobe.xmp.worker.files.native.fragment.win     Adobe - XMPFiles Worker platform fragment win                                    1.0.6
+com.adobe.cq.cq-deserialization-firewall           Adobe AEM Deserialization Firewall                                               1.0.16
+com.adobe.cq.cq-dtm                                Adobe CQ - DTM Integration Bundle                                                0.2.28
+com.adobe.cq.cq-content-insight                    Adobe CQ Content Insight and Recommendations                                     1.2.30
+com.adobe.cq.cq-contexthub-commons                 Adobe CQ ContextHub Commons                                                      0.1.12
+com.adobe.cq.cq-dam-mac-sync                       Adobe CQ DAM - Adobe Marketing Cloud Synchronisation Bundle                      1.3.2.B016
+com.adobe.cq.cq-dam-mac-sync-helper                Adobe CQ DAM - Adobe Marketing Cloud Synchronisation Helper                      1.2.44
+com.adobe.cq.dam.cq-delivery-api                   Adobe CQ DAM Delivery API                                                        1.1.6
+com.adobe.cq.dam.cq-delivery-internal-api          Adobe CQ DAM Delivery Internal API                                               1.1.2
+com.day.cq.dam.cq-dam-entitlement                  Adobe CQ DAM Entitlement Implementation                                          1.0.20
+com.adobe.cq.dam.cq-scene7-imaging                 Adobe CQ DAM Scene7 Dynamic Imaging                                              1.3.58
+com.adobe.cq.media.cq-media-publishing-dps-fp-api  Adobe CQ Media Publishing DPS Folio Producer Web Service Integration API Bundle  5.9.2
+com.day.cq.wcm.cq-wcm-translation                  Adobe CQ Translation Workflow                                                    1.2.192
+com.day.cq.wcm.cq-wcm-foundation                   Adobe CQ WCM Foundation Components                                               5.9.118
+com.adobe.cq.commerce.cq-commerce-core             Adobe Communique 5 Commerce Core                                                 5.14.108
+com.adobe.cq.commerce.cq-commerce-pim              Adobe Communique 5 Commerce Product Information Manager                          5.11.34
+com.adobe.cq.cq-history                            Adobe Communique 5 History                                                       5.9.6
+com.adobe.cq.cq-scheduled-exporter                 Adobe Communique 5 Scheduled Exporter                                            5.9.4
+com.adobe.cq.wcm.cq-wcm-launches-core              Adobe Communique 5 WCM Launches Core                                             5.10.52
+com.adobe.cq.sightly.cq-wcm-sightly-extension      Adobe Experience Manager Sightly Extension                                       1.3.22
+com.adobe.granite.auth.saml                        Adobe Granite - SAML 2.0 Authentication Handler                                  0.4.18.CQ620-B0010
+com.adobe.granite.asset.core                       Adobe Granite Asset API Implementation                                           2.2.36.CQ620-B0009
+com.adobe.granite.crx-packagemgr                   Adobe Granite CRX Package Manager                                                1.0.86.CQ620-B0012
+com.adobe.granite.crxde-lite                       Adobe Granite CRXDE Lite                                                         1.1.6.CQ620-B0001
+com.adobe.granite.contexthub.commons               Adobe Granite ContextHub Commons                                                 0.1.24.CQ620-B0001
+com.adobe.granite.auth.oauth                       Adobe Granite OAuth Authentication Handler                                       1.3.6.CQ620-B004
+com.adobe.granite.offloading.core                  Adobe Granite Offloading Core                                                    1.0.48.CQ620-B0001-NPR-12387-D000
+com.adobe.granite.omnisearch.core                  Adobe Granite OmniSearch Core Module                                             1.0.48.CQ620-B0005
+com.adobe.granite.rest.assets                      Adobe Granite RESTful API Assets                                                 1.0.14.CQ620-B0008
+com.adobe.granite.rest.api                         Adobe Granite RESTful API Core                                                   1.0.14.CQ620-B0003
+com.day.cq.cq-replication                          Adobe Granite Replication                                                        6.0.14.CQ620-B0016
+com.adobe.granite.security.user                    Adobe Granite Security Module                                                    0.2.18.CQ620-B0004
+com.adobe.granite.taskmanagement.core              Adobe Granite Taskmanagement Core                                                1.0.34.CQ620-B0002
+com.adobe.granite.threaddump                       Adobe Granite Thread Dumps collector                                             1.0.26.CQ620-B0003
+com.adobe.granite.ui.clientlibs                    Adobe Granite UI Clientlibs                                                      1.0.42
+com.adobe.granite.ui.clientlibs.processor.gcc      Adobe Granite UI Clientlibs - Google Closure Compiler                            1.0.6
+com.adobe.granite.workflow.core                    Adobe Granite Workflow Core                                                      2.0.12.CQ620-B0022
+pdfcore                                            Adobe PDF Core                                                                   3.0.577161
+pdfencryption                                      Adobe PDF Encryption                                                             3.0.577161
+PDFServices.extraction                             Adobe PDF Extraction services                                                    3.0.577161
+PDFServices.manipulations                          Adobe PDF Manipulation services                                                  3.0.577161
+org.apache.httpcomponents.httpclient               Apache Apache HttpClient OSGi bundle                                             4.5.2
+org.apache.httpcomponents.httpcore                 Apache Apache HttpCore OSGi bundle                                               4.4.5
+org.apache.commons.fileupload                      Apache Commons FileUpload                                                        1.3.2
+com.day.commons.osgi.wrapper.fop                   Apache FOP bundle                                                                1.11.0
+org.apache.felix.jaas                              Apache Felix JAAS Support                                                        1.0.2
+org.apache.jackrabbit.vault                        Apache Jackrabbit FileVault Core Bundle                                          3.1.39.R1795405
+org.apache.sling.servlets.get                      Apache Sling Default GET Servlets                                                2.1.22.B001
+org.apache.sling.servlets.post                     Apache Sling Default POST Servlets                                               2.3.12.B001
+org.apache.sling.discovery.base                    Apache Sling Discovery Base                                                      2.0.4
+org.apache.sling.discovery.commons                 Apache Sling Discovery Commons                                                   1.0.20
+org.apache.sling.distribution.core                 Apache Sling Distribution Core                                                   0.2.7.r1793810
+org.apache.sling.event                             Apache Sling Event Support                                                       4.1.0
+org.apache.sling.i18n                              Apache Sling Internationalization Support                                        2.5.6
+org.apache.sling.installer.provider.jcr            Apache Sling JCR Installer                                                       3.1.19.r1771114_r1792627-B0001
+org.apache.sling.models.impl                       Apache Sling Models Implementation                                               1.2.8.B001
+org.apache.sling.discovery.oak                     Apache Sling Oak-Based Discovery Service                                         1.2.22
+org.apache.sling.resourceresolver                  Apache Sling Resource Resolver                                                   1.4.16.B002
+org.apache.sling.commons.log                       Apache Sling SLF4J Implementation (Logback)                                      5.0.0
+org.apache.sling.scripting.sightly                 Apache Sling Scripting Sightly Engine                                            1.0.18.B001
+org.apache.sling.scripting.sightly.js.provider     Apache Sling Scripting Sightly JavaScript Use Provider                           1.0.10.B001
+org.apache.sling.serviceusermapper                 Apache Sling Service User Mapper                                                 1.2.4
+org.apache.tika.core                               Apache Tika core                                                                 1.14.0.CQ630-B0002
+com.adobe.cq.mobile.cq-mobile-core                 CQ Mobile Apps - Core Bundle                                                     6.2.152
+com.adobe.cq.mobile.cq-mobile-dps                  CQ Mobile Apps - DPS Integration Bundle                                          1.0.82
+com.adobe.cq.cq-product-info-provider              CQ ProductInfo Provider                                                          6.2.18
+com.adobe.cq.com.adobe.cq.projects.core            CQ Projects - Core Bundle                                                        0.2.86
+com.adobe.dam.cq-dam-cfm-impl                      ContentFragmentManagement - Implementation                                       0.8.48
+com.day.cq.dam.cq-dam-similaritysearch             DAM Similarity Search Bundle                                                     5.9.40
+com.day.cq.cq-commons                              Day Communique 5 Commons Library                                                 5.9.28
+com.day.cq.cq-content-sync                         Day Communique 5 Content Sync                                                    5.9.10
+com.day.cq.dam.cq-dam-api                          Day Communique 5 DAM API                                                         5.9.54
+com.day.cq.dam.cq-dam-handler                      Day Communique 5 DAM Asset Handler Implementation                                5.9.42
+com.day.cq.dam.cq-dam-commons                      Day Communique 5 DAM Commons                                                     5.9.142
+com.day.cq.dam.cq-dam-core                         Day Communique 5 DAM Core Implementation                                         5.9.218
+com.day.cq.dam.cq-dam-video                        Day Communique 5 DAM Video Extensions                                            5.9.4
+com.day.cq.dam.cq-dam-word                         Day Communique 5 DAM Word Integration                                            5.9.8
+com.day.cq.mcm.cq-mcm-salesforce                   Day Communique 5 MCM Salesforce.com Integration                                  1.3.4
+com.day.cq.cq-polling-importer                     Day Communique 5 Polling Importer                                                5.9.10
+com.day.cq.cq-rewriter                             Day Communique 5 Rewriter                                                        5.9.34
+com.day.cq.cq-security                             Day Communique 5 Security                                                        5.9.40
+com.day.cq.cq-tagging                              Day Communique 5 Tagging                                                         5.9.12
+com.day.cq.wcm.cq-wcm-core                         Day Communique 5 WCM Core Implementation                                         5.9.394
+com.day.cq.wcm.cq-wcm-designimporter               Day Communique 5 WCM Design Importer                                             1.3.18
+com.day.cq.wcm.cq-wcm-mobile-core                  Day Communique 5 WCM Mobile Core                                                 5.9.14
+com.day.cq.wcm.cq-msm-core                         Day Communique 5 WCM Multi Site Management Core                                  5.9.88
+com.day.cq.wcm.cq-wcm-workflow                     Day Communique 5 WCM Workflow                                                    5.9.20
+com.day.cq.workflow.cq-workflow-impl               Day Communique 5 Workflow Implementation                                         6.0.34
+com.day.cq.dam.cq-dam-s7dam                        Day Communique 5.6 DAM s7 Dam Integration                                        5.9.152
+com.adobe.granite.infocollector                    Granite Info Collector                                                           1.0.4.CQ620-B0001
+com.adobe.granite.oauth.server                     Granite OAuth Server                                                             1.0.8.CQ620-B0001
+com.adobe.granite.translation.connector.msft.core  Granite Translation - Microsoft Connector Core Bundle                            1.2.16.CQ620-B0009
+com.adobe.granite.poi                              OSGi bundle wrapper for the Apache POI library                                   2.0.22
+org.apache.jackrabbit.oak-solr-osgi                Oak Solr OSGi                                                                    1.4.7.r1762406
+jcl.over.slf4j                                     jcl-over-slf4j                                                                   1.7.21
+log4j.over.slf4j                                   log4j-over-slf4j                                                                 1.7.21
+slf4j.api                                          slf4j-api                                                                        1.7.21

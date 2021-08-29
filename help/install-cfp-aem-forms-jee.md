@@ -2,8 +2,8 @@
 title: Installing Cumulative Fix Packs on AEM Forms JEE
 description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE
 contentOwner: AK
+exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 ---
-
 # Installing Cumulative Fix Packs on AEM[!DNL  Forms] JEE{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## Install CFP on AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
@@ -13,7 +13,7 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 1. Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM 6.3 [!DNL Forms JEE] installer for the CFP.
 1. Run the CFP installer and configure AEM [!DNL Forms JEE] as described in [Install and configure AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Install the latest AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
-1. Install the [!DNL Forms] Add-on package for AEM CFP [6.3.3.x](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+1. Install the [!DNL Forms] Add-on package for AEM CFP [6.3.3.x](aem-forms-releases.md)
 
 ### Install AEM [!DNL Forms JEE] bundles package {#install-aem-forms-jee-bundles-package}
 
@@ -45,7 +45,7 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 1. Install [AEM Hotfix 12785 version 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785).
 1. Install [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 1. Install the latest [AEM 6.2 Service Pack1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md).
-1. Install the [!DNL Forms] Add-on package for [AEM 6.2 Service Pack 1 CFP](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+1. Install the [!DNL Forms] Add-on package for [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md).
 
 ### Install AEM [!DNL Forms JEE] bundles package {#install-aem-forms-jee-bundles-package-1}
 

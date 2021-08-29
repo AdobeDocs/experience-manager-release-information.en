@@ -2,8 +2,10 @@
 title: AEM 6.2 Cumulative Fix Pack
 description: AEM 6.2 Cumulative Fix Pack Release Notes.
 ---
-
 # AEM 6.2 Cumulative Fix Pack Release Notes{#release-notes-aem-cumulative-fix-pack}
+
+<!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
+-->
 
 ## Release information {#release-information}
 
@@ -34,7 +36,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 is the last Cumulative Fix Pack for AEM 6.
 
 >[!NOTE]
 >
->* A new Sling `discovery-  api` bundle  Johnzon  1.0.0 is included with AEM Cumulative Fix Pack 6.2 SP1-CFP10. In addition, a service user sling-discovery is added with  Read  and Write privileges for the node */var/discovery* in the CRX repository.
+>* A new Sling `discovery-  api` bundle Johnzon 1.0.0 is included with AEM Cumulative Fix Pack 6.2 SP1-CFP10. In addition, a service user sling-discovery is added with  Read  and Write privileges for the node */var/discovery* in the CRX repository.
 >
 >* Email bundle of apache commons **org.apache.commons/commons-email/1.5** has been added replacing **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
 >
@@ -49,7 +51,7 @@ In addition, this CFP includes hotfixes delivered in [previous cumulative fix pa
 
 ### Integration {#integration}
 
-* Backporting multiple Campaign Taregting personalization improvements. NPR-29163: Hotfix for CQ-4264126
+* Backporting multiple Campaign Targeting personalization improvements. NPR-29163: Hotfix for CQ-4264126
 * com.day.cq.personalization.impl.TeaserResourceEventHandler goes into an infinite loop and causes updates to nodes on publish instances. NPR-28561: Hotfix for CQ-4263096
 
 ### DAM - General {#dam-general}
@@ -62,7 +64,7 @@ In addition, this CFP includes hotfixes delivered in [previous cumulative fix pa
 
 ### Forms {#forms}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package}
 
@@ -147,7 +149,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Forms {#forms-1}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-1}
 
@@ -165,11 +167,11 @@ The following text documents the list of OSGI bundles and content packages inclu
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP19
 
-[Get File](assets/cfp19_osgi_bundles.txt)
+[Get File](assets/do-not-localize/cfp19_osgi_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP19
 
-[Get File](assets/cfp19_content_packages.txt)
+[Get File](assets/do-not-localize/cfp19_content_packages.txt)
 
 ### Cumulative Fix Pack 18 {#cumulative-fix-pack-2}
 
@@ -194,7 +196,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Migrate context hub to jquery 3. NPR-26956: Hotfix for CQ-4255472
 * Anchor input fields appear out of the browsers visible section on the dialog until maximized. NPR-26852: Hotfix for CQ-4255019
 * Copy paste of text inserting unwanted &lt;br&gt; in the Content fragment. NPR-26660: Hotfix for CRTE-151
-* Classic  siteadmin  does not render the list in the right pane for some pages. NPR-27247: Hotfix for CQ-4251621
+* Classic siteadmin does not render the list in the right pane for some pages. NPR-27247: Hotfix for CQ-4251621
 * (Classic UI) Attempts to move/rename pages generates an error, “An error occurred while moving page.” NPR-27179: Hotfix for CQ-4235907
 
 ### Integration {#integration-2}
@@ -219,7 +221,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Forms {#forms-2}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-2}
 
@@ -233,11 +235,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP18
 
-[Get File](assets/62cfp18updated_bundles.txt)
+[Get File](assets/do-not-localize/62cfp18updated_bundles.txt)
 
 List of content packages included in AEM 6.2 SP1-CFP18
 
-[Get File](assets/content_package_62sp1_cfp18.txt)
+[Get File](assets/do-not-localize/content_package_62sp1_cfp18.txt)
 
 ### Cumulative Fix Pack 17 {#cumulative-fix-pack-3}
 
@@ -263,7 +265,7 @@ The key highlights of this Cumulative Fix Pack are:
 * (External Link Checker) Invalid https links are shown as valid links. NPR-25541: Hotfix for CQ-4201333
 * (Classic UI) When creating a standalone page under a live copy, the page is created as a live copy. NPR-25610: Hotfix for CQ-4249801
 * Issues with publishing resources associated with the Design Importer component when a page is activated. NPR-25638: Hotfix for CQ-102532
-* RTE richtext toolbar covers select list. NPR-25165: Hotfix for CQ-4248948
+* RTE rich text toolbar covers select list. NPR-25165: Hotfix for CQ-4248948
 * Migrate contexthub to jquery 3. NPR-25059: Hotfix for Granite-19902
 * For a nested parsys components, always the first (with least nested path) satisfying design is applied from multiple available components. For more information, see [Design Path Resolution](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-static.html). NPR-25250: Hotfix for CQ-4246276
 
@@ -302,7 +304,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Forms {#forms-3}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-3}
 
@@ -325,11 +327,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP17
 
-[Get File](assets/62cfp17updated_bundles.txt)
+[Get File](assets/do-not-localize/62cfp17updated_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP17
 
-[Get File](assets/content_package_62sp1_cfp17_2.txt)
+[Get File](assets/do-not-localize/content_package_62sp1_cfp17_2.txt)
 
 ### Cumulative Fix Pack 16 {#cumulative-fix-pack-4}
 
@@ -405,7 +407,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-4}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-4}
 
@@ -425,7 +427,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 #### Adaptive Forms {#adaptive-forms-3}
 
-* “Guidelib is not defiend” error while adding AEM form to parsys component. NPR-24269: Hotfix for CQ-4244546
+* “Guidelib is not defined” error while adding AEM form to parsys component. NPR-24269: Hotfix for CQ-4244546
 
 ### Forms JEE Installer {#forms-jee-installer-4}
 
@@ -437,11 +439,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP16
 
-[Get File](assets/6_2cfp16_bundlecomparison-list.txt)
+[Get File](assets/do-not-localize/6_2cfp16_bundlecomparison-list.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP16
 
-[Get File](assets/6_2cfp16_contentpackage-list.txt)
+[Get File](assets/do-not-localize/6_2cfp16_contentpackage-list.txt)
 
 ### Cumulative Fix Pack 15 {#cumulative-fix-pack-5}
 
@@ -482,7 +484,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Saving the segment with a huge value (10000000000) sets the boost to 0 causing error message. NPR-22524: Hotfix for CQ-4237006
 * Unable to click on Add item in Multifield component. NPR-22552: Hotfix for CQ-4237404
 * The horizontal scrollbar is not visible when segment has a long title. NPR-22615: Hotfix for CQ-4237001
-* Loading of an empty audience generates an incorrect javascript code. NPR-22974: Hotfix for CQ-4238734
+* Loading of an empty audience generates an incorrect JavaScript code. NPR-22974: Hotfix for CQ-4238734
 * When scheduling an activation or deactivation the workflow title is mandatory, hence, the custom workflow title is not translated in the timeline. NPR-23121: Hotfix for CQ-4237552
 * Request for fixes to issues around Target segments in Sites. NPR-23128
 * (Firefox) Checkbox for selected persona is not the correct one. NPR-23345
@@ -557,11 +559,11 @@ The following text documents the list of OSGI bundles and content packages inclu
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP15
 
-[Get File](assets/6_2cfp15updated_bundles.txt)
+[Get File](assets/do-not-localize/6_2cfp15updated_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP15
 
-[Get File](assets/6_2_cfp15contentpackage-list.txt)
+[Get File](assets/do-not-localize/6_2_cfp15contentpackage-list.txt)
 
 ### Cumulative Fix Pack 14 {#cumulative-fix-pack-6}
 
@@ -572,7 +574,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Improved editability of metadata properties of assets.
 * Re-configured the Password Expiration Notification job for assets already in expired state.
 * Customized Touch UI console to extend additional locales. 
-* Updated cq-msm-core for efficient Livecopyindex synchronisation. 
+* Updated cq-msm-core for efficient Livecopyindex synchronization. 
 * Streamlined replication functionality to various Rollouts.
 
 ### Assets {#assets-5}
@@ -655,7 +657,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 #### Install LCM {#install-lcm}
 
-* Update Jsafe Jars to Cryptoj 6.1.3.1 in installer & LCM. NPR-22744
+* Update Jsafe Jars to Cryptoj 6.1.3.1 in installer and LCM. NPR-22744
 
 ### Feature Packs Included {#feature-packs-included}
 
@@ -667,11 +669,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP14
 
-[Get File](assets/6_2cfp14updated_bundles.txt)
+[Get File](assets/do-not-localize/6_2cfp14updated_bundles.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP14
 
-[Get File](assets/6_2_cfp14contentpackage-list.txt)
+[Get File](assets/do-not-localize/6_2_cfp14contentpackage-list.txt)
 AEM Cumulative Fix Pack 6.2 SP1-CFP13 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
 The key highlights of this Cumulative Fix Pack are:
@@ -702,7 +704,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Platform {#platform-4}
 
-* Performance issues with user sychronisation when number of users or groups is large. NPR-20431: Hotfix for CQ-4223282
+* Performance issues with user sychronization when number of users or groups is large. NPR-20431: Hotfix for CQ-4223282
 * Users not synced with User Synchronization using Sling Distribution. NPR-21911: Hotfix for Granite-20404
 * Preventing stop words from being highlighted in search excerpts (on a Geometrixx page). NPR-21835: Hotfix for Granite-21067   
   Note: This fix requires the Oak CFP 1.4.20 or higher.
@@ -745,11 +747,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP13
 
-[Get File](assets/cfp13_bundlecompare-list.txt)
+[Get File](assets/do-not-localize/cfp13_bundlecompare-list.txt)
 
 List of Content Packages included in AEM 6.2SP1-CFP13
 
-[Get File](assets/cfp13_contentpackage-list.txt)
+[Get File](assets/do-not-localize/cfp13_contentpackage-list.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP12.1 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -851,11 +853,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP12.1
 
-[Get File](assets/cfp12_bundlecomparsion-list1.txt)
+[Get File](assets/do-not-localize/cfp12_bundlecomparsion-list1.txt)
 
 List of Content Packages included in AEM 6.2 SP1-CFP12.1
 
-[Get File](assets/cfp12_contentpackage-list.txt)
+[Get File](assets/do-not-localize/cfp12_contentpackage-list.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP11 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -956,11 +958,11 @@ The key highlights for AEM Forms are:
 
 List of OSGi bundles included in AEM 6.2 SP1-CFP11
 
-[Get File](assets/cfp11_bundlecomparsion-list.txt)
+[Get File](assets/do-not-localize/cfp11_bundlecomparsion-list.txt)
 
 List of Content Packages included in AEM 6.2 SP1-CFP11
 
-[Get File](assets/cfp11_contentpackage-list.txt)
+[Get File](assets/do-not-localize/cfp11_contentpackage-list.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP10 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1038,11 +1040,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles included in AEM CFP 6.2 SP1-CFP10
 
-[Get File](assets/bundle-list-cfp10.txt)
+[Get File](assets/do-not-localize/bundle-list-cfp10.txt)
 
 List of Content Packages included in AEM CFP 6.2 SP1-CFP10
 
-[Get File](assets/contentpackage-list-cfp10.txt)
+[Get File](assets/do-not-localize/contentpackage-list-cfp10.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP9 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1121,11 +1123,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of content packages updated in AEM 6.2SP1-CFP9
 
-[Get File](assets/content_package-list62sp1-cfp9.txt)
+[Get File](assets/do-not-localize/content_package-list62sp1-cfp9.txt)
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP9
 
-[Get File](assets/content_package-list62sp1-cfp9-1.txt)
+[Get File](assets/do-not-localize/content_package-list62sp1-cfp9-1.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP8 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1181,7 +1183,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-12}
 
-* AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+* AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-12}
 
@@ -1218,11 +1220,11 @@ The key highlights of this Cumulative Fix Pack are:
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP8
 
-[Get File](assets/updated-bundles-list-cfp8.txt)
+[Get File](assets/do-not-localize/updated-bundles-list-cfp8.txt)
 
 List of content packages updated in AEM 6.2SP1-CFP8
 
-[Get File](assets/6_2sp1-cfp8-contentpackagelist.txt)
+[Get File](assets/do-not-localize/6_2sp1-cfp8-contentpackagelist.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP7 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1231,7 +1233,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Behavior change in displaying titles on Image card for Image having dc: title property set to String [] (multifield).
 * Fixes in Performance Issue with Dynamic Media Cloud Services, Touch UI & Security UI interfaces.
 * Fixes in Apache Felix Http Bridge 3.0.8
-* Resolved Binaryless replication(BLR) b/w author & publish environment.
+* Resolved binary-less replication (BLR) between author & publish environment.
 * Support for target Library file, AT.JS, an implementation library for client-side integration with Adobe Target designed for both typical web implementations and single-page applications.
 * Improved AEM performance by introducing user configurable connection timeout period for Marketing Cloud solutions (Analytics, DTM, Target and S&P).
 
@@ -1294,7 +1296,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-13}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-13}
 
@@ -1335,11 +1337,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP7
 
-[Get File](assets/bundle-list-6_2sp1cfp7.txt)
+[Get File](assets/do-not-localize/bundle-list-6_2sp1cfp7.txt)
 
 List of content packages updated in AEM 6.2SP1-CFP7
 
-[Get File](assets/cfp7_content_packages.txt)
+[Get File](assets/do-not-localize/cfp7_content_packages.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP6 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1409,7 +1411,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ## Forms {#forms-14}
 
-AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html).
+AEM Forms fixes are delivered through add-on packages and other patch installers provided with the release. For details, see [AEM Forms Releases](aem-forms-releases.md).
 
 ### Forms add-on package {#forms-add-on-package-14}
 
@@ -1439,11 +1441,11 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 List of OSGi bundles updated in AEM 6.2SP1-CFP6
 
-[Get File](assets/6.2sp1-cfp6-bundlelist.txt)
+[Get File](assets/do-not-localize/6.2sp1-cfp6-bundlelist.txt)
 
 List of content packages updated in AEM 6.2SP1-CFP6
 
-[Get File](assets/6_2sp1-cfp6-contentpackagelist.txt)
+[Get File](assets/do-not-localize/6_2sp1-cfp6-contentpackagelist.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP5 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1560,11 +1562,11 @@ Correspondence Management
 
 List of OSGi bundles updated between AEM6.2 SP1-CFP5
 
-[Get File](assets/cfp5_osgi_bundles.txt)
+[Get File](assets/do-not-localize/cfp5_osgi_bundles.txt)
 
 List of content packages updated between AEM6.2 SP1-CFP5
 
-[Get File](assets/content-package-cfp5.txt)
+[Get File](assets/do-not-localize/content-package-cfp5.txt)
 
 AEM Cumulative Fix Pack 6.2 SP1-CFP4 is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1.
 
@@ -1735,7 +1737,7 @@ The key highlights of CFP3 are:
 * A race condition in the **ModelAdapterFactory**, which is possible when two threads try to inject the same field, results in failure to construct the model. NPR-16443: Hotfix for SLING-6584
 * Validation option in package manager to detect any conflicts between overlaid file (JSP or JavaScript file) under /apps and the one that contained in a Hotfix under /libs. Affected overlay can then be rebased to include changes from the file under /libs . NPR-16216: Hotfix for CQ-81729
 * Logging in the error.log sometimes stops a few seconds after starting the publisher and needs to be cleared to run again. Request to update the logging framework and provide Sling logging. NPR-15913: Hotfix for Granite-15452
-* Request to update the JavaScript " `use"` API to avoid failure in the HTL Javascript Use API implementation. NPR-16461: Hotfix for SLING-6780
+* Request to update the JavaScript " `use"` API to avoid failure in the HTL JavaScript Use API implementation. NPR-16461: Hotfix for SLING-6780
 
 ### Sites {#sites-16}
 
@@ -1842,7 +1844,7 @@ The key highlights of CFP3 are:
 
 List of OSGi bundles updated between AEM 6.2 SP1 and CFP3
 
-[Get File](assets/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)
+[Get File](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)
 The key highlights of Cumulative Fix Pack 2 are:
 
 * Stability fixes and performance improvements in AEM platform, including Sling framework and operations
@@ -2243,7 +2245,7 @@ The CFP can be automatically installed into a running instance in the following 
 >(**AEM Forms on JEE only**) The procedure to install a CFP on AEM Forms on JEE is described in [Installing CFP on AEM Forms JEE](install-cfp-aem-forms-jee.md#install-cfp-on-aem-forms-jee).
 
 1. Ensure that you have installed the AEM 6.2 SP1 CFP package. 
-1. Download the corresponding Forms add-on package listed at [AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) for your operating system.
+1. Download the corresponding Forms add-on package listed at [AEM Forms releases](aem-forms-releases.md) for your operating system.
 1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://helpx.adobe.com/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html).
 
 #### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}
@@ -2414,7 +2416,7 @@ The Uber Jar for 6.2 SP1-CFP20 is available at [Adobe Public Maven repository](h
 
 To use Uber Jar in a Maven project, include the following dependency in your project POM:
 
-```
+```XML
 <dependency>
     <groupId>com.adobe.aem</groupId>
     <artifactId>uber-jar</artifactId>
@@ -2428,19 +2430,14 @@ To use Uber Jar in a Maven project, include the following dependency in your pro
 
 The following text documents the list of OSGI bundles and content packages included in the CFP.
 
-List of OSGi bundles included in AEM 6.2 SP1-CFP20
+* [List of OSGi bundles included in AEM 6.2 SP1-CFP20](assets/do-not-localize/updated.txt)
+* [List of Content Packages included in AEM 6.2SP1-CFP20](assets/do-not-localize/content_package_comparison_result.txt)
 
-[Get File](assets/updated.txt)
-
-List of Content Packages included in AEM 6.2SP1-CFP20
-
-[Get File](assets/content_package_comparison_result.txt)
-
-## Helpful resources {#helpful-resources}
-
-* [AEM 6.2 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
-* [AEM 6.2 SP1 release notes](https://docs.adobe.com/content/docs/en/aem/6-2/release-notes/sp1.html)  
-* [AEM 6.2 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
-* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
-* [AEM 6.2 documentation](https://docs.adobe.com/content/docs/en/aem/6-2.html)
-* [Subscribe](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) to [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
+>[!MORELIKETHIS]
+>
+>* [AEM 6.2 hotfixes page](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
+>* [AEM 6.2 SP1 release notes](https://docs.adobe.com/content/docs/en/aem/6-2/release-notes/sp1.html)  
+>* [AEM 6.2 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
+>* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
+>* [AEM 6.2 documentation](https://docs.adobe.com/content/docs/en/aem/6-2.html)
+>* [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
