@@ -1,6 +1,6 @@
 ---
 title: AEM 6.3 Cumulative Fix Pack
-description: AEM 6.3 Cumulative Fix Pack Release Notes
+description: AEM 6.3 Cumulative Fix Pack Release Notes.
 ---
 
 # AEM 6.3 Cumulative Fix Pack Release Notes {#release-notes-aem-cumulative-fix-pack}
