@@ -12,7 +12,7 @@ description: AEM 6.2 Cumulative Fix Pack Release Notes.
 | **Product** |Adobe Experience Manager |
 |---|---|
 | **Version** |6.2 |
-| **Release** | [Cumulative Fix Pack 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **Release** | Cumulative Fix Pack 6.2 SP1-CFP20|
 | **Prerequisite** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **General availability** |06th June, 2019 |
 
@@ -2196,7 +2196,7 @@ This section walks you through the requirements and steps to install the CFP.
 
 * AEM 6.2 Service Pack 1 is a prerequisite for the CFP. For installation instructions, see [AEM 6.2 Service Pack 1 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).  
 
-* The Cumulative Fix Pack download is available on [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), which you can access directly from the AEM instance.
+* The Cumulative Fix Pack download is available on [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html), which you can access directly from the AEM instance.
 * For a cluster deployment using ( RDBMK  or MongoDB), the CFP package can be installed on any of the Author instances that  uses  Package Manager.
 
 * Before installing the cumulative fix pack, ensure to take a snapshot or make a backup of your AEM instance.

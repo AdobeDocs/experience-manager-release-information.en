@@ -212,7 +212,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI Reference Site Package</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov Reference Site Package</a></li> 
      </ul> </td> 
-    <td><p>AEM Forms Add-on Packages &amp; Client SDK: <a href="https://repo.adobe.com/nexus/content/repositories/public/com/adobe/aemfd/aemfd-client-sdk/6.0.80/">6.0.80</a></p> <p>AEM Websphere Global Security Configuration Package: 6.5.0.20190329.1.935745</p> <p>AEM Forms App Source: 5.0.16</p> <p> </p> </td> 
+    <td><p>AEM Forms Add-on Packages &amp; Client SDK: 6.0.80</p> <p>AEM Websphere Global Security Configuration Package: 6.5.0.20190329.1.935745</p> <p>AEM Forms App Source: 5.0.16</p> <p> </p> </td> 
    </tr> 
   </tbody> 
  </table>
