@@ -17,7 +17,7 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 
 ### Install AEM [!DNL Forms JEE] bundles package {#install-aem-forms-jee-bundles-package}
 
-[AEM[!DNL  Forms JEE] package](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG) (aemfd-jee-bundles-package-6.3CFP1; version 1.0.2) provides [!DNL Forms] User on AEM [!DNL Forms JEE] the same rights and capabilities as that on AEM [!DNL Forms OSGi]. Check your installed packages in Package Manager and install the package if it is not already installed.  
+AEM [!DNL  Forms JEE] package (aemfd-jee-bundles-package-6.3CFP1; version 1.0.2) provides [!DNL Forms] User on AEM [!DNL Forms JEE] the same rights and capabilities as that on AEM [!DNL Forms OSGi]. Check your installed packages in Package Manager and install the package if it is not already installed.  
 
 ### Additional instructions for CQ-4208044 {#additional-instructions-for-cq}
 
@@ -42,14 +42,14 @@ Perform the following steps, in the specified sequence, to install cumulative fi
 
 1. Contact [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html) to obtain the AEM 6.2 [!DNL Forms JEE] installer for the CFP.
 1. Run the CFP installer and configure AEM [!DNL Forms JEE] as described in [Install and configure AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
-1. Install [AEM Hotfix 12785 version 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785).
+1. Install AEM Hotfix 12785 version 7.0.
 1. Install [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 1. Install the latest [AEM 6.2 Service Pack1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md).
 1. Install the [!DNL Forms] Add-on package for [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md).
 
 ### Install AEM [!DNL Forms JEE] bundles package {#install-aem-forms-jee-bundles-package-1}
 
-[AEM Forms JEE package](https://www.adobeaemcloud.com/content/packageshare/tools/login.html?resource=%2Fcontent%2Fmarketplace%2FmarketplaceProxy.html%3FpackagePath%3D%2Fcontent%2Fcompanies%2Fpublic%2Fadobe%2Fpackages%2Fcq620%2Fcumulativefixpack%2Ffd%2FAEM-FORMS-6.2-SP1-CFP5-JEE-PKG&$$login$$=%24%24login%24%24) (aemfd-jee-bundles-package-6.2CFP5; version 1.0.2) provides [!DNL Forms] User on AEM [!DNL Forms JEE] the same rights and capabilities as that on AEM [!DNL Forms OSGi]. Check your installed packages in Package Manager and install the package if it is not already installed.
+AEM Forms JEE package (aemfd-jee-bundles-package-6.2CFP5; version 1.0.2) provides [!DNL Forms] User on AEM [!DNL Forms JEE] the same rights and capabilities as that on AEM [!DNL Forms OSGi]. Check your installed packages in Package Manager and install the package if it is not already installed.
 
 ### Configuring timeout for operations at component level (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 

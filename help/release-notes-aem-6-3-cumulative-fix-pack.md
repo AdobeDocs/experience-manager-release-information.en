@@ -9,7 +9,7 @@ description: AEM 6.3 Cumulative Fix Pack Release Notes.
 | **Product** |Adobe Experience Manager |
 |---|---|
 | **Version** |6.3 |
-| **Release** |Cumulative Fix Pack 6.3.3.8 on [PackageShare](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8), [Software Distribution(Beta)](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
+| **Release** |Cumulative Fix Pack 6.3.3.8 on [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
 | **Prerequisite** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **General availability** |March 05, 2020 |
 
@@ -1715,7 +1715,7 @@ AEM Cumulative Fix Pack 6.3.0.1 is an important update that includes several int
 
 ## Download Instructions for CFP via Software Distribution {#download-instructions-for-cfp-via-package-share}
 
-You can download the CFP package directly from [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8) or perform the following steps:
+You can download the CFP package directly from [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) or perform the following steps:
 
 1. Open [Software Distribution](https://experience.adobe.com/downloads). You require an Adobe ID to log in to the Software Distribution.
 1. Tap **[!UICONTROL Adobe Experience Manager]** available in the header menu.
