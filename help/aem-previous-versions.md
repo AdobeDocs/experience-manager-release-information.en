@@ -7,7 +7,7 @@ exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 
 ## Older versions of [!DNL Experience Manager] documentation {#older-version-aem-documentation}
 
-The versions of [!DNL Experience Manager], CQ and CRX listed on this page are End of Life and no longer officially sold by Adobe. Our last versions of official documentation for these older versions are available for your self-help needs. We recommend you upgrade to the latest version (which currently is [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html)).
+The versions of [!DNL Adobe Experience Manager], CQ and CRX listed on this page are End of Life and no longer officially sold by Adobe. Our last versions of official documentation for these older versions are available for your self-help needs. We recommend you upgrade to the latest version - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)).
 
 >[!NOTE]
 >
