@@ -26,7 +26,7 @@ For Managed Services and on-premise offerings, the article lists the latest Cumu
 
 [!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes.
 
-* [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)
 

@@ -60,6 +60,7 @@ You can also view [previous documentation updates](previous-documentation-update
 
 | Date | Topic | Changes |
 | --- | --- | --- |
+| November 25, 2021 | [!DNL Experience Manager] 6.5 Service Pack 11 | [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | November 03, 2021 | Smart Crop Video Viewer API | New [Smart Crop Video Viewer API documentation now available](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=en) in the Dynamic Media Viewers Reference Guide. |
 | August 26, 2021 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
 | May 27, 2021 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) is available. |
