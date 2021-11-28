@@ -17,7 +17,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 |2021.11.0  |Monthly Release |December 2, 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 |2021.11.0  |Monthly Release |December 16, 2021 |
 
 In addition to the monthly releases, various critical updates are available in [!DNL Experience Manager] as a [!DNL Cloud Service] with a daily release frequency.
 
