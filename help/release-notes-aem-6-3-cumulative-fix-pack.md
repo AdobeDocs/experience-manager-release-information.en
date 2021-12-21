@@ -88,6 +88,10 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 * Designer: If there are merged cells in a table, the accessibility test fails for the output PDF file converted from an XDP form using the output service (NPR-32068).  
 * Document Security: A protected PDF file fails to open offline with `DisableGlobalOfflineSynchronizationData` option set to `True` (NPR-32080).
 
+**Issues fixed in 6.3.0-0047**
+
+* (JEE Only) Critical security vulnerabilities (CVE-2021-44228 and CVE-2021-45046) reported for Apache Log4j2.
+
 ## Hotfixes and Feature Packs included in previous Cumulative Fix Packs {#previous}
 
 ### Cumulative Fix Pack 6.3.3.7 {#cumulative-fix-pack-1}
