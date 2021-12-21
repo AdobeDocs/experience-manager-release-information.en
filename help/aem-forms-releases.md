@@ -603,7 +603,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0047/WebSphere/Win/AEMForms-6.5.0--0047_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/Linux/AEMForms-6.3.0-0047_websphere_linux.tar.gz">WebSphere Linux</a></li> 
     </ul> </td> 
-   <td><p>AEM Forms Add-on Packages: 4.1.160</p> <p>Client SDK: 4.1.158<br /> </p> <p>AEM Forms JEE installer: AEMForms-6.3.0-0045<br /> </p> </td> 
+   <td> <p>AEM Forms JEE installer: AEMForms-6.3.0-0047<br /> </p> </td> 
   </tr> 
   <tr> 
    <td>05 Mar 2020</td> 
