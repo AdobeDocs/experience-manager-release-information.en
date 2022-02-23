@@ -19,7 +19,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 |2021.11.0  |Monthly Release |December 16, 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 |2022.1.0  |Monthly Release |February 3, 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 |2022.2.0  |Monthly Release |February 24, 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 |2022.2.0  |Monthly Release |March 3, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 |2022.3.0  |Monthly Release |March 31, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 |2022.4.0  |Monthly Release |April 28, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 |2022.5.0  |Monthly Release |May 26, 2022 |
