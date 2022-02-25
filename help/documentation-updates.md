@@ -1,5 +1,5 @@
 ---
-title: [!DNL Experience Manager] recent documentation updates
+title: "[!DNL Experience Manager] recent documentation updates"
 description: What is new, updated, or changed in [!DNL Experience Manager] documentation
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289

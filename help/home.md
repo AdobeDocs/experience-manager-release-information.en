@@ -1,6 +1,6 @@
 ---
-title: [!DNL Adobe Experience Manager] Release Updates and Roadmap
-description: [!DNL Adobe Experience Manager] Release Updates and Roadmap
+title: "[!DNL Adobe Experience Manager] Release Updates and Roadmap"
+description: "[!DNL Adobe Experience Manager] Release Updates and Roadmap"
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 ---
 # Adobe Experience Manager Release Updates and Roadmap
