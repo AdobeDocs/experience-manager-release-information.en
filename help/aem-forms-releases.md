@@ -26,7 +26,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
     <td><strong>Build Versions</strong></td>
    </tr>
    <tr>
-    <td>03 February 2022</td>
+    <td>03 March 2022</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 12 Forms add-on package for AEM 6.5.12.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.12.0</a></td>
     <td>
