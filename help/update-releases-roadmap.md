@@ -13,17 +13,15 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) follows a monthly release cadence. As a result, new features are available as continuous updates to [!DNL Experience Manager] every month. The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service]s are as follows.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) generally follows a monthly release cadence for new features. The upcoming feature releases for [!DNL Experience Manager] as a [!DNL Cloud Service]s are planned as follows.
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 |2021.11.0  |Monthly Release |December 16, 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 |2022.1.0  |Monthly Release |February 3, 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 |2022.3.0  |Monthly Release |March 31, 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 |2022.4.0  |Monthly Release |April 28, 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 |2022.5.0  |Monthly Release |May 26, 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 |2022.3.0  |Feature Release |March 31, 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 |2022.4.0  |Feature Release |April 28, 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 |2022.5.0  |Feature Release |May 26, 2022 |
 
-In addition to the monthly releases, various critical updates are available in [!DNL Experience Manager] as a [!DNL Cloud Service] with a daily release frequency.
+In addition to the feature releases, critical bug and security fixes are made available in [!DNL Experience Manager] as a [!DNL Cloud Service] in the form of maintenance releases, with a corresponding maintenance update generally happening on a weekly basis.
 
 ## [!DNL Experience Manager] on-premise and managed services {#aem-on-prem-managed-services}
 
