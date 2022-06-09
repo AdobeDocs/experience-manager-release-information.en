@@ -11,11 +11,6 @@ This guide covers information about [!DNL Adobe Experience Manager] releases roa
 * [[!DNL Experience Manager] releases roadmap](update-releases-roadmap.md)
 * [[!DNL Experience Manager] release vehicle definitions](update-release-vehicle-definitions.md)
 
-## Previous release updates
-
-* [Release Notes: [!DNL Experience Manager] 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [Release Notes: [!DNL Experience Manager] 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
-
 ## [!DNL Experience Manager] Forms release updates
 
 * [[!DNL Experience Manager] Forms releases](aem-forms-releases.md)

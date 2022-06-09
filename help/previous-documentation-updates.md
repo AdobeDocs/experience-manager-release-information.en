@@ -35,12 +35,12 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>20 Nov 2019</td> 
    <td>AEM Project Archetype<br /> </td> 
-   <td>The <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html">AEM Project Archetype</a> is a useful and flexible tool to make front-end development for your AEM project easier.<br /> </td> 
+   <td>The <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">AEM Project Archetype</a> is a useful and flexible tool to make front-end development for your AEM project easier.<br /> </td> 
   </tr>
   <tr>
    <td>18 Oct 2019<br /> </td> 
    <td>AEM Project Archetype<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html">The AEM Project Archetype</a> creates a best-practices-based Adobe Experience Manager project as a starting point for your own AEM projects.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">The AEM Project Archetype</a> creates a best-practices-based Adobe Experience Manager project as a starting point for your own AEM projects.<br /> </td> 
   </tr>
   <tr>
    <td>18 Oct 2019<br /> </td> 
@@ -60,7 +60,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Oct 08, 2019</td> 
    <td>AEM Screens<br /> </td> 
-   <td><p>AEM Screens released AEM 6.4.6 Feature Pack 6 and AEM 6.5.2 Feature Pack 2.</p> <p>Refer to <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html">Release Notes for Feature Pack 201909</a> for more details.</p> </td> 
+   <td><p>AEM Screens released AEM 6.4.6 Feature Pack 6 and AEM 6.5.2 Feature Pack 2.</p> <p>Refer to <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html">Release Notes for Feature Pack 201909</a> for more details.</p> </td> 
   </tr>
   <tr>
    <td>Oct 01, 2019</td> 
@@ -70,7 +70,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Oct 01, 2019 </td> 
    <td>Best Practices Guide for AEM Screens Projects</td> 
-   <td><p>This new guide not only provides a comprehensive insight and practical advice to imagine, design and bring intentional customer experiences into your digital signage implementation but also guides you how to create a positive impact on your business using some of the best practices followed while deploying a digital signage project in AEM Screens.</p> <p>Refer to <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html">Best Practices Guide for AEM Screens Projects</a> for more details.</p> </td> 
+   <td><p>This new guide not only provides a comprehensive insight and practical advice to imagine, design and bring intentional customer experiences into your digital signage implementation but also guides you how to create a positive impact on your business using some of the best practices followed while deploying a digital signage project in AEM Screens.</p> <p>Refer to <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html">Best Practices Guide for AEM Screens Projects</a> for more details.</p> </td> 
   </tr>
   <tr>
    <td>25 September 2019</td> 
@@ -100,12 +100,12 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Sep 9, 2019</td> 
    <td>AEM desktop app</td> 
-   <td>AEM desktop app v2.0 is publicly available for creatives, marketers, and line-of-business users, to work with AEM Assets. See the <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html" target="_blank">release notes</a>.<br /> </td> 
+   <td>AEM desktop app v2.0 is publicly available for creatives, marketers, and line-of-business users, to work with AEM Assets. See the <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">release notes</a>.<br /> </td> 
   </tr>
   <tr>
    <td>Sep 9, 2019</td> 
    <td>Core Components<br /> </td> 
-   <td>Learn about the localization features of the Core Components and how they work with AEM templates <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html">in this example.</a><br /> </td> 
+   <td>Learn about the localization features of the Core Components and how they work with AEM templates <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html">in this example.</a><br /> </td> 
   </tr>
   <tr>
    <td>Sep 6, 2019</td> 
@@ -115,17 +115,17 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Aug 21, 2019</td> 
    <td>AEM 6.5 Screens User Guide</td> 
-   <td>A new section on Network Deployment Basics is now live. Refer to <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">User Guide</a> for more details.</td> 
+   <td>A new section on Network Deployment Basics is now live. Refer to <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html">User Guide</a> for more details.</td> 
   </tr>
   <tr>
    <td>Aug 20, 2019</td> 
    <td>AEM Assets Smart Tags<br /> </td> 
-   <td>Know how to <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/config-smart-tagging.html#certrenew" target="_blank">update certificate</a> after it expires.</td> 
+   <td>Know how to <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#certrenew" target="_blank">update certificate</a> after it expires.</td> 
   </tr>
   <tr>
    <td>Aug 2, 2019</td> 
    <td>New PDF rasterizer package<br /> </td> 
-   <td>A <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-pdf-rasterizer.html" target="_blank">new package is available</a> that helps AEM Assets process heavy AI/PDF files and generate previews and thumbnails.<br /> </td> 
+   <td>A <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-pdf-rasterizer.html" target="_blank">new package is available</a> that helps AEM Assets process heavy AI/PDF files and generate previews and thumbnails.<br /> </td> 
   </tr>
   <tr>
    <td>Jul 25, 2019</td> 
@@ -145,7 +145,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Jul 03, 2019</td> 
    <td>Experience Fragments</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">The Experience Fragment Link Rewriter Provider - HTML</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">The Experience Fragment Link Rewriter Provider - HTML</a>.</td> 
   </tr>
   <tr>
    <td>Jul 03, 2019</td> 
@@ -205,7 +205,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Apr 18, 2019</td> 
    <td>AEM 6.5 Reference Materials</td> 
-   <td><p><a href="https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/reference-materials.html">Reference Materials</a> are available including:</p> 
+   <td><p><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html">Reference Materials</a> are available including:</p> 
     <ul> 
      <li>Adobe AEM 6.5.0 API</li> 
      <li>Granite UI (touch-enabled UI) API Documentation</li> 
@@ -224,7 +224,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>April 8, 2019</td> 
    <td>AEM Assets</td> 
-   <td>The folder sharing functionality is deprecated. See <a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">folder sharing best practices</a>.</td> 
+   <td>The folder sharing functionality is deprecated. See <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html" target="_blank">folder sharing best practices</a>.</td> 
    </tr>
  </tbody>
 </table>
@@ -241,12 +241,12 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Dec 12 2019</td> 
    <td>AEM 6.4 Service Pack 7</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 7</a> is available.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 7</a> is available.</td> 
   </tr>
   <tr>
    <td>October 11, 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">ActivityMap plugin provided by Adobe Analytics</a> should now be used. </p> </td> 
   </tr>
   <tr>
    <td>Sep 25, 2019</td> 
@@ -256,12 +256,12 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Sep 19, 2019</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> is available.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> is available.</td> 
   </tr>
   <tr>
    <td>Sep 9, 2019<br /> </td> 
    <td>AEM desktop app</td> 
-   <td>AEM desktop app v2.0 is publicly available for creatives, marketers, and line-of-business users, to work with AEM Assets. See the <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html" target="_blank">release notes</a>.</td> 
+   <td>AEM desktop app v2.0 is publicly available for creatives, marketers, and line-of-business users, to work with AEM Assets. See the <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">release notes</a>.</td> 
   </tr>
   <tr>
    <td>Sep 6, 2019</td> 
@@ -463,7 +463,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>July 11, 2018</td> 
    <td>Image Enhancements<br /> </td> 
-   <td>Various <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/featurepack/cq-6.3.0-featurepack-24268">feature pack 24268</a> and for AEM 6.4 in <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">feature pack 24267</a>.<br /> </td> 
+   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">feature pack 24267</a>.<br /> </td> 
   </tr>
   <tr>
    <td>July 5, 2018</td> 
@@ -609,7 +609,7 @@ The following versions were moved:
     <tr>
    <td>Dec 12 2019</td> 
    <td>AEM 6.3.3.7</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.7</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>October 11, 2019</td> 
@@ -619,7 +619,7 @@ The following versions were moved:
   <tr>
    <td>September 25, 2019</td> 
    <td>AEM 6.3.3.6</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.6</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>September 9, 2019<br /> </td> 
@@ -629,22 +629,22 @@ The following versions were moved:
   <tr>
    <td>July 03, 2019</td> 
    <td>AEM 6.3.3.5</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.5</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>May 09, 2019</td> 
    <td>AEM 6.3.3.4</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.4</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>March 14, 2019</td> 
    <td>AEM 6.3.3.3</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.3</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>January 15, 2019</td> 
    <td>AEM 6.3.3.2</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.2</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>January 10, 2019</td> 
@@ -664,7 +664,7 @@ The following versions were moved:
   <tr>
    <td>November 15, 2018</td> 
    <td>AEM 6.3.3.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.3.1</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>October 16, 2018</td> 
@@ -724,7 +724,7 @@ The following versions were moved:
   <tr>
    <td>June 25, 2018</td> 
    <td>AEM 6.3.2.2</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.2.2</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>May 30, 2018</td> 
@@ -739,7 +739,7 @@ The following versions were moved:
   <tr>
    <td>May 10, 2018</td> 
    <td>AEM 6.3.2.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.2.1</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>April 30, 2018</td> 
@@ -779,7 +779,7 @@ The following versions were moved:
   <tr>
    <td>January 8, 2018</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.1.2<br /> </td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.1.2</a> for AEM 6.3 is available.<br /> </td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.<br /> </td> 
   </tr>
   <tr>
    <td>December 14, 2017<br /> </td> 
@@ -789,7 +789,7 @@ The following versions were moved:
   <tr>
    <td>November 29, 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.1.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.1.1</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>November 28, 2017</td> 
@@ -896,7 +896,7 @@ The following versions were moved:
   <tr>
    <td>August 8, 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.0.2</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.0.2</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>July 27, 2017</td> 
@@ -911,7 +911,7 @@ The following versions were moved:
   <tr>
    <td>June 23, 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.0.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md">Cumulative Fix Pack 6.3.0.1</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>June 7, 2017</td> 
@@ -957,12 +957,12 @@ The following versions were moved:
   <tr>
    <td>June 6, 2019</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 20</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>December 11, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 18</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>October 16, 2018</td> 
@@ -977,7 +977,7 @@ The following versions were moved:
   <tr>
    <td>October 10, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 17</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>August 29, 2018</td> 
@@ -992,7 +992,7 @@ The following versions were moved:
   <tr>
    <td>August 3, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 16</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>August 2, 2018</td> 
@@ -1002,7 +1002,7 @@ The following versions were moved:
   <tr>
    <td>June 11, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack<br /> </td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 15</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>April 30, 2018</td> 
@@ -1012,32 +1012,32 @@ The following versions were moved:
   <tr>
    <td>April 10, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 14</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>March 12, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 13</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>February 13, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 12</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>January 18, 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 11</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>December 8, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 10</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>November 9, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 9</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>October 10, 2017</td> 
@@ -1047,27 +1047,27 @@ The following versions were moved:
   <tr>
    <td>October 9, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 8</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>September 12, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 7</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>August 11, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 6</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>July 5, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 5</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>June 5, 2017</td> 
    <td>AEM 6.2 Cumulative Fix Packs</td> 
-   <td><a href="release-notes-aem-6-2-cumulative-fix-pack.md">Cumulative Fix Pack 4</a> for AEM 6.2 Service Pack 1 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.2 Service Pack 1 is available.</td> 
   </tr>
   <tr>
    <td>April 12, 2017</td> 
