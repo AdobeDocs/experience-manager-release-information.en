@@ -19,8 +19,6 @@ level: Beginner, Intermediate, Experienced
 + [AEM releases roadmap](update-releases-roadmap.md)
 + [AEM update release vehicle definitions](update-release-vehicle-definitions.md)
 + Previous release updates {#previous-updates}
-  + [AEM 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
-  + [AEM 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
   + [Older versions of AEM, CQ, and CRX](aem-previous-versions.md)
 + AEM Forms release updates {#forms-updates}
   + [AEM Forms releases](aem-forms-releases.md)
