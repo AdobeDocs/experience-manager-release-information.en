@@ -463,7 +463,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>July 11, 2018</td> 
    <td>Image Enhancements<br /> </td> 
-   <td>Various <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/featurepack/cq-6.3.0-featurepack-24268">feature pack 24268</a> and for AEM 6.4 in <a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">feature pack 24267</a>.<br /> </td> 
+   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">feature pack 24267</a>.<br /> </td> 
   </tr>
   <tr>
    <td>July 5, 2018</td> 
