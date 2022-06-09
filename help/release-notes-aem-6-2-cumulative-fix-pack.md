@@ -830,7 +830,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 * Upgrading to the latest Java 8 Update 131 throws an exception: "JsafeJCE provider is disabled, a FIPS 140 required self-integrity check failed". NPR-21355  
 
-  **Note:** This NPR requires additional settings, for details refer to [Latest Java 8 update](release-notes-aem-6-2-cumulative-fix-pack.md#latest-java-update-throws-an-exception-npr).
+  **Note:** This NPR requires additional settings, for details refer to [Latest Java 8 update](#latest-java-update-throws-an-exception-npr).
 
 * Update jsafe jars to cryptoj 6.1.3.1 in Core, Encryption, Signature & Document Security. NPR-21360, NPR-21361, NPR-21356, NPR-21358
 
@@ -1742,7 +1742,7 @@ The key highlights of CFP3 are:
 
 ### Sites {#sites-16}
 
-* After upgrading from AEM 6.0 to AEM 6.2, the Classic UI shows slow performance while searching tags due to numerous queries. To resolve the issue, the steps mentioned under [Disable replication status in tagging console (classic UI)](release-notes-aem-6-2-cumulative-fix-pack.md#disable-replication-status-in-tagging-console-classic-ui-npr) can be followed. NPR-15842: Hotfix for CQ-4201748.   
+* After upgrading from AEM 6.0 to AEM 6.2, the Classic UI shows slow performance while searching tags due to numerous queries. To resolve the issue, the steps mentioned under [Disable replication status in tagging console (classic UI)](#disable-replication-status-in-tagging-console-classic-ui-npr) can be followed. NPR-15842: Hotfix for CQ-4201748.   
 
 * While creating a page in the Touch UI, the Input check for 'name' field does not check the special character 'Apostrophe' (same as in the Classic UI). Therefore, the page cannot be moved. NPR-16404: Hotfix for CQ-4205321. 
 * Applying different styles on two rows in Rich Text Editor and then merging them removes the style applied on the second row. NPR-16389: Hotfix for CQ-4203835.  
