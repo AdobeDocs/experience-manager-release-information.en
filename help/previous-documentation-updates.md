@@ -724,7 +724,7 @@ The following versions were moved:
   <tr>
    <td>June 25, 2018</td> 
    <td>AEM 6.3.2.2</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.2.2</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>May 30, 2018</td> 
@@ -789,7 +789,7 @@ The following versions were moved:
   <tr>
    <td>November 29, 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.1.1</td> 
-   <td><a href="release-notes-aem-6-3-cumulative-fix-pack.md" target="_blank">Cumulative Fix Pack 6.3.1.1</a> for AEM 6.3 is available.</td> 
+   <td>Cumulative Fix Pack for AEM 6.3 is available.</td> 
   </tr>
   <tr>
    <td>November 28, 2017</td> 
