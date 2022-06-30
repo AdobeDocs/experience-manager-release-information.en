@@ -565,10 +565,13 @@ This page lists older important documentation changes and updates for [!DNL Adob
 
 ## Legacy Content {#legacy-content}
 
-As of Oct. 24, 2017, legacy versions of AEM documentation have moved to a new location at [https://helpx.adobe.com/experience-manager/aem-previous-versions.html](https://helpx.adobe.com/experience-manager/aem-previous-versions.html).
+As of Oct. 24, 2017, legacy versions of AEM documentation have moved to a new location at [Older versions of Adobe Experience Manager, CQ, and CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 
 The following versions were moved:
 
+* AEM 6.3
+* AEM 6.2
+* AEM 6.1
 * AEM 6.0
 * AEM 5.6.1
 * AEM 5.6
@@ -592,12 +595,12 @@ The following versions were moved:
   <tr>
    <td>February 14, 2018</td> 
    <td>AEM releases and updates</td> 
-   <td><p>Published one-stop hub for all available AEM releases and updates. It links out to the latest cumulative fix packs, service packs, feature packs, and hotfixes for AEM 6.4, AEM 6.3, AEM 6.2, and AEM 6.1.</p> <p>See <a href="https://helpx.adobe.com/experience-manager/aem-releases-updates.html">AEM releases and updates</a>. </p> </td> 
+   <td><p>Published one-stop hub for all available AEM releases and updates. It links out to the latest cumulative fix packs, service packs, feature packs, and hotfixes for AEM 6.4, AEM 6.3, AEM 6.2, and AEM 6.1.</p> <p>See <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html">AEM releases and updates</a>. </p> </td> 
   </tr>
  </tbody>
 </table>
 
-## [!DNL Adobe Experience Manager] 6.3 {#aem-1}
+<!-- ## [!DNL Adobe Experience Manager] 6.3 {#aem-1}
 
 <table> 
  <tbody>
@@ -1660,3 +1663,5 @@ The following versions were moved:
   </tr>
  </tbody>
 </table>
+
+-->
