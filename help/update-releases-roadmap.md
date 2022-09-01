@@ -9,7 +9,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 >[!NOTE]
 >
->Roadmap updates available in this article are for information only and are subject to change at any time.
+>The dates below and roadmap updates available in this article are for information only and are subject to change at any time.
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
