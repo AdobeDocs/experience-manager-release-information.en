@@ -51,7 +51,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released ti
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp">German Language Installer</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_Japanese_Cumulative_QF.msp">Japanese Language Installer</a> </li>
       </ul> </td>
-    <td><p>AEM Forms JEE installer: AEMForms-6.5.0-0052<br /> <p>AEM Forms Add-on Packages: 6.0.772</p></td>
+    <td><p>AEM Forms JEE installer: AEMForms-6.5.0-0053<br /> <p>AEM Forms Add-on Packages: 6.0.772</p></td>
    </tr>
    <tr>
     <td>02 June 2022</td>
