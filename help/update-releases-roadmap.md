@@ -17,12 +17,11 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.6.0 |2022.6.0  |Feature Release |June 30, 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.7.0 |2022.7.0  |Feature Release |August 8, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 |2022.8.0  |Feature Release |September 1, 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 |2022.9.0  |Feature Release |October 6, 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 |2022.9.0  |Feature Release |October 13, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 |2022.10.0  |Feature Release |October 27, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 |2022.11.0  |Feature Release |November 17, 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 |2022.12.0  |Feature Release |December 8, 2022 |
 
 In addition to the feature releases, critical bug and security fixes are made available in [!DNL Experience Manager] as a [!DNL Cloud Service] in the form of maintenance releases, with a corresponding maintenance update generally happening on a weekly basis.
 
