@@ -29,11 +29,10 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html).
+[!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html).
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 12|6.5.12.0  |Service Pack |Feb 24, 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 13|6.5.13.0  |Service Pack |May 26, 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 14|6.5.14.0  |Service Pack |Aug 25, 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 15|6.5.15.0  |Service Pack |Nov 24, 2022 |
