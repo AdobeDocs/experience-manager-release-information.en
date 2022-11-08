@@ -17,9 +17,13 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 |2022.8.0  |Feature Release |September 1, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 |2022.10.0  |Feature Release |November 10, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.12.0 |2022.12.0  |Feature Release |December 15, 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 |2023.1.0  |Feature Release |January 23, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 |2023.2.0  |Feature Release |February 23, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 |2023.3.0  |Feature Release |March 30, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 |2023.4.0  |Feature Release |April 27, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 |2023.5.0  |Feature Release |May 25, 2023 |
 
 In addition to the feature releases, critical bug and security fixes are made available in [!DNL Experience Manager] as a [!DNL Cloud Service] in the form of maintenance releases, with a corresponding maintenance update generally happening on a weekly basis.
 
@@ -33,10 +37,10 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 13|6.5.13.0  |Service Pack |May 26, 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 14|6.5.14.0  |Service Pack |Aug 25, 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 15|6.5.15.0  |Service Pack |Nov 24, 2022 |
-
+| [!DNL Experience Manager] 6.5 Service Pack 14|6.5.14.0  |Service Pack |August 25, 2022 |
+| [!DNL Experience Manager] 6.5 Service Pack 15|6.5.15.0  |Service Pack |November 24, 2022 |
+| [!DNL Experience Manager] 6.5 Service Pack 16|6.5.16.0  |Service Pack |February 23, 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 17|6.5.17.0  |Service Pack |May 25, 2023 |
 
 >[!NOTE]
 >
