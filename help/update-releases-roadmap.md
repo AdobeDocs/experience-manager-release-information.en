@@ -26,15 +26,6 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 In addition to the feature releases, critical bug and security fixes are made available in [!DNL Experience Manager] as a [!DNL Cloud Service] in the form of maintenance releases, with a corresponding maintenance update generally happening on a weekly basis.
 
->[!CAUTION]
->
->**Planned Maintenance Exclusion Period**
->
-> No automatic AEMaaCS maintenance will be executed during the following timeframes, beginning and ending at midnight (00:00) CET:
->
->* Monday, November 21 until Monday, December 12
->* Monday, December 19 until Tuesday, January 3
-
 ## [!DNL Experience Manager] on-premise and managed services {#aem-on-prem-managed-services}
 
 Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and managed services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
