@@ -3,7 +3,7 @@ title: "[!DNL Adobe Experience Manager] releases roadmap"
 description: "[!DNL Adobe Experience Manager] releases roadmap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 ---
-# [!DNL Experience Manager] releases roadmap {#aem-releases-roadmap}
+# [!DNL Experience Manager] Releases Roadmap {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for users using [!DNL Cloud Service], Managed Services, and on-premise offerings of the product. This article lists the upcoming releases for [!DNL Experience Manager].
 
@@ -13,7 +13,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) generally targets a monthly release cadence for new features. The upcoming feature activations for [!DNL Experience Manager] as a [!DNL Cloud Service]s are planned as follows.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) generally targets a monthly release cadence for new features. The upcoming feature activations for [!DNL Experience Manager] as a [!DNL Cloud Service] are planned as follows.
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
@@ -26,7 +26,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 In addition to the feature releases, critical bug and security fixes are made available in [!DNL Experience Manager] as a [!DNL Cloud Service] in the form of maintenance releases, with a corresponding maintenance update generally happening on a higher frequency.
 
-## [!DNL Experience Manager] on-premise and managed services {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
 Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and managed services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
 
