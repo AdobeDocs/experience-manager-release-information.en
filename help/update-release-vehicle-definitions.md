@@ -16,7 +16,7 @@ This document includes details about the various types of [!DNL Adobe Experience
 
 | Items | Description|
 |-------|------|
-| Definition  | <ul> <li> Scheduled release </li> <li> Supports upgrade paths for specific versions, which is defined in the release notes </li> </ul> |
+| Definition  | <ul> <li> Scheduled release </li> <li> Supports upgrade paths for specific versions which are defined in the release notes </li> </ul> |
 | Naming | <ul> <li> Version numbers for major releases increase based on the formula X+1.Y.Z. </li> <li> Version numbers for minor releases increase based on the formula X.Y+1.Z </li> </ul> Where X is the primary version number, Y is the secondary version number, and Z the patch number. |
 | Inclusions  | <ul> <li> New features </li> <li>  Improvements </li> <li>  Bug fixes </li> </ul> |
 | Documentation | <ul> <li> Release notes are available on the documentation portal </li> <li> Documentation on features, improvements, and bug fixes are available on the documentation portal </li> </ul> |
@@ -45,7 +45,7 @@ This document includes details about the various types of [!DNL Adobe Experience
 | Inclusions | CFP is cumulative fix pack containing fixes of all components through specified dates. For example, if a customer applies CFP3, then CFP3 = CFP1 + CFP2. |
 | Documentation | Release notes available on the documentation portal |
 | Cadence  | Quarterly  |
-| Availability and Installation | <ul> <li> Delivered as a package </li> <li>  Available on Software Distribution </li> <li>  Dependent on the latest service pack released </li> <li>  CFP is self-dependent. Customers need not worry about finding/resolving dependencies. CFP should be installed on latest released Service Pack. </li> <li>  CFP can be installed as a single package, which improves customer experience.  </li> </ul> |
+| Availability and Installation | <ul> <li> Delivered as a package </li> <li>  Available on Software Distribution </li> <li>  Dependent on the latest service pack released </li> <li>  CFP is self-dependent. Customers do not need to worry about finding/resolving dependencies. CFP should be installed on latest released Service Pack. </li> <li>  CFP can be installed as a single package, which improves customer experience.  </li> </ul> |
 | Level of Testing  | QA validated at Integration level and regression testing |
 
 ## Overlay {#overlay}
@@ -71,4 +71,4 @@ This document includes details about the various types of [!DNL Adobe Experience
 | Availability and Installation | <ul> <li>Delivered via Service Packs </li> <li> Available on Software Distribution. Customers accept [!DNL Adobe's] Terms and Conditions through Software Distribution. </li> </ul> |
 | Level of Testing | General Availability feature packs are QA validated. |
 
-* 1: OAK fixes are not delivered as individual hot fixes. However, they are included in the subsequent Cumulative Oak hot fix. If necessary, a diagnostic build on top of the latest COFP can be made available. The precondition is that the customer has the latest COFP running. Diagnostic builds only provide the same level quality assurance as a hot fix. Therefore, they don't provide the same level of quality assurance as a cumulative fix pack, service pack, or product release. The final fix is delivered with the next CFP.
+* 1: Oak fixes are not delivered as individual hot fixes. However, they are included in the subsequent Cumulative Oak hot fix. If necessary, a diagnostic build on top of the latest COFP can be made available. The precondition is that the customer has the latest COFP running. Diagnostic builds only provide the same level quality assurance as a hot fix. Therefore, they don't provide as much quality assurance as a cumulative fix pack, service pack, or product release. The final fix is delivered with the next CFP.
