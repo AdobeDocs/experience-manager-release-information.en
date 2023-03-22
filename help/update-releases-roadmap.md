@@ -17,11 +17,11 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 |2022.10.0  |Feature Activation |November 10, 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 |2023.1.0  |Feature Activation |February 9, 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 |2023.2.0  |Feature Activation |March 30, 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 |2023.4.0  |Feature Activation |April 27, 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 |2023.5.0  |Feature Activation|May 25, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 |2023.6.0  |Feature Activation|June 29, 2023 |
 
 In addition to the feature releases, critical bug and security fixes are made available in [!DNL Experience Manager] as a [!DNL Cloud Service] in the form of maintenance releases, with a corresponding maintenance update generally happening on a higher frequency.
 
@@ -43,10 +43,6 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >[!NOTE]
 >
 >[!DNL Experience Manager] Forms releases the add-on packages one week after the scheduled [!DNL Experience Manager] Service Pack release date.
-
-### [!DNL Experience Manager] 6.4 {#aem64}
-
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 is the last CFP for [!DNL Experience Manager] 6.4. For details about the latest released CFP, see [[!DNL Experience Manager] 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html).
 
 >[!MORELIKETHIS]
 >
