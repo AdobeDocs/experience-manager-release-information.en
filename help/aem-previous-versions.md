@@ -35,6 +35,7 @@ If you need assistance creating or managing your Adobe ID, [see this guide](http
 
 | [!DNL Experience Manager] Version |             Software Distribution Link             |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.4     | [Adobe Experience Manager 6.4 Documentation](https://experienceleague.adobe.com/docs/experience-manager-64.html)  |
 | [!DNL Experience Manager] 6.3     | [Download AEM-DOCS-6.3 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip)  |
 | [!DNL Experience Manager] 6.2     | [Download AEM-DOCS-6.2 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip)  |
 | [!DNL Experience Manager] 6.1     | [Download AEM-DOCS-6.1 from Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip)  |
