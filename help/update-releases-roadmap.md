@@ -13,7 +13,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) generally targets a monthly release cadence for new features. The upcoming feature activations for [!DNL Experience Manager] as a [!DNL Cloud Service] are planned as follows.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html) generally targets a monthly release cadence for new features. The upcoming feature activations for [!DNL Experience Manager] as a [!DNL Cloud Service] are planned as follows.
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
@@ -27,7 +27,7 @@ In addition to the feature releases, critical bug and security fixes are made av
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
-Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and managed services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
+Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and Managed Services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -51,6 +51,6 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >[!MORELIKETHIS]
 >
 >* [EOL matrix](https://helpx.adobe.com/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] releases and updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] Learn and Support](https://helpx.adobe.com/support/experience-manager.html)
+>* [[!DNL Experience Manager] releases and updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
+>* [[!DNL Experience Manager] Learn and Support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 >* [[!DNL Experience Manager] Update Release Vehicle Definitions](/help/update-release-vehicle-definitions.md)
