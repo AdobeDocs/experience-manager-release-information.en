@@ -39,8 +39,8 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 16|6.5.16.0  |Service Pack |February 23, 2023 |
 | [!DNL Experience Manager] 6.5 Service Pack 17|6.5.17.0  |Service Pack |May 25, 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 14|6.5.18.0  |Service Pack |August 31, 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 15|6.5.19.0  |Service Pack |November 30, 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 18|6.5.18.0  |Service Pack |August 31, 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 19|6.5.19.0  |Service Pack |November 30, 2023 |
 
 >[!NOTE]
 >
