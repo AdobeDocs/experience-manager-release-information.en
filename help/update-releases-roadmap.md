@@ -17,11 +17,13 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 |2023.1.0  |Feature Activation |February 9, 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 |2023.2.0  |Feature Activation |April 12, 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 |2023.4.0  |Feature Activation |May 4, 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 |2023.5.0  |Feature Activation|May 25, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 |2023.4.0  |Feature Activation |May 18, 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 |2023.6.0  |Feature Activation|June 29, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 |2023.7.0  |Feature Activation|July 27, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 |2023.8.0  |Feature Activation|August 31, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 |2023.9.0  |Feature Activation|September 28, 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 |2023.10.0  |Feature Activation|October 26, 2023 |
 
 In addition to the feature releases, critical bug and security fixes are made available in [!DNL Experience Manager] as a [!DNL Cloud Service] in the form of maintenance releases, with a corresponding maintenance update generally happening on a higher frequency.
 
@@ -35,10 +37,10 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 | Release |Version |Type |Schedule |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 14|6.5.14.0  |Service Pack |August 25, 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 15|6.5.15.0  |Service Pack |November 24, 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 16|6.5.16.0  |Service Pack |February 23, 2023 |
 | [!DNL Experience Manager] 6.5 Service Pack 17|6.5.17.0  |Service Pack |May 25, 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 18|6.5.18.0  |Service Pack |August 31, 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 19|6.5.19.0  |Service Pack |November 30, 2023 |
 
 >[!NOTE]
 >
