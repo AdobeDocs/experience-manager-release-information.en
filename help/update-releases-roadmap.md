@@ -46,10 +46,6 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >
 >[!DNL Experience Manager] Forms releases the add-on packages one week after the scheduled [!DNL Experience Manager] Service Pack release date.
 
-### [!DNL Experience Manager] 6.4 {#aem64}
-
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 is the last CFP for [!DNL Experience Manager] 6.4. For details about the latest released CFP, see [[!DNL Experience Manager] 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html).
-
 >[!MORELIKETHIS]
 >
 >* [EOL matrix](https://helpx.adobe.com/support/programs/eol-matrix.html)
