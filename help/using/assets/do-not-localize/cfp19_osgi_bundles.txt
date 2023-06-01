@@ -1,0 +1,11 @@
+SYMBOLIC NAME                                      BUNDLE NAME                                                                     VERSION
+com.day.cq.cq-personalization                      AEM Personalization                                                             5.9.322
+com.adobe.cq.cq-contexthub-commons                 Adobe CQ ContextHub Commons                                                     0.1.16
+com.adobe.granite.auth.saml                        Adobe Granite - SAML 2.0 Authentication Handler                                 0.4.18.CQ620-B0014
+com.day.cq.cq-xssprotection                        Adobe Granite XSS Protection                                                    5.5.72.CQ620-B0004
+org.apache.felix.webconsole.plugins.ds             Apache Felix Web Console Service Component Runtime/Declarative Services Plugin  2.0.8
+org.apache.jackrabbit.vault                        Apache Jackrabbit FileVault Core Bundle                                         3.2.5.R1844726
+org.apache.sling.i18n                              Apache Sling Internationalization Support                                       2.5.12
+com.adobe.cq.cq-product-info-provider              CQ ProductInfo Provider                                                         6.2.38
+com.day.cq.cq-rewriter                             Day Communique 5 Rewriter                                                       5.9.40
+com.adobe.granite.translation.connector.msft.core  Granite Translation - Microsoft Connector Core Bundle                           1.2.16.CQ620-B0010

@@ -1,0 +1,46 @@
+SYMBOLIC NAME                                       BUNDLE NAME                                                   VERSION
+com.adobe.cq.cq-experience-fragments                AEM - Experience Fragments                                    1.0.136
+com.adobe.cq.com.adobe.cq.ui.commons                AEM - Touch Optimized UI Commons                              1.0.24
+com.adobe.cq.cq-analytics-integration               AEM 6 Analytics Integration Bundle                            1.1.30
+com.adobe.cq.social.cq-social-commons               AEM Communities Commons - Bundle                              1.8.24
+com.adobe.cq.social.cq-social-console               AEM Communities Console - Bundle                              1.4.17
+com.adobe.cq.social.cq-social-enablement-impl       AEM Communities Enablement Impl - Bundle                      2.1.18
+com.adobe.cq.social.cq-social-reporting-management  AEM Communities Enablement Reporting Management- Bundle       1.1.25
+com.adobe.cq.social.cq-social-handlebars            AEM Communities Handlebars Scripting Engine - Bundle          1.8.2
+com.adobe.cq.social.cq-social-members-impl          AEM Communities Members Impl - Bundle                         1.1.26
+com.adobe.cq.social.cq-social-notifications-api     AEM Communities Notifications - API Bundle                    1.1.16
+com.adobe.cq.social.cq-social-notifications-impl    AEM Communities Notifications - IMPL Bundle                   1.1.27
+com.adobe.cq.social.cq-social-rdb-provider          AEM Communities Relational Social Resource Provider - Bundle  1.1.20
+com.day.cq.cq-personalization                       AEM Personalization                                           5.10.68
+com.adobe.cq.cq-contexthub-commons                  Adobe CQ ContextHub Commons                                   0.2.2
+com.adobe.cq.cq-dam-mac-sync                        Adobe CQ DAM - Adobe Marketing Cloud Synchronisation Bundle   1.3.30
+com.adobe.cq.cq-dam-mac-sync-helper                 Adobe CQ DAM - Adobe Marketing Cloud Synchronisation Helper   1.3.20
+com.day.cq.wcm.cq-wcm-translation                   Adobe CQ Translation Workflow                                 1.3.132
+com.adobe.cq.wcm.cq-wcm-launches-core               Adobe Communique 5 WCM Launches Core                          5.11.16.NPR-23502-B0006
+com.adobe.granite.security.user                     Adobe Granite Security Module                                 0.2.62.CQ630-B0006
+com.adobe.granite.distribution.core                 Adobe Granite Sling Distribution - Core                       0.2.10.CQ630-B0002
+com.adobe.granite.ui.commons                        Adobe Granite UI Commons                                      5.7.6.CQ630-B0007
+org.apache.felix.http.jetty                         Apache Felix Http Jetty                                       3.4.0.B010
+org.apache.sling.models.impl                        Apache Sling Models Implementation                            1.4.4.B004
+org.apache.sling.commons.log                        Apache Sling SLF4J Implementation (Logback)                   5.0.2.B002
+org.apache.sling.commons.scheduler                  Apache Sling Scheduler Support                                2.7.2
+com.adobe.cq.cq-product-info-provider               CQ ProductInfo Provider                                       6.3.20
+com.adobe.dam.cq-dam-cfm-impl                       ContentFragmentManagement - Implementation                    0.9.118
+com.day.cq.cq-commons                               Day Communique 5 Commons Library                              5.10.30
+com.day.cq.dam.cq-dam-commons                       Day Communique 5 DAM Commons                                  5.10.156
+com.day.cq.dam.cq-dam-core                          Day Communique 5 DAM Core Implementation                      5.10.258
+com.day.cq.cq-search                                Day Communique 5 Search                                       5.10.16
+com.day.cq.cq-security                              Day Communique 5 Security                                     5.10.26
+com.day.cq.wcm.cq-wcm-core                          Day Communique 5 WCM Core Implementation                      5.10.276
+com.day.cq.wcm.cq-wcm-workflow                      Day Communique 5 WCM Workflow                                 5.10.34
+com.day.cq.dam.cq-dam-s7dam                         Day Communique 5.6 DAM s7 Dam Integration                     5.10.118
+org.apache.jackrabbit.oak-blob                      Oak Blob Store                                                1.6.11
+org.apache.jackrabbit.oak-authorization-cug         Oak CUG Authorization                                         1.6.11
+org.apache.jackrabbit.oak-commons                   Oak Commons                                                   1.6.11
+org.apache.jackrabbit.oak-core                      Oak Core                                                      1.6.11
+org.apache.jackrabbit.oak-auth-external             Oak External Authentication Support                           1.6.11
+org.apache.jackrabbit.oak-jcr                       Oak JCR Binding                                               1.6.11
+org.apache.jackrabbit.oak-auth-ldap                 Oak LDAP Authentication Support                               1.6.11
+org.apache.jackrabbit.oak-lucene                    Oak Lucene                                                    1.6.11
+org.apache.jackrabbit.oak-segment-tar               Oak Segment Tar                                               1.6.11
+org.apache.jackrabbit.oak-solr-osgi                 Oak Solr OSGi                                                 1.6.11
