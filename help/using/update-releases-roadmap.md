@@ -51,4 +51,4 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >* [EOL matrix](https://helpx.adobe.com/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager] releases and updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
 >* [[!DNL Experience Manager] Learn and Support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
->* [[!DNL Experience Manager] Update Release Vehicle Definitions](/help/update-release-vehicle-definitions.md)
+>* [[!DNL Experience Manager] Update Release Vehicle Definitions](/help/using/update-release-vehicle-definitions.md)

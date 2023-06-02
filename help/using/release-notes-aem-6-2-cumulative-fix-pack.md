@@ -198,7 +198,7 @@ The key highlights of this Cumulative Fix Pack are:
 * Anchor input fields appear out of the browsers visible section on the dialog until maximized. NPR-26852: Hotfix for CQ-4255019
 * Copy paste of text inserting unwanted &lt;br&gt; in the Content fragment. NPR-26660: Hotfix for CRTE-151
 * Classic siteadmin does not render the list in the right pane for some pages. NPR-27247: Hotfix for CQ-4251621
-* (Classic UI) Attempts to move/rename pages generates an error, “An error occurred while moving page.” NPR-27179: Hotfix for CQ-4235907
+* (Classic UI) Attempts to move/rename pages generates an error, "An error occurred while moving page." NPR-27179: Hotfix for CQ-4235907
 
 ### Integration {#integration-2}
 
@@ -428,7 +428,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 
 #### Adaptive Forms {#adaptive-forms-3}
 
-* “Guidelib is not defined” error while adding AEM form to parsys component. NPR-24269: Hotfix for CQ-4244546
+* "Guidelib is not defined" error while adding AEM form to parsys component. NPR-24269: Hotfix for CQ-4244546
 
 ### Forms JEE Installer {#forms-jee-installer-4}
 
@@ -460,7 +460,7 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Assets {#assets-4}
 
-* EmbedXMP data is always set to “active” for Ptiff generation process. NPR-22776: Hotfix for CQ-4234498
+* EmbedXMP data is always set to "active" for Ptiff generation process. NPR-22776: Hotfix for CQ-4234498
 * Unable to set multiple default values in Multi-value fields. NPR-22900: Hotfix for CQ-4239000
 * (Dynamic Media) On selecting Dynamic Renditions checkbox, downloaded zip file yields the original TIFF image with zero byte file. NPR-22410: Hotfix for CQ-4198471
 * (Touch UI) Default upload location for assets in column view. NPR-23475: Hotfix for CQ-4237057
@@ -498,12 +498,12 @@ The key highlights of this Cumulative Fix Pack are:
 
 ### Translation {#translation-1}
 
-* Asset language copies are getting created when “Do not translate” asset is set on the translation configuration. NPR-22540: Hotfix for CQ-4237962
+* Asset language copies are getting created when "Do not translate" asset is set on the translation configuration. NPR-22540: Hotfix for CQ-4237962
 
 ### User Interface {#user-interface-1}
 
 * Using Omnisearch with a hyphen query returns a server error. NPR-22999: Hotfix for Granite-19674
-* DatePicker doesn’t support manually set external type hint set by hidden field. Changing the type hint gets a conversion error. NPR-23333: Hotfix for Granite-21194
+* DatePicker doesn't support manually set external type hint set by hidden field. Changing the type hint gets a conversion error. NPR-23333: Hotfix for Granite-21194
 
 ### WCM - Foundation Components {#wcm-foundation-components-2}
 
@@ -1252,7 +1252,7 @@ The key highlights of this Cumulative Fix Pack are:
 * An error occurs when an ASCII/UTF-8 encoded text file is uploaded to AEM Assets and thumbnail generation fails. NPR-18006: CFP for CQ-4209345  
 * Publish action buttons are visible even when user doesn't have the replicate access. NPR-17353; Hotfix for CQ-4209269  
 * Both Siteadmin and Miscadmin do not work when minification is enabled using min:gcc;obfuscate=true. NPR-18593; Hotfix for CQ-4209220
-* Custom menu items don’t appear until the screen is refreshed every time. NPR-18500; Hotfix for CQ-4213581
+* Custom menu items don't appear until the screen is refreshed every time. NPR-18500; Hotfix for CQ-4213581
 * Upgrade moment.js to 2.10.6. NPR-18596; Hotfix for Granite-11881  
 * Applying permissions for DM macros breaks view for Admin user. NPR-18544; Hotfix for CQ-4211729
 * Publish Later for assets is throwing Illegal ArgumentException. CQ-4214532
@@ -2441,4 +2441,4 @@ The following text documents the list of OSGI bundles and content packages inclu
 >* [AEM 6.2 release notes](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM product page](http://www.adobe.com/solutions/web-experience-management.html)
 >* [AEM 6.2 documentation](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Adobe Priority Product Updates](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
+>* [Adobe Priority Product Updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
