@@ -19,7 +19,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 |Feature Activation |April 12, 2023 |Activated |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 |Feature Activation |June 7, 2023 |Activated |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 |Feature Activation|June 29, 2023 |Target |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 |Feature Activation|June 29, 2023 |Activated |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 |Feature Activation|July 27, 2023 |Target |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 |Feature Activation|August 31, 2023 |Target |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 |Feature Activation|September 28, 2023 |Target|
