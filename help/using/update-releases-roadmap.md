@@ -33,8 +33,8 @@ In addition to the feature releases, critical bug and security fixes are made av
 >
 > No automatic AEMaaCS maintenance will be executed during the following timeframes, beginning and ending at midnight (00:00) CET:
 >
->* Thursday, November 16 until Thursday, November 30
->* Thursday, December 14 until Thursday, January 4
+>* Thursday, November 16 until Tuesday, November 28
+>* Friday, December 15 until Tuesday, January 2
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
