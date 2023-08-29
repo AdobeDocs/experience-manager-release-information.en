@@ -28,7 +28,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
     <td><strong>Build Versions</strong></td>
    </tr>
 
-
+<!--
   </tr>
    <tr>
     <td>29 August 2023</td>
@@ -68,7 +68,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       </ul> 
       </td>
     <td><p>AEM Forms JEE full installer: 6-5-0-20230825-1-12345<br/><p>AEM Forms JEE patch installer: aemforms-6-5-0-0069<br/><p>AEM Forms Add-on Packages: 6.5.18.0</p></td>
-   </tr>
+   </tr> -->
    <tr>
     <td>01 June 2023</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">AEM Forms Service Pack 17 Forms add-on package for AEM 6.5.17.0</a></td>
