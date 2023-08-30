@@ -15,11 +15,13 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html) generally targets a monthly release cadence for new features. The upcoming feature activations for [!DNL Experience Manager] as a [!DNL Cloud Service] are planned as follows.
 
-| Release |Type |Schedule |Status |
+| Type |Event |Schedule |Status |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 |Feature Activation|June 29, 2023 |Activated|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 |Feature Activation|July 27, 2023 |Activated|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 |Feature Activation|August 31, 2023 |Target|
+|Maintenance Release|Automatic Update|September 4-7, 2023|Target|
+|Maintenance Release|Automatic Update|September 18-21, 2023|Target|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 |Feature Activation|September 28, 2023 |Target|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 |Feature Activation|October 26, 2023 |Target|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.11.0 |Feature Activation|November 30, 2023 |Target|
