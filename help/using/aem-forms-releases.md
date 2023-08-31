@@ -30,7 +30,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
   </tr>
    <tr>
     <td>31 August 2023</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">AEM Forms Service Pack 18 Forms add-on package for AEM 6.5.18.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6518">AEM Forms Service Pack 18 Forms add-on package for AEM 6.5.18.0</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html">AEM 6.5.18.0</a></td>
     <td>
      <ul>
