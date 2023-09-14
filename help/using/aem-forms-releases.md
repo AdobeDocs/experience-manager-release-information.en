@@ -68,7 +68,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       </ul> 
       </td>
     <td><p>AEM Forms JEE full installer: 
-    6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE patch installer: aemforms-6-5-0-0069<br/><p>AEM Forms Add-on Packages: 6.5.18.0</p></td>
+    6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE patch installer: aemforms-6-5-0-0069<br/><p>AEM Forms Add-on Packages: 6.5.18.0 </p></td>
    </tr>
    <tr>
     <td>01 June 2023</td>
