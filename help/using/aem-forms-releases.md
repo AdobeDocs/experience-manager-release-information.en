@@ -8,6 +8,10 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 
 Adobe Experience Manager [!DNL Forms] is an application deployed onto AEM. It extends engaging web and mobile experiences to enterprise forms and documents, allowing organizations to complete complex digital interactions while improving user experiences and extending business reach. The out-of-the box AEM [!DNL Forms] included in AEM Quick start has a limited set of functionality. AEM [!DNL Forms] add-on package provides advanced features such as integration with [!DNL Adobe Analytics], [!DNL Adobe Sign], document services, workflow engine, and many more.
 
+>[!NOTE]
+>
+>The Adaptive Forms feature, available in AEM 6.5 QuickStart, is designed for exploration and evaluation purposes only. For production use, it is essential to obtain a valid license for AEM Forms, as Adaptive Forms functionality requires proper licensing.
+
 <!--
 >[!NOTE]
 >
