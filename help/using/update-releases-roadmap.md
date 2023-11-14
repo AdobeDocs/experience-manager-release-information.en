@@ -30,13 +30,13 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Feature Release 2023.11.0 |Feature Activation|November 30, 2023 |Target|
 | Maintenance Release|Automatic Update|December 11-14, 2023|Target|
 | Feature Release 2023.12.0 |Feature Activation|December 14, 2023 |Target|
-| Feature Release 2024.1.0 |Feature Activation|January 25, 2023 |Target|
-| Feature Release 2024.2.0 |Feature Activation|February 29, 2023 |Target|
-| Feature Release 2024.3.0 |Feature Activation|March 28, 2023 |Target|
-| Feature Release 2024.4.0 |Feature Activation|April 25, 2023 |Target|
-| Feature Release 2024.5.0 |Feature Activation|May 30, 2023 |Target|
-| Feature Release 2024.6.0 |Feature Activation|June 27, 2023 |Target|
-| Feature Release 2024.7.0 |Feature Activation|July 25, 2023 |Target|
+| Feature Release 2024.1.0 |Feature Activation|January 25, 2024 |Target|
+| Feature Release 2024.2.0 |Feature Activation|February 29, 2024 |Target|
+| Feature Release 2024.3.0 |Feature Activation|March 28, 2024 |Target|
+| Feature Release 2024.4.0 |Feature Activation|April 25, 2024 |Target|
+| Feature Release 2024.5.0 |Feature Activation|May 30, 2024 |Target|
+| Feature Release 2024.6.0 |Feature Activation|June 27, 2024 |Target|
+| Feature Release 2024.7.0 |Feature Activation|July 25, 2024 |Target|
 
 >[!CAUTION]
 >
@@ -44,8 +44,8 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 >
 > No automatic AEMaaCS maintenance will be executed during the following timeframes, beginning and ending at midnight (00:00) CET:
 >
->* Thursday, November 16 until Tuesday, November 28
->* Friday, December 15 until Tuesday, January 2
+>* Thursday, November 16 2023 until Tuesday, November 28 2023
+>* Friday, December 15 2023 until Tuesday, January 2 2024
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
