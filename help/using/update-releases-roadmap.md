@@ -24,10 +24,10 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Feature Release [2023.9.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0.html) |Feature Activation|September 28, 2023 |Activated|
 | Maintenance Release [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html#release-13665)|Automatic Update|October 2-5, 2023|Updated|
 | Maintenance Release [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html#release-13804)|Automatic Update|October 16-19, 2023|Updated|
-| Feature Release [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) |Feature Activation|October 26, 2023 |Activated|
+| Feature Release [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0.html) |Feature Activation|October 26, 2023 |Activated|
 | Maintenance Release [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14029)|Automatic Update|October 30 - November 2, 2023|Updated|
-| Maintenance Release [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html)|Automatic Update|November 13-16, 2023|Target|
-| Feature Release 2023.11.0 |Feature Activation|November 30, 2023 |Target|
+| Maintenance Release [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html)|Automatic Update|November 13-16, 2023|Updated|
+| Feature Release [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) |Feature Activation|November 30, 2023 |Activated|
 | Maintenance Release|Automatic Update|December 11-14, 2023|Target|
 | Feature Release 2023.12.0 |Feature Activation|December 14, 2023 |Target|
 | Feature Release 2024.1.0 |Feature Activation|January 25, 2024 |Target|
