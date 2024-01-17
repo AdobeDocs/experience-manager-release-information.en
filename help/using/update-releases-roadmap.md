@@ -45,15 +45,6 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Feature Release 2024.6.0 |Feature Activation|June 27, 2024 |Target|
 | Feature Release 2024.7.0 |Feature Activation|July 25, 2024 |Target|
 
->[!CAUTION]
->
->**Planned Maintenance Exclusion Period**
->
-> No automatic AEMaaCS maintenance will be executed during the following timeframes, beginning and ending at midnight (00:00) CET:
->
->* Thursday, November 16 2023 until Tuesday, November 28 2023
->* Friday, December 15 2023 until Tuesday, January 2 2024
-
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
 Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and Managed Services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
