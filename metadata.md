@@ -3,6 +3,7 @@ cloud: Experience Cloud
 type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.en
 index: yes
+recommendations: noDisplay
 ---
 
 # Metadata for internal use
