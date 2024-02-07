@@ -25,7 +25,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>12 Dec 2019</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-3.html">AEM 6.5 Service Pack 3</a> is available.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">AEM 6.5 Service Pack 3</a> is available.</td> 
   </tr>
   <tr>
    <td>5 Dec 2019</td> 
@@ -95,7 +95,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Sep 19, 2019</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> is available.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> is available.</td>
   </tr>
   <tr>
    <td>Sep 9, 2019</td> 
@@ -150,7 +150,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>Jul 03, 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>is available.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>is available.</td> 
   </tr>
   <tr>
    <td>Jun 25, 2019</td> 
