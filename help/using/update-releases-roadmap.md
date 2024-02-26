@@ -39,7 +39,8 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 |---|---|---|---|
 | Feature Release 2024.2.0 |Feature Activation|February 29, 2024 |Cancelled|
 | Maintenance Release|Automatic Update|March 11-13, 2024|Target|
-| Feature Release 2024.3.0 |Feature Activation|March 28, 2024 |Target|
+| Maintenance Release|Automatic Update|April 1-3, 2024|Target|
+| Feature Release 2024.3.0 |Feature Activation|April 4, 2024 |Target|
 | Feature Release 2024.4.0 |Feature Activation|April 25, 2024 |Target|
 | Feature Release 2024.5.0 |Feature Activation|May 30, 2024 |Target|
 | Feature Release 2024.6.0 |Feature Activation|June 27, 2024 |Target|
