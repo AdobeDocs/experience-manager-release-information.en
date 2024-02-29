@@ -2,7 +2,6 @@
 title: AEM Forms releases
 description: Contains list of all the AEM Forms releases and corresponding packages
 contentOwner: khsingh
-exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 ---
 # AEM [!DNL Forms] releases {#aem-forms-releases}
 
@@ -34,6 +33,43 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
     <td><strong>Build Versions</strong></td>
    </tr>
   </tr>
+  <tr>
+    <td>29 February 2024</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6519">AEM Forms Service Pack 20 Forms add-on package for AEM 6.5.20.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html">AEM 6.5.20.0</a></td>
+    <td>
+     <ul>
+     <br><b>AEM Forms on OSGi patch installers</b></br>
+      <li><a href="">AEM Forms add-on package for Linux</a></li>
+      <li><a href="">AEM Forms add-on package for Windows</a></li>
+      <li><a href="">AEM Forms add-on package for Mac OS X [2]</a></li>
+      <br><b>AEM Forms on JEE Patch installers</b></br>
+      <li><a href="">JBoss&reg; Windows</a></li>
+      <li><a href="">JBoss&reg;Linux</a></li>
+      <li><a href="">WebLogic Windows</a></li>
+      <li><a href="">WebLogic Linux</a></li>
+      <li><a href="">WebSphere&reg; Windows</a></li>
+      <li><a href="">WebSphere&reg; Linux</a></li>
+      <br><b>Workbench Installer</b></br>
+      <li><a href="">AEM Forms Workbench Installer</a> </li>
+      <br><b>SDK</b></br>
+      <li><a href="">AEM Forms Client SDK</a> </li>
+      <br><b>Forms Designer 32-bit Installer</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_English_Cumulative_QF.msp">English Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_French_Cumulative_QF.msp">French Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_German_Cumulative_QF.msp">German Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_Japanese_Cumulative_QF.msp">Japanese Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20/Designer6.5.0_Spanish_Cumulative_QF.msp">Spanish Language Installer</a> </li>
+      <br><b>Forms Designer 64-bit Installer</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_English_Cumulative_QF.msp">English Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_French_Cumulative_QF.msp">French Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_German_Cumulative_QF.msp">German Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">Japanese Language Installer</a> </li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Spanish Language Installer</a> </li>
+      </ul> 
+      </td>
+    <td><p>AEM Forms JEE patch installer: aemforms-6-5-0-0078 <br/><p>AEM Forms Add-on Packages: 6.0.1120 </p></td>
+   </tr>
   <tr>
     <td>15 December 2023</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6519"> (AEM Forms on JEE Only) AEM 6.5 Forms Service Pack 19.1 (6.5.19.1)</a></td>
