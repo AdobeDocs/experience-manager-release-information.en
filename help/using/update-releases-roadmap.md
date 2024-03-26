@@ -59,7 +59,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html).
+[!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|
