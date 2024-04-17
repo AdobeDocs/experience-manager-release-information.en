@@ -16,7 +16,7 @@ This article lists the latest release for each release category and directs you 
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] generally targets a monthly release cadence for new features.
 
-See [Current Release Notes for [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) for details of the current/latest version. From there, you can also navigate to details of prior versions (arranged chronologically).
+See [Current Release Notes for [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) for details of the current/latest version. From there, you can also navigate to details of prior versions (arranged chronologically).
 
 ## [!DNL Experience Manager] on-premise and Managed Services {#aem-on-prem-managed-services}
 
@@ -26,4 +26,4 @@ For Managed Services and on-premise offerings, the article lists the latest Cumu
 
 [!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes.
 
-See [[!DNL Experience Manager] 6.5 Latest Feature Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) for details of the current/latest version. From there, you can also navigate to details of prior versions (arranged chronologically).
+See [[!DNL Experience Manager] 6.5 Latest Feature Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) for details of the current/latest version. From there, you can also navigate to details of prior versions (arranged chronologically).
