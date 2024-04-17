@@ -2311,8 +2311,8 @@ NPR-21355 is included in CFP12.1. If you are installing CFP12.1 or later, then p
 
 1. (Windows only) Modify the `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` or `domain.conf.bat` configuration files:
 
-   * For JBoss&reg; server in standalone configuration, open the standalone.conf.bat for editing.
-   * For JBoss&reg; server in cluster configuration, open the domain.conf.bat for editing.
+* For JBoss&reg; server in standalone configuration, open the standalone.conf.bat for editing.
+* For JBoss&reg; server in cluster configuration, open the domain.conf.bat for editing.
 
    Add the following lines at the end and save the file:
 
@@ -2322,8 +2322,8 @@ NPR-21355 is included in CFP12.1. If you are installing CFP12.1 or later, then p
 
 1. (Linux-based OS only) Modify the [AEM_Forms_Installation_directory]/jboss/standalone.conf or domain.conf configuration files:
 
-   * For JBoss&reg; server in standalone configuration, open the standalone.conf for editing.
-   * For JBoss&reg; server in cluster configuration, open the domain.conf for editing.
+* For JBoss&reg; server in standalone configuration, open the standalone.conf for editing.
+* For JBoss&reg; server in cluster configuration, open the domain.conf for editing.
 
    Add the following lines at the end and save the file:
 
