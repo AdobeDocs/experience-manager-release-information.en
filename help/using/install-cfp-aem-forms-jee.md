@@ -1,6 +1,6 @@
 ---
 title: Installing Cumulative Fix Packs on AEM Forms JEE
-description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE
+description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 ---
@@ -19,7 +19,7 @@ To install the cumulative fix pack on AEM 6.3 [!DNL Forms JEE], perform the foll
 
 AEM [!DNL  Forms JEE] package (aemfd-jee-bundles-package-6.3CFP1; version 1.0.2) provides [!DNL Forms] User on AEM [!DNL Forms JEE] the same rights and capabilities as found on AEM [!DNL Forms OSGi]. Check your installed packages in Package Manager and install the package if it is not already installed.  
 
-### Additional instructions for CQ-4208044 {#additional-instructions-for-cq}
+### More instructions for CQ-4208044 {#additional-instructions-for-cq}
 
 If you are using AEM 6.3 [!DNL Forms JEE] server with Oracle database, configure the following settings post deployment of the CFP1, that is, after the Configuration Manager is run. This setting is required to sync users, groups, and group members when the enterprise domain sync is run. 
 
@@ -30,7 +30,7 @@ If you are using AEM 6.3 [!DNL Forms JEE] server with Oracle database, configure
 
    &lt;entry key="groupMemberDBQueryBatchSize" value="999"/&gt;
 
-1. Import the modified file again and then, re-run the sync.
+1. Import the modified file again and then rerun the sync.
 
 ## Install CFP on AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
@@ -94,8 +94,8 @@ Use the following commands to set the timeout at component level:
 
    Navigate to the appropriate directory on the installation media or folder on your hard disk where you copied the installer:
 
-    * (Windows 32-bit): Disk1\InstData\Windows\VM
-    * (Windows 64-bit): Disk1\InstData\Windows_64bit\VM
+    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
+    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
 
    Then, double-click the file named:
 
@@ -120,7 +120,7 @@ Use the following commands to set the timeout at component level:
    The Install wizard is launched to guide you through the installation.
 
 1. On the Introduction panel, click **[!UICONTROL Next]**.
-1. On the Choose Install Folder screen, verify that the default location displayed is correct for your existing installation, or click **[!UICONTROL Browse]** to select the alternate folder where AEM [!DNL Forms] is installed, and click **[!UICONTROL Next]**.
+1. On the Choose Install Folder screen, verify that the default location displayed is correct for your existing installation. Or, click **[!UICONTROL Browse]** to select the alternate folder where AEM [!DNL Forms] is installed, then click **[!UICONTROL Next]**.
 1. Read the Quick Fix Patch Summary information and click **[!UICONTROL Next]**.
 1. Read the Pre-Installation Summary information and click **[!UICONTROL Install]**.
 1. When the installation is complete, click **[!UICONTROL Next]** to apply the quick fix updates to your installed files.
