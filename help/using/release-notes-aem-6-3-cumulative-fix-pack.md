@@ -1072,10 +1072,8 @@ The key highlights of the **AEM Cumulative Fix Pack** are:
 * While opening the component using inline mode, plugins loaded previously are not visible the second time. NPR-22591: Hotfix for CQ-4236850
 * Deleting a launch in a nested launch causes sublaunches to become orphaned. NPR-22621; Hotfix for CQ-4202639
 * (Classic UI sidekick) Workflow tab is disabled when the page is in workflow lock stage. NPR-22722: Hotfix for CQ-4237557
-```
 * After flipping an image added in the image component on a page, the changes are not saved and original image is displayed on the page. Rendering support has been added to the image core component by way of [https://github.com/adobe/aem-core-wcm-components/pull/141](https://github.com/adobe/aem-core-wcm-components/pull/141). NPR-22801: Hotfix for CQ-4221539
-
-```* When the user tries to delete the existing anchor from the anchor menu, Rich text editor component window gets closed and the changes remain unsaved. NPR-22802: Hotfix for CQ-4238167
+* When the user tries to delete the existing anchor from the anchor menu, Rich text editor component window gets closed and the changes remain unsaved. NPR-22802: Hotfix for CQ-4238167
 * Omnisearch filter does not show all actions in Sites console. NPR-22804: Hotfix for CQ-4239007
 * Issue with Copy/Paste in Touch UI with OS Clipboard and internal AEM Clipboard. NPR-22807: Hotfix for CQ-4220383
 * Inconsistency in the Excerpt highlighting returned by Lucene Search. NPR-22879: Hotfix for CQ-4238513
@@ -1288,7 +1286,7 @@ The key highlights of the AEM Cumulative Fix Pack are:
 * Changes made to field properties in multiple tabs in the Property edit dialogue sometimes do not get saved. NPR-20286 
 * Unexpected tag at the end of the pasted content in Content fragment. NPR-20413: Hotfix for CQ-4224014 
 * Implemented a mechanism in Adobe Campaign to fetch the policy of a content resource from an external targeting resource. NPR-20667 
-* Richtext plugin is not working for both inline and fullscreen bar in multifield Touch UI. NPR-20973
+* Rich text plugin is not working for both inline and fullscreen bar in multifield Touch UI. NPR-20973
 
 ### Campaign {#campaign-1}
 
@@ -1302,7 +1300,7 @@ The key highlights of the AEM Cumulative Fix Pack are:
 
 ### Communities {#communities-8}
 
-* Inconsistent search results with searchresult component. NPR-20070: Hotfix for CQ-4220913
+* Inconsistent search results with search result component. NPR-20070: Hotfix for CQ-4220913
 * Email notifications do not get triggered for any of the moderator-related activities on published components. NPR-20122
 * Blank pagination with no results is displayed for anonymous community users. NPR-20136: Hotfix for CQ-4220738
 * Configure alert trigger when a UGC is detected as spam or when a user posts on a pre-moderated site. NPR-20274: Hotfix for CQ-96850
@@ -1333,18 +1331,18 @@ The key highlights of the AEM Cumulative Fix Pack are:
 ### Projects {#projects-1}
 
 * Accessing different projects from Projects console takes longer time to load. NPR-20314
-* Installing AEM 6.3.0.1 removes the dam-update-service user's keystore. NPR-20018
+* Installing AEM 6.3.0.1 removes the `dam-update-service` user's keystore. NPR-20018
 * In some custom deployments, users trying to select assignee in addTask module take longer to populate the list in the user picker. NPR-20283: Hotfix for CQ-4224193
 
 ### User Interface {#user-interface-3}
 
 * Color field is set to "always required" despite attributes in dialog box. NPR-19702
-* Scroll Bar does not display for Multi-field component in full screen on Internet Explorer 11. NPR-20261: Hotfix for CQ-4219782 
+* Scroll Bar does not display for component Multi-field in full screen on Internet Explorer 11. NPR-20261: Hotfix for CQ-4219782 
 * Previous queries do not get aborted in case consecutive queries are triggered leading to incorrect results. NPR-20398: Hotfix for GRANITE-19306
 
 ### Workflow {#workflow-1}
 
-* Users are not notified about the workflow tasks they receive in their inbox. NPR-20213: Hotfix for CQ-4221639
+* Users are not notified about the workflow tasks that they receive in their inbox. NPR-20213: Hotfix for CQ-4221639
 * OOTB granite user picker does not load any users when clicked drop-down in Dialog participant step of the workflow model. NPR-20236
 
 ## Forms {#forms-10}
@@ -1464,7 +1462,7 @@ The key highlights of the AEM Cumulative Fix Pack are:
 * Stability issues with AEM production server deployment. NPR-19707
 * Custom taglib that reference tags implemented as a script are not found after upgrading to AEM 6.3. NPR-19087 
 * HTL bug fixes for AEM 6.3.1. NPR-19161 
-* Richtext field is not editable in the multi-field components. NPR-19604: Hotfix for Granite-16755 
+* Rich text field is not editable in the multi-field components. NPR-19604: Hotfix for Granite-16755 
 * The Adobe Email Template service adds tags to custom user templates. NPR-19190
 * Hotfix for Oak 1.6.5. NPR-19148
 
@@ -1490,7 +1488,7 @@ The key highlights of the AEM Cumulative Fix Pack are:
 
 * Unable to publish assets from AEM with comments and annotations. NPR-19590: Hotfix for CQ-4218386
 * Enabling publish tags from AEM to Brand Portal from tagadmin/tagging console. NPR-20271: Hotfix for CQ-4223948
-* Fix "enabled" field on Brand Portal cloudservice config UI. Hotfix for CQ-4211101
+* Fix "enabled" field on Brand Portal cloud service config UI. Hotfix for CQ-4211101
 * Search form replication is failing. Hotfix for CQ-4220080
 
 ## Forms {#forms-11}
@@ -1502,9 +1500,9 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 #### Adaptive forms {#adaptive-forms-4}
 
 * Submit to JEE workflow doesn't return back output parameter from JEE side to AEM and throws "Ignoring because the value is not primitive" error. NPR-20265
-* Adaptive Forms doesnot allow PDF as an attachment in Safari. NPR-19625
+* Adaptive Forms does not allow PDF as an attachment in Safari. NPR-19625
 * RestoreGuideState overwrites customcontextproperty map. CQ-4222877
-* When configuring Google reCaptcha using Cloud Service, in environments requiring configuration of org.apache.http.proxyconfigurator for external connections, POST calls doesn't seem to go through PROXY. NPR-20454
+* When configuring Google `reCaptcha` using Cloud Service, in environments requiring configuration of org.apache.http.proxyconfigurator for external connections, POST calls doesn't seem to go through PROXY. NPR-20454
 * Adaptive Forms based on XSD schemas submit faulty XML values for numeric fields on installations with locales that have a decimal separator other than "." resulting in errors. NPR-20444 
 * Proxy settings set for 'Apache HTTP Components Proxy Configuration' are not honored while making HTTP request to third-party server. Connection timeout issues using HTTP GET or POST calls. NPR-20457, NPR-20456, NPR-20455, NPR-20451
 
@@ -1533,7 +1531,7 @@ AEM Forms fixes are delivered through add-on packages and other patch installers
 #### Process Management {#process-management-3}
 
 * Workflow attachment, notes, and details tabs do not function in workspace when the form is maximized/minimized and saved as a draft or forwarded. NPR-20243
-* Multiline text field (TextArea) does not retain new line character or break in text after submitting data in HTML workspace. NPR-20085
+* Multiline text field (TextArea) does not retain new line characters or breaks in text after submitting data in HTML workspace. NPR-20085
 
 #### Process Reporting {#process-reporting}
 
@@ -1651,7 +1649,7 @@ AEM Forms fixes are delivered through Forms add-on package and other patch insta
 
 The key highlights for AEM Forms are:
 
-* Fixes in correspondence management text modules, letter previews, and programmatically launching create correspondence management UI.
+* Fixes in correspondence management text modules, letter previews, and programmatical launching create correspondence management UI.
 * Fixes for PDF/A-1b validation, conversion of large image files to PDF, and Japanese language PDF documents in PDF Generator. 
 * Usability fixes for correspondence management, document security, and Forms Workflow. 
 * Added support to capture audit events for the scribble signature field.
@@ -1665,7 +1663,7 @@ The key highlights for AEM Forms are:
 * Extra margin above and below a bulleted list is visible in text editor but not in HTML and PDF rendition. NPR-18126
 * When HTML submit used the POST method, the create correspondence UI fails to launch. NPR-18202
 * When a text module is saved and an expression in the text module does not contain opening or closing expression tags, no error message is displayed. The text module displays an error message and fails to render in the letter. NPR-18535
-* When new content is added or the Enter key is pressed, a div tag is added to the text module. NPR-18240
+* When new content is added or the `Enter` key is pressed, a div tag is added to the text module. NPR-18240
 
 **Assembler**
 
@@ -1710,7 +1708,7 @@ Added JavaDocs for the com.adobe.livecycle.content class. NPR-18468
 
 AEM Cumulative Fix Pack 6.3.0.1 is an important update that includes several internal and customer fixes since the general availability of AEM 6.3 in April 2017. The key highlights of the AEM Cumulative Fix Pack are:
 
-* Improvements in the following area:
+* Improvements in the following areas:
 
   * Content Fragments, Sites, and Rich Text Editor, Rule Editor, and Template Editor components
   * Social Review and Facebook Social login
@@ -1736,16 +1734,16 @@ This section walks you through the requirements and steps to install the CFP.
 
 >[!NOTE]
 >
->Optional Feature Packs provided by Adobe have dependencies on the release version and Cumulative Fix Pack. If you have any Feature Pack installed, please contact the [AEM Customer Care team](https://helpx.adobe.com/contact/enterprise-support.ec.html) to validate the compatibility with this Cumulative Fix Pack for AEM 6.3.
+>Optional Feature Packs provided by Adobe have dependencies on the release version and Cumulative Fix Pack. If you have any Feature Pack installed, contact the [AEM Customer Care team](https://experienceleague.adobe.com/?support-solution=General#support) to validate the compatibility with this Cumulative Fix Pack for AEM 6.3.
 
 >[!NOTE]
 >
 >It is recommended that you run validation on every new installation package before attempting to install the package. Pre-validation analyzes and reports any errors found before installation and warns the users about such errors proactively.
 >
->You can access documentation for Validate option at [https://docs.adobe.com/content/docs/en/aem/6-3/administer/content/package-manager.html#Package%20Validator](https://docs.adobe.com/content/docs/en/aem/6-3/administer/content/package-manager.html#Package%20Validator)
+>You can access documentation for Validate option at [https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
-* AEM 6.3.3.0 is a prerequisite for the CFP. Visit [Upgrade Documentation](https://docs.adobe.com/docs/en/aem/6-3/deploy/upgrade.html) for detailed instructions about upgrading an AEM installation to AEM 6.3.
-* For a cluster deployment using RDBMK or MongoDB, the CFP package can be installed on any of the Author instances that uses Package Manager.
+* AEM 6.3.3.0 is a prerequisite for the CFP. Visit [Upgrade Documentation](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) for detailed instructions about upgrading an AEM installation to AEM 6.3.
+* For a cluster deployment using RDBMK or MongoDB, the CFP package can be installed on any of the Author instances that use Package Manager.
 * Before installing the cumulative fix pack, ensure to take a snapshot or make a backup of your AEM instance.
 * Uninstalling the CFP is not supported.
 
@@ -1753,20 +1751,18 @@ This section walks you through the requirements and steps to install the CFP.
 
 To configure debug level logging and retrieve an activity log during installation of SPs/CFPs, you can follow the steps below:
 
-* You may add a new logger at the default location [http://localhost:4502/system/console/slinglog](http://localhost:4502/system/console/slinglog) with the below properties:
+* You can add a logger at the default location [http://localhost:4502/system/console/slinglog](http://localhost:4502/system/console/slinglog) with the below properties:
 
   * Log Level: Debug
   * Additive: false
   * Log File: logs/activity.log
   * Logger: org.apache.jackrabbit.vault.packaging.impl.ActivityLog
 
-The activity.log will be created in crx -quickstart /logs folder.
+The activity.log is created in crx -quickstart /logs folder.
 
 ### Install the Cumulative Fix Pack by way of Software Distribution {#install-the-cumulative-fix-pack-via-package-share}
 
-Perform the following steps to install the Cumulative Fix Pack on an existing AEM 6.3 instance:
-
-1. Click the [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip) link to download the package.
+1. Click the [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/cumulativefixpack/aem-6.4.8-cfp-2.0.zip) link so you can download the package.
 
 1. Open [Package Manager](http://localhost:4502/crx/packmgr/index.jsp) and click **[!UICONTROL Upload Package]** to upload the package.
 
@@ -1777,7 +1773,7 @@ Perform the following steps to install the Cumulative Fix Pack on an existing AE
 The CFP can be automatically installed into a running instance in the following ways:
 
 * Place the package into `../crx-quickstart/install` while the server is running. The package gets installed automatically.
-* Use the [HTTP API from Package Manager](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/package-manager.html) - make sure that you use `cmd=install&recursive=true` - so the nested package is installed.
+* Use the [HTTP API from Package Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) - make sure that you use `cmd=install&recursive=true` - so the nested package is installed.
 
 ### Validate installation {#validate-installation}
 
@@ -1802,7 +1798,7 @@ The CFP can be automatically installed into a running instance in the following 
 
 1. Ensure that you have installed the AEM 6.3.3.x CFP package. 
 1. Download the corresponding Forms add-on package listed at [AEM Forms releases](aem-forms-releases.md) for your operating system.
-1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://helpx.adobe.com/experience-manager/6-3/forms/using/installing-configuring-aem-forms-osgi.html).
+1. Install the Forms add-on package as described in [Installing AEM forms add-on packages](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 #### Install AEM Forms JEE bundles package {#install-aem-forms-jee-bundles-package}
 
@@ -1818,7 +1814,7 @@ Fixes in AEM Forms JEE are delivered through a separate installer. For informati
 
 >[!NOTE]
 >
->If you are installing 6.3.3.0 or later releases, perform the below procedure to configure settings for JBoss&reg; application server. If you are installing 6.3.3.0 on AEM Forms Server running on Oracle WebLogic or IBM&reg; WebSpehere application servers, no additional configuration is required. For further details, see [AEM 6.3.3.0 Release Notes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>If you are installing 6.3.3.0 or later releases, perform the below procedure to configure settings for JBoss&reg; application server. If you are installing 6.3.3.0 on AEM Forms Server running on Oracle WebLogic or IBM&reg; WebSpehere application servers, no additional configuration is required. For further details, see [AEM 6.3.3.0 Release Notes](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 ## Configuration updates for Search&Promote Integration {#configuration-updates-for-search-promote-integration}
 
@@ -1826,10 +1822,10 @@ With AEM Cumulative Fix Pack 6.3.0.2 and later releases, the OSGi configuration 
 
 ## Known issues {#known-issues}
 
-* The following errors and warning may occur during installation of AEM CFP 6.3.3.x and can be safely ignored:
+* The following errors and warnings may occur during installation of AEM CFP 6.3.3.x and can be safely ignored:
 
   * &#42;WARN&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar-with-dependencies.jar threw runtime exception.
-  * &#42;ERROR&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Timeout waiting for reg change to complete unregistered. CQ-4209974. 
+  * &#42;ERROR&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] Timeout waiting for registration change to complete unregistration. CQ-4209974. 
   * org.apache.sling.engine.impl.SlingRequestProcessorImpl ServletResolver service missing, cannot service requests , sending status 503 
   * com.day.cq.wcm.mobile.core.MobileUtil isMobileResource: cannot check resource [/bin/receive], page manager unavailable
   * org.apache.sling.servlets.resolver.internal.SlingServletResolver: Calling the error handler resulted in an error
@@ -1845,7 +1841,7 @@ With AEM Cumulative Fix Pack 6.3.0.2 and later releases, the OSGi configuration 
 
 >[!NOTE]
 >
->In case you are impacted with any of these two issues, contact [AEM Customer Care](https://helpx.adobe.com/contact/enterprise-support.ec.html).
+>In case you are impacted with any of these two issues, contact [AEM Customer Care](https://experienceleague.adobe.com/?support-solution=General#support).
 
 * High CPU utilization is observed due to lot of requests in Admin Search functionality. NPR-24229
 * PathField is not selected in the pathBrowser when reopening the component. NPR-24177
@@ -1864,7 +1860,7 @@ To update changes in adobe- LiveCycle&reg; cq -author.ear/ cq .war manually, fol
 
   * update the **sling.bootdelegation.ibm** param-name value with:
 
-  * com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat
+  * `com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat`
 
   * After the above change, init-param should look like:
 
@@ -1898,7 +1894,7 @@ Restrictions : rep:glob="/&#42;/jcr:content/&#42;"
 `2)` At "/content/usergenerated" path 
 `a)` Principal : reference-adjustment-service 
 Type : Allow 
-Privileges : jcr:write
+Privileges : `jcr:write`
 
 `3)` At "/etc" path 
 `a)` Principal : reference-adjustment-service 
@@ -1918,23 +1914,23 @@ Restrictions : rep:glob="/&#42;/jcr:content/&#42;"
 
 **Configure the property CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL.**
 
-The property controls the maximum depth of the node subtree under the page ` /jcr:content` node, until which the nodes present in the repository shall be used for getting the page properties. Any node present below the specified depth in this property is ignored.
+The property controls the maximum depth of the node subtree under the page ` /jcr:content` node, until which the nodes present in the repository shall be used for getting the page properties. Any nodes present below the specified depth in this property is ignored.
 
-The default value is 1. The value can be overridden by overlaying the file constants.js (`/libs/cq/ui/widgets/source/constants.js`) uncommenting the CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL property and assigning it the required value ( the max depth under the page's /jcr:content till which the page properties' data is stored).
+The default value is 1. Override the value by overlaying the file constants.js (`/libs/cq/ui/widgets/source/constants.js`) uncommenting the CQ.PAGE_PROPERTIES_MAX_RECURSION_LEVEL property and assigning it the required value (the max depth under the page's `/jcr:content` which the page properties' data is stored).
 
-**If the user needs to create multiple pages variants such that the number of nodes under the page's /jcr:content node becomes greater than 1000, use the following steps to do configuration changes:**
+**If the user must create multiple page variants such that the number of nodes under the page's `/jcr:content` node becomes greater than 1000, use the following steps to do configuration changes:**
 
 * Configure the property JSON Max results of Apache Sling
 * Get Servlet using `/system/console/ configMgr`
-* Set its value to a number &gt;1000 (which is the current default) such that this number is greater than the total number of nodes in the / jcr:content subtree until the configured depth above.
+* Set its value to a number &gt;1000 (which is the current default) such that this number is greater than the total number of nodes in the `/jcr:content` subtree until the configured depth above.
 
 This enables the sling GET servlet to be able to return all the required nodes.
 
 ## Uber Jar {#uber-jar}
 
-The Uber Jar for 6.3.3.8 is available at [Adobe Public Maven repository](https://repo.adobe.com/nexus/content/groups/public/com/adobe/aem/uber-jar/6.3.3.8/).
+The Uber Jar for 6.3.3.8 is available at Adobe Public Maven repository
 
-To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/ht-projects-maven.html) and include the following dependency in your project POM:
+To use Uber Jar in a Maven project, refer to the article, [How to use Uber jar](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) and include the following dependency in your project POM:
 
 ```TXT
 <dependency>
