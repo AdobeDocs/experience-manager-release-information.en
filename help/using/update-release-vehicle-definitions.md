@@ -1,6 +1,6 @@
 ---
 title: Update Release Vehicle Definitions
-description: This article details the various types of [!DNL Experience Manager] releases, including full releases, feature packs, and services packs.
+description: This article details the various types of [!DNL Experience Manager] releases, including full releases, feature packs, and service packs.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 ---
@@ -71,4 +71,4 @@ This document includes details about the various types of [!DNL Adobe Experience
 | Availability and Installation | <ul> <li>Delivered via Service Packs </li> <li> Available on Software Distribution. Customers accept [!DNL Adobe's] Terms and Conditions through Software Distribution. </li> </ul> |
 | Level of Testing | General Availability feature packs are QA validated. |
 
-* 1: Oak fixes are not delivered as individual hot fixes. However, they are included in the subsequent Cumulative Oak hot fix. If necessary, a diagnostic build on top of the latest COFP can be made available. The precondition is that the customer has the latest COFP running. Diagnostic builds only provide the same level quality assurance as a hot fix. Therefore, they don't provide as much quality assurance as a cumulative fix pack, service pack, or product release. The final fix is delivered with the next CFP.
+* 1: Oak fixes are not delivered as individual hot fixes. However, they are included in the subsequent Cumulative Oak hot fix. If necessary, a diagnostic built on top of the latest COFP can be made available. The precondition is that the customer has the latest COFP running. Diagnostic builds only provide the same level quality assurance as a hot fix. Therefore, they don't provide as much quality assurance as a cumulative fix pack, service pack, or product release. The final fix is delivered with the next CFP.
