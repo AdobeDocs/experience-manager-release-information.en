@@ -169,7 +169,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   </tr>
   <tr>
    <td>May 31, 2019</td> 
-   <td>AEM and Magento Integration </td> 
+   <td>AEM and Adobe Commerce Integration </td> 
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Commerce Integration Framework</a>.</td> 
   </tr>
   <tr>
