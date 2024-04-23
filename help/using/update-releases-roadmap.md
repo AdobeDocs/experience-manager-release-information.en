@@ -3,6 +3,7 @@ title: "[!DNL Adobe Experience Manager] releases roadmap"
 description: "[!DNL Adobe Experience Manager] releases roadmap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 ---
+
 # [!DNL Experience Manager] Releases Roadmap {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for users using [!DNL Cloud Service], Managed Services, and on-premise offerings of the product. This article lists the upcoming releases for [!DNL Experience Manager].
@@ -54,7 +55,7 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
-Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and Managed Services are delivered through quarterly service packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
+Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and Managed Services are delivered through quarterly Service Packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
