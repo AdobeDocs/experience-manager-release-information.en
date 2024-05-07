@@ -31,20 +31,20 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575)|Automatic Update|March 19-21, 2024|Updated|
 | Feature Release [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) |Feature Activation|April 11, 2024 |Activated|
 | Maintenance Release [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860)|Automatic Update|April 8-15, 2024|Updated|
-| Maintenance Release [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|April 20-24, 2024|Updated|
+| Maintenance Release [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977)|Automatic Update|April 20-24, 2024|Updated|
 | Feature Release [2024.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|April 25, 2024 |Activated|
 
 ### Upcoming Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release|Automatic Update|May 6-8, 2024|Target|
-| Maintenance Release|Automatic Update|May 20-22, 2024|Target|
+| Maintenance Release [16145](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|May 6-8, 2024|Target|
+| Maintenance Release|Automatic Update|May 27-29, 2024|Target|
 | Feature Release 2024.5.0 |Feature Activation|May 30, 2024 |Target|
-| Maintenance Release|Automatic Update|June 3-5, 2024|Target|
-| Maintenance Release|Automatic Update|June 17-19, 2024|Target|
+| Maintenance Release|Automatic Update|June 10-12, 2024|Target|
+| Maintenance Release|Automatic Update|June 24-26, 2024|Target|
 | Feature Release 2024.6.0 |Feature Activation|June 27, 2024 |Target|
-| Maintenance Release|Automatic Update|July 1-3, 2024|Target|
+| Maintenance Release|Automatic Update|July 8-10, 2024|Target|
 | Feature Release 2024.7.0 |Feature Activation|July 25, 2024 |Target|
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
