@@ -21,14 +21,6 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029)|Automatic Update|October 30 - November 2, 2023|Updated|
-| Maintenance Release [14227](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227)|Automatic Update|November 13-16, 2023|Updated|
-| Feature Release [2023.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) |Feature Activation|November 30, 2023 |Activated|
-| Maintenance Release [14697](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697)|Automatic Update|December 11-14, 2023|Updated|
-| Feature Release [2023.12.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0) |Feature Activation|December 14, 2023 |Activated|
-| Feature Release [2024.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) |Feature Activation|January 25, 2024 |Activated|
-| Maintenance Release [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262)|Automatic Update|March 11-13, 2024|Updated|
-| Maintenance Release [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575)|Automatic Update|March 19-21, 2024|Updated|
 | Feature Release [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) |Feature Activation|April 11, 2024 |Activated|
 | Maintenance Release [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860)|Automatic Update|April 8-15, 2024|Updated|
 | Maintenance Release [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977)|Automatic Update|April 20-24, 2024|Updated|
@@ -45,7 +37,14 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release|Automatic Update|June 24-26, 2024|Target|
 | Feature Release 2024.6.0 |Feature Activation|June 27, 2024 |Target|
 | Maintenance Release|Automatic Update|July 8-10, 2024|Target|
+| Maintenance Release|Automatic Update|July 22-24, 2024|Target|
 | Feature Release 2024.7.0 |Feature Activation|July 25, 2024 |Target|
+| Maintenance Release|Automatic Update|August 5-7, 2024|Target|
+| Maintenance Release|Automatic Update|August 19-21, 2024|Target|
+| Feature Release 2024.8.0 |Feature Activation|August 29, 2024 |Target|
+| Maintenance Release|Automatic Update|September 2-4, 2024|Target|
+| Maintenance Release|Automatic Update|September 16-18, 2024|Target|
+| Feature Release 2024.9.0 |Feature Activation|September 26, 2024 |Target|
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
