@@ -35,8 +35,8 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tr>
   <tr>
     <td>13 June 2024</td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM Forms Service Pack 20 Forms add-in package for AEM 6.5.20.0</a></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.20.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM Forms Service Pack 20 Forms add-in package for AEM 6.5.21.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0</a></td>
     <td>
      <ul>
      <br><b>AEM Forms on OSGi patch installers</b></br>
