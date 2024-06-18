@@ -26,15 +26,16 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977)|Automatic Update|April 20-24, 2024|Updated|
 | Feature Release [2024.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-4-0) |Feature Activation|April 25, 2024 |Activated|
 | Maintenance Release [16145](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145)|Automatic Update|May 6-8, 2024|Updated|
-| Maintenance Release [16461](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|May 27 - June 3, 2024|Updated|
+| Maintenance Release [16461](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16461)|Automatic Update|May 27 - June 3, 2024|Updated|
 | Feature Release [2024.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|May 30, 2024 |Activated|
+| Maintenance Release [16544](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544)|Automatic Update|June 10-12, 2024|Updated|
 
 ### Upcoming Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release|Automatic Update|June 10-12, 2024|Target|
-| Maintenance Release|Automatic Update|June 24-26, 2024|Target|
+
+| Maintenance Release [16799](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|June 24-26, 2024|Target|
 | Feature Release 2024.6.0 |Feature Activation|June 27, 2024 |Target|
 | Maintenance Release|Automatic Update|July 8-10, 2024|Target|
 | Maintenance Release|Automatic Update|July 22-24, 2024|Target|
