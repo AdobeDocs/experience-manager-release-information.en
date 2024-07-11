@@ -20,7 +20,7 @@ The versions of [!DNL Adobe Experience Manager], CQ, and CRX listed on this page
 Before you download the package, determine who consumes the content. This decision determines how it is deployed:
 
 * Developers can install locally for quick reference.
-* For broader organizational documentation needs, it is recommended the package is deployed on an internally accessible, non-production AEM Author instance.
+* For broader organizational documentation needs, Adobe recommends that the package is deployed on an internally accessible, non-production AEM Author instance.
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ To Install a legacy documentation package, you must have [!DNL Experience Manage
 
 1. After the package is uploaded, you install it.
 
-1. In Package Manager UI, locate the package and select **[!UICONTROL Install]**.
+1. In the Package Manager UI, locate the package and select **[!UICONTROL Install]**.
 
 1. On the confirmation dialog box, select **[!UICONTROL Install]** again. The installation takes a few minutes.
 

@@ -33,9 +33,9 @@ Issues let you easily describe your idea for improvement to the docs and an AEM 
 
 ### Create a Pull Request {#create-a-pull-request}
 
-If you see a problem and know exactly how to fix it, consider creating a pull request. Pull requests allow you to make your own edits to the documentation, which are then reviewed for inclusion by an AEM Docs Team member. Simply click **Edit this page** link at the top of the right navigation panel on any page so you can make your suggested changes and create the pull request.
+If you see a problem and know exactly how to fix it, consider creating a pull request. Pull requests let you make your own edits to the documentation. An AEM Docs Team member reviews these edits for inclusion. Simply click **Edit this page** link at the top of the right navigation panel on any page so you can make your suggested changes and create the pull request.
 
-All pull requests must be accompanied by a signed [contributor license agreement or CLA](https://opensource.adobe.com/cla.html). This gives Adobe permission to redistribute your contributions as part of the project. You only submit an Adobe CLA one time, so if you have submitted one previously, you are good to go!
+A signed [contributor license agreement or CLA](https://opensource.adobe.com/cla.html) must accompany all pull requests. This necessity gives Adobe permission to redistribute your contributions as part of the project. You can only submit an Adobe CLA one time, so if you have submitted one previously, you are good to go!
 
 ### Quick Video Introduction
 

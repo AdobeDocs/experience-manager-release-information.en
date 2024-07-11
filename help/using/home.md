@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Release Updates and Roadmap
-description: Adobe Experience Manager Release Updates and Roadmap.
+description: Learn more about Adobe Experience Manager release updates and roadmap.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 ---
 # Adobe Experience Manager Release Updates and Roadmap

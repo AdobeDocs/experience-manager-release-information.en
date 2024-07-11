@@ -1,6 +1,6 @@
 ---
 title: Installing Cumulative Fix Packs on AEM Forms JEE
-description: Summary of steps to install and configure Cumulative Fix Pack (CFP) on AEM Forms JEE.
+description: Summary of steps to install and configure cumulative fix pack (CFP) on AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 ---
@@ -21,12 +21,12 @@ AEM [!DNL  Forms JEE] package (aemfd-jee-bundles-package-6.3CFP1; version 1.0.2)
 
 ### More instructions for CQ-4208044 {#additional-instructions-for-cq}
 
-If you are using AEM 6.3 [!DNL Forms JEE] server with Oracle database, configure the following settings post deployment of the CFP1, that is, after the Configuration Manager is run. This setting is required to sync users, groups, and group members when the enterprise domain sync is run. 
+If using the AEM 6.3 [!DNL Forms JEE] server with Oracle database, configure the following settings post deployment of the CFP1, that is, after the Configuration Manager is run. This setting is required to sync users, groups, and group members when the enterprise domain sync is run. 
 
 1. Log in to the **Admin** UI.
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**
 1. Export the config.xml file.
-1. Modify the entry for " `groupMemberDBQueryBatchSize`" under your domain configurations in *config.xml*. Sample entry:
+1. Modify the entry for "`groupMemberDBQueryBatchSize`" under your domain configurations in *config.xml*. Sample entry:
 
    &lt;entry key="groupMemberDBQueryBatchSize" value="999"/&gt;
 
@@ -34,7 +34,7 @@ If you are using AEM 6.3 [!DNL Forms JEE] server with Oracle database, configure
 
 ## Install CFP on AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
-To install cumulative fix pack on AEM 6.2 [!DNL Forms JEE], perform the following sequence of steps.
+To install the cumulative fix pack on AEM 6.2 [!DNL Forms JEE], perform the following sequence of steps.
 
 1. To obtain the AEM 6.2 [!DNL Forms JEE] installer for the CFP, contact [Adobe Support](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support).
 1. Run the CFP installer and configure AEM [!DNL Forms JEE] as described in [Install and configure AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
@@ -69,19 +69,19 @@ Use the following commands to set the timeout at component level:
 
 1. To set the timeout of all service operations to 600 sec:
 
-   set " `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`"
+   set "`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`"
 
 1. To set the `DesigntimeService` operation values timeout to 500 sec, use:
 
-   set " `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`"
+   set "`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`"
 
 1. To set the `DesigntimeService's previewLCA` operation values timeout to 700 sec, use:
 
-   set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`"
+   set "`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`"
 
 1. To set the `DSC operations`, such as load and install, to 600 sec, use:
 
-   set " `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`"
+   set "`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`"
 
 ## Install and configure AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -92,7 +92,7 @@ Use the following commands to set the timeout at component level:
 
    **Windows**
 
-   Navigate to the appropriate directory on the installation media or folder on your hard disk where you copied the installer:
+   Navigate to the directory on the installation media or the folder where you copied the installer.
 
     * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
     * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
@@ -107,8 +107,8 @@ Use the following commands to set the timeout at component level:
 
    Navigate to the appropriate directory:
 
-    * (Linux&reg;): Disk1/InstData/Linux/ NoVM 
-    * (Solaris&trade;): Disk1/InstData/Solaris/ NoVM 
+    * (Linux&reg;): Disk1/InstData/Linux/NoVM 
+    * (Solaris&trade;): Disk1/InstData/Solaris/NoVM 
     * (AIX&reg;): Disk1/InstData/AIX/VM
 
    From a command prompt, type:

@@ -1,6 +1,6 @@
 # Adobe Experience Manager Release Information
 
-This is the repository for Adobe Experience Manager Release Information.
+This repository is for Adobe Experience Manager Release Information.
 
 Your contributions to the documentation are welcome. See the following resources:
 
