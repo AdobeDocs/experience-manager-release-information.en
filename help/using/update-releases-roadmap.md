@@ -6,7 +6,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 
 # [!DNL Experience Manager] Releases Roadmap {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] continuously delivers new features, enhancements to existing features, and bug fixes for users using [!DNL Cloud Service], Managed Services, and on-premise offerings of the product. This article lists the upcoming releases for [!DNL Experience Manager].
+[!DNL Adobe Experience Manager] consistently provides new features and improvements to existing functionalities. It provides bug fixes for users across [!DNL Cloud Service], Managed Services, and on-premise versions. This article lists the upcoming releases for [!DNL Experience Manager].
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] 6.5 product updates are delivered through quarterly Service Packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|

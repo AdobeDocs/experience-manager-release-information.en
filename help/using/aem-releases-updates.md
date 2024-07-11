@@ -20,7 +20,7 @@ See [Current Release Notes for [!DNL Experience Manager] as a [!DNL Cloud Servic
 
 ## [!DNL Experience Manager] on-premise and Managed Services {#aem-on-prem-managed-services}
 
-For Managed Services and on-premise offerings, the article lists the latest Cumulative Fix Pack release, latest Service Pack release, and the main release and directs you to the documentation for those release versions. [!DNL Adobe] recommends that you review and apply the latest service pack followed by the latest cumulative fix pack for your [!DNL Experience Manager] version to keep your deployment stable, secure, and up-to-date.
+For Managed Services and on-premise offerings, the article lists the latest cumulative fix pack release, latest service pack release, and the main release and directs you to the documentation for those release versions. [!DNL Adobe] recommends that you review and apply the latest service pack followed by the latest cumulative fix pack for your [!DNL Experience Manager] version to keep your deployment stable, secure, and up-to-date.
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
