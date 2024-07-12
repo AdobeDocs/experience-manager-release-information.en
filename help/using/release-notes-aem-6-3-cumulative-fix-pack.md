@@ -1864,9 +1864,9 @@ To update changes in adobe- LiveCycle&reg; cq -author.ear/ cq .war manually, fol
 
   * After the above change, init-param should look like:
 
-  * `&lt;init-param&gt; 
- &lt;param-name&gt;sling.bootdelegation.ibm&lt;/param-name&gt; &lt;param-value&gt;com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value&gt; 
- &lt;/init-param&gt;`
+    &lt;init-param&gt; 
+    &lt;param-name&gt;sling.bootdelegation.ibm&lt;/param-name&gt; &lt;param-value&gt;com.ibm.xml.&#42;,com.ibm.crypto.pkcs11impl.provider,com.ibm.pkcs11,com.ibm.pkcs11.nat&lt;/param-value&gt; 
+    &lt;/init-param&gt;
 
 * Uninstall the previous enterprise archive (EAR) file from the WebSphere&reg; application server and install the updated EAR file following the steps at Section 10.2 of [https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
 * Save the file and restart the server. [https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
