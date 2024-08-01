@@ -50,7 +50,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>11 October 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Activity Map plug-in provided by Adobe Analytics</a> should now be used. </p> </td> 
+   <td><p>Due to security changes within the Adobe Analytics API, it is no longer possible to use the version of Activity Map that is included within AEM. See <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">Activity Map plug-in provided by Adobe Analytics</a> should now be used. </p> </td> 
   </tr>
   <tr>
    <td>10 October 2019</td> 
