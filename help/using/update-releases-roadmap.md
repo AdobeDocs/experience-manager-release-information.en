@@ -60,7 +60,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 >[!NOTE]
 >
-> The release dates for AEM 6.5 Service Packs will now be planned individually, rather than on the fixed quarterly cycles as before. Please stay informed about the upcoming Service Pack releases on this page.
+> The release dates for AEM 6.5 Service Packs are now planned individually, rather than on the fixed quarterly cycles as before. Be sure you stay informed about the upcoming service pack releases on this page.
 
 >[!NOTE]
 >
