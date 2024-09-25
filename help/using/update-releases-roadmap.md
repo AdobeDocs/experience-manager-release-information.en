@@ -54,7 +54,7 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 > No automatic AEMaaCS maintenance will be executed during the following timeframes, beginning and ending at midnight (00:00) CET:
 >
 >* Monday, November 25 2024 until Tuesday, December 3 2024.
->* End of the year exclusion period will be added soon.
+>* Monday, December 16 2024 until Friday, January 3 2025.
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
