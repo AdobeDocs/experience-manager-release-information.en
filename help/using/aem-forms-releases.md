@@ -34,6 +34,35 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   </tr>
   <tr>
+    <td>28 November 2024</td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 22 Forms add-in package for AEM 6.5.22.0</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.22.0</a></td>
+    <td>
+     <ul>
+     <br><b>AEM Forms on OSGi patch installers</b></br>
+      <li><a href="">AEM Forms add-in package for Linux&reg;</a></li>
+      <li><a href="">AEM Forms add-in package for Windows</a></li>
+      <li><a href="">AEM Forms add-in package for macOS X [2]</a></li>
+      <br><b>AEM Forms on JEE patch installers</b></br>
+      <li><a href="">JBoss&reg; Windows</a></li>
+      <li><a href="">JBoss&reg;Linux&reg;</a></li>
+      <li><a href="">WebLogic Windows</a></li>
+      <li><a href="">WebLogic Linux&reg;</a></li>
+      <li><a href="">WebSphere&reg; Windows</a></li>
+      <li><a href="">WebSphere&reg; Linux&reg;</a></li>
+      <br><b>SDK</b></br>
+      <li><a href="">AEM Forms Client SDK</a> </li>
+      <br><b>Forms Designer 64-bit patch installers</b></br>
+      <li><a href="">English Language Installer</a> </li>
+      <li><a href="">French Language Installer</a> </li>
+      <li><a href="">German Language Installer</a> </li>
+      <li><a href="">Japanese Language Installer</a> </li>
+      <li><a href="">Spanish Language Installer</a> </li>
+      </ul> 
+      </td>
+    <td><p>AEM Forms JEE patch installer: 6.5.0-0087 <br/><p>AEM Forms Packages add-in: 6.0.1244 </p></td>
+   </tr>
+  <tr>
     <td>13 June 2024</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 21 Forms add-in package for AEM 6.5.21.0</a></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0</a></td>
