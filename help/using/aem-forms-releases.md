@@ -2,7 +2,6 @@
 title: AEM Forms releases
 description: Learn about all the AEM Forms releases and corresponding packages.
 contentOwner: khsingh
-exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 ---
 # AEM [!DNL Forms] releases {#aem-forms-releases}
 
