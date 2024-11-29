@@ -34,7 +34,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   </tr>
   <tr>
-    <td>28 November 2024</td>
+    <td>29 November 2024</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 22 Forms add-in package for AEM 6.5.22.0</a></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.22.0</a></td>
     <td>
