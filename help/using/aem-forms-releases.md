@@ -61,7 +61,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp22_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Spanish Language Installer</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE patch installer: 6.5.0-00891 <br/><p>AEM Forms Packages add-in: 6.0.1328 <br/></p><p>AEM Forms Compatibility Package: 2.0.50 </td>
+    <td><p>AEM Forms JEE patch installer: 6.5.0-0093 <br/><p>AEM Forms Packages add-in: 6.0.1328 <br/></p><p>AEM Forms Compatibility Package: 2.0.50 </td>
    </tr>
   <tr>
     <td>13 June 2024</td>
