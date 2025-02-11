@@ -38,17 +38,12 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release|Automatic Update|February 24-26, 2025|Target|
 | Feature Release 2025.2.0 |Feature Activation|February 27, 2025 |Target|
 | Maintenance Release|Automatic Update|March 10-12, 2025|Target|
-| Maintenance Release|Automatic Update|March 24-26, 2025|Target|
 | Feature Release 2025.3.0 |Feature Activation|March 27, 2025 |Target|
-
->[!CAUTION]
->
->**Planned Maintenance Exclusion Period**
->
-> No automatic AEMaaCS maintenance will be executed during the following timeframes, beginning and ending at midnight (00:00) CET:
->
->* Monday, November 25 2024 until Tuesday, December 3 2024.
->* Monday, December 16 2024 until Friday, January 3 2025.
+| Maintenance Release|Automatic Update|March 31 - April 2, 2025|Target|
+| Maintenance Release|Automatic Update|April 14-16, 2025|Target|
+| Feature Release 2025.4.0 |Feature Activation|April 24, 2025 |Target|
+| Maintenance Release|Automatic Update|April 28-30, 2025|Target|
+| Maintenance Release|Automatic Update|May 12-14, 2025|Target|
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
