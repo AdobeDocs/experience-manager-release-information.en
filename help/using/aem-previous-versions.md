@@ -1,6 +1,7 @@
 ---
 title: Download older versions of AEM, CQ, and CRX documentation
 description: Download documentation packages for older versions of Adobe Experience Manager, CQ, and CRX.
+recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 ---
 # Older versions of [!DNL Adobe Experience Manager], CQ, and CRX documentation {#older-versions-aem-cq-crx}
