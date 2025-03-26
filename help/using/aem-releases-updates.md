@@ -24,6 +24,13 @@ For Managed Services and on-premise offerings, the article lists the latest cumu
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5 product updates are delivered through quarterly service packs. These include new features, enhancements, and bug fixes.
+[!DNL Experience Manager] 6.5 product updates are delivered through semi-annual service packs and include new features, enhancements, and bug fixes.
 
 See [[!DNL Experience Manager] 6.5 Latest Feature Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) for details of the current/latest version. From there, you can also navigate to details of prior versions (arranged chronologically).
+
+### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
+
+[!DNL Experience Manager] 6.5 LTS product updates are delivered through quarterly service packs and include new features, enhancements, and bug fixes.
+
+See [[!DNL Experience Manager] 6.5 LTS latest feature pack](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en) for details on the current/latest version.
+
