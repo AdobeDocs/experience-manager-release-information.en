@@ -39,7 +39,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
     <td>
      <ul>
-     <br><b>AEM Forms on OSGi full installers</b></br>
+     <br><b>AEM Forms 6.5 LTS on OSGi Full Installers</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">AEM Forms 6.5 LTS Add-on for Linux&reg;</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">AEM Forms 6.5 LTS Add-on for Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">AEM Forms 6.5 LTS Add-on for mac OSX</a></li>
