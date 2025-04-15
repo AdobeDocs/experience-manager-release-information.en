@@ -33,6 +33,21 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>Build Versions</strong></td>
    </tr>
   </tr>
+    <tr>
+    <td>7 March 2025</td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
+    <td>
+     <ul>
+     <br><b>AEM Forms on OSGi full installers</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">AEM Forms add-in package for Linux&reg;</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">AEM Forms add-in package for Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">AEM Forms add-in package for mac OSX</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms Compatibility Package</a></li>
+      </ul> 
+      </td>
+    <td><p>AEM Forms Packages add-in: 6.1.152 <br/></p><p>AEM Forms Compatibility Package: 2.1.2 </td>
+   </tr>
   <tr>
     <td>29 November 2024</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 22 Forms add-in package for AEM 6.5.22.0</a></td>
