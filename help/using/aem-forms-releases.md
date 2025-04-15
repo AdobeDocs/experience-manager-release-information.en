@@ -46,7 +46,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS Compatibility Package</a></li>
       </ul> 
       </td>
-    <td><p>AEM Forms Packages add-in: 6.1.152 <br/></p><p>AEM Forms Compatibility Package: 2.1.2 </td>
+    <td><p>AEM Forms 6.5 LTS Packages add-on: 6.1.152 <br/></p><p>AEM Forms 6.5 LTS Compatibility Package: 2.1.2 </td>
    </tr>
   <tr>
     <td>29 November 2024</td>
