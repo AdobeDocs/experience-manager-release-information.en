@@ -33,7 +33,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>Build Versions</strong></td>
    </tr>
   </tr>
-    <tr>
+   <tr>
     <td>7 March 2025</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
