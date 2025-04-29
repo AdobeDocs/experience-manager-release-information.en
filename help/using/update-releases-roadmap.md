@@ -21,9 +21,6 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [18751](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751)|Automatic Update|January 13-15, 2025|Activated|
-| Maintenance Release [19149](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149)|Automatic Update|January 27-29, 2025|Updated|
-| Feature Release [2025.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) |Feature Activation|January 30, 2025 |Activated|
 | Maintenance Release [19352](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352)|Automatic Update|February 10-12, 2025|Updated|
 | Maintenance Release [19687](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687)|Automatic Update|February 24-26, 2025|Updated|
 | Feature Release [2025.2.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) |Feature Activation|March 4, 2025 |Activated|
@@ -39,8 +36,8 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 |---|---|---|---|
 | Maintenance Release|Automatic Update|May 5-7, 2025|Target|
 | Maintenance Release|Automatic Update|May 19-21, 2025|Target|
-| Feature Release 2025.5.0 |Feature Activation|May 29, 2025 |Target|
 | Maintenance Release|Automatic Update|June 2-4, 2025|Target|
+| Feature Release 2025.5.0 |Feature Activation|June 5, 2025 |Target|
 | Maintenance Release|Automatic Update|June 16-18, 2025|Target|
 | Feature Release 2025.6.0 |Feature Activation|June 26, 2025 |Target|
 | Maintenance Release|Automatic Update|June 30 - July 2, 2025|Target|
