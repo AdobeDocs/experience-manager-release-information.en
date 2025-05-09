@@ -35,7 +35,6 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-
 | Maintenance Release|Automatic Update|May 19-21, 2025|Target|
 | Maintenance Release|Automatic Update|June 2-4, 2025|Target|
 | Feature Release 2025.5.0 |Feature Activation|June 5, 2025 |Target|
