@@ -48,6 +48,14 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and Managed Services are delivered through Service Packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
 
+### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
+
+[!DNL Experience Manager] 6.5 LTS product updates are delivered through Service Packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 LTS release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes).
+
+| Release | Version | Type | Schedule | Status |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | August 21, 2025 | Target |
+
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
 [!DNL Experience Manager] 6.5 product updates are delivered through Service Packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
