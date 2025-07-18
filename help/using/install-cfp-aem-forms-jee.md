@@ -53,7 +53,7 @@ AEM Forms JEE package (aemfd-jee-bundles-package-6.2CFP5; version 1.0.2) provide
 >
 >Post AEM 6.2 CFP4, you can use the following instructions to configure the timeout for DSC operations in case you face problems due to timeout during the upgrade process.
 
-DSC deployment takes a variable time due to which it might fail. To change the timeout of DSC operations such as Install, Load, Start, and Stop, you must set the `adobe.component.registry.timeout` using the JVM argument with the -D option.
+DSC deployment takes a variable time due to which it might fail. To change the timeout of DSC operations such as Install, Load, Start, and Stop, you must set the `adobe.component.registry.timeout` using the JVM argument with the `-D` option.
 
 Specify the value for the key in seconds. For example: `-Dadobe.component.registry.timeout=300`
 

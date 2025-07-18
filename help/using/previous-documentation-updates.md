@@ -45,7 +45,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>October 18, 2019<br /> </td> 
    <td>Headless Experience Management<br /> </td> 
-   <td>Features of the <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">Remote Content Renderer</a>, used for server-side rendering of single page applications, have been documented.<br /> </td> 
+   <td>Features of the <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Remote Content Renderer</a>, used for server-side rendering of single page applications, have been documented.<br /> </td> 
   </tr>
   <tr>
    <td>October 11, 2019</td> 
@@ -75,7 +75,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>September 25, 2019</td> 
    <td>Core Components</td> 
-   <td>Core Components release 2.7.0 introducing the Embed Component is now available along with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
+   <td>Core Components release 2.7.0 introducing the `Embed Component` is now available along with <a href="https://github.com/adobe/aem-core-wcm-components">developer details and project download available on GitHub</a>.</td> 
   </tr>
   <tr>
    <td>September 25, 2019</td> 
@@ -165,7 +165,7 @@ This page lists older important documentation changes and updates for [!DNL Adob
   <tr>
    <td>June 3, 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Added a package in the <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">create multifield component</a>.<br /> </p> <p>Created a <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">troubleshooting FAQ</a> based on customer feedback.</p> </td> 
+   <td><p>Added a package in the <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">created multifield component</a>.<br /> </p> <p>Created a <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">troubleshooting FAQ</a> based on customer feedback.</p> </td> 
   </tr>
   <tr>
    <td>May 31, 2019</td> 
