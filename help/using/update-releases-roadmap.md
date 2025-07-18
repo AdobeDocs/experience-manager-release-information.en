@@ -52,7 +52,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS product updates are delivered through Service Packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 LTS release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes).
+[!DNL Experience Manager] 6.5 LTS product updates are delivered through Service Packs. These Service Packs include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 LTS release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes).
 
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 product updates are delivered through Service Packs. These include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
+[!DNL Experience Manager] 6.5 product updates are delivered through Service Packs. These Service Packs include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|
