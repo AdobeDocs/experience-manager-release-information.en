@@ -21,8 +21,6 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [20476](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476)|Automatic Update|April 22-24, 2025|Updated|
-| Feature Release [2025.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-4-0) |Feature Activation|April 24, 2025 |Activated|
 | Maintenance Release [20626](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626)|Automatic Update|May 5-7, 2025|Updated|
 | Maintenance Release [21005](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005)|Automatic Update|June 2-4, 2025|Updated|
 | Feature Release [2025.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-5-0) |Feature Activation|June 5, 2025 |Activated|
@@ -30,14 +28,15 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Feature Release [2025.6.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|June 26, 2025 |Activated|
 | Maintenance Release [21331](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331)|Automatic Update|June 30 - July 2, 2025|Updated|
 | Maintenance Release [21570](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570)|Automatic Update|July 14-16, 2025|Updated|
+| Maintenance Release [21706](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706)|Automatic Update|July 28-30, 2025|Updated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [21706](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|July 28-30, 2025|Target|
+
 | Feature Release 2025.7.0 |Feature Activation|August 7, 2025 |Target|
-| Maintenance Release|Automatic Update|August 11-13, 2025|Target|
+| Maintenance Release [21772](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|August 11-13, 2025|Target|
 | Maintenance Release|Automatic Update|August 25-27, 2025|Target|
 | Feature Release 2025.8.0 |Feature Activation|August 28, 2025 |Target|
 | Maintenance Release|Automatic Update|September 8-10, 2025|Target|
