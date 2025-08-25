@@ -62,7 +62,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | August 21, 2025 | Target |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | August 28, 2025 | Target |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
