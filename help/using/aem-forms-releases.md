@@ -33,6 +33,22 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>Build Versions</strong></td>
    </tr>
   </tr>
+  <tr>
+    <td>September 5, 2025</td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms Service Pack 1</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms  Service Pack 1</a></td>
+    <td>
+     <ul>
+     <br><b>AEM Forms 6.5 LTS on OSGi Full Installers</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.176.zip">AEM Forms 6.5 LTS Add-on for Linux&reg;</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.176.zip">AEM Forms 6.5 LTS Add-on for Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.176.zip">AEM Forms 6.5 LTS Add-on for macOS X</a></li>
+      <!--<li><a href="">AEM Forms 6.5 LTS Compatibility Package</a></li>-->
+      </ul> 
+      </td>
+    <td><p>AEM Forms 6.5 LTS Packages add-on: 6.1.176 <br/></p><!--<p>AEM Forms 6.5 LTS Compatibility Package:-->  </td>
+   </tr>
+    <tr>
     <tr>
     <td>June 6, 2025</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5 Forms Service Pack 23 Forms add-in package for AEM 6.5.23.0</a></td>
