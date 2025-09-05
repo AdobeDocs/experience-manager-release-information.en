@@ -35,8 +35,8 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tr>
   <tr>
     <td>September 5, 2025</td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms Service Pack 1</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms  Service Pack 1</a></td>
     <td>
      <ul>
      <br><b>AEM Forms 6.5 LTS on OSGi Full Installers</b></br>
