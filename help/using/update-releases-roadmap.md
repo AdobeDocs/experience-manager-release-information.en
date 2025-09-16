@@ -27,13 +27,13 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [21772](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772)|Automatic Update|August 11-13, 2025|Updated|
 | Maintenance Release [21994](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994)|Automatic Update|August 25-27, 2025|Updated|
 | Feature Release [2025.8.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|August 28, 2025 |Activated|
+| Maintenance Release [22171](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171)|Automatic Update|September 8-10, 2025|Updated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [22171](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|September 8-10, 2025|Target|
-| Maintenance Release|Automatic Update|September 22-24, 2025|Target|
+| Maintenance Release [22450](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|September 22-24, 2025|Target|
 | Feature Release 2025.9.0 |Feature Activation|September 25, 2025 |Target|
 | Maintenance Release|Automatic Update|October 6-8, 2025|Target|
 | Maintenance Release|Automatic Update|October 20-22, 2025|Target|
