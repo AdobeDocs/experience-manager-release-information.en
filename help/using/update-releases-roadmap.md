@@ -30,12 +30,12 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [22171](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171)|Automatic Update|September 8-10, 2025|Updated|
 | Maintenance Release [22450](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450)|Automatic Update|September 22-24, 2025|Updated|
 | Feature Release [2025.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|September 25, 2025 |Activated|
+| Maintenance Release [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|October 6-8, 2025|Updated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|October 6-8, 2025|Target|
 | Maintenance Release|Automatic Update|October 20-22, 2025|Target|
 | Feature Release 2025.10.0 |Feature Activation|October 30, 2025 |Target|
 | Maintenance Release|Automatic Update|November 3-5, 2025|Target|
@@ -67,6 +67,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | August 28, 2025 | Activated |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 2 | 6.5.LTS.SP2 | Service Pack | February 19, 2026 | Target |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -74,7 +75,6 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [Service Pack 20](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-20)|6.5.20.0 | Service Pack | February 22, 2024 | Activated |
 | [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) |6.5.21.0 | Service Pack | June 6, 2024 | Activated |
 | [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) |6.5.22.0 | Service Pack | November 21, 2024 | Activated |
 | [!DNL Experience Manager] 6.5 [Service Pack 23](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) |6.5.23.0 | Service Pack | May 22, 2025 | Activated |
