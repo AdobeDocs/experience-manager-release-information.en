@@ -21,23 +21,20 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [21570](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570)|Automatic Update|July 14-16, 2025|Updated|
-| Maintenance Release [21706](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706)|Automatic Update|July 28-30, 2025|Updated|
-| Feature Release [2025.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) |Feature Activation|August 7, 2025 |Activated|
 | Maintenance Release [21772](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772)|Automatic Update|August 11-13, 2025|Updated|
 | Maintenance Release [21994](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994)|Automatic Update|August 25-27, 2025|Updated|
 | Feature Release [2025.8.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-8-0) |Feature Activation|August 28, 2025 |Activated|
 | Maintenance Release [22171](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171)|Automatic Update|September 8-10, 2025|Updated|
 | Maintenance Release [22450](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450)|Automatic Update|September 22-24, 2025|Updated|
-| Feature Release [2025.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|September 25, 2025 |Activated|
+| Feature Release [2025.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-9-0) |Feature Activation|September 25, 2025 |Activated|
 | Maintenance Release [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758)|Automatic Update|October 6-8, 2025|Updated|
 | Maintenance Release [22943](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943)|Automatic Update|October 20-22, 2025|Updated|
+| Feature Release [2025.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|October 30, 2025 |Activated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Feature Release 2025.10.0 |Feature Activation|October 30, 2025 |Target|
 | Maintenance Release [23122](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|November 3-5, 2025|Target|
 | Maintenance Release|Automatic Update|November 17-19, 2025|Target|
 | Feature Release 2025.11.0 |Feature Activation|November 20, 2025 |Target|
