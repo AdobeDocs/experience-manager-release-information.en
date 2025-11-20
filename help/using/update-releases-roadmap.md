@@ -26,14 +26,14 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Feature Release [2025.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-9-0) |Feature Activation|September 25, 2025 |Activated|
 | Maintenance Release [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758)|Automatic Update|October 6-8, 2025|Updated|
 | Maintenance Release [22943](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943)|Automatic Update|October 20-22, 2025|Updated|
-| Feature Release [2025.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|October 30, 2025 |Activated|
-| Maintenance Release [23385](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|November 17-19, 2025|Activated|
+| Feature Release [2025.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) |Feature Activation|October 30, 2025 |Activated|
+| Maintenance Release [23385](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|November 17-19, 2025|Updated|
+| Feature Release [2025.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|November 20, 2025 |Activated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Feature Release 2025.11.0 |Feature Activation|November 20, 2025 |Target|
 | Maintenance Release|Automatic Update|December 8-10, 2025|Target|
 | Feature Release 2025.12.0 |Feature Activation|December 11, 2025 |Target|
 | Maintenance Release|Automatic Update|January 12-14, 2026|Target|
