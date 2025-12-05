@@ -103,6 +103,50 @@ This article provides information for both:
       <td><strong>Build Versions</strong></td>
     </tr>
     <tr>
+      <td>December 04, 2025</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">
+          AEM 6.5 Forms Service Pack 24 Forms add-in package for AEM 6.5.24.0
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">
+          AEM 6.5.24.0
+        </a>
+      </td>
+      <td>
+        <b style="display:block; margin:10px 0;">AEM Forms on OSGi patch installers</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1448.zip">AEM Forms add-in package for Linux&reg;</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1448.zip">AEM Forms add-in package for Windows</a></li>
+          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">AEM Forms add-in package for macOS X [2]</a></li>
+        </ul>
+        <b style="display:block; margin:10px 0;">AEM Forms on JEE Patch installers</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-win-jboss.zip">JBoss&reg; Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss&reg;Linux&reg;</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic Linux&reg;</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/softwhttps://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere&reg; Windows</a></li>
+          <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0114/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-websphere.gz">WebSphere&reg; Linux&reg;</a>      </li>
+        </ul>
+        <b style="display:block; margin:10px 0;">SDK</b>
+        <ul>
+          <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1448/">AEM Forms Client SDK</a>       </li>
+        </ul>
+        <b style="display:block; margin:10px 0;">Forms Designer 64-bit patch installers</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_English_Cumulative_QF.msp">English Language Installer</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_French_Cumulative_QF.msp">French Language Installer</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_German_Cumulative_QF.msp">German Language Installer</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">Japanese Language Installer</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp24_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Spanish Language Installer</a> </li>
+        </ul>
+      </td>
+      <td>
+        <p>AEM Forms OSGI patch installer: 6.0.1448 <br/><p>AEM Forms JEE patch installer: 6-5-0-0114 <br/><p>AEM Forms Compatibility Package: 6.0.1448 <br/></p></td>
+    </tr>
+    <tr>
       <td>June 6, 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">
