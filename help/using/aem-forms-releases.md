@@ -120,6 +120,7 @@ This article provides information for both:
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1448.zip">AEM Forms add-in package for Linux&reg;</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1448.zip">AEM Forms add-in package for Windows</a></li>
           <li><a href=" https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1448.zip">AEM Forms add-in package for macOS X [2]</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.52.zip">AEM Forms Compatibility Package</a></li>
         </ul>
         <b style="display:block; margin:10px 0;">AEM Forms on JEE Patch installers</b>
         <ul>
