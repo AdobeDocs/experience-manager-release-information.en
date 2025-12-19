@@ -38,6 +38,29 @@ This article provides information for both:
       <td><strong>Available packages</strong></td>
       <td><strong>Build Versions</strong></td>
     </tr>
+     <tr>
+      <td>December 19, 2025</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms 
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms 
+        </a>
+      </td>
+      <td>
+        <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS on JEE Installers</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]-2-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Experience Manager 6.5.1.LTS Forms Installer for JBoss EAP and Linux</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]1218-2-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Experience Manager 6.5.1.LTS Forms Installer for JBoss EAP and Microsoft Windows
+</a></li>
+        </ul>
+      </td>
+      <td>
+      </td>
+     </tr>
     <tr>
       <td>September 5, 2025</td>
       <td>
