@@ -23,6 +23,3 @@ level: Beginner, Intermediate, Experienced
 + AEM Forms release updates {#forms-updates}
   + [AEM Forms releases](aem-forms-releases.md)
   + [Installing Cumulative Fix Packs on AEM Forms JEE](install-cfp-aem-forms-jee.md)
-+ Documentation updates {#doc-updates}
-  + [Recent documentation updates](documentation-updates.md)
-  + [Previous documentation updates](previous-documentation-updates.md)
