@@ -57,6 +57,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | August 28, 2025 | Activated |
 | [!DNL Experience Manager] 6.5 LTS Service Pack 2 | 6.5.LTS.SP2 | Service Pack | February 19, 2026 | Target |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 3 | 6.5.LTS.SP3 | Service Pack | August 20, 2026 | Target |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -68,6 +69,8 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 | [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) |6.5.22.0 | Service Pack | November 21, 2024 | Activated |
 | [!DNL Experience Manager] 6.5 [Service Pack 23](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) |6.5.23.0 | Service Pack | May 22, 2025 | Activated |
 | [!DNL Experience Manager] 6.5 [Service Pack 24](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) |6.5.24.0 | Service Pack | November 26, 2025 | Activated |
+| [!DNL Experience Manager] 6.5 Service Pack 25|6.5.25.0 | Service Pack | May 21, 2026 | Target |
+| [!DNL Experience Manager] 6.5 Service Pack 26|6.5.26.0 | Service Pack | November 19, 2026 | Target |
 
 >[!NOTE]
 >
