@@ -74,6 +74,11 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 >[!NOTE]
 >
+> - 6.5.26.0 will be the last supported Service Pack release for AEM 6.5.
+> - AEM 6.5 support for Adobe Managed Service customers end by 31st Aug 2026.
+
+>[!NOTE]
+>
 >[!DNL Experience Manager] Forms releases the add-on packages one week after the scheduled [!DNL Experience Manager] Service Pack release date.
 
 >[!MORELIKETHIS]
