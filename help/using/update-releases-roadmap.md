@@ -84,7 +84,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >
 >* 6.5.26.0 is the last supported service pack release for AEM 6.5.
 >  Each Service Pack is supported for up to 18 months from its release - until 2/28/2027.
->* AEM 6.5 support for **Adobe Managed Service** customers ends on August 31, 2026.
+>* AEM 6.5 support for **Adobe Managed Service** customers ends by August 31, 2026.
 >* AEM 6.5 core support for **On Prem** customers is currently planned to end by February 2027.
 
 >[!NOTE]
