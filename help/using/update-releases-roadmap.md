@@ -21,7 +21,7 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 >
 >For customers on outdated versions: to help ensure the security and stability of your AEM environments and related instances, your program(s) need to be updated to the latest [!DNL Experience Manager] as a [!DNL Cloud Service] release.
 >
->Contact your Adobe technical representative (CSME, TAM) to coordinate a plan to bring your environment to the current version. Older versions that are **more than six months** behind the current release require **step-by-step planned updates** with Adobe assistance.
+>Contact your Adobe technical representative (CSME, TAM) to coordinate a plan to bring your environment to the current version. Older versions that are **more than six months** behind the current release require step-by-step planned updates with Adobe assistance.
 >
 >Please be advised that if no action is taken by **April 30, 2026**, deployment pipelines may be deactivated and other AEMaaCS functionalities will be impacted. Continued operation on an unsupported version may negatively affect application stability and uptime, and further increase security exposure.
 
