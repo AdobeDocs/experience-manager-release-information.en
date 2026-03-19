@@ -17,6 +17,14 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 [!DNL Experience Manager] as a [!DNL Cloud Service] new features are delivered through a [monthly feature activation](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current), while enhancements and bug fixes are delivered twice a month through [maintenance releases](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest).
 The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] are planned as follows:
 
+>[!IMPORTANT]
+>
+>For customers on outdated versions: to help ensure the security and stability of your AEM environments and related instances, your program(s) need to be updated to the latest [!DNL Experience Manager] as a [!DNL Cloud Service] release.
+>
+>Contact your Adobe technical representative (CSME, TAM) to coordinate a plan to bring your environment to the current version. Older versions that are **more than six months** behind the current release require step-by-step planned updates with Adobe assistance.
+>
+>Please be advised that if no action is taken by **April 30, 2026**, deployment pipelines may be deactivated and other AEMaaCS functionalities will be impacted. Continued operation on an unsupported version may negatively affect application stability and uptime, and further increase security exposure.
+
 ### Past [!DNL Cloud Service] Releases {#past}
 
 | Release |Event |Schedule |Status |
@@ -42,7 +50,7 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [24893](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|March 23-25 2026|Target|
 | Feature Release 2026.3.0 |Feature Activation|March 26, 2026 |Target|
 | Maintenance Release|Automatic Update|April 6-8, 2026|Target|
-| Maintenance Release|Automatic Update|March 27-29 2026|Target|
+| Maintenance Release|Automatic Update|April 27-29 2026|Target|
 | Feature Release 2026.4.0 |Feature Activation|April 30, 2026 |Target|
 | Maintenance Release|Automatic Update|May 11-13, 2026|Target|
 | Maintenance Release|Automatic Update|May 25-27 2026|Target|
