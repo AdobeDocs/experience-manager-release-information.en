@@ -38,6 +38,32 @@ This article provides information for both:
       <td><strong>Available packages</strong></td>
       <td><strong>Build Versions</strong></td>
     </tr>
+    <tr>
+      <td>February 19, 2026</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2 
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2 
+        </a>
+      </td>
+      <td>
+        <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS SP2  on JEE Installers</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]0327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Experience Manager 6.5 LTS SP2 Forms Installer for JBoss EAP and Microsoft Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Experience Manager 6.5 LTS SP2 Forms Installer for JBoss EAP and Linux
+</a></li>
+<li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]ges/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">AEM Forms 6.5 LTS SP2 Add-on for Linux&reg;</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]kages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">AEM Forms 6.5 LTS SP2 Add-on for Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]kages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">AEM Forms 6.5 LTS SP2 Add-on for macOS X</a></li>
+        </ul>
+      </td>
+      <td>
+      </td>
+     </tr>
      <tr>
       <td>December 19, 2025</td>
       <td>
