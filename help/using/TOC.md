@@ -8,7 +8,7 @@ breadcrumb-title: AEM Release Information
 user-guide-description: See the latest AEM release updates.
 feature-set: Experience Manager
 feature: Release Information
-role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
+role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 ---
 
