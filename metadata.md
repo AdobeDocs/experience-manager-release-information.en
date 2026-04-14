@@ -1,8 +1,10 @@
 ---
 cloud: Experience Cloud
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.en
-index: yes
+index: true
 recommendations: noDisplay
 ---
 
