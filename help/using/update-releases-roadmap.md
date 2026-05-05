@@ -44,14 +44,14 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [24678](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678)|Automatic Update|March 9-11, 2026|Updated|
 | Feature Release [2026.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-3-0)|Feature Activation|March 26, 2026 |Activated|
 | Maintenance Release [25194](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194)|Automatic Update|April 6-8, 2026|Updated|
-| Maintenance Release [25520](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|April 27-29 2026|Updated|
+| Maintenance Release [25520](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520)|Automatic Update|April 27-29 2026|Updated|
 | Feature Release [2026.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|April 30, 2026 |Activated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release|Automatic Update|May 11-13, 2026|Target|
+| Maintenance Release [25821](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|May 11-13, 2026|Target|
 | Maintenance Release|Automatic Update|May 25-27 2026|Target|
 | Feature Release 2026.5.0 |Feature Activation|May 28, 2026 |Target|
 | Maintenance Release|Automatic Update|June 8-10, 2026|Target|
