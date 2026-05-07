@@ -15,4 +15,3 @@ This guide covers information about the [!DNL Adobe Experience Manager] release 
 
 * [[!DNL Experience Manager] Forms releases](aem-forms-releases.md)
 * [Installing Cumulative Fix Packs on [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
-
