@@ -45,12 +45,12 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [25194](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25194)|Automatic Update|April 6-8, 2026|Updated|
 | Maintenance Release [25520](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-4-0#25520)|Automatic Update|April 27-29 2026|Updated|
 | Feature Release [2026.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|April 30, 2026 |Activated|
+| Maintenance Release [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|May 11-13, 2026|Updated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [25892](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|May 11-13, 2026|Target|
 | Maintenance Release|Automatic Update|May 25-27 2026|Target|
 | Feature Release 2026.5.0 |Feature Activation|May 28, 2026 |Target|
 | Maintenance Release|Automatic Update|June 8-10, 2026|Target|
@@ -92,6 +92,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >  Each Service Pack is supported for up to 18 months from its release - until 2/28/2027.
 >* AEM 6.5 support for **Adobe Managed Service** customers ends by August 31, 2026.
 >* AEM 6.5 core support for **On Prem** customers is currently planned to end by February 2027.
+>* Support for AEM 6.5 is continued through AEM 6.5 LTS. Have a look at the [AEM 6.5 LTS Frequently Asked Questions](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
