@@ -5,6 +5,7 @@ solution: Experience Manager
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: "Experience Manager"
+usetq: true
 audience: end-user
 user-guide-title: Adobe Experience Manager Release Updates and Roadmap
 breadcrumb-title: AEM Release Information
