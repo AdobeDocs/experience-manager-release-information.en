@@ -19,11 +19,11 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 >[!IMPORTANT]
 >
->For customers on outdated versions: to help ensure the security and stability of your AEM environments and related instances, your program(s) need to be updated to the latest [!DNL Experience Manager] as a [!DNL Cloud Service] release.
+>For customers on outdated versions: to help ensure the security and stability of your AEM environments and related instances, your programs must be updated to the latest [!DNL Experience Manager] as a [!DNL Cloud Service] release.
 >
->Contact your Adobe technical representative (CSME, TAM) to coordinate a plan to bring your environment to the current version. Older versions that are **more than six months** behind the current release require step-by-step planned updates with Adobe assistance.
+>To coordinate a plan to bring your environment to the current version, contact your Adobe technical representative (CSME, TAM). Versions that are **more than six months** behind the current release require step-by-step planned updates with Adobe assistance.
 >
->Please be advised that if no action is taken by **April 30, 2026**, deployment pipelines may be deactivated and other AEMaaCS functionalities will be impacted. Continued operation on an unsupported version may negatively affect application stability and uptime, and further increase security exposure.
+>Be advised that if no action is taken by **April 30, 2026**, deployment pipelines can be deactivated and other AEMaaCS functionalities can be impacted. Continued operation on an unsupported version can negatively affect application stability and uptime, and further increase security exposure.
 
 ### Past [!DNL Cloud Service] Releases {#past}
 
@@ -60,7 +60,7 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 ## [!DNL Experience Manager] On-premise and Managed Services {#aem-on-prem-managed-services}
 
-Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and Managed Services are delivered through Service Packs and Cumulative Fix Packs (CFPs). It allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product updates releases is as follows.
+Product updates in terms of new features, enhancements, and bug fixes for supported [!DNL Experience Manager] on-premise and Managed Services are delivered through Service Packs and Cumulative Fix Packs (CFPs). This approach allows for quicker adoption of product updates through frequent releases. The schedule for upcoming product update releases is as follows.
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
@@ -79,11 +79,11 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 | Release | Version | Type | Schedule | Status |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) |6.5.21.0 | Service Pack | June 6, 2024 | Activated |
-| [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) |6.5.22.0 | Service Pack | November 21, 2024 | Activated |
+| [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) |6.5.22.0 | Service Pack | November 21, 2024 | Activated |
 | [!DNL Experience Manager] 6.5 [Service Pack 23](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) |6.5.23.0 | Service Pack | May 22, 2025 | Activated |
-| [!DNL Experience Manager] 6.5 [Service Pack 24](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) |6.5.24.0 | Service Pack | November 26, 2025 | Activated |
-| [!DNL Experience Manager] 6.5 Service Pack 25|6.5.25.0 | Service Pack | May 21, 2026 | Target |
-| [!DNL Experience Manager] 6.5 Service Pack 26|6.5.26.0 | Service Pack | November 19, 2026 | Target |
+| [!DNL Experience Manager] 6.5 [Service Pack 24](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6.5.24) |6.5.24.0 | Service Pack | November 26, 2025 | Activated |
+| [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) |6.5.25.0 | Service Pack | May 21, 2026 | Activated |
+| [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | Service Pack | November 19, 2026 | Target |
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >  Each Service Pack is supported for up to 18 months from its release - until 2/28/2027.
 >* AEM 6.5 support for **Adobe Managed Service** customers ends by August 31, 2026.
 >* AEM 6.5 core support for **On Prem** customers is currently planned to end by February 2027.
->* Support for AEM 6.5 is continued through AEM 6.5 LTS. Have a look at the [AEM 6.5 LTS Frequently Asked Questions](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
+>* Support for AEM 6.5 is continued through AEM 6.5 LTS. See the [AEM 6.5 LTS Frequently Asked Questions](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq).
 
 >[!NOTE]
 >
