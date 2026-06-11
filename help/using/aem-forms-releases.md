@@ -198,7 +198,7 @@ This article provides information for both:
         </ul>
       </td>
       <td>
-        <p>AEM Forms OSGI patch installer: 6.0.1482<br/><p>AEM Forms JEE patch installer: 6-5-0-127 <br/><!--<p>AEM Forms Compatibility Package: <br/>--></p></td>
+        <p>AEM Forms OSGI patch installer: 6.0.1482<br/><p>AEM Forms JEE patch installer: 6-5-0-127 <br/></p></td>
     </tr>
     <tr>
       <td>January 28, 2026</td>
