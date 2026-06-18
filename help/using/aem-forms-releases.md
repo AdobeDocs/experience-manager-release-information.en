@@ -33,10 +33,39 @@ This article provides information for both:
   <tbody>
     <tr>
       <td><strong>Date</strong></td>
-      <td><strong>AEM 6.5 LTS Forms Releases</strong></td>
+      <td><strong>AEM 6.5 LTS Forms Release</strong></td>
       <td><strong>Prerequisite</strong></td>
-      <td><strong>Available packages</strong></td>
-      <td><strong>Build Versions</strong></td>
+      <td><strong>Available Packages</strong></td>
+      <td><strong>Build Version</strong></td>
+    </tr>
+    <tr>
+      <td>June 18, 2026</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2
+        </a>
+      </td>
+      <td>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 2 WLP (IBM WebSphere Liberty Profile) Installers</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_win.zip">
+              WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 Installer for Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              WLP (IBM WebSphere Liberty Profile) AEM Forms 6.5 LTS Service Pack 2 Installer for Linux
+            </a>
+          </li>
+        </ul>
+      </td>
+      <td>6-6-0-20260429-1-12345</td>
     </tr>
     <tr>
       <td>February 19, 2026</td>
