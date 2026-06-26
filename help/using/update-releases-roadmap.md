@@ -2,6 +2,7 @@
 title: "[!DNL Adobe Experience Manager] releases roadmap"
 description: "[!DNL Adobe Experience Manager] releases roadmap"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
+nudge:it
 ---
 
 # [!DNL Experience Manager] Releases Roadmap {#aem-releases-roadmap}
