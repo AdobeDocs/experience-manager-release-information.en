@@ -87,11 +87,16 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 | [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes) |6.5.25.0 | Service Pack | May 21, 2026 | Activated |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | Service Pack | November 19, 2026 | Target |
 
-6.5.26.0 is the last supported service pack release for AEM 6.5. Each Service Pack is supported for up to 18 months from its release - until 2/28/2027.
-AEM 6.5 support continues through AEM 6.5 LTS. Current 6.5 support timelines:
-* **Adobe Managed Service** customers: ends by August 31, 2026.
-* **On Prem** customers: core support currently planned to end by February 2027.
-Both paths are covered by AEM 6.5 LTS. Please see the [AEM 6.5 LTS Frequently Asked Questions](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq) for details.
+>[!NOTE]
+>
+> 6.5.26.0 is the last supported service pack release for AEM 6.5.
+> Each Service Pack is supported for up to 18 months from its release - until 2/28/2027.
+
+>[!NOTE]
+> AEM 6.5 support continues through AEM 6.5 LTS. Current 6.5 support timelines:
+> * **Adobe Managed Service** customers: ends by August 31, 2026.
+> * **On Prem** customers: core support currently planned to end by February 2027.
+> Both paths are covered by AEM 6.5 LTS. Please see the [AEM 6.5 LTS Frequently Asked Questions](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq) for details.
 
 >[!NOTE]
 >
