@@ -36,15 +36,15 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Feature Release [2026.6.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0) |Feature Activation|June 25, 2026 |Activated|
 | Maintenance Release [26908](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908)|Automatic Update|July 6-8, 2026|Updated|
 | Maintenance Release [27083](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)| Automatic Update|July 20-22, 2026|Updated|
-| Feature Release [2026.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|July 30, 2026 |Activated|
+| Feature Release [2026.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0) |Feature Activation|July 30, 2026 |Activated|
 | Maintenance Release [27293](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293)|Automatic Update|August 3-5, 2026|Updated|
 | Maintenance Release [27673](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673)|Automatic Update|August 17-19, 2026|Updated|
+| Feature Release [2026.8.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|August 27, 2026 |Activated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Feature Release 2026.8.0 |Feature Activation|August 27, 2026 |Target|
 | Maintenance Release [27830](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|August 31- September 2, 2026|Target|
 | Maintenance Release|Automatic Update|September 14-16, 2026|Target|
 | Feature Release 2026.9.0 |Feature Activation|September 24, 2026 |Target|
