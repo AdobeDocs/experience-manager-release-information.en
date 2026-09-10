@@ -39,6 +39,41 @@ This article provides information for both:
       <td><strong>Build Version</strong></td>
     </tr>
     <tr>
+      <td>September 8, 2026</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 OSGi Add-on</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.238.zip">
+              AEM Forms 6.5 LTS Service Pack 3 Add-on for Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.238.zip">
+              AEM Forms 6.5 LTS Service Pack 3 Add-on for Linux&reg;
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.238.zip">
+              AEM Forms 6.5 LTS Service Pack 3 Add-on for macOS
+            </a>
+          </li>
+        </ul>
+        <p>The AEM Forms 6.5 LTS Service Pack 3 JEE installers will be available at a later date.</p>
+      </td>
+      <td>6.1.238</td>
+    </tr>
+    <tr>
       <td>June 18, 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">
