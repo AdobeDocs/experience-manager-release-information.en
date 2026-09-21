@@ -69,7 +69,29 @@ This article provides information for both:
             </a>
           </li>
         </ul>
-        <p>The AEM Forms 6.5 LTS Service Pack 3 JEE installers will be available at a later date.</p>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 on JEE Installers</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">
+              AEM Forms 6.5 LTS Service Pack 3 Installer for JBoss&reg; and Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">
+              AEM Forms 6.5 LTS Service Pack 3 Installer for JBoss&reg; and Linux&reg;
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_win.zip">
+              AEM Forms 6.5 LTS Service Pack 3 Installer for WebSphere&reg; and Microsoft Windows
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              AEM Forms 6.5 LTS Service Pack 3 Installer for WebSphere&reg; and Linux&reg;
+            </a>
+          </li>
+        </ul>
       </td>
       <td>6.1.238</td>
     </tr>
