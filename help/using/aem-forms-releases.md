@@ -92,6 +92,14 @@ This article provides information for both:
             </a>
           </li>
         </ul>
+        <strong style="display:block; margin:10px 0;">Workbench installer</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
+              AEM Forms Workbench installer
+            </a>
+          </li>
+        </ul>
       </td>
       <td>6.1.238</td>
     </tr>
