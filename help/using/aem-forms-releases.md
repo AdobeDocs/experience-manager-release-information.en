@@ -100,6 +100,14 @@ This article provides information for both:
             </a>
           </li>
         </ul>
+        <strong style="display:block; margin:10px 0;">SDK</strong>
+        <ul>
+          <li>
+            <a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.238/aemfd-client-sdk-6.1.238.jar">
+              AEM Forms Client SDK
+            </a>
+          </li>
+        </ul>
       </td>
       <td>6.1.238</td>
     </tr>
