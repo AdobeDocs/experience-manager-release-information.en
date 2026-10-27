@@ -60,12 +60,12 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Feature Release [2026.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|September 24, 2026 |Activated|
 | Maintenance Release [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386)|Automatic Update|September 28-30, 2026|Updated|
 | Maintenance Release [28871](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871)|Automatic Update|October 12-14, 2026|Updated|
+| Maintenance Release [29023](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|October 26-28, 2026|Updated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [29023](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|October 26-28, 2026|Target|
 | Feature Release 2026.10.0 |Feature Activation|October 29, 2026 |Target|
 | Maintenance Release|Automatic Update|November 9-11, 2026|Target|
 | Feature Release 2026.11.0 |Feature Activation|November 19, 2026 |Target|
@@ -126,7 +126,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >
 > 6.5.26.0 is the last supported service pack release for AEM 6.5.
 >
-> Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See [Products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html#cq).
+> Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See [Products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html#cq). If you have approved extended support for 6.5 until February 2028, critical security fixes will only be available on the last released Service Pack.
 
 >[!NOTE]
 >
