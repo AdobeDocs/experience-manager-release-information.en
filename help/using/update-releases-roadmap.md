@@ -126,7 +126,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >
 > 6.5.26.0 is the last supported service pack release for AEM 6.5.
 >
-> Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See [Products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html#cq). If you have approved extended support for 6.5 until February 2028, critical security fixes will only be available on the last released Service Pack.
+> Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See [Products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html#cq). If you have approved extended support for 6.5 until February 2028, critical security fixes will only be available on the last released Service Pack 26.
 
 >[!NOTE]
 >
