@@ -111,6 +111,34 @@ This article provides information for both:
             </a>
           </li>
         </ul>
+        <strong style="display:block; margin:10px 0;">Forms Designer 64-bit Full Installers (LTS 3)</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/english/aemforms_designer_6_6_0_wwe_win.zip">
+              English Language Installer
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/french/aemforms_designer_6_6_0_wwf_win.zip">
+              French Language Installer
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/german/aemforms_designer_6_6_0_d_win.zip">
+              German Language Installer
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/japanese/aemforms_designer_6_6_0_j_win.zip">
+              Japanese Language Installer
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_6_0_wws_win.zip">
+              Spanish Language Installer
+            </a>
+          </li>
+        </ul>
         <strong style="display:block; margin:10px 0;">Workbench installer</strong>
         <ul>
           <li>
