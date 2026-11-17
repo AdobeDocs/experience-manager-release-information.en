@@ -47,12 +47,6 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [26353](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353)|Automatic Update|June 8-10, 2026|Updated|
-| Maintenance Release [26773](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773)|Automatic Update|June 22-24, 2026|Updated|
-| Feature Release [2026.6.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-6-0) |Feature Activation|June 25, 2026 |Activated|
-| Maintenance Release [26908](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908)|Automatic Update|July 6-8, 2026|Updated|
-| Maintenance Release [27083](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)| Automatic Update|July 20-22, 2026|Updated|
-| Feature Release [2026.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0) |Feature Activation|July 30, 2026 |Activated|
 | Maintenance Release [27293](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293)|Automatic Update|August 3-5, 2026|Updated|
 | Maintenance Release [27673](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673)|Automatic Update|August 17-19, 2026|Updated|
 | Feature Release [2026.8.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) |Feature Activation|August 27, 2026 |Activated|
@@ -61,14 +55,14 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386)|Automatic Update|September 28-30, 2026|Updated|
 | Maintenance Release [28871](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871)|Automatic Update|October 12-14, 2026|Updated|
 | Maintenance Release [29023](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023)|Automatic Update|October 26-28, 2026|Updated|
-| Feature Release [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|October 29, 2026 |Activated|
+| Feature Release [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) |Feature Activation|October 29, 2026 |Activated|
+| Maintenance Release [29251](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|November 9-11, 2026|Updated|
+| Feature Release [2026.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|November 19, 2026 |Activated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release [29251](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|November 9-11, 2026|Target|
-| Feature Release 2026.11.0 |Feature Activation|November 19, 2026 |Target|
 | Maintenance Release|Automatic Update|December 7-9, 2026|Target|
 | Feature Release 2026.12.0 |Feature Activation|December 10, 2026 |Target|
 
