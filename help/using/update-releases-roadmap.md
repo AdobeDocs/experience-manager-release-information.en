@@ -56,15 +56,24 @@ The upcoming releases for [!DNL Experience Manager] as a [!DNL Cloud Service] ar
 | Maintenance Release [28871](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871)|Automatic Update|October 12-14, 2026|Updated|
 | Maintenance Release [29023](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023)|Automatic Update|October 26-28, 2026|Updated|
 | Feature Release [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) |Feature Activation|October 29, 2026 |Activated|
-| Maintenance Release [29251](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|November 9-11, 2026|Updated|
+| Maintenance Release [29251](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251)|Automatic Update|November 9-11, 2026|Updated|
 | Feature Release [2026.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) |Feature Activation|November 19, 2026 |Activated|
 
 ### Upcoming [!DNL Cloud Service] Releases {#upcoming}
 
 | Release |Event |Schedule |Status |
 |---|---|---|---|
-| Maintenance Release|Automatic Update|December 7-9, 2026|Target|
+| Maintenance Release [29643](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)|Automatic Update|December 7-9, 2026|Target|
 | Feature Release 2026.12.0 |Feature Activation|December 10, 2026 |Target|
+| Maintenance Release |Automatic Update|January 11-13, 2027|Target|
+| Maintenance Release |Automatic Update|January 25-27, 2027|Target|
+| Feature Release 2027.1.0 |Feature Activation|January 28, 2027 |Target|
+| Maintenance Release |Automatic Update|February 8-10, 2027|Target|
+| Maintenance Release |Automatic Update|February 22-24, 2027|Target|
+| Feature Release 2027.2.0 |Feature Activation|February 25, 2027 |Target|
+| Maintenance Release |Automatic Update|March 8-10, 2027|Target|
+| Maintenance Release |Automatic Update|March 22-24, 2027|Target|
+| Feature Release 2027.3.0 |Feature Activation|March 25, 2027 |Target|
 
 
 >[!CAUTION]
