@@ -99,6 +99,11 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 | [!DNL Experience Manager] 6.5 LTS Service Pack 6 | 6.5.LTS.SP6 | Service Pack | August 19, 2027 | Target |
 | [!DNL Experience Manager] 6.5 LTS Service Pack 7 | 6.5.LTS.SP7 | Service Pack | November 18, 2027 | Target |
 
+>[!NOTE]
+>
+> Security fixes will only be available on the last released Service Pack.
+
+
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
 [!DNL Experience Manager] 6.5 product updates are delivered through Service Packs. These Service Packs include new features, enhancements, and bug fixes. For details about the latest released service pack, see [[!DNL Experience Manager] 6.5 service pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes).
@@ -125,7 +130,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 >
 > 6.5.26.0 is the last supported service pack release for AEM 6.5.
 >
-> Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See [Products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html#cq). If you have approved extended support for 6.5 until February 2028, critical security fixes will only be available on the last released Service Pack 26.
+> Each Service Pack is supported for up to 18 months from its release, until February 28, 2027. See [Products and technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html#cq). If you have approved extended support for 6.5 until February 2028, security fixes will only be available on the last released Service Pack 26.
 
 >[!NOTE]
 >
