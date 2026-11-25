@@ -305,7 +305,7 @@ This article provides information for both:
       <td><strong>Build Versions</strong></td>
     </tr>
     <tr>
-      <td>November 23, 2026</td>
+      <td>November 25, 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">
           AEM 6.5 Forms Service Pack 26 Forms add-in package for AEM 6.5.26.0
