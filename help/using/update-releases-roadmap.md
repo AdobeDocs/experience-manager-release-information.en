@@ -101,7 +101,7 @@ Product updates in terms of new features, enhancements, and bug fixes for suppor
 
 >[!NOTE]
 >
-> Adobe recommends adopting each AEM 6.5 LTS Service Pack as it becomes available. Plan for quarterly updates to benefit from the latest features, enhancements, and bug fixes. Security fixes are available only for the latest released service pack.
+> Adobe recommends adopting each AEM 6.5 LTS Service Pack as it becomes available. Plan for quarterly updates to benefit from the latest features, enhancements, and bug fixes. Security fixes are available only for the latest released Service Pack.
 
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
